@@ -212,220 +212,6 @@ Flavius Vopiscus
 @
 
 
- 001r
-
-
-Mestr e Nicolas Coste a la rue de la heaumerie a limage
-sainc t claude /  mirouers
-
-
-Mestr e Jehan Cousin qui demeure au faulxbourgs de
-sainc t germain  scaict du
-
-
-mestre
-
-
-Mestr e Jehan Garnier a la rue des escrivains  pres
-sainc t Jaques de la
-
-
-boucherie courroyeur  essayer fleur de pastel 
-
-Le moissonneur  laissant quelques espis nest repris
-Sacra Eleusinæ deæ propalare nefas 
-
-
-Trompettes voy le livre des funerailles
-
-
-
-
-
-@
-
- @Vuolfangus lazius
-
-
-Petrus appianus Mathematicus 
-
-
-Ingolstadiensis Comment. urb. rom. 
- Hieronimo Ruscelli
-
-
-Hermolaus barbarus
-
-
-Angelius Bargæus de aucupio  et venatione 
-
-
-Nicolaus Damascenus
- Caresariensis @ de rebus persarum
-
-
-Isidorus
- Osorius@
-
-
-Eupolemus historicus gentilis
-
-
-qui de rebus davidis & salomonis
-
-
-scripsit
-- @Cathalogue des villes
-
-
-Calendrier des bergiers 
-
-
-Grammaire Italiene 
-
-
-Arithmetique de Savonne
-
-
-Instruction pour le faict des finan ces
-
-
-Questions Aenigmatiques
-
-
-Des præceptes dagriculture
-+ Le secret des finances a Lyon 
-
-
-Synesius
-
-
-Olaus Magnus
-+ Mestr e Bernard palissi inventeur 
-des rustiques figulines du roy
-
-
-et de la royne mere
-
- @Aquatilium animalium  historiæ hypolito
-
-
-salviano typhernate @ authore Romæ  1554
-
-@Les Annales de Normandie 
-@ Alexander Aphrodisæus
-
-
-Polydorus vergilius 
-
-
-Appianus
-
-
-Athenæus
-
-
-Pausanias
-
-
-Statius Thebaidos
-
-
-Servius in Aeneidem 
-
-
-Macrobius
-
-
-Aulus Gellius
-
-
-Alexander ab Alexandria 
-
-
-Festus
-
-
-Nonius
-
-
-Magius miscellanea 
-
-
-Pollux onomasticon 
-
-
-Higinus
-
-
-Berosus
-
-
-Suetonius
-
-
-Valerius maximus 
-
-
-Cornelius tacitus 
-
-
-Xenophon
-
-
-Seneca
-
-
-Dionisius Halicarnassensis
-
-
-Sabellicus
-
-
-Iulius Capitollinus  @cum permultis
-aliis  
-
-
-Budæus
-
-
-Spartianus
-
-
-Blondus
-
-
-Volaterranus
-
-
-Herodotus
-
-
-Paulus Manutius
-
-
-Strabo
-
-
-Iulius firmicus
-
-
-Quintus Curtius
-
-
-Dion
-
-
-Cornelius Nepos
-
-
-Flavius Vopiscus 
-
-
-@monsieur 
-@
-
-
  001v
 Pour lascher le ventre 
 Les pruneaux  de Sainc t Antonin  
@@ -901,7 +687,7 @@ comman ce
 a fremir mects dedans la gomme de sandaraque en pouldre 
 
 
-affin quil soict bien tost fondu Et remue tousjours jusque
+affin quil soict bien tost fondu Et remue tousjours jusques
 
 
 la sandaraque  soict bien fondue sur foeu de charbon 
@@ -991,8 +777,7 @@ vieulx tableau qui est jaunastre
 
 
 & le vernir de nouveau
-Prens du savon blanc  & de la cendree
-tamisee   & le tout
+Prens du savon blanc  & de la cendree tamisee   & le tout
 
 
 destremper dans de leau  Et avecq une esponge  prens
@@ -1249,7 +1034,7 @@ Prens doncq moictie cuivre de rosette  & moictie
 estain  doux
 
 
-cest a dire fin qui n'a poinct encores servi Et les mects dans
+cest a dire fin qui na poinct encores servi Et les mects dans
 
 
 un creuseau & premierement  fais bien fondre le
@@ -1259,8 +1044,7 @@ cuivre  Et
 estant bien fondu mects lestain  dedans Et mesle ensemble
 
 
-puys gecte dans le moule de pierre blanche  poinct
-oeilletee
+puys gecte dans le moule de pierre blanche  poinct oeilletee
 
 
 & oints le moule dhuile  & quil soict mediocrement
@@ -1274,10 +1058,10 @@ sorte
 Enchasses en un dans du plastre  affin quil tienne ferme
 
 
-& puys mects laultre par dessus auecq du sable  menu
+& puys mectes laultre par dessus auecq du sable  menu
 
 
-entre deulx & frottes lung contre lautre soict cave ou plat
+entre deulx & frottes lung contre laultre soict cave ou plat
 
 
 & ainsi tu en poliras deux ensemble Et si tu les veulx
@@ -1314,7 +1098,8 @@ infinite de gentilesses qui sembleroient magie Si quelquun
 se veult voir derriere il fault mectre le mirouer concave
 
 
-a terre sur son pied & quil soict en panchant Apres regarder
+a terre sur son pied & quil soict en panchant Apres
+regarder 
 
 
 dun pas Mays si tu regardes de pres il te represente a lendroit
@@ -1361,7 +1146,7 @@ table & une chandelle dessus il te representera deulx
 lumieres sur la table Pour voir ce qui se faict en une
 
 
-rue ferme une fenestre ou le plus que tu en fermeras sera
+rue Ferme une fenestre ou le plus que tu en fermeras sera
 
 
 le meilleur Fais a celle dembas un trou gros comme le
@@ -1600,8 +1385,8 @@ dun pot doeillets devant luy la rond & continue Cest pour
 faire canulles pour cappes qui se couppent comme dict est avecq
 
 
-la lime  Les boutonniers aussi de verre  saident dudit
-fourneau 
+la lime  Les boutonniers aussi de verre  saident
+dudict fourneau 
  
 soubs la porte y a
 
@@ -1612,7 +1397,7 @@ une grille qui soubstient
 le charbon  allume
 
 
-& la cendre  se vuies
+& la cendre  se vuide
 
 
 tournant du four  ce
@@ -1726,7 +1511,7 @@ La stampe de lamine de cuivre ou letton  se faict sur du
 bois
 
 
-de cormier   grave & taille qui veult espaigner Et apres
+de cormier   grave & taille qui veult espargner Et apres
 la
 
 
@@ -1736,7 +1521,7 @@ verdet azur desmail  & destrempes en vernis de
 tourmentine 
 
 
-Mais au lieu que tu vouldras azurer pose tu fer blanc  qui
+Mais au lieu que tu vouldras azurer pose du fer blanc  qui
 
 
 est plus propre pour le fonds dazur 
@@ -1943,95 +1728,6 @@ un mortier dedans charge de pouldre qui soict quasi comme
 
 
 couche & laultre droict puys bouche le trou et donne foeu
-
- 008v
-Polissement du ruby balay 
-Il ne se polist poinct avecq tripoly may  comme les
-aultres
-
-
-mays avecq de la pouldre de marchasite  & de
-lhuile 
-
-Or et argent moulu 
-Il fault calciner ton or fin  avecq le
-☿   puys fayre bien
-
-
-essuyer ton amalgame & fayre voler ledict mercure  Apres
-
-
-le broyer sur le mabre   avecq eau gommee  Quand a
-largent 
-
-
-il le fault prendre de depart & le faire manger a leau
-fort 
-
-
-puys le retirer avecq la lame de cuivre   & le laver
-bien fort
-
-
-apres le mouldre avecq eau gommee 
-
-Polissement de pierres 
-Il y a pour ce faire trois roues une destain  de
-plomb  & de
-cuivre fin   sur la cu roue de
-cuivre   ne se taille co  ou polist
-
-
-communement que le diamant  le rubi saphir  &
-jacinthe orientale 
-
-
-La roue destain   est pour les pierres  plus tendres
-comme
-
-
-lesmeraulde  lametiste  & aultres
-
-M  ixtion des pintiers 
-Pourceque parmy le fin estaing  ilz meslent bien souvent
-la
-moictie  de plomb  qui rend lestaing  sourd pour
-corriger
-
-
-cela ilz meslent de la limaille de letton  parmy pour le
-
-
-rendre sonnant 
-
-Amalgame parfaict
-Ayes un grais  le plus delie que tu pourras & le cave
-
-
-au milieu Mectes y la huictiesme partye  de
-☿  au  & la
-
-
-dedans frottes & uses y adjoustant de leau urc ☾   ou ☼  
-
-
-jusques a ce que la matiere viendra comme paste & encores plus
-
-
-dur Apres si vous voules faictes le manger avecq de bon
-eau fort  si cest ☾   ou
-♀   puys refondre layant retire
-
-
-comme vous scaves La ☾   aura taincture et
-laissera estan t
-
-
-fondue quelque grain de ☼   & le
-♀   sera fort beau & naura
-
-
-presque poinct de chappe
 
  008v
 Polissement du ruby balay 
@@ -2518,7 +2214,7 @@ Elle se faict fort subtille & sans estre subgecte a la
 rouille  & par sa pesanteur
 
 
-coulante prenante du plomb  i lb et le faire fondre et lescumer
+coulante prenant du plomb  i lb et le faire fondre et lescumer
 et
 
 
@@ -2576,7 +2272,7 @@ huile  qui adoulcira encores davantage la couche qui te
 
 
 peult aussi servir a faire assiete dor  Leau dalum 
-gardee
+garde
 
 
 aussi lhuile  de courir
@@ -3005,10 +2701,10 @@ mabre
 
 Apres avoyr præpare ton cave de soufre  ou aultre &
 lavoir
-huile  & entourne dun siecle destrempe non trop espes ton
+huile  & entourne dun cercle destrempe non trop espes ton
 plastre  en
 eau  & desmelle bien avecq le doigt   et sil
-faict des pustulles jectes y dessus
+faict des pustules jectes y dessus
 
 
 de la pouldre dudict plastre  &    broye avecq
@@ -3016,7 +2712,7 @@ le doigt   jusques a ce +
 +  quil ne fasse plus
 
 
-de pustulles puys
+de pustules puys
 
 
 gecte & saulpoudre
@@ -3104,7 +2800,7 @@ volonte de luy donner une couche darsenic  broye sur le
 mabre  
 
 
-Toutesfois je lexperimentay sans iceluy Et mis la chose susdicte
+Touteffois je lexperimentay sans iceluy Et mis la chose susdicte
 enilanroc  dans une petite cassete de fer   au feu
 de ma forge dorfevre  
 
@@ -3222,11 +2918,11 @@ mesle laque  ou verdet  & azur  ou semblables
 
 sen yra si lanimal  ne mue @non bona 
 
-Polissemen t de pierres 
+Polissemen t de pierres
 Les pierres tai  gravees ne se polissent pas sur la
 roue de
-cuivre   Ains avecq les broisses  et le tripoly 
-Mays les pierres
+cuivre   Ains avecq les broisses  et le
+tripoly   Mays les pierres
 
 
 taillees a faces et a plain se polissent sur la roue 
@@ -3261,7 +2957,7 @@ farine  comme le poil de cheval
 
 Pour cognoistre la bonne
 cendree dazur  a huile 
-Celle qui samoncelle en pettites mattes et est grumeleuse
+Celle qui samoncelle en pettites mottes et est grumeleuse
 
 
 est la meilleure car elle est plus subtille celle qui est aussy
@@ -3286,7 +2982,7 @@ est entiere elle sera unie & dune couleur
 
 
 Blanchiment de perles 
-Quand elles ont este apliquees enbroderie sur quelque
+Quand elles ont este apliquees en broderie sur quelque
 
 
 acoustrement elles sont grasses & se nettoyent en eau de
@@ -3393,8 +3089,8 @@ pour apuyer des tables entre lesquelles il gectent la terre
 faisant
 
 
-chasque couche dun pied ou environ lentremeslant
-commeS.S.S  de
+chasque couche dun pied ou environ lentremeslant comme
+S.S.S  de
 
 
 branches de bruyeres   ou semblables choses puys avecq
@@ -3431,7 +3127,7 @@ la bat comm e est dict & ainsy on continue
 
 jusques a ce que la muraille est parfaicte laquelle on couvre de
 bruyeres   & puys de terre  Aulcuns m 
-entremeslent en la dicte muraille
+entremeslent en ladicte muraille
 
 
 des rengs de brique  Ils font aussi la muraille en talluant
@@ -3466,8 +3162,8 @@ plaira puys tu faulfileras de la fisselle  ou plus grosse
 cordette 
 
 
-sur le poncis et le boutte en la teincture de guesde ou pastel 
-& il
+sur le poncis et le boutte en la teincture de guesde  ou
+pastel   & il
 
 
 se fera vert hormis ce qui est dessoubs la fisselle  qui
@@ -3486,132 +3182,7 @@ adjoustes sur la premiere couleurs  des pieces de meschant
 drap  taillees
 
 
-en forme de moresque En ceste sorte tu auras de la broderie abon
-
-
-marche
-
-Gecter en fonte
-On gecte les chandeliers et petits ouvraiges en chassis 
-avecq
-
-
-du sable Et apres avoir emprainct louvraige on le saulpouldre
-
-
-de farine  affin de mieulx faire courre lae metal cuivre  ou letton 
-
-
-Quand le sable a servi un moys  il en fault prendre de
-recent
-
-
-pourceque celuy qui a servy se recuisant au
-feu +  se desseiche &
-
-
-perd sa lyaison Touteffois il sert a mesler parmy le nouveau
-
-
-car il faict que la besoigne ne soufle pas tant On gecte en
-terre 
-
-
-les grands ouvraiges comme artiglerie cloches & choses
-semblables
-
-
-& le cuivre  gecte en terre  ne faict pas tant de chappe
-et est plus
-
-
-blanc que celuy qui est gecte en sable La terre  est ardille
-sabloneuse 
-
-
-meslee de fiente de cheval   & de bourre  Celle
-qui est  a servi a la fonte
-
-
-qui est noire cuicte & comme bruslee se gecte  mesle parmy
-les sables
-
-
-artificiels  & est fort bonne / pour adoulcir & faire
-courre le cuivre  on y
-
-
-gecte estan t fondu un peu de plomb  qui ne salie pas
-mays se trouve a la
-
-
-superficie du gect 
-+ 
-
-
-a la chaleur
-
-
-du metal  fondu
-
-Gecter or  et argent 
-Il fault que le sable soict de chose fort seiche & aride &
-bien
-
-
-recuite au chassis  car si elle estoit humide comme le sable
-des
-fondeurs   lor  ou largent  saulteroient &
-porteroient dommaige Il est
-
-
-besoing aussy que la terre  suppe le metal  Car lor 
-ou largent  gecte
-est  se rend fort spongieulx cest pourquoy il le fault
-rebattre aultrement
-
-
-il est frangible comm e on voict aulx manches de
-cuilleres
-
- 015r
-Drap damasse 
-Tu peulx damasser un drap  de deux differentes couleurs
-
-
-et imiter la broderie sans adjouster aulcune chose a iceluy en
-ceste
-
-
-sorte Comm e il est tainct  en jaulne ponce dessus tel
-patron quil te
-
-
-plaira puys tu faulfileras de la fisselle  ou plus grosse
-cordette 
-
-
-sur le poncis et le boutte en la teincture de guesde ou pastel 
-& il
-
-
-se fera vert hormis ce qui est dessoubs la fisselle  qui
-demourera
-
-
-jaulne a cause que la taincture verte  ny aura poinct penetre
-Ainsy
-
-
-pourras tu fayre des aultres couleurs Et au lieu de corde  ou
-fisselle 
-
-
-adjoustes sur la premiere couleurs  des pieces de meschant
-drap  taillees
-
-
-en forme de moresque En ceste sorte tu auras de la broderie abon
+en forme de moresque En ceste sorte tu auras de la broderie a bon
 
 
 marche
@@ -3839,7 +3410,9 @@ de gueule de four
 
 
 en quarre contient
-quintal  & demy
+
+
+un quintal  & demy
 
 
 & le pan  du fourneau 
@@ -4162,7 +3735,7 @@ deux balles & un quart de balle Le devant ne porte que
 lespesseur dune balle & la troisiesme partye dune balle Sa
 
 
-charge est semblable a celle des plus grands sçavoir de 20
+charge est semblable a celle des plus grands scavoir de xx
 lb 
 
 
@@ -4616,7 +4189,7 @@ aigre & le grain enleve
 du burin se trouve mesle de
 
 
-iaulne & de blanc
+jaulne & de blanc
  
  018r
  
@@ -4947,7 +4520,7 @@ toutes pieces despuys
 le canon
 
 
-iusques a la
+jusques a la
 
 
 piece de quattre
@@ -5050,8 +4623,7 @@ la deffense des maisons ou pour mener parmy linfanterie
 pour rompre un reng de cavallerie
 
 
-Le faulconneau poise 4 quintal s ha de long x
-pan xs
+Le faulconneau poise 4 quintal s ha de long x pan s
 
 
 sa balle poise une lb & un quart sa charge est demy lb
@@ -5078,7 +4650,7 @@ assigie sont canons colevrines bastardes moyennes & pieces
 de campaigne Le faulconeau se charge avecq lanterne
 
 
-Et ne luy donne lon communement  qune lanterne
+Et ne luy donne lon communement  quune lanterne
 
 
 Aussy y a il daultres faulconeaulx de trois quintal s
@@ -5370,14 +4942,14 @@ bien qua la droicte
 Escripts le mieulx que tu pourras avecq ancre bien gommee 
 
 
-sur aultant de petits cartels  que tu vouldras   
+sur aultant de petits cartels  que tu vouldras in 
 escripre de
 
 
 mots & estant chasque lett re bien chargee dancre 
 pose sur ton
 papier  & frotte avecq une dent  le dos du
-cartels 
+cartel 
 
 Clisteres
 
@@ -5427,7 +4999,7 @@ par
 ung cedar bien delie ce faict Il fault detremper la farine  avec
 du
 beurre  frais fondu et du laict  Et quil y ait aultant dung
-comme dautre
+comme daultre
 
 
 de maniere quil soit fort clair comme pate  pour  faire
@@ -5450,13 +5022,13 @@ Il fault apres avoir des moulle s Et fault quil soient de
 terre 
 
 
-de la facon dung fond de chappeau a la catholicque mais Il
+de la facon dung fons de chappeau a la catholicque mais Il
 
 
 fault quil soit ouvert par les deux boutz Et puis ayant faict
 
 
-bon feu vous nettoyeres la place du fouyé ou vous voules
+bon feu vous nettoyeres la place du fouye ou vous voules
 
 
 mettre voz millas  Et puis vous prandres voz moulle s et
@@ -5488,164 +5060,7 @@ par dessus puis ayant faict cela vous mettres ung peu de
 foin 
 
 
-sur ledict couvercle  Et force rachaulx Et y feres
-bon feu
-
-
-tout au tour de charbon  cela faict vous en descouvrires
-
-
-ung de la a peu de temps Et verres quant Il sera cuit Il
-
-
-faudra quil soit dur
-
-@Vitrier 
-
-
-Le verre de lorraine   est plus plain & plus uny que
-le verre
-
-
-de plat  et plus fort & de plus de duree Mays
-commun ement il est
-
-
-tasche par venes comm e lignes droictes comm e
-tanees ce qui advient
-
-
-pourceque les verriers  layant faict le mectent tout
-chault
-
-
-sur la paille   qui le tache de ceste sorte Cela
-neantmoings
-
-
-sefface avecq du vernis  & du sel  & aultres
-drogues  que les
-vitriers  y mettent Le verre de lorraine   se
-vent a lien  &
-
-
-a chasque lien  il y a trois tables  le lien 
-coste commun ement x sous  
-
-
-Le verre de plat  se vent en  faict en France 
-il est plus blanc & plus clair
-
-
-mays il nest pas aussy de telle duree que le lorrain  Il est
-aussy commun ement
-
-
-envelle & pour ceste occasion il est meilleur a faire petites
-losanges que
-
-
-grandes pieces quarrees en forme de chassis pourceque elles ne se
-peuvent bonnement 
-
-
-bien assoir uniment
-
-
-Le verre de plat 
-
-
-se vent a paniers 
-
-
-Le panier  contient
-
-
-24 plats  qui se
-
-
-vendent communement 
-
-
-x ou douze lb 
-
- 020r
-@Pour faire les millas 
-
-
-Il fault faire fraiser  du millet  
-pour  en tirer la croutte  Et puis le
-
-
-netoyeres bien apres Il fault le remouldre bien delie Et le passer
-par
-
-
-ung cedar bien delie ce faict Il fault detremper la farine  avec
-du
-beurre  frais fondu et du laict  Et quil y ait aultant dung
-comme dautre
-
-
-de maniere quil soit fort clair comme pate  pour  faire
-bignetz  Et y
-
-
-mettres des Jaulnes doeuf  selon la quantite de la farine 
-de sorte
-
-
-quil revienne deux Jaulnes deouf  pour  chaique
-millas  puis y mettres
-
-
-du safran  si vous voules pour  leur donner ung peu de
-couleur
-
-
-Il fault apres avoir des moulle s Et fault quil soient de
-terre 
-
-
-de la facon dung fond de chappeau a la catholicque mais Il
-
-
-fault quil soit ouvert par les deux boutz Et puis ayant faict
-
-
-bon feu vous nettoyeres la place du fouyé ou vous voules
-
-
-mettre voz millas  Et puis vous prandres voz moulle s et
-les gresseres
-
-
-bien fort affin que la pate  ne se tienne pas quant elle sera
-cuitte
-
-
-ayant faict cela vous mettres voz dictz moule s sur
-la place du fouye 
-
-
-bien nettoyee Et mettres ung peu de farine  au fondz Et les
-
-
-emplires de la pate  cy dessus dicte apres vous couvrires les
-
-
-dictz moule s dung couvercle  qui sera faict comme le
-moulle  mais
-
-
-Il fault quil soit plus grand Et quil ne soit pas ouvert
-
-
-par dessus puis ayant faict cela vous mettres ung peu de
-foin 
-
-
-sur ledict couvercle  Et force rachaulx Et y feres
+sur le dict couvercle  Et force rachaulx Et y feres
 bon feu
 
 
@@ -5757,7 +5172,7 @@ lescume du vin  qui
 ne provient que de vapeur & vent Et tu verras quincontinent
 
 
-lescume s'esperdra Si tu exprimes aussi du just  contre la
+lescume sesperdra Si tu exprimes aussi du just  contre la
 chandelle  elle ardra dadvantaige
 
 
@@ -8340,9 +7755,9 @@ mains
  Pour rallumer une chandelle estainte
 
 
-entre les mains sans soufler
-  Ayes un petit baston  douzier entre  bien
-sec et en couppe une petite piece
+entre les mains  sans soufler
+  Ayes un petit baston douzier entre  bien
+sec  et en couppe une petite piece
 
 
 comme un curedant & la m  mects lun bout entre
@@ -8378,7 +7793,8 @@ Pour fayre sembler que  a quelquun
 
 
 quil aura une piece dargent  au fron t 
-Ayes un gecton ou piece dargent  et la mouille et te la
+Ayes un gecton  ou piece dargent   et la
+mouille et te la
 
 
 fais tenir contre le front  Puys dis a
@@ -9137,132 +8553,6 @@ non pas si justement
 
 quavecq le fer  chault 
 
- 036v
-Fondeur 
-Les pots de cuisine se font bons pour ne donner poinct
-mauvays goust a la viande  avecq du mesme metal duquel
-
-
-les cloches se font  Il est vray que pour les rendre plus
-
-
-vendables les fondables eurs   y meslent
-plus de letton  pourcequilz
-
-
-sont plus jaulnes Mays le letton  de soymesme & a son
-seul
-
-
-attouchement  est puant  & de mauvaise
-odeur 
-Le letton  ne perd point ou bien peu sa calamine  au
-four a vent 
-
-
-quand il se fond au creuset  ne gueres au four a
-boys   Mays
-
-
-bien au four a souflets  pourceque les souflets 
-donnent
-
-
-feu de chasse
-
-Four a vent 
-Il fault quil soict plus estroit a la gueule quau fonds
-
-
-Et cest asses que le creuset  puisse entrer dedans & quil
-y
-
-
-aye espasse pour le retirer & prendre avecq les
-tenailles 
-
-Verre de vitriers  
-On dict quen lorraine  & en flandres  le
-verre de bien 
-
-
-se faict de cendre de feugiere   & de caillous 
-Et que
-
-
-premierement ilz souflent une longue vessie laquelle
-
-
-un aultre ouvrier  avecq de longues forces fend &
-couppe
-
-
-tout du long Puys ayant pose ceste longue vessie fendue
-
-
-sur une pierre   ou platene  large qui est dans le
-four 
-
-
-un peu moings chault que de la fonte Elle se laisse
-
-
-dilater Et encores oultre ce ilz laplanissent avecq une
-
-
-longue & grosse verge de fer   ronde Puys la
-retirent
-
-
-au four  a recuire Il sen faict de mesme en
-angleterre 
-
-
-de plus beau Aupres de rouan  en France  Le verre
-de
-
-
-plat  se faict avecq sel de salicor   &
-caillous  qui est plus
-
-
-blanc & plus tendre que cestuy de lorraine  Car le
-verre
-
-
-de plat  se peult fondre a la chandelle  & non pas cestuy
-de
-lorraine  Celuy de plat se soufle en longue vessie de
-
-
-laquelle un aultre coupe le bout puys le soufleur en
-
-
-tournant laplatise & en touchant sur un plan  qui est a
-terre
-A  puys la met a recuire Ainsy le milieu par ou elle se
-
-
-commance demeure tousjours
-
-
-Le verre  se peult
-
-
-refendre avecq la
-
-
-lumiere dune chandelle 
-
-
-en mouillant Mays
-
-
-non pas si justement
-
-
-quavecq le fer  chault 
-
  037r
 Fondeur 
 Le metal  se blanchist tant plus il est refondu pourceque
@@ -9527,11 +8817,11 @@ mort comm e sur le beril
 
 Safran  
 Il se contrefaict & saugmente avecq des foeilles de
-soucy   a demy seiches
+soucy  a demy seiches
 
 
-& retorses comm e un fil  & mises a seicher
-au plus chault soleil  & se mesle
+& retorses comm e un fil  & mises a seicher au
+plus chault soleil  & se mesle
 
 
 & ledict soucy  donne mesme quelque taincture
@@ -9672,28 +8962,29 @@ questre refroidi
 il se taille aysement 
 
  038v
-Couleur noire pour taindre
+Couleur noire pour taindre 
 Prens lessive de chaulx vive  & litharge 
 mesle & destrempe
 
 
-& tu feras taincture tanee & la reiterant tu feras noir
+& tu feras taincture tanee  & la reiterant tu feras
+noir
 
 
 Essaye daultres couleurs avecq la lessive de chaulx 
 
-Contre seignee du nes 
+Contre seignee du nes  
 
 
-et pour taincture
-Pile de ceste espece de vinete  ou lapathum acutum  qui
-est vene
+et pour taincture 
+Pile  de ceste espece de vinete   ou
+lapathum acutum    qui est vene
 
 
 de rouge quon appelle sang de dragon   Et laplique
 de  sur le
-front  de celuy qui seigne Ceste herbe a force taincture &
-faict
+front  de celuy qui seigne  Ceste herbe a force
+taincture  & faict
 
 
 beau violet
@@ -9746,19 +9037,21 @@ pastel
 ont double livre
 
 Escarlates
-Pource que laulne  couste a taindre sept ou huict lb
+Pource que laulne  couste a taindre  sept ou huict
+lb 
 
 
-Ils y employent des draps de sept ou huict frans laulne 
+Ils y employent des draps  de sept ou huict frans 
+laulne 
 
 
 Mays qui en veult avoir de belle se la  quil achepte du
-drap blanc  de quinze frans laulne  & la face
-taindre
+drap blanc  de quinze frans  laulne  & la face
+taindre 
 
 
-avecq pastel  pur descarlatte & un peu de cochenille  Le
-
+avecq pastel  pur descarlatte  & un peu de
+cochenille  Le 
 drap noir  se trouve fort fin pource que la taincture  est
 
 
@@ -10016,16 +9309,17 @@ un peu sur
 
 le quarreau puys pose ta foeille destain 
 
-Taincture
+Taincture 
 Aulcuns prenent la racine de lapathium acutum
-maius   qui semble
+maius    qui semble
 
 
-la rheubarbe des moynes   ou vinette  & de
-la racine qui est jaune
+la rheubarbe des moynes    ou
+vinette   & de la racine qui est jaune
 
 
-leste  ilz en taignent du filet & choses semblables
+leste  ilz en taignent  du filet  & choses
+semblables
 
 Eau fort 
 Aulcuns mectent sur pour  quatre lb  de
@@ -10871,36 +10165,36 @@ elle est fine &
 bonne
 
 Taincture de fleurs 
-Le pavot rouge  qui croist par les bleds  faict sur
-le cuir blanc 
+Le pavot rouge   qui croist par les bleds 
+faict sur le cuir blanc 
 
 
-un tresbeau colombin Le boufain  faict un fort beau bleu Une
-herbe 
+un tresbeau colombin Le boufain   faict un fort beau bleu
+Une herbe
 
 
-qui croist par les hayes  qui ha la tige semblable au
-lin  la foeuille
+qui croist par les hayes qui ha la tige semblable au lin  la
+foeuille
 
 
 longue & large comme menue buglose  qui ha la fleur violette
 tirant
 
 
-au bleu & faicte comm e la fleur du lys  faict un
-tresbeau turquin
+au bleu & faicte comm e la fleur du lys   faict
+un tresbeau turquin
 
 
-surpassant lazur Une aultre fleur colombine  de la forme
+surpassant lazur Une aultre fleur colombine   de la forme
 &
 
 
-grandeur de la fleur de buglose  qui ha la foeille retirant a
-celle
+grandeur de la fleur de buglose   qui ha la foeille
+retirant a celle
 
 
-de pensee  faict aussy un tresbeau turquin elle croist dans les
-bleds 
+de pensee   faict aussy un tresbeau turquin elle croist
+dans les bleds 
 
 
 aulx terres legeres
@@ -11563,7 +10857,8 @@ Guerir les chiens  de la
 
 
 galle
-Donne leur une pilulle de præcipite scavoir iii ou 4 ou jusques
+Donne leur une pilulle de præcipite  scavoir iii ou 4 ou
+jusques
 
 
 a cinq grains  mesle parmy leur viande  Et leur en
@@ -12937,15 +12232,14 @@ subtil comm e pouldre
 destrempe le apres avecq eau gommee  & mouleras fort
 delicat
 
-Amendiers abricots
+Amendiers abricots 
 Ils viennent bien droicts si on les hante Et touts arbres
 
 
-de noyau comm e pavis mericotons alberges vie 
-abricots & viennent
+de noyau comm e pavis mericotons alberges vie abricots  & viennent
 
 
-mieulx hantes sur lamendier en escusson
+mieulx hantes sur lamendier  en escusson
 
 Gect de plomb  et cuivre 
 Le plomb  & estaim  vient bien en croye
@@ -12980,32 +12274,35 @@ Note que tout metal aigre vient mieulx que le gras  Aussy
 le sable maigre le recoit mieulx & le suppe que le dense 
 
  053v
-Vers de soye  
+Vers de soye 
 Ils se produisent de grene cest a dire doeufs laquelle se vent
 
 
-a lonce qui communement  se vent en languedoc  iii lb
-v s Celle despaigne 
+a lonce  qui communement  se vent en
+languedoc  iii lb  v s  Celle
+despaigne 
 
 
-que les marchans y aportent est estimee la meilleure pourceque les
+que les marchans  y aportent est estimee la meilleure
+pourceque les
 vers  qui en proviennent ne sont pas si subgects a
 malladies
 
 
-& font plus de soye  En espaigne  dune once de
-soye   grene
+& font plus de soye  En espaigne  dune once 
+de soye   grene
 
 
-ilz sen produict des vers qui raportent ord 
-commun ement   xv lb de soye 
+ilz sen produict des vers  qui raportent ord 
+commun ement   xv lb  de
+soye 
 
 
-Mays lonce  dune once de grene produicte en France  il
-nen revient que
+Mays lonce   dune once  de grene produicte en
+France  il nen revient que
 
 
-x ou xii Troys onces de grene sont pour produire telle
+x ou xii Troys onces  de grene sont pour produire telle
 quan tite
 
 
@@ -13013,46 +12310,48 @@ de vers  que tu en pourras fournir une chambre acommodee de
 trois
 
 
-ou 4 estages de tables larges Volontiers ilz comancent a
+ou 4 estages de tables larges  Volontiers ilz comancent a
 
 
-sespelir vers la sepmaine saincte Et pour ce faire on les mect
+sespelir vers la sepmaine saincte  Et pour ce faire on les
+mect
 
 
-dans une boite de sapin  comm e celles ou lon mect la
-dragee  Entre
+dans une boite de sapin   comm e celles ou lon
+mect la dragee Entre
 
 
 des coissins de plume  chauldement  Et au
 commancement  ilz sespellissent
 
 
-comm e f  petites formis  noires & aussy
+comm e f  petites formis noires  & aussy
 tost quil y en ha deulx ou
 
 
-trois espelis il leur fault donner des foeilles de moeurier blanc
+trois espelis il leur fault donner des foeilles de moeurier
+blanc  
 
 
-Et puys les ranger sur les tables Et trois fois le jour il
+Et puys les ranger sur les tables  Et trois fois le
+jour   il
 
 
-leur fault changer des foeilles fresches Et sil faict sur jour
+leur fault changer des foeilles fresches  Et sil faict sur
+jour 
 
 
-quelque tonnerre ou temps pluvieulx couvert & frais  il
-fault tenir dans la chambre trois ou 4
+quelque tonnerre ou temps pluvieulx couvert &
+frais   il fault tenir dans la chambre  trois ou
+4
+rechauls &  avecq charbon allume  & y mectre
+de lencens  jusques
 
 
-rechauls &  avecq charbon  allume & y mectre de
-lencens  jusques
-
-
-a ce que toute la chambre soict remplye de fumee Et quand le
-
-
-temps se porte chault & serain la soye  abonde plus & en
-est meilleure
+a ce que toute la chambre  soict remplye de fumee  Et
+quand le
+temps se porte chault & serain  la soye  abonde plus
+& en est meilleure
 
 
 Aulcuns vers  la font plus blanche aultres plus jaunastre
@@ -13063,15 +12362,15 @@ encores quelle soict blanche elle se jaulnist quand on la tire
 avecq
 
 
-leau  chaulde Despuys  Les vers  despuys leur
-naissance jusques
+leau chaulde  Despuys  Les vers despuys leur naissance jusques
 
 
 au leur  temps quilz font leur coquons & leur
-prison dorment &
+prison  dorment &
 
 
-sassopissent 4 fois & a chasque fois demeurent 4 ou cinq jours
+sassopissent 4 fois & a chasque fois demeurent 4 ou cinq
+jours  
 
 
 assopis sans manger comm e silz mouroient pour renaistre une
@@ -13082,8 +12381,8 @@ fois Car a chascune ilz changent de peau & commancent a
 despoiller
 
 
-la teste puys consequement  a divers jours les 
-reste du corps, & de
+la teste puys consequement  a divers jours 
+les  reste du corps, & de
 
 
 blanc viennent grisastres & de grisastres blans En fin 
@@ -13099,24 +12398,24 @@ fault ayder & se garder de la crever Car lors rendant une
 liqueur jaulne elle ne vauldroit plus rien Et mesmes ne proffictent
 
 
-elles guere despuys quon la maniee de la main Vers la
+elles guere despuys quon la maniee de la main  Vers la
 
 
-pentecoste elles comancent a vouloir monster a des branches
+pentecoste  elles comancent a vouloir monster a des branches
 
 
-seiches de brande ou bruyere quon leur prepare en  &
-attache
+seiches de brande  ou bruyere  quon leur prepare
+en  & attache
 
 
 Voy Hieronymus
 
 Vida Albensis episcop us 
-de b  cremonensis
+de b cremonensis  
 
 scripsit carmine
 
-de bombicum natura
+de bombicum  natura
 
  
 
@@ -13128,22 +12427,23 @@ remue
 
  
  054r
- sur quelques tables haultes & a cella cognoist on quand elles
-veulent
+ sur quelques tables haultes  & a cella cognoist on quand
+elles veulent
 
 
 monter quand sur la foeille elles hau  salongent &
 haulsent la teste &
 
 
-une partie du corps lors on les porte aulx branches de brandes ou
+une partie du corps lors on les porte aulx branches de brandes 
+ou
 
 
 elles sarrestent & commancent a filer leur prison quon appelle
 coquon
 
 
-de la grandeur dun oeuf de pigeon
+de la grandeur dun oeuf de pigeon  
 commun ement   combien quil sen
 trouve
 
@@ -13156,37 +12456,39 @@ est
 
 
 bourru & lanugineulx a lentour &  de laquelle bourre
-est la filoselle
+est la filoselle 
 
 
-ou floret & du coquon qui est une peau blanche solide continue
-&
+ou floret  & du coquon qui est une peau blanche solide
+continue &
 
 
 ferme se faict la soye  Le coquon est si dure que
 malaisement  on le
 
 
-coupe avelq longle Et toutesfois pour sortir de sa prison
-elle 
+coupe avelq longle   Et toutesfois pour sortir de sa
+prison elle 
 
 
 le ver  la ronge par un bout & apres avoyr 
 demeure dedans vivant de son
 
 
-propre suc il  trois sepmaines Il sort amoindry de la
-moictie
+propre suc il  trois sepmaines   Il sort
+amoindry de la moictie 
 
 
-Car quand il commance a filer il est long comme le doigt annulaire
+Car quand il commance a filer il est long comme le doigt
+annulaire  
 
 
-& ha huict pieds & au sortir il est plus court de la moictie
-& nha
+& ha huict pieds & au sortir il est plus court de la
+moictie  & nha
 
 
-que 4 pieds En revanche il est devenu papillon & ha des aisles
+que 4 pieds En revanche il est devenu papillon  & ha des
+aisles
 
 
 sans voler toutesfois Et y a ha masle & femelle Aussy tost
@@ -13196,7 +12498,8 @@ quilz
 sont sortis du coquon le masle charge la femelle & on les mect
 
 
-sur un linge blanc la ou ilz font leurs oeufs lesquels la femelle
+sur un linge blanc  la ou ilz font leurs oeufs lesquels la
+femelle
 
 
 ne feroict pas bons & proffictables si le masle ne luy estoict
@@ -13210,15 +12513,16 @@ gecter car
 il ne seroit pas bon de le donner a une aultre Ils ont acheve de
 
 
-filer & faire leurs oeufs en trois sepmaines & vers la
-sain t Jehan
+filer & faire leurs oeufs en trois sepmaines  
+& vers la sain t Jehan  
 
 
-Et lors on garde leurs oeufs & grene jusques a la sepmaine
+Et lors on garde leurs oeufs & grene jusques a la
+sepmaine
 
 
-saincte comm e on  dict est Aulcuns filent parmy la
-foeille & y font
+saincte   comm e on  dict est Aulcuns
+filent parmy la foeille & y font
 
 
 leur coquon sans monter hault
@@ -13253,7 +12557,7 @@ mis au fonds de la tine un rechault ou deulx Couvre la tine
 
 avecq un linceulx en double
 
-Pour fayre suivre un cheval
+Pour fayre suivre un cheval 
 + Il luy fault donner du pain sucre  & il
 cognoistra celuy
 
@@ -13269,15 +12573,15 @@ fais luy prendre un bon train des le commancement  du chemin
 
 continue
 
-Chiens
+Chiens 
 Pour les garder de mordre il est bon davoir des pelottes
 
 
-de gemme  acoustree comm e celle des
-cordonniers  & leur gecter comm e ilz
+de gemme  acoustree comm e celle des cordonniers 
+& leur gecter comm e ilz
 
 
-te jappent & ilz mordront tellement les pelottes quilz
+te jappent & ilz mordront tellement les pelottes  quilz
 sempasteront
 
 
@@ -13390,8 +12694,8 @@ bouteille tu mec  que sur toutes choses pour ta
 seurte tu b tiendras
 
 
-bien bouchee tu mectras au soleil bien fort  & au
-serain  lespace de quinze iours   
+bien bouchee tu mectras au soleil bien fort & au serain 
+lespace de quinze iours   
  
  p055v
  espace  de quinze iours   Apres tu la
@@ -16635,24 +15939,25 @@ a la pluye
 
 Garder de croistre les tetins 
 d @ou diminuer les trop grands 
-Ayes de grands pains  nouvellement tires du four 
+Ayes de grands pains nouvellement tires du four  
 & les
 
 
-partes par moictie & le plus chauld que fere se pourra
+partes par moictie  & le plus chauld que fere se pourra
 
 
-apliques les dessus & ilz  & faictes cela 3 fois le
-jour 
+apliques les dessus & ilz  & faictes cela 3 fois
+le jour  
 
 
-& continues 4 ou 5 jours  apres faictes emplastre de
+& continues 4 ou 5 jours   apres faictes emplastre
+de
 tourmentine de venise   ou pour mieulx de tourmentine
 commune 
 
 
-mesles y du sumach   des prunelles   de
-buissons de la graine
+mesles y du sumach   des prunelles  de
+buissons  de la graine
 
 
 de coings  balaustes  foeilles
@@ -16662,20 +15967,20 @@ dolivier   & semblables
 decuits & mesles avecq la tourmentine  Mays joublyois
 
 
-quil fault apres avoir aplique le pain  chault qui ramolist
+quil fault apres avoir aplique le pain chault  qui ramolist
 
 
-& faict suer mectre dessus des linges  trempes en eau de
-ruche de
+& faict suer mectre dessus des linges trempes en eau de ruche
+de
 
 
-miel  cest a scavoir de miel  & cire  extraicts tout
-ensemble du
+miel   cest a scavoir de miel  & cire  extraicts
+tout ensemble du
 bornat 
 
 Pour attirer les pigeons 
 Fais fricasser en la poile  avecq de lhuile  du
-chenevi 
+chenevi  
 
 
 & en donne aulx pigeons 
@@ -16944,16 +16249,14 @@ lanterne bien claire  Cela mesmes peulx tu apliquer en aultres
 
 ouvraiges
 
-Planter abres 
+Planter abres
 Il les fault planter en lieu sec  temps
 sec  & assembler force
+terre  au pied tout aultour comm e une motte affin que
+les pluyes 
 
 
-terre au pied tout aultour comm e une motte affin que les
-pluyes 
-
-
-ne remplissent les fosses & ne nyent les abres 
+ne remplissent les fosses & ne nyent les abres
 
 Gect
 Jay essaye 4 sortes de sables pour le plomb  &
@@ -17675,7 +16978,7 @@ couleur jaulne puys
 
 on le vernist
 
-Vin brusle  et sucre 
+Vin  brusle et sucre
 Les anglois  se sentant morfondus font brusler du vin 
 en ceste
 
@@ -17688,8 +16991,8 @@ a ce quil bouille Et comme il leve un bouillon ilz le tirent
 du  lallument
 
 
-avecq du papier enflamme   pour scavoir sil est asses
-chault
+avecq du papier enflamme  pour scavoir sil est asses
+chault 
 
 
 Apres pour lenflammer du tout Ils le versent dun vaisseau 
@@ -17766,7 +17069,8 @@ Pour fortifier un cheval  harasse il luy font boire du
 vin 
 
 
-susdict par une corne Et il se trouve dispose pour faire encore
+susdict par une corne  Et il se trouve dispose pour faire
+encore
 
 
 plus grande courvee
@@ -17833,12 +17137,12 @@ bon
 
 sinon il est gras
 
-Graisse de mouton  
+Graisse de mouton 
 En certaine contree dangleterre  les moutons  qui
 y
 
 
-paissent ont la graisse  fort jaulne Et sont neantmoings
+paissent ont la graisse fort jaulne Et sont neantmoings
 
 
 aussy bons que les aultres
@@ -17848,17 +17152,16 @@ En hibernie  il ne sen trouve poinct & si on les
 touche
 
 
-dun bois  quil y a elles meurent Cest pourquoy aulcuns
-
-
-riches dangleterre  font leurs planchers de ce boys 
-&
+dun bois   quil y a elles meurent Cest pourquoy
+aulcuns
+riches  dangleterre  font leurs planchers de ce
+boys  &
 
 
 par ce moyen ils nont jamays darantelles & toiles
 
 
-diraignee
+diraignee 
 
 Sable
 La moulee  est fort bonne pour gecter en cuivre  mays il
@@ -18951,7 +18254,7 @@ toutes maladies
 may  puys emplis ce godet 
 
 
-de pouldre  diceluy Et mects un charbon  allume 
+de pouldre  diceluy Et mects un charbon allume  
 dessus Et
 
 
@@ -19352,9 +18655,7 @@ couche de colle bien clere  & le laisses seicher
 @ Contrepoison contre la fumee des metaulx 
 Prens le matin  une rostie au boeurre  &
 lantimoine  ne
-
-
-aultre vapeur ne te pourra nuire Ou mects une demy vessie
+aultre vapeur  ne te pourra nuire Ou mects une demy vessie
 
 
 de porc   devant le visage 
@@ -22272,30 +21573,32 @@ lombardie  font des caisses quarrees de bois  un peu
 plus
 
 
-larges au fonds quau hault Et y apliquent des boucles
+larges au fonds quau hault Et y apliquent des boucles 
 
 
-aulx costes pour les transporter avecq des leniers ainsy
+aulx costes pour les transporter avecq des leniers  ainsy
 
 
 quon porte les gouteus A cause que les roues avecq lesquelles
 
 
-on les pourroit faire rouler gastent les allees des jardins
+on les pourroit faire rouler gastent les allees des
+jardins 
 
 
-Et de deulx ans en deulx ans ilz noublient pas douvrir les
+Et de deulx ans en deulx ans   ilz noublient pas
+douvrir les
 
 
-costes des caisses pour roigner & couper dextrement avecq la
-terre 
+costes des caisses  pour roigner & couper dextrement avecq
+la terre
 
 
 Les extremites des racines des orangers  pourceque
 aultrement 
 
 
-comm e elles trouvent le boys  elles se reserrent &
+comm e elles trouvent le boys elles se reserrent &
 replient en elles
 
 
@@ -22305,14 +21608,15 @@ labre
 
 Mays comm e elles sont roignees il leur demeure espace
 nouveau
-cos  pour sestandre sans trouver la resistance du boys 
-qui les
+cos  pour sestandre sans trouver la resistance du boys qui
+les
 
 
 gehenne Et croy que pour cet effect il seroit bon de joindre
 
 
-les costes des caisses avecq des vis & non avecq clous affin
+les costes des caisses  avecq des vis  & non avecq
+clous  affin
 
 
 de nesbranler point la terre  quand on les ouvre
@@ -22328,48 +21632,48 @@ offensee
 
 
 a droict la joincture malaisement  prend il comm e
-de la vigne de touts persees
+de la vigne  de touts persees 
 
 
-& des abricots
-Les abricots ont lescorce fort deliee & par ainsy il les
-fault
+& des abricots 
+Les abricots  ont lescorce fort deliee & par ainsy il
+les fault
 
 
 enter sur jeunes abres qui ne layent poinct encores espesse
 comm e sur
 
 
-gectes de prunier & amendiers
+gectes de prunier  & amendiers 
 Les greffes ne    prenent gueres si la taille de
 labre se mouille
 
 
-il fault doncq hanter En temps serain & doulx & non trop froid
-&
+il fault doncq hanter En temps serain & doulx & non trop
+froid &
 
 
-venteulx
-Le bois vieulx  quon laisse au greffe est necessaire si on
-ente sur
+venteulx 
+Le bois vieulx quon laisse au greffe est necessaire si on ente
+sur
 
 
 un abre qui est desja faict & de bonne grosseur pourceque estant
 tel
 
 
-il serre plus le greffe & sil est de jeune bois  il est si
-comprime quil
+il serre plus le greffe & sil est de jeune bois il est si comprime
+quil
 
 
-ne peult profficter Mays le bois vieulx  resiste mieulx a la
+ne peult profficter Mays le bois vieulx resiste mieulx a la
 
 
-compression du bois vieulx que le jeune  a cause quil
-est plus dur que
+compression du bois vieulx que le jeune  a cause quil est plus
+dur que
 
 
-le jeune @Mays si le greffe est tout de bois vieulx  jamays il ne
+le jeune @Mays si le greffe est tout de bois vieulx jamays il ne
 faict
 
 
@@ -22745,29 +22049,30 @@ quelle
 seroit bonne pour souldeure  Longue a se froidir
 
  093r
-Olives
-Elles se gastent si une foys le moys on ne leur rafreschist
-leur
-eau sel  quil ne fault pas toucher des mains car cela les
-faict
+Olives 
+Elles se gastent si une foys le moys   on ne leur
+rafreschist leur
+eau sel  quil ne fault pas toucher  des mains  car
+cela les faict
 
 
 gaster
 
 Observation des rustiques 
-Que quand il gele le jour des rameaulx il gele tous les moys
+Que quand il gele  le jour des rameaulx il
+gele tous les moys
 
 
-de lan
+de lan 
 Que quand les premieres fleurs tombent les suiv  & se
 perdent
 
 
-de la gelee les aultres commun ement se perdent aussy
+de la gelee  les aultres commun ement se perdent
+aussy
 
 I  Hantes
-Il ne fault pas que le greffe soict de vieulx bois  car il
-nest
+Il ne fault pas que le greffe soict de vieulx bois car il nest
 
 
 jamais bel abre
@@ -22778,14 +22083,15 @@ car quand il ha dadvantaige sa force est afoiblie le vent
 
 
 le tourmente & nha pas tant de force pour bouter
-Les abres qui hont grosse moelle comm e les peschiers
-& tout
+Les abres qui hont grosse moelle comm e les
+peschiers  & tout
 
 
-leur genrre & les pruniers ne veulent point hantes en temps
+leur genrre & les pruniers  ne veulent point hantes en
+temps
 
 
-de gelee pourceque le froid corrompt leur moelle laquelle
+de gelee  pourceque le froid corrompt leur moelle laquelle
 
 
 il se fault bien aussi garder doffenser en coupant le pied du
@@ -22795,10 +22101,10 @@ greffe
 Toutes hantes ne se doibvent faire plustost que leur abre
 
 
-ne soict en sabe car lhumeur les pousse bien tost
+ne soict en sabe car lhumeur  les pousse bien tost
 Aultrement 
-au ilz se seichent plustost que lhumeur de la sabe ne les
-pousse
+au  ilz se seichent plustost que lhumeur  de la sabe
+ne les pousse
 
 Sable
 La cendre blanche de tout boys  qui se tient encores au
@@ -24047,9 +23353,9 @@ adjoustent pour le colorer un peu de sang de dragon   pour
 le faire
 
 
-rougeastre Et aultres de la terra merita  pour iaulne
+rougeastre Et aultres de la terra merita  pour jaulne
 
-Bords de Jardin
+Bords de Jardin 
 Il fault labourer la terre puys la subtilier avec le rateau 
 Et apres
 
@@ -24062,12 +23368,10 @@ tout au ras Et fraper sur tout le long du cordeau as
 avecq le dos
 
 
-de la tranche Affin que le cordeau  marque une ligne droicte
-Le
-
-
-long de laquelle tu feras un bord  des trous avecq le
-picquet de fer 
+de la tranche  Affin que le cordeau  marque une ligne
+droicte Le
+long  de laquelle tu feras un bord  des trous avecq le
+picquet de fer  
 
 
 ou tu planteras ton rosmarin  esteste & coupe de mesure et
@@ -24157,11 +23461,13 @@ cognoissent
 
 a ce quilz ont le moeufle plus gros que les aultres
 
-Artichauts sales 
-On les mect entiers & non trop faicts en un barricot
+Artichauts  sales
+On les mect entiers & non trop faicts en un
+barricot 
 
 
-quon emplist de saulmure  Puys on les sert tout lan
+quon emplist de saulmure  Puys on les sert tout
+lan  
 
 
 parmy les salades crus avecq huile  & vinaigre  car
@@ -24181,13 +23487,14 @@ bonne & assez forte loeuf  nagera dessus Sinon elle nest
 pas asses forte et ne conserveroit pas les fruits 
 
 Abres
-Qui portent bien tost fruit  se viellessent et ne durent
+Qui portent bien tost fruit se viellessent et ne durent
 
 
 gueres
 
 Oyseaulx 
-Qui ont este nourris a la broche ne siflent pas parmy les
+Qui ont este nourris a la broche  ne siflent pas parmy
+les
 
 
 aultres en compaignee silz ne sont en une cage a part
@@ -24419,7 +23726,7 @@ impossible
 pour luy donner sa premiere voix
 
  099v
-Coigniers
+Coigniers 
 Ils veulent estre souvent esmondes aultrement  ilz se
 meurent
 
@@ -25269,8 +24576,8 @@ Et la mects dans une bouteille  bien @apres  bouchee
 & laisse
 
 
-fanir a lombre la dedans un jour   puys mects y
-de
+fanir a lombre  la dedans un jour   puys
+mects y de
 
 
 la premiere substance de vin  & la laisse reposer trois
@@ -25287,8 +24594,8 @@ ou huict infusions  de nouvelles fleurs Apres laisse
 au
 
 
-soleil  la derniere infusion un moys   Apres
-distiille la
+soleil  la derniere infusion  un moys  
+Apres distiille la
 
 
 par alenbic Ap  Et de ceste eau  prens en ii
@@ -25299,7 +24606,7 @@ deulx ou trois cuillerees   de vin blanc  Mays
 cest pour
 
 
-les vieulx. Paul tiers @ en usoit.
+les vieulx . Paul tiers @ en usoit.
 
 Gect
 Lestain  vient mieulx estant tanvre & subtil quespes
@@ -25371,17 +24678,15 @@ comm e dessus jusques
 
 au dernier & seul pater noster  de noeuf Lors tu auras
 un
-
-
-onguent blanc & doulx duquel tu oingdras la brusleure
+onguent blanc & doulx  duquel tu oingdras la brusleure
 
 
 lespace de 9 jours   Mays ny en mects pas
 dadvantage
 
 
-Car il te fa eroit surcroistre la chair Tu p  te
-penseras
+Car il te fa eroit surcroistre la chair  Tu
+p  te penseras
 deulx foys le jour   & a chasque foys tu te
 laveras le visaige 
 
@@ -25395,13 +24700,15 @@ lessuyeras
 
 
 de mesme aff  avecq un linge deslie  & apres mects
-lunguent
+lunguent 
 
 
-Sur lequel tu pourras mectre des foeilles de lierre  Cecy
+Sur lequel tu pourras mectre des foeilles de lierre  
+Cecy
 
 
-faict renaistre le poil & ne laisse poinct cicatrice Un
+faict renaistre le poil  & ne laisse poinct cicatrice
+Un
 pouldrier  qui sestoit presque tout brusle ma  &
 qui navoict
 
@@ -25432,7 +24739,8 @@ Clistere
 Affin que le tuyau noffense poinct comm e les enfans
 
 
-ou ceulx qui se  ont les veines hemorroidales eminentes
+ou ceulx qui se  ont les veines  hemorroidales
+eminentes
 
 
 ou enflees On revest le bout du canon  dun lopin de
@@ -25722,8 +25030,8 @@ Jardinier
 Pour hanter en escusson, il fault prendre de la nouvelle mise
 
 
-que labre  que tu veulx hanter a faict de lannee
-mesme  & en couper une branche
+que labre que tu veulx hanter a faict de lannee
+mesme   & en couper une branche
 
 
 dans laquelle tu voys quaupres de la raci  naissance des
@@ -25735,7 +25043,7 @@ comman cement
 
 
 de germes Il fault dextrement   avecq un
-trancheplume  bien tranchant
+trancheplume bien tranchant 
 
 
 couper en forme descusson une petite portion de peau avec  qui
@@ -25766,20 +25074,19 @@ quil nen
 
 sorte rien dehors que le germe lie le bien & lenvelope tout avecq
 du
+brin de lin    ou filasse bien
+doulce   en facon quil ny aye rien
 
 
-brin de lin  ou filasse  bien doulce en facon quil ny aye
-rien
-
-
-descouvert que la foeille qui dans trois ou 4 jours te donnera
+descouvert que la foeille qui dans trois ou 4 jours  
+te donnera
 
 
 indice si lescusson doibt prendre selon quelle sera verte Laisse
 
 
-ton hante sept ou huict jours ainsy Puys le deslie & joincts
-bien
+ton hante sept ou huict jours   ainsy Puys le deslie
+& joincts bien
 
 
 lescorce mesmement  a droict le germe & puys le relie tout
@@ -46575,127 +45882,6 @@ a la bave ou grumeleure qui sera survenue au gect Et en
 reparant mouille & frotte avecq tes petites sayettes de
 pourceau  
 
- 163v
-Escrevisse 
-Volontiers les corniches pelues quelle ha dessoubs
-
-
-le bec coe  viennent grumeleuses & mal nettes
-pourceque
-
-
-estant brusler elles sont difficiles a oster & nettoyer
-
-
-leur cendre  qui demeurant dans le moule le 
-empeschent
-
-
-que le metal  ny peult bien courir & pour ceste ocasion
-
-
-on faict au bout dicelles un petit gect de fil de cire 
-
-
-tant pour les soubstenir que pour soufler la dedans
-
-
-la cendre  qui empesche
-
-
-Nespargne point
-
-
-les pointes  pour en
-
-
-mectre non seulement  
-
-
-au milieu du corps
-
-
-Mays au pates
-
-
-grosses Et a la
-
-
-queue deulx ou trois
-
-
-selon le plant que
-
-
-tu luy vouldras
-
-
-donnas
-
-Crocum  
-Celuy qui est rouille de soy mesme estant arrouse
-
-
-deau sel  ou vinaigre  ou urine  et puys
-fort  deseche
-et rougy au foeu  @ est fort rouge broye sur le
-porphire   et est de
-
-
-couleur de bol de levant   & aprochant du
-minium 
-
-
-Mays celuy qui est arrouse durine  & deseche
-
-
-adquiert plus haulte taincture & aproche a laes
-ustum 
-
-
-broye  ou au vermeillon  Mays le premier
-subtilement  
-
-
-broye adquiert une vive couleur rouge dans le 
-comm e
-cinabre  dans leau de vye  Et les uns et les aultres
-
-
-prepares comm e dict est et subtilies & rendus fort
-
-
-chaults rendent une fumee rouge comm e un esprit
-
-
-volatil si estants ainsy chaults et subtils on gecte
-
-
-dessus du vinaigre urine  ou eau de vye 
-Lurine 
-
-
-donne beaucoup de taincture Et leau de vye  aussy
- 
-Reparer
-Il est mieulx de reparer peu avecq le burin  apelle
-onglet 
-
-
-ou avecq celuy quon apelle chaple  ou quelque petite
-lime 
-
-
-Mays sur tout evite de toucher a ton ouvrage ains
-seulement 
-
-
-a la bave ou grumeleure qui sera survenue au gect Et en
-
-
-reparant mouille & frotte avecq tes petites sayettes de
-pourceau  
-
  164r
 Gect
 
@@ -48161,11 +47347,9 @@ prinse il se fault faire suer
 Pour preserver
 Acetum  paratum ex ruta  baccis
 juniperi   simul tusis Eo
-aceto  extinguantur lateres  igniti Et vapor excipiatur ore
-&
-
-
-naribus  Cest pour preserver quan d on va en aer
+aceto extinguantur lateres  igniti Et vapor excipiatur
+ore  &
+naribus   Cest pour preserver quan d on va en aer
 infaict
 
 
@@ -48173,11 +47357,11 @@ Un acoustrement se peult parfumer ainsy & en  oster
 linfection
 
 
-la chambre maison & Si tu te trouves en lieu ou nayes
+la chambre maison &  Si tu te trouves en lieu ou
+nayes
 
 
-ceste preparation porte rue   & grains  
-piles ensemble
+ceste preparation porte rue   & grains  piles  ensemble
 
 
 puys a ton besoin fais bouillir en vinaigre  et en use
