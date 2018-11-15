@@ -31,4 +31,4 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
-<iframe style='width: 672px; height: 178px;' src='//voyant-tools.org/tool/Contexts/?query=make&corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
+<iframe style='width: 672px; height: 447px;' src='//voyant-tools.org/tool/Contexts/?query=make&corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
