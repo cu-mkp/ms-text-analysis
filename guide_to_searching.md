@@ -10,6 +10,8 @@
 
 ### Term frequency (English Translation)
 
+
+
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
@@ -17,12 +19,11 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
-
-<iframe style='width: 446px; height: 285px;' src='//voyant-tools.org/tool/CorpusTerms/?corpus=2ce2103cdc2810022104adc36890c385'></iframe>
-
+<iframe style='width: 446px; height: 285px;' src='//voyant-tools.org/tool/CorpusTerms/?corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
 
 ### Concordance (English Translation)
 
+
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
@@ -30,4 +31,4 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
-<iframe style='width: 669px; height: 285px;' src='//voyant-tools.org/tool/Contexts/?query=make&panels=corpusterms%2Creader%2Ccontexts%2Ccorpuscollocates%2Cphrases&corpus=2ce2103cdc2810022104adc36890c385'></iframe>
+<iframe style='width: 672px; height: 178px;' src='//voyant-tools.org/tool/Contexts/?query=make&corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
