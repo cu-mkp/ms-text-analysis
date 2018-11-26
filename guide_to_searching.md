@@ -18,9 +18,18 @@
   * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolio_txt/all_tl.txt)
 * [Indiviudal folios](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/ms-xml.zip)
 
-## Voyant Tools
+## Searching
 
-### Term frequency (English Translation)
+### Basic
+
+#### In web browser
+
+* open any of the single file source files in web browser
+* control-f to search
+
+### Advanced: Using Voyant Text Analysis Tools
+
+#### Term frequency (English Translation)
 
 
 
@@ -33,7 +42,7 @@ Feel free to change the height and width values or other styling below: -->
 
 <iframe style='width: 446px; height: 285px;' src='//voyant-tools.org/tool/CorpusTerms/?corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
 
-### Concordance (English Translation)
+####  Concordance (English Translation)
 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
