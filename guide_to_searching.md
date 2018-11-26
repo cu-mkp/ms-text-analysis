@@ -54,7 +54,7 @@
   * `["]` : Whole word
     * "red" will match "covered" if off; only "red" if on
 
-### Advanced: Using Voyant Text Analysis Tools
+## Advanced: Using Voyant Text Analysis Tools
 
 Voyant is a set of web based analysis and visualization tools for study of digital texts.
 
@@ -62,7 +62,7 @@ Voyant is a set of web based analysis and visualization tools for study of digit
    * Getting Started: https://voyant-tools.org/docs/#!/guide/start
    * Tools: https://voyant-tools.org/docs/#!/guide/tools
 
-#### Term frequency
+### Term frequency
 
  * displays each term in "corpus" (i.e., MS translation), the number of times it occurs, and a "trend line" graph visualizing its occurrences across the entire manuscript
  * terms are ordered by frequency
@@ -85,7 +85,7 @@ Feel free to change the height and width values or other styling below: -->
 
 <iframe style='width: 452px; height: 309px;' src='//voyant-tools.org/tool/CorpusTerms/?stopList=stop.fr.veronis.txt&comparisonCorpus=&corpus=e35fc9fb24722deedf9ba05c090d29bf'></iframe>
 
-####  Concordance (English Translation)
+###  Concordance (English Translation)
  
  * displays each occurence of term in MS by "document" (i.e., folio file), in context (default 5 words left and right) 
  * terms are ordered by document/folio
@@ -105,4 +105,4 @@ Feel free to change the height and width values or other styling below: -->
 
 #### Normalized French
 
-<iframe style='width: 681px; height: 195px;' src='//voyant-tools.org/tool/Contexts/?stopList=stop.fr.veronis.txt&query=avecq&corpus=e35fc9fb24722deedf9ba05c090d29bf'></iframe>
+<iframe style='width: 681px; height: 390px;' src='//voyant-tools.org/tool/Contexts/?stopList=stop.fr.veronis.txt&query=avecq&corpus=e35fc9fb24722deedf9ba05c090d29bf'></iframe>
