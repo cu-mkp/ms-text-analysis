@@ -56,6 +56,12 @@
 
 ### Advanced: Using Voyant Text Analysis Tools
 
+Voyant is a set of web based analysis and visualization tools for study of digital texts.
+
+ * Guides:
+  * Getting Started: https://voyant-tools.org/docs/#!/guide/start
+  * Tools: https://voyant-tools.org/docs/#!/guide/tools
+
 #### Term frequency (English Translation)
 
  * displays each term in "corpus" (i.e., MS translation), the number of times it occurs, and a "trend line" graph visualizing its occurrences across the entire manuscript
