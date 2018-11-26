@@ -7,7 +7,7 @@
 * As single files:
   * [Diplomatic Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_xml/all_tc.xml)
   * [Normalized Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_xml/all_tcn.xml)
-  * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/txt/allFolios_xml/tl.xml)
+  * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/txt/allFolios_xml/all_tl.xml)
 * [Indiviudal folios](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/ms-xml.zip)
  
 ### "Raw" text files
