@@ -49,7 +49,7 @@
     * `+` :  1 or more of preceding term
     * `.` : any character
     * `.*` : zero or more of any character
-    * `.+' : 1 or more of any character
+    * `.+` : 1 or more of any character
 
 ### Advanced: Using Voyant Text Analysis Tools
 
