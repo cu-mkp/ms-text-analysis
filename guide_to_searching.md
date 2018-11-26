@@ -34,6 +34,11 @@
   * Installation Instructions:
      * Mac: Click on downloaded file to extract and then drag the new Atom application into your "Applications" folder.
      * Windows: Click on AtomSetup.exe. This setup program will install Atom and create shortcuts on the desktop and in the start menu.
+* add a new "project" to Atom
+  * `File > Add Project Folder`
+  * select downloaded ms-xml or ms-txt directories
+  * directory and its contents will be open in the left pane of Atom
+  
 
 ### Advanced: Using Voyant Text Analysis Tools
 
