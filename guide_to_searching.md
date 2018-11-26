@@ -52,6 +52,7 @@
     * `.+` : 1 or more of any character
   * `Aa`: Match case
   * ["] : Whole word
+    * "red" will match "covered" if off; only "red" if on
 
 ### Advanced: Using Voyant Text Analysis Tools
 
