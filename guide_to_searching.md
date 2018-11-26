@@ -74,7 +74,11 @@ Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 446px; height: 285px;' src='//voyant-tools.org/tool/CorpusTerms/?corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
 
 ####  Concordance (English Translation)
-
+ 
+ * displays each occurence of term in MS by "document" (i.e., folio file), in context (default 5 words left and right) 
+ * terms are ordered by document/folio
+ * may sort by document/folio, left context string, term, and right context string
+ * entering search term will prompt matching term in exact or "expanded" (e.g., including plural) form
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
