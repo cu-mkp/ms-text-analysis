@@ -62,7 +62,7 @@ Voyant is a set of web based analysis and visualization tools for study of digit
    * Getting Started: https://voyant-tools.org/docs/#!/guide/start
    * Tools: https://voyant-tools.org/docs/#!/guide/tools
 
-#### Term frequency (English Translation)
+#### Term frequency
 
  * displays each term in "corpus" (i.e., MS translation), the number of times it occurs, and a "trend line" graph visualizing its occurrences across the entire manuscript
  * terms are ordered by frequency
@@ -77,7 +77,13 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
+#### English Translation
+
 <iframe style='width: 446px; height: 285px;' src='//voyant-tools.org/tool/CorpusTerms/?corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
+
+#### Normalized French
+
+<iframe style='width: 452px; height: 309px;' src='//voyant-tools.org/tool/CorpusTerms/?stopList=stop.fr.veronis.txt&comparisonCorpus=&corpus=e35fc9fb24722deedf9ba05c090d29bf'></iframe>
 
 ####  Concordance (English Translation)
  
@@ -93,4 +99,10 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
+#### English Translation
+
 <iframe style='width: 672px; height: 447px;' src='//voyant-tools.org/tool/Contexts/?query=make&corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
+
+#### Normalized French
+
+<iframe style='width: 681px; height: 195px;' src='//voyant-tools.org/tool/Contexts/?stopList=stop.fr.veronis.txt&query=avecq&corpus=e35fc9fb24722deedf9ba05c090d29bf'></iframe>
