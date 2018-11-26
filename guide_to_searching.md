@@ -41,7 +41,15 @@
 * search across directory of folio files
   * (mac) control-select or (win) right-click `tc`, `tcn`, or `tl` folder
   * select `Search in directory`
-  
+  * enter search term(s) in box in lower right area of Atom and click Find All
+  * results snippets, grouped by folio file will appear above search box
+* advanced search features
+  * `.*` "Regex" (Regular Expression) search
+    * `*` : zero or more of preceding term
+    * `+` :  1 or more of preceding term
+    * `.` : any character
+    * `.*` : zero or more of any character
+    * `.+' : 1 or more of any character
 
 ### Advanced: Using Voyant Text Analysis Tools
 
