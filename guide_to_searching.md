@@ -36,8 +36,11 @@
      * Windows: Click on AtomSetup.exe. This setup program will install Atom and create shortcuts on the desktop and in the start menu.
 * add a new "project" to Atom
   * `File > Add Project Folder`
-  * select downloaded ms-xml or ms-txt directories
-  * directory and its contents will be open in the left pane of Atom
+  * select downloaded `ms-xml` or `ms-txt` folder
+  * folder and its contents will be open in the left pane of Atom
+* search across directory of folio files
+  * (mac) control-select or (win) right-click `tc`, `tcn`, or `tl` folder
+  * select `Search in directory`
   
 
 ### Advanced: Using Voyant Text Analysis Tools
