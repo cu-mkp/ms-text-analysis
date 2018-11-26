@@ -29,8 +29,8 @@
 
 * download and install Atom text editor:
    * Download:
-     * Mac: https://github.com/atom/atom/releases/download/v1.33.0-beta3/atom-mac.zip
-     * Windows: https://github.com/atom/atom/releases/download/v1.33.0-beta3/AtomSetup.exe
+     * Mac: (https://github.com/atom/atom/releases/download/v1.33.0-beta3/atom-mac.zip)
+     * Windows: (https://github.com/atom/atom/releases/download/v1.33.0-beta3/AtomSetup.exe)
   * Installation Instructions:
      * Mac: Click on downloaded file to extract and then drag the new Atom application into your "Applications" folder.
      * Windows: Click on AtomSetup.exe. This setup program will install Atom and create shortcuts on the desktop and in the start menu.
