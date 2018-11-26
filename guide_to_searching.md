@@ -58,7 +58,11 @@
 
 #### Term frequency (English Translation)
 
-
+ * displays each term in "corpus" (i.e., MS translation), the number of times it occurs, and a "trend line" graph visualizing its occurrences across the entire manuscript
+ * terms are ordered by frequency
+ * may sort by term or by frequency
+ * entering search term will prompt matching term in exact or "expanded" (e.g., including plural) form
+ 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
