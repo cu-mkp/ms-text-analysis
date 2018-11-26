@@ -20,12 +20,14 @@
 
 ## Searching
 
-### Basic
-
-#### In web browser
+### Basic: In web browser
 
 * open any of the single file source files in web browser
 * control-f to search
+
+### Using Atom text editor
+
+* download Atom text editor from https://atom.io/
 
 ### Advanced: Using Voyant Text Analysis Tools
 
