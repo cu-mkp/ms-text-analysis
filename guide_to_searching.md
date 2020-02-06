@@ -82,7 +82,7 @@ Feel free to change the height and width values or other styling below: -->
 
 #### English Translation
 
-<iframe style='width: 446px; height: 285px;' src='//voyant-test.makingandknowing.org:8888/tool/CorpusTerms/?corpus=557cb722a686c789f8d404324d2e4181e'></iframe>
+<iframe style='width: 446px; height: 285px;' src='http://voyant-test.makingandknowing.org:8888/tool/CorpusTerms/?corpus=557cb722a686c789f8d404324d2e4181e'></iframe>
 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
@@ -94,7 +94,7 @@ Feel free to change the height and width values or other styling below: -->
 
 #### Normalized French
 
-<iframe style='width: 445px; height: 309px;' src='//voyant-test.makingandknowing.org:8888/tool/CorpusTerms/?corpus=05909ba272f5a74e056a69ca514bd550'></iframe>
+<iframe style='width: 445px; height: 309px;' src='http://voyant-test.makingandknowing.org:8888/tool/CorpusTerms/?corpus=05909ba272f5a74e056a69ca514bd550'></iframe>
 
 
 
@@ -121,7 +121,7 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
-<iframe style='width: 672px; height: 447px;' src='//voyant-test.makingandknowing.org:8888/tool/Contexts/?query=make&corpus=57cb722a686c789f8d404324d2e4181e'></iframe>
+<iframe style='width: 672px; height: 447px;' src='http://voyant-test.makingandknowing.org:8888/tool/Contexts/?query=make&corpus=57cb722a686c789f8d404324d2e4181e'></iframe>
 
 
 #### Normalized French
@@ -132,4 +132,4 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 681px; height: 390px;' src='//voyant-test.makingandknowing.org:8888/tool/Contexts/?query=avecq&corpus=05909ba272f5a74e056a69ca514bd550'></iframe>
+<iframe style='width: 681px; height: 390px;' src='http://voyant-test.makingandknowing.org:8888/tool/Contexts/?query=avecq&corpus=05909ba272f5a74e056a69ca514bd550'></iframe>
