@@ -126,4 +126,10 @@ Feel free to change the height and width values or other styling below: -->
 
 #### Normalized French
 
-<iframe style='width: 681px; height: 390px;' src='//voyant-tools.org/tool/Contexts/?stopList=stop.fr.veronis.txt&query=avecq&corpus=e35fc9fb24722deedf9ba05c090d29bf'></iframe>
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 681px; height: 390px;' src='//voyant-test.makingandknowing.org:8888/tool/Contexts/?query=avecq&corpus=05909ba272f5a74e056a69ca514bd550'></iframe>
