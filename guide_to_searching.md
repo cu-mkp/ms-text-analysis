@@ -62,7 +62,7 @@ Voyant is a set of web based analysis and visualization tools for study of digit
    * Getting Started: https://voyant-tools.org/docs/#!/guide/start
    * Tools: https://voyant-tools.org/docs/#!/guide/tools
  * Normalized French Voyant Corpus: http://voyant-test.makingandknowing.org:8888/?corpus=05909ba272f5a74e056a69ca514bd550
- * English Translation Voyant Corpus: https://voyant-tools.org/?corpus=d7eadde0616c2a8fd8863f7a3a7ff290
+ * English Translation Voyant Corpus: http://voyant-test.makingandknowing.org:8888/?corpus=57cb722a686c789f8d404324d2e4181e
  
 ### Term frequency
 
