@@ -79,9 +79,9 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
-#### English Translation
 
-<iframe style='width: 446px; height: 285px;' src='//voyant-tools.org/tool/CorpusTerms/?corpus=d7eadde0616c2a8fd8863f7a3a7ff290'></iframe>
+#### English Translation
+<iframe style='width: 446px; height: 285px;' src='//voyant-test.makingandknowing.org:8888/tool/CorpusTerms/?corpus=57cb722a686c789f8d404324d2e4181e'></iframe>
 
 #### Normalized French
 
