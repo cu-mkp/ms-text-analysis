@@ -5,17 +5,17 @@
 ### XML
 
 * As single files:
-  * [Diplomatic Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_xml/all_tc.xml)
-  * [Normalized Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_xml/all_tcn.xml)
-  * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_xml/all_tl.xml)
+  * [Diplomatic Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios/xml/all_tc.xml)
+  * [Normalized Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios/xml/all_tcn.xml)
+  * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios/xml/all_tl.xml)
 * [Indiviudal folios](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/ms-xml.zip)
  
 ### "Raw" text files
 
 * As single files:
-  * [Diplomatic Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_txt/all_tc.txt)
-  * [Normalized Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_txt/all_tcn.txt)
-  * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios_txt/all_tl.txt)
+  * [Diplomatic Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios/txt/all_tc.txt)
+  * [Normalized Transcription](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios/txt/all_tcn.txt)
+  * [English Translation](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/allFolios/txt/all_tl.txt)
 * [Indiviudal folios](https://raw.githubusercontent.com/cu-mkp/ms-text-analysis/master/ms-txt.zip)
 
 ## Searching
