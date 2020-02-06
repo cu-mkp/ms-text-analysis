@@ -1,11 +1,11 @@
-<root>
-<page>044v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="044v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image</image>
 
-<div>
 
-<id>p044v_1</id>
+
+<div id="p044v_1" categories="tool">
+
+
 
 <head>Tamis de <m>poil de <al>cheval</al></m></head>
 
@@ -34,7 +34,7 @@ trois <bp>doitgs</bp></ms><lb/>
 ilz passent apres deulx <m>poils</m> a chasque frapem<exp>ent</exp> de
 marche Et<lb/>
 
-tissent avecq trois marches Il y a en tout le tamis xvii^(c)
+tissent avecq trois marches Il y a en tout le tamis xvii<superscript>c</superscript><comment rid="c_044v_01"/>
 
 <m>poils</m><lb/>
 
@@ -46,12 +46,12 @@ apres en <pl>espaigne</pl> Et<lb/>
 
 prenent en eschange de l<m>estamine de soye</m></ab></div>
 
-<div>
+<div id="p044v_2" categories="medicine">
 
-<id>p044v_2</id>
 
-<head>Excellente <m>eau</m> co<exp>n</exp>tre la peste / de
-<pn>m<exp>onsieu</exp>r de montorsin</pn></head>
+
+<head>Excellente <md><m>eau</m> co<exp>n</exp>tre la peste</md> / de
+    <pn>m<exp>onsieu</exp>r de montorsin</pn><comment rid="c_044v_03"/></head>
 
 <ab>Prens <m>Theriaque</m> <m><pa>rue</pa></m> &amp;
 <m><pa>dictam</pa></m> &amp; <m>bon vinaigre</m> mects<lb/>
@@ -62,7 +62,7 @@ ouverte<lb/>
 &amp; bien sellee Et la mects en bain fort lent trois ou 4
 <ms><tmp>jours</tmp></ms><lb/>
 
-Puys separe ta decoction de la residence de laquelle en temps<lb/>
+Puys separe ta decoction de la residence de laquelle<comment rid="c_044v_02"/> en temps<lb/>
 
 de besoing tu verseras sur un <tl>quarreau rouge enflamme</tl> &amp;
 en<lb/>
@@ -72,11 +72,11 @@ cest<lb/>
 
 un secret fort rare &amp; esprouve</ab></div>
 
-<div>
+<div id="p044v_3" categories="medicine">
 
-<id>p044v_3</id>
 
-<head><m>Huile blanc somnifere</m></head>
+
+<head><md><m>Huile blanc somnifere</m></md></head>
 
 <ab>Prens x ou 12 <m>pommes de <pa>Mandragore</pa></m> mects les a<lb/>
 
@@ -88,18 +88,18 @@ de <m>verre</m></tl> laquelle tu poseras au bain marie par deulx
 
 Et ton <m>huile</m> viendra blanc duquel si tu frottes un peu la<lb/>
 
-<bp>plante des pieds</bp> tu auras bien tost envye de dormir</ab></div>
+<bp>plante des pieds</bp> tu <md>auras bien tost envye de dormir</md></ab></div>
 
-<div>
+<div id="p044v_4" categories="stones">
 
-<id>p044v_4</id>
+
 
 <head><m>Stuc</m></head>
 
 <ab>Aulcuns pour <m>coller</m> <m>pierre</m> nemployent pas la
 <del>poi</del> <m>gemme</m> &amp;<lb/>
 
-<m>poix</m> <m>resine noire</m> pourcequelle est trop grasse Mays
+<m>poix resine noire</m> pourcequelle est trop grasse Mays
 prenent<lb/>
 
 de la <m>rousine</m> &amp; du <m>soufre</m> <ms>aultant <del>que</del>
@@ -108,8 +108,8 @@ dun que daultre &amp;</ms><lb/>
 aultant de <m>cire</m> que de tous deulx Et y meslent de la
 <m>brique<lb/>
 
-pilee</m> pour le plus fort Aultres de la <m>croye blanche</m> ou
+<tl>pilee</tl></m> pour le plus fort Aultres de la <m>croye blanche</m> ou
 <m>pierre<lb/>
 
-blanche pilee &amp; pulverisee &amp; tamisee</m></ab></div>
+blanche</m> <tl>pilee</tl> &amp; pulverisee &amp; tamisee</ab></div>
 </root>

@@ -1,13 +1,13 @@
-<root>
-<page>048v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="048v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image</image>
 
-<div>
-<id>p048v_1</id>
+
+
+<div id="p048v_1" categories="metal process">
+
 <head>Extraction de <m>regulus</m></head>
 
-<ab>R<exp>ecipe</exp> une <ms>lb</ms> d<m>antimoyne</m> <ms>demy lb</ms>
+<ab>℞ une <ms>lb</ms> d<m>antimoyne</m> <ms>demy lb</ms>
 <m>savon noer</m> et <ms>demy lb</ms><lb/>
 
 de <m>tartre de <pl>montpellier</pl></m> Le tout pulverise fault
@@ -38,10 +38,10 @@ l<m>antimoine</m></ab>
 &amp; <m>tartre pulverise</m> <ms>aultant dun que daultre</ms> &amp;
 ayant faict rougir<lb/>
 
-un <tl>pot</tl> ou <tl>crusol</tl> en mectent un peu a chasque fois
+un <tl>pot</tl> ou <tl><oc>crusol</oc></tl> en mectent un peu a chasque fois
 &amp; <del>se</del> tournent<lb/>
 
-le <bp>dos</bp> de peur de la fumee Et continuent ainsy jusques a ce
+le <bp>dos</bp> de peur de la <md>fumee</md> Et continuent ainsy jusques a ce
 que<lb/>
 
 tout y soict mis Et fortifient le foeu jusques a ce que tout soit<lb/>
@@ -50,15 +50,15 @@ bien fondu &amp; le refondent plusieurs foys</ab>
 
 </div>
 
-<div>
-<id>p048v_2</id>
+<div id="p048v_2" categories="metal process;casting">
+
 <head><m>Plomb</m> <m>Estaim</m></head>
 
-<ab>Ilz sesgrissent estant souvent ou long temps remis a fondre<lb/>
+<ab>Ilz sesgrissent estant souvent ou <tmp>long temps</tmp> remis a fondre<lb/>
 
 et sespessissent et se bruslent De sorte que mesmes quand on<lb/>
 
-font un saulmon l<m>estaim</m> sespessit au fonds si en gectant on
+font un saulmon<comment rid="c_028v_04"/> l<m>estaim</m> sespessit au fonds si en gectant on
 ne<lb/>
 
 le remue souvent Il est mieulx pour gecter de fondre peu de<lb/>
@@ -80,7 +80,7 @@ est<lb/>
 meilleur que le <m>letton</m> Il y a <m>estaim fin &amp; doulx</m> &amp;
 <m>estaim<lb/>
 
-aigre</m> Laigre se gecte en <tl>grille</tl> par les <pro>pintiers</pro>
+aigre</m> Laigre se gecte en grille par les <pro>pintiers</pro>
 pour<lb/>
 
 mieulx le vendre <del>O</del> Ilz viennent mieulx &amp; plus net en
@@ -112,9 +112,9 @@ l<m>aigre</m> qui est plus<lb/>
 
 blanc et semble estre bruny co<exp>mm</exp>e un mirouer.</ab>
 
-<ab>
-<margin>left-middle</margin>
-Pour<comment>c_048v_01</comment> bien allier l<m>estain</m> &amp; le
+<ab margin="left-middle">
+
+<comment rid="c_048v_01"/>Pour bien allier l<m>estain</m> &amp; le
 <m>plomb</m> Il en fault fondre un tout seul<lb/>
 
 Et puys y mesler laultre a petits lopins a chasque foys et le<lb/>

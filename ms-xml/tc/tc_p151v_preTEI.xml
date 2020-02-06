@@ -1,13 +1,13 @@
-<root>
-<page>151v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="151v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image</image>
 
-<div>
 
-<cont/>
 
-<id>p150v_1</id>
+<div continues="yes" id="p150v_1" categories="casting">
+
+
+
+
 
 <ab>Touteffoys ne loste pas que tu nayes du tout repare la<lb/>
 
@@ -19,7 +19,7 @@ quelque chose ou reparer avecq le <tl>ciselet</tl> Sil y a des<lb/>
 baves aulx joinctures du <tl>molle</tl> tu les osteras ou avecq le
 <tl>burin</tl><lb/>
 
-apelle <def><tl>chaple</tl></def> ou un <tl>trancheplume bien
+apelle <df><tl>chaple</tl></df> ou un <tl>trancheplume bien
 tranchant</tl> ou avecq<lb/>
 
 une <tl>lime petite</tl> &amp; puys avecq le <tl>ciselet</tl> Ayant
@@ -39,10 +39,10 @@ dune<lb/>
 
 <ms>moictie</ms> d<m>estain fin</m> Il y a plus daffayre a mouler<lb/>
 
-une <al>tortue</al> qua douze moules de fleurs Sil y a du
+une <al>tortue</al> qua douze <tl>moules</tl> de fleurs Sil y a du
 <m><la>crocum</la></m><lb/>
 
-dans ton sable il ny aura point de baves &amp; si par cas fortuit<lb/>
+dans ton <m>sable</m> il ny aura point de baves &amp; si par cas fortuit<lb/>
 
 il en y a quelques unes aulx costes elles seront plus tanvres<lb/>
 
@@ -61,7 +61,7 @@ ronde</tl> aultres en facon dune <tl>gouge</tl> ou dune escaille de
 &amp; <al>lesard</al> Et daultres sur une <tl>lime</tl> pour faire les
 friseures<lb/>
 
-&amp; grommeleures<comment>c_150v_02</comment> Les <al>tortues</al> qui
+&amp; grommeleures<comment rid="c_151v_02"/> Les <al>tortues</al> qui
 ne se moulent poinct<lb/>
 
 creuses nont pas tant daffaire Car elles se moulent en<lb/>
@@ -69,26 +69,18 @@ creuses nont pas tant daffaire Car elles se moulent en<lb/>
 deulx pieces Pour les reparer avecq des <tl>ciselets</tl> de
 <tl>petits<lb/>
 
-portes pieces</tl> de <tl>petites couges</tl> &amp; des <tl>ciselets
+portes pieces</tl> de <tl>petites couges</tl><comment rid="c_151v_01"/> &amp; des <tl>ciselets
 cranes</tl></ab>
 
-<figure>
-
-<id>fig_p151v_1</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bk1US2QxRTVwa2s</link>
-
+    <figure size="x-small" id="fig_p151v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bk1US2QxRTVwa2s">
 </figure>
 
-@<comment>c_150v_03</comment>
 
 </div>
 
-<div>
+<div id="p151v_1" categories="casting">
 
-<id>p151v_1</id>
+
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -111,13 +103,13 @@ asses Cest <m>huile</m> est incontinent sec Il dore les choses
 &amp; bruies augmente la couleur des choses <m>dorees</m> Sert de
 <m>vernis</m><lb/>
 
-sur le <m>fer</m> pour apres y graver pour <m>vernir</m> en tane des
-gardes<lb/>
+sur le <m>fer</m> pour apres y graver pour vernir en tane des
+<wp>gardes<lb/>
 
-despees Et pourroit bien servir aulx <pro>faiseurs de <m>cuir
+despees</wp> Et pourroit bien servir aulx <pro>faiseurs de <m>cuir
 dore</m></pro></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il en fault user<lb/>
 
@@ -129,7 +121,7 @@ mouler il ne veult pas estre si<lb/>
 
 espes que pour le tainct</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il nest pas<lb/>
 

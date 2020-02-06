@@ -1,11 +1,11 @@
-<root>
-<page>161v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="161v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f328.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f328.item.r=</image>
 
-<div>
-<id>p161v_1</id>
-<head><comment>c_161v_01</comment><m><la>Crocum ferri</la></m></head>
+
+
+<div id="p161v_1" categories="metal process">
+
+<head><comment rid="c_158r_01"/><m><la>Crocum ferri</la></m></head>
 
 <ab>Il se faict promptement si tu mets la <m>limaille</m> bien<lb/>
 
@@ -31,7 +31,7 @@ tost rougeur &amp; liaison La mouillant du plus fort que<lb/>
 
 tu pourras trouver &amp; lenflamma<exp>n</exp>t apres Et trois ou<lb/>
 
-4 <del>ignitions</del> rorations &amp; ignitions il sera prest
+4 <del>ignitions</del> rorations<comment rid="c_161v_02"/> &amp; ignitions il sera prest
 Cestuy<lb/>
 
 cy est de couleur colombine &amp; est trouve plus ferme pour le<lb/>

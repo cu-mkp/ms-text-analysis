@@ -1,13 +1,13 @@
-<root>
-<page>076v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="076v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item</image>
 
-<div>
 
-<id>p076v_1</id>
 
-<head>Pour faire couleur dor fort belle<lb/>
+<div id="p076v_1" categories="metal process;wood and its coloring">
+
+
+
+<head><comment rid="c_073v_02"/>Pour faire couleur dor fort belle<lb/>
 
 &amp; de peu de despance</head>
 
@@ -22,9 +22,9 @@ bien net Et prenes<lb/>
 aultant de <m>souffre</m> &amp; broyes tout ensemble Et mectes le<lb/>
 
 tout en une <tl>fiolle de <m>verre</m></tl> &amp; les Gardes <env>en la
-cave ou<lb/>
+cave</env> ou<lb/>
 
-au<exp>ltr</exp>e lieu humide</env> par lespace de huict ou dix
+<env>au<exp>ltr</exp>e lieu humide</env> par lespace de huict ou dix
 <ms><tmp>jours</tmp></ms> puys<lb/>
 
 quand en vouldres user fault le chauffer et en user ou<lb/>
@@ -33,9 +33,9 @@ vous vouldres &amp; vous verres une fort belle coulleur</ab>
 
 </div>
 
-<div>
+<div id="p076v_2" categories="wood and its coloring">
 
-<id>p076v_2</id>
+
 
 <head>Pour faire <m>Goumiche noyre</m></head>
 
@@ -51,9 +51,9 @@ puys le poses sur <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p076v_3" categories="wood and its coloring">
 
-<id>p076v_3</id>
+
 
 <head>Pour La Blanche</head>
 
@@ -61,15 +61,15 @@ puys le poses sur <m>boys</m></ab>
 <m>Ceruze</m><lb/>
 
 et fondes le tout ensemble &amp; le couches sur
-<m>boys</m><comment>c_076v_01</comment> ou<lb/>
+<m>boys</m><comment rid="c_076v_01"/> ou<lb/>
 
 au<exp>ltr</exp>e chose</ab>
 
 </div>
 
-<div>
+<div id="p076v_4" categories="metal process">
 
-<id>p076v_4</id>
+
 
 <head>Pour dorer sur <m>fer</m>ou<lb/>
 

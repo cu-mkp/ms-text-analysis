@@ -1,10 +1,10 @@
-<root>
-<page>047v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="047v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image</image>
 
-<div>
-<id>p047v_1</id>
+
+
+<div id="p047v_1" categories="tricks and sleight of hand">
+
 <head>Boisson ayant <sn>goust</sn> de <m>vin</m></head>
 
 <ab>Ayes du <m>tartre des grands vaisseaulx</m> &amp; les destrempe<lb/>
@@ -12,11 +12,11 @@
 en <m>eau</m> &amp; il aura <sn>goust</sn> de <m>vin</m>.</ab>
 
 </div>
-<div>
-<id>p047v_2</id>
+<div id="p047v_2" categories="metal process">
+
 <head>Fonte</head>
 
-<ab>Aulcuns pour faire couler net mectent <ms>moictié</ms> <m>metal</m>
+<ab>Aulcuns pour faire couler net mectent <ms>moictié</ms> <m>metal</m><comment rid="c_016v_05"/>
 &amp;<lb/>
 
 <ms>moictié</ms> <m>cuivre.</m> Aultres prenent une <ms>partye</ms> de
@@ -46,28 +46,28 @@ plus net, mays quil soict gecté fort <del>nect</del> chault.
 
 on veult gecter, on gecte sur la matiere du <m>plomb</m> qui faict<lb/>
 
-couler &amp; courre &amp; s'en va en fumée, &amp; garde que le
+couler &amp; courre &amp; s’en va en <m>fumée</m>, &amp; garde que le
 <tl>moule</tl> ne se<lb/>
 
 corrompt pas. Et si tu veulx gecter pieces de foeu, mesles y<lb/>
 
-plus de <m>rosette</m> que de <m>letton</m> affin qu'il soict moings
+plus de <m>rosette</m> que de <m>letton</m> affin qu’il soict moings
 frangible.<lb/>
 
-Les <tl>crusols pour fondre le <m>metal</m></tl> doibvent estre
+Les <tl><oc>crusols</oc> pour fondre le <m>metal</m></tl> doibvent estre
 meilleurs<lb/>
 
-que <tl>pour les <pro>verriers</pro></tl>, car le <m>verre</m> n'est pas
+que <tl>pour les <pro>verriers</pro></tl>, car le <m>verre</m> n’est pas
 si pesant<lb/>
 
-que le <m>metal</m>. Et pour ceste occasion il fault luter de
+que le <m>metal</m>. Et pour ceste occasion il fault <m><tl>luter</tl></m> de
 <m>terre</m><lb/>
 
-et <m>verre pilé</m> les <tl>crusols</tl>.</ab>
+et <m>verre <tl>pilé</tl></m> les <tl><oc>crusols</oc></tl>.</ab>
 
 </div>
-<div>
-<id>p047v_3</id>
+<div id="p047v_3" categories="metal process">
+
 <head><tl>Creusets</tl></head>
 
 <ab>Ceulx qui se font <tmp>en hyver</tmp> &amp; <env><tmp>temps
@@ -76,16 +76,16 @@ humide</tmp></env> ne sont pas<lb/>
 bons. Ceulx des <pro>fondeurs</pro> doibvent estre espés et se
 doibvent<lb/>
 
-lutter.</ab>
+<m><tl>lutter</tl></m>.</ab>
 </div>
-<div>
-<id>p047v_4</id>
+<div id="p047v_4" categories="casting">
+
 <head>Gect</head>
 
 <ab>La <m>pierre ponce calcinée</m> subtillem<exp>ent</exp> gecte
-l'<m>or</m> de 22 <ms>carats</ms><lb/>
+l’<m>or</m> de 22 <ms>carats</ms><lb/>
 
-sans reparer, mays il fault qu'elle soict enflammée et rouge<lb/>
+sans reparer, mays il fault qu’elle soict enflammée et rouge<lb/>
 
 co<exp>mm</exp>e le <m>metal</m>. Et elle endure plusieurs gects.</ab>
 

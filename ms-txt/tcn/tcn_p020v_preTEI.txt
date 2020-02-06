@@ -44,6 +44,8 @@ Eschervis racine
 
 Ils veulent estre plantés en lieu fort humide où tel
 qu’avecq
+
+
 puys rodier ou fontayne on le puysse souvent arroser,
 car
 
@@ -79,7 +81,7 @@ cloches de Mende.
 
 
 Touteffoys on tient la cloche de
-Th{ou}l{ous}e appellée Cardaillac pour
+    Th{ou}l{ous}e appellée Cardaillac pour
 
 
 une des plus belles de France, d’aultant qu’il poise deuls
@@ -97,7 +99,7 @@ Chasque matin, prens deulx ou trois oeufs ponds
 d’un ou
 
 
-deulx jours. Fais les chaufer jusques & non
+deulx jours. Fais les chaufer  & non
 cuire. Prens les
 moyeulx bien saulpouldrés de sucre. Et aprés, bois un
 doigt

@@ -1,13 +1,13 @@
-<root>
-<page>020v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image</image>
 
-<div>
 
-<id>p020v_1</id>
 
-<head>Blanchir la <bp>face</bp></head>
+<div id="p020v_1" categories="medicine">
+
+
+
+<head><md>Blanchir la <bp>face</bp></md></head>
 
 <ab>Pille de la <m><pa>vesse</pa></m> en <m>eau de cisterne</m> &amp;
 non aultre &amp; de ceste<lb/>
@@ -20,18 +20,18 @@ quen fayre de l<m>amydon</m> &amp; en user seroict encores mieulx
 
 </div>
 
-<div>
+<div id="p020v_2" categories="medicine">
 
-<id>p020v_2</id>
 
-<head>Contre les ventosites colique &amp;c</head>
+
+<head><md>Contre les <bp>ventosites</bp> colique &amp;c</md></head>
 
 <ab>Le <m>suc exprime ou leau <del><ill/></del> distilee de lescorce
 d<pa>orenge</pa></m><lb/>
 
-est excellent contre la colique venteuse L<m>escorce aussi<lb/>
+est excellent <md>contre la colique venteuse</md> L<m>escorce aussi<lb/>
 
-confite</m> est excellente pour les vents de l<bp>estomac</bp> Et
+confite</m> est excellente <md>pour les <bp>vents de l<bp>estomac</bp></bp></md> Et
 pour<lb/>
 
 en faire preuve Ayant verse du <m>vin escumant</m> dans un<lb/>
@@ -49,16 +49,16 @@ lescume sesperdra Si tu exprimes aussi du <m>just</m> contre la<lb/>
 
 </div>
 
-<div>
+<div id="p020v_3" categories="cultivation">
 
-<id>p020v_3</id>
+
 
 <head><pa>Eschervis</pa> racine</head>
 
 <ab>Ils veulent estre plantes <env>en lieu fort humide ou tel
 quavecq<lb/>
 
-<oc>puys rodier</oc> ou fontayne on le puysse souvent arroser</env>
+puys <oc>rodier</oc> ou fontayne on le puysse souvent arroser</env>
 Car<lb/>
 
 par ce moyen ilz sont tendres Aultrement ils se faict au
@@ -70,11 +70,11 @@ un coeur dur qui luy oste toute sa bonte
 
 </div>
 
-<div>
+<div id="p020v_4" categories="medicine">
 
-<id>p020v_4</id>
 
-<head>Contre brusleure</head>
+
+<head><md>Contre brusleure</md></head>
 
 <ab>Pile un <m><pa>oignon</pa></m> avecq du <m>verjus</m> &amp; le
 laisse ainsy tremper<lb/>
@@ -88,18 +88,18 @@ noir</m> experimente
 
 </div>
 
-<div>
+<div id="p020v_5" categories="household and daily life">
 
-<id>p020v_5</id>
+
 
 <head>Commu<exp>n</exp> dire</head>
 
 <ab>Clocher de <pl>rhodés</pl> <env>Eglise</env> d<pl>Alby</pl> cloches
 de <pl>mende</pl><lb/>
 
-Touteffoys on tient la choche<comment>c_020v_01</comment> de
+Touteffoys on tient la choche de
 <pl>th<exp>ou</exp>l<exp>ous</exp>e</pl> appellee
-cardaillac<comment>c_020v_02</comment> pour<lb/>
+cardaillac<comment rid="c_020v_02"/> pour<lb/>
 
 une des plus belles de <pl>france</pl> daultant quil poise deuls
 cens<lb/>
@@ -110,11 +110,11 @@ cinquante <ms>quintals</ms>
 
 </div>
 
-<div>
+<div id="p020v_6" categories="medicine">
 
-<id>p020v_6</id>
 
-<head>Forme de regime</head>
+
+<head><md>Forme de regime</md></head>
 
 <ab><tmp>Chasque matin</tmp> prens deulx ou trois <m>oeufs</m> ponds dun
 ou<lb/>
@@ -125,8 +125,8 @@ cuire prens les<lb/>
 <m>moyeulx</m> bien saulpouldres de <m>sucre</m> Et apres bois un
 <ms><bp>doigt</bp></ms><lb/>
 
-de <m>vin</m> Et oultre ce que cela est nourrissant il faict bon
-<bp>ventre</bp>
+de <m>vin</m> Et oultre ce que cela est <md>nourrissant</md> il <md>faict bon
+<bp>ventre</bp></md>
 
 </ab>
 

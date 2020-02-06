@@ -1,17 +1,17 @@
-<root>
-<page>035r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="035r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image</image>
 
-<div>
 
-<id>p035r_1</id>
+
+<div id="p035r_1" categories="tricks and sleight of hand">
+
+
 
 <head>Pour dire a quelqu’un que tu luy <del>monstreras</del><lb/>
 
 enseigneras une chose qu’il ne sçait pas<lb/>
 
-ne toy aussy</head>
+ne toy aussy<comment rid="c_035r_01"/></head>
 
 <ab>Ayes une <tl>fisselle</tl> ou <tl>petit baston</tl> et prens la
 mesure<lb/>
@@ -25,21 +25,21 @@ ne sçavois pas ne luy aussy.</ab>
 
 </div>
 
-<div>
+<div id="p035r_2" categories="tricks and sleight of hand">
 
-<id>p035r_2</id>
 
-<head>Pour fayre soubstenir un <tl>seau</tl> d’eau<lb/>
+
+<head>Pour fayre soubstenir un <tl>seau</tl> d’<m>eau</m><lb/>
 
 sur la poincte couchée de trois <tl>cousteaulx</tl><lb/>
 
 sans toucher à terre</head>
 
-<figure>
+<figure id="fig_p035r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg">
 
-<id>fig_p035r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg</link>
+
+
 
 </figure>
 
@@ -76,15 +76,15 @@ les poinctes s’esleveront.</ab>
 
 </div>
 
-<div>
+<div id="p035r_3" categories="tricks and sleight of hand">
 
-<id>p035r_3</id>
+
 
 <head>Pour faire bouillir sans foeu dans de l’<m>eau<lb/>
 
 froide</m> un <m>oeuf</m></head>
 
-<ab>Vuidés un <m>œuf</m> par les deulx bouts si bien qu’il ne demeure
+<ab>Vuidés un <m>oeuf</m> par les deulx bouts si bien qu’il ne demeure
 rien dedans,<lb/>
 
 puys l’emplissés de <m>chaulx vive</m> &amp; de <m>soufre vif</m>, puys
@@ -97,9 +97,9 @@ deulx ou trois<lb/>
 
 </div>
 
-<div>
+<div id="p035r_4" categories="household and daily life;tricks and sleight of hand">
 
-<id>p035r_4</id>
+
 
 <head>Pour faire sortir les <al>connils</al> d’un
 <env>terrier</env></head>

@@ -1,15 +1,15 @@
-<root>
-<page>074v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f154.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f154.image</image>
 
-<div>
 
-<cont/>
 
-<id>p074r_3</id>
+<div continues="yes" id="p074r_3" categories="varnish">
 
-<ab>foeu jusques à ce q<exp>u’i</exp>l soit assés cuyt. Et la coullés
+
+
+
+
+<ab><comment rid="c_073v_02"/>foeu jusques à ce q<exp>u’i</exp>l soit assés cuyt. Et la coullés
 par dedans<lb/>
 
 une <tl><m>toille</m> q<exp>ui</exp> soit assés serrée</tl>. Et quand
@@ -25,9 +25,9 @@ petict dud<exp>ict</exp> <m>huille</m> &amp; le ferés meilheur.</ab>
 
 </div>
 
-<div>
+<div id="p074v_1" categories="varnish">
 
-<id>p074v_1</id>
+
 
 <head>Pour faire <m>vernys rouge</m></head>
 
@@ -41,9 +41,9 @@ trois assictes comme dess<exp>us</exp>.</ab>
 
 </div>
 
-<div>
+<div id="p074v_2" categories="varnish">
 
-<id>p074v_2</id>
+
 
 <head>Pour faire <m>vernys jaulne</m></head>
 
@@ -51,7 +51,7 @@ trois assictes comme dess<exp>us</exp>.</ab>
 <del>tr</del>destremper aveq<lb/>
 
 de l’<m>eaue</m>, puys prenés du <m>saffran bien baptu</m>, &amp;
-destrempé<lb/>
+destrempe<lb/>
 
 lad<exp>icte</exp> <m>gaulme</m>, et la faictes bien claire, puys
 faictes v<exp>ost</exp>re assicte<lb/>
@@ -65,7 +65,7 @@ laissés<lb/>
 seicher comme devant tant q<exp>u’i</exp>l sera assés sec. Puys
 prenés<lb/>
 
-du <m>verny</m> de l’<pro>apoticquaire</pro>. Concassé par cou assés
+du <m>verny</m> de l’<pro>apoticquaire</pro> concassé par cou assés
 loing l’ung<lb/>
 
 de l’au<exp>ltr</exp>e. Puys lavés v<exp>ost</exp>re <bp>main</bp> bien
@@ -77,29 +77,29 @@ d’icell<exp>e</exp> estendés v<exp>ost</exp>re <m>verny</m>.
 
 </div>
 
-<div>
+<div id="p074v_3" categories="wax process;wood and its coloring">
 
-<id>p074v_3</id>
+
 
 <head>Recepte pour <m>gaulme</m> blanche</head>
 
 <ab>Prenés <m>sire blanche</m> &amp; de la <m>seruze</m> &amp; ung
 petict de <m>poix<lb/>
 
-fine</m> tres bien pillée ensemble, &amp; la mectés dedans ung
+fine</m> tres bien <tl>pillée</tl> ensemble, &amp; la mectés dedans ung
 petict<lb/>
 
 <tl>pot</tl> neuf &amp; la faictes fondre. Et quand elle sera fondue,
 vous<lb/>
 
-ferés une <tl>palette de <m>boys</m></tl>, <del>de</del>
-<add>&amp;</add> brunisés ce q<exp>ue</exp> vouldrés.</ab>
+ferés une <tl>palette de <m>boys</m></tl>, <del>de</del>&amp;<comment rid="c_074v_01"/>
+brunisés ce q<exp>ue</exp> vouldrés.</ab>
 
 </div>
 
-<div>
+<div id="p074v_4" categories="wax process;wood and its coloring">
 
-<id>p074v_4</id>
+
 
 <head><m>Goume</m> verte</head>
 

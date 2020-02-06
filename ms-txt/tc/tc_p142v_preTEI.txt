@@ -84,7 +84,10 @@ papier huile &
 
 imprime
 
-+@Recuits tes moules
++
+ 
+
+Recuits tes moules
 
 
 avecq charbons allumes
@@ -117,7 +120,9 @@ du molle quau dehors car en ceste sorte ilz ont plus
 de force Garde bien de les recuire a coup & a foeu trop
 
 
-ardent car cella les faict fondre rompre
+ardent car cella les faict  rompre
+
+
 
 
 
@@ -134,7 +139,7 @@ animaulx seches aussy
 
 
 
-@ Il ne fault poinct
+ Il ne fault poinct
 
 
 deulx fois recuire les
@@ -175,7 +180,7 @@ trusseaulx
 
 
 et moules qui est maigre & sabloneuse Destrempe
-lea
+la
 
 
 mediocrement comme mortier fort espes Mesles y environ

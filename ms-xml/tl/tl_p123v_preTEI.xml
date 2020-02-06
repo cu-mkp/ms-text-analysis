@@ -1,23 +1,23 @@
-<root>
-<page>123v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="123v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f252.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f252.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p123r_1</id>
+<div continues="yes" id="p123r_1" categories="metal process">
 
-<ab>Your <m>lute</m> once dry, put, <ms><tmp>in the early
-morning</tmp></ms>, your <tl>crucible</tl> in a <tl><fr>four à
+
+
+
+
+<ab>Your <m><tl>lute</tl></m> being dry, put, <ms><tmp>in the early
+morning</tmp></ms>, your <tl><oc>crucible</oc></tl> in a <tl><fr>four à
 vent</fr></tl>, &amp; at the beginning, give slow fire, as much for
-reheating your <tl>crucible</tl> than for gently letting the fury of the
+reheating your <tl><oc>crucible</oc></tl> as for gently letting the fury of the
 <m>saltpeter</m> pass. Then, invigorate little by little &amp; with
-judgment the fire. And <del>y</del> leave in the fire’s full vigor, your
-substances, for 12 <ms><tmp>hours</tmp></ms>, or a <env><tmp>natural
-day</tmp></env>. Make each time a good quantity of this substance, to
-not repeat it often, because the <md>fumes, which are dangerous, could
+judgment the fire. And <del>there</del> leave in the full vigor of the fire your
+substances for 12 <ms><tmp>hours</tmp></ms> or a <ms><tmp>natural
+day</tmp></ms>. Make each time a good quantity of this substance, so as not to
+do it often, because the <md>fumes, which are dangerous, could
 hurt you</md>. And before working at it, take in the
 <ms><tmp>morning</tmp></ms> <m>good buttered toast</m>, and hold the
 said <m>butter</m>, or <m><pa>zedoary</pa></m>, or <m>gold coins</m>, in
@@ -28,45 +28,47 @@ clear</add> <del>the great works of</del> the <m>silver</m> <add>from
 the <m>metallic</m> mass</add> <del>like <al>snakes</al> &amp; similar
 things</del> <add>when it starts to melt.</add> <del>But</del> <add>And
 then</add>, the grain that will be at the bottom of the
-<tl>crucible</tl> should be put aside for <del>principally delicate
+<tl><oc>crucible</oc></tl> should be put aside for <del>principally delicate
 flowers and herbs</del> <add>putting a little in the <m>melted
-silver</m> when you want to cast it</add>, <del>However is it necessary
+silver</m> when you want to cast it</add> <del>However it is necessary
 to always put a little of this grain in the <m>silver</m> when <del>you
 want to cast</del> it is well melted and when you are ready to
-cast</del>. Thusly, do as you make fine <m>tin</m> on <m>copper</m>,
+cast</del>. Thus, do as you make <m>fine tin</m> on <m>copper</m>,
 &amp; for <m>looking-glass tin</m> on <m>lead</m> and on <m>tin</m>.
-And, just as <m>looking-glass tin</m> sours <m>lead</m> and <m>tin</m>
-too much, if you put it in too great a quantity, likewise, the grain
-composed of the above-mentioned substances would sour your <m>silver</m>
+And just as <m>looking-glass tin</m> sours <m>lead</m> and <m>tin</m>
+too much if you put it in too great a quantity, likewise, the grain
+composed of the aforesaid substances would sour your <m>silver</m>
 if <del>l</del> you were to put in too much, <add>and obscure it</add>.
-This above-mentioned composition will suffice you for a long time, when
+This aforesaid composition will suffice you for a <tmp>long time</tmp>, when
 it has been <ms><tmp>for a whole day</tmp></ms> on a <del>gentle</del>
 gentle fire at the beginning &amp; invigorated degree by degree until
 the end. Then, having given it one load of charcoal, let it consume it
-by itself, &amp; let your <tl>crucible</tl> cool. Next, break it. You
-will find two hard slabs &amp; <fr>tourtelles</fr> in the
-<tl>crucible</tl>. The upper one is like petrified <del>Once</del>,
-composed of <m>salts sublimated</m> &amp; mixed together. The lower one
-is <m>metallic</m>, composed of <m>fillings</m>, <m><la>aes
+by itself, &amp; let your <tl><oc>crucible</oc></tl> cool. Next, break it. You
+will find two hard slabs &amp; <po>cakes</po> in the
+<tl><oc>crucible</oc></tl>. The upper one is as if petrified <del>Once</del>,
+composed of <m>salts, sublimated &amp; mixed together</m>. The lower one
+is <m>metallic</m>, composed of <m>filings</m>, <m><la>aes
 ustum</la></m> &amp; <m>antimony</m>, having the grain very small.
-Pulverize the upper <fr>tourtelle</fr>, made from <m>salts</m>, &amp;
-put some to clear &amp; clean the <m>silver</m>, and the <m>metallic
-grain</m> can be used to put in the <m>melted metal</m>.</ab>
+Pulverize the upper <po>cake</po>, made from <m>salts</m>, &amp;
+put some to clear, &amp; clean the <m>silver</m>, and the <m>metallic
+grain</m> will serve you to put in the <m>melted metal</m>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Charcoal fire</ab>
 
-<ab>
-<margin>left-middle</margin>
-Or, after you have had your drugs pestled by a <pro>peasant</pro>. And
-having put them in your <tl>crucible</tl>, &amp; the latter luted &amp;
+<ab margin="left-middle">
+
+
+Or else after you have had your drugs <tl>pestled</tl> by some <pro>rustic</pro>. And
+having put them in your <tl><oc>crucible</oc></tl>, &amp; the latter <m><tl>luted</tl></m> &amp;
+
 dry as said &amp; placed into the <tl>furnace</tl>, have the fire
-managed by a <pro><env>shop</env> boy</pro>, familiar with charcoal.
+managed by a <pro><env>shop</env> boy</pro> familiar with charcoal.
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 One sells well to <pro>silversmiths</pro> this <m>metallic</m> mass to
 soften their <m>solder</m>, because when melting, <m>latten</m> exhales.
 And with a little of this substance, they <m>solder</m> over the other

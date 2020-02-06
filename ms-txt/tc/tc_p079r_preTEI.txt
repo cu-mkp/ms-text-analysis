@@ -31,7 +31,7 @@ noyr
 
 
 de courroieur de la coperose & de lalung de
-Glace
+    Glace
 
 
 Pour faire Eau pour le mal des
@@ -61,11 +61,11 @@ lad{icte} pouldre tant quelle soit toute passee puys en
 lavez
 
 
-vos vyeuxa toute heure
+vos yeuxa toute heure
 q{ue} vous vouldres & aveq layde
 
 
-de dieu vous vous en trouveres fort bien
+de dieuvous vous en trouveres fort bien
 
 
 Pour faire bronze en coulleur dor
@@ -84,8 +84,6 @@ fondre dedans une cuilliere quand Il sera fondu mectes
 
 
 largent vif dedans puys le gectes en ligne puys
-
-
 pilles toutes ses drogues ensemble dedans ung mortier
 &
 

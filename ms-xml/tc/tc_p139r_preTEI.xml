@@ -1,10 +1,10 @@
-<root>
-<page>139r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="139r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image</image>
 
-<div>
-<id>p139r_1</id>
+
+
+<div id="p139r_1" categories="casting" continued="yes">
+
 <head>Gect de <m>plomb</m> et d<m>estaim</m></head>
 
 <ab>
@@ -15,31 +15,31 @@ frangible pourcequil se gecte fort chault &amp; se rend demy<lb/>
 
 calcine<lb/>
 
-use doncq<lb/>
+use do<ups>ncq</ups><lb/>
 
-du noeuf</add></ab>
+du noeu<ups>f</ups></add><hr/></ab>
 
 <ab>La ligue que jay pratiquee pour <al>lesards</al> &amp;
 <al>serpents</al><lb/>
 
 cest deulx <ms>℥</ms> d<m>estaim fin</m> sur une <ms>lb</ms> de
-<m>plomb<comment>c_139r_01</comment> noeuf &amp; non<lb/>
+<m>plomb<comment rid="c_139r_01"/> noeuf &amp; non<lb/>
 
-sophistique</m> Le <tl>moule</tl> se faict du sable susdict commun<lb/>
+sophistique</m> Le <tl>moule</tl> se faict du <m>sable</m> susdict commun<lb/>
 
-a tous<comment>c_139r_02</comment> <m>metaulx</m> co<exp>mm</exp>e il
+a tous<comment rid="c_139r_02"/> <m>metaulx</m> co<exp>mm</exp>e il
 est recuit le laisser froidir <sn>jusques<lb/>
 
 a ce que tu puisses tenir le <tl><bp>doigt</bp></tl> sans læsion dans le
 trou<lb/>
 
-du gect</sn> Quand au <m>plomb</m> on le fond dans un <tl>crusol</tl>
+du gect</sn> Quand au <m>plomb</m> on le fond dans un <tl><oc>crusol</oc></tl>
 <del>ju</del><lb/>
 
-a foeu de <tl>souflets</tl> jusques a ce que le <tl>crusol</tl> &amp; le
+a foeu de <tl>souflets</tl> jusques a ce que le <tl><oc>crusol</oc></tl> &amp; le
 <m>plomb</m><lb/>
 
-soict rouge Comme il est en cet estat repurge le de <m>charbon</m><lb/>
+soict rouge Comme il est en cet estat repurge le de <m>charbo<ups>ns</ups></m><lb/>
 
 ou avecq un <tl>raclouer</tl> faict a propos ou avecq le vent du<lb/>
 
@@ -65,7 +65,7 @@ rouge co<exp>mm</exp>e <m>metal fondu</m> quand il entre dans le
 <tl>moule</tl> Et<lb/>
 
 si le <tl>moule</tl> est grand il est mieulx de le mectre en <tl>une
-presse</tl><lb/>
+press<ups>e</ups></tl><lb/>
 
 affin quil se joigne bien &amp; que le <m>plomb</m> ne sespanche<lb/>
 
@@ -76,34 +76,34 @@ que pour la premiere ou deux ou troisiesme fois<lb/>
 ton <tl>moule</tl> ne fust pas remply Gecte hardiment car<lb/>
 
 pourveu que ton <m>metal</m> soict rouge il se reprendra &amp;
-joindra<lb/>
+joindr<ups>a</ups><lb/>
 
-avecq laultre Et viendra tresnet co<exp>mm</exp>e le principal<lb/>
+avecq laultre Et viendra tresnet co<exp>mm</exp>e le principal<comment rid="c_137r_03"/><lb/>
 
 Le mesme se peult dire de l<m>estaim fin</m> pour les choses<lb/>
 
 tanvres Et la ligue de l<m>estain fin</m> cest dune <ms>℥</ms> de
-<m>plomb<lb/>
+<m>plom<ups>b</ups><lb/>
 
 neuf</m> sur une <ms>lb</ms> diceluy Les grands <tl>moules</tl> se
-doibvent<lb/>
+doibv<ups>ent</ups><lb/>
 
 mectre en <tl>presses bien serres</tl> entre deulx <tl><m>planches de
 cuivre</m></tl><lb/>
 
-<del>pu</del> &amp; puys les ensevelir dans le sable qui est meilleur
+<del>pu</del> &amp; puys les ensevelir dans le <m>sable</m> qui est meilleur
 que<lb/>
 
 les <m>cendres</m> pourcequ<del>’i</del>e<del>l est</del> par sa
 poisanteur il selle mieulx<lb/>
 
-Aultrem<corr><exp>ent</exp></corr> ses <tl>grands moules</tl> sont
-subgects a sentrouvrir par<lb/>
+Aultrem ses <tl>grands moules</tl> sont
+subgects a sentrouvrir pa<ups>r</ups><lb/>
 
 la poisanteur du <m>metal</m> Aulcuns font un <tl>pot quarre</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand la medaille est espesse<lb/>
 
 on nest pas astraint de gecter<lb/>
@@ -112,11 +112,11 @@ si chault que quand elle est<lb/>
 
 tanvre</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark><lb/>
 Note que si tu<lb/>
 
 les veulx gecter<lb/>
@@ -151,13 +151,13 @@ sil noircist le<lb/>
 
 trop chault</ms></ab>
 
-<ab>
-<margin>left-middle</margin>
-@Si tu veulx<lb/>
+<ab margin="left-middle">
 
-gecter un <m>foeillet<lb/></m>
+Si tu veulx<lb/>
 
-<m>escript</m> Fais ta<lb/>
+gecter un <m>foeillet<lb/>
+
+escript</m> Fais ta<lb/>
 
 ligue de <del>plom</del><lb/>
 
@@ -197,7 +197,7 @@ laultre <tl><m>carton</m><lb/>
 
 adapte</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

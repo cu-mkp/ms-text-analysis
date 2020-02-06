@@ -1,13 +1,13 @@
-<root>
-<page>170r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="170r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image</image>
 
-<div>
 
-<cont/>
 
-<id>p169v_2</id>
+<div continues="yes" id="p169v_2" categories="casting">
+
+
+
+
 
 <ab>de <m>parfum</m> &amp; semblable. Mays advise qu’il fault que<lb/>
 
@@ -23,14 +23,13 @@ fondue &amp; un peu de <m>rousine</m>.</ab>
 
 </div>
 
-<div>
+<div id="p170r_1" categories="casting">
 
-<id>p170r_1</id>
+
 
 <head>Medailles courantes</head>
 
-<ab>On faict les <tl>poinçons de relief</tl> d’<m>acier non trempé</m>,
-puys<lb/>
+<ab>On faict les <tl>poinçons de relief</tl> d’<m>acier non trempé</m>,<comment rid="c_170r_03"/> puys<lb/>
 
 on le<corr>s</corr> trampe &amp; avecq <corr>ceulx</corr> cy on frappe
 sur des <tl>matrices</tl>, non rougies<lb/>
@@ -41,9 +40,9 @@ acerré</m></tl>, recuit &amp; adoulcy, qu’on trampe aprés.</ab>
 
 </div>
 
-<div>
+<div id="p170r_2" categories="casting">
 
-<id>p170r_2</id>
+
 
 <head>Gect</head>
 
@@ -57,9 +56,9 @@ peu<lb/>
 
 </div>
 
-<div>
+<div id="p170r_3" categories="casting">
 
-<id>p170r_3</id>
+
 
 <head><tl>Crampons</tl></head>
 
@@ -70,9 +69,9 @@ qu’il ne s’esbranle point.</ab>
 
 </div>
 
-<div>
+<div id="p170r_4" categories="casting">
 
-<id>p170r_4</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -87,9 +86,9 @@ veulent estre <del>recu</del> deseiché<corr>s</corr> <env>à l’air</env>
 
 </div>
 
-<div>
+<div id="p170r_5" categories="casting">
 
-<id>p170r_5</id>
+
 
 <head>Ouvrages espés d’<m>estain</m></head>
 
@@ -104,9 +103,9 @@ rouge</m>.</ab>
 
 </div>
 
-<div>
+<div id="p170r_6" categories="casting">
 
-<id>p170r_6</id>
+
 
 <head>Nettoyer <tl>moules</tl> clos</head>
 
@@ -125,25 +124,25 @@ Soufle en dedans &amp; suppe<lb/>
 attirant à toy. Engrossis plustost que mouler la queue avecq de la
 <m>cire</m>, puys couppe la<lb/>
 
-<figure>
+    <figure size="x-small" id="fig_p170r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE">
 
-<id>fig_p170r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE</link>
 
-</figure></ab>
 
-<ab><margin>left-top</margin>
 
-<figure>
+</figure><comment rid="c_170r_02"/></ab>
 
-<id>fig_p170r_1</id>
+<ab margin="left-top">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU</link>
+    <figure size="x-small" id="fig_p170r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU">
+
+
+
+
 
 </figure>
 
-&amp; raporte &amp; <m>soulde</m> une queue de <m>fil de letton</m> par
+<comment rid="c_170r_01"/> &amp; raporte &amp; <m>soulde</m> une queue de <m>fil de letton</m> par
 <m>souldure</m>. Les grumeleures d’une fleur, c’est peu<lb/>
 
 de chose, car cella se peult oster avecq le <tl>chaple</tl>, mays que

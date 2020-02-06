@@ -1,17 +1,17 @@
-<root>
-<page>030r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="030r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image</image>
 
-<div>
-<id>p030r_1</id>
+
+
+<div id="p030r_1" categories="metal process;practical optics">
+
 <head><m>Plomb</m></head>
 
 <ab>
 
 Le meilleur plus gras &amp; plus douls saporte d<pl>allemaigne</pl><lb/>
 
-qui nest pas en <ms>saulmon</ms> mays en <ms>lattes</ms> de la
+qui nest pas en saulmon<comment rid="c_028v_04"/> mays en lattes<comment rid="c_030r_03"/> de la
 longueur<lb/>
 
 du <ms><bp>bras</bp></ms> ou environ &amp; de largeur de trois
@@ -24,14 +24,14 @@ des petits mirouers </ab>
 
 </div>
 
-<div>
-<id>p030r_2</id>
-<head><pro>Pintier</pro></head>
+<div id="p030r_2" categories="casting" continued="yes">
+
+<head><comment rid="c_030r_02"/><pro>Pintier</pro></head>
 
 <ab>Ils font leurs <tl>moules</tl> aussy de <m>metal</m> qui sont de
 plus grand<lb/>
 
-duree &amp; moulent plus net que le <m>grais</m> pourceque la
+duree &amp; moulent plus net que le <m>grais</m><comment rid="c_008v_02"/> pourceque la
 vaisselle<lb/>
 
 y vient sans baves &amp; bien unye Mays cest pour les
@@ -45,7 +45,7 @@ principallem<exp>ent</exp> de <m>metal</m> pour bassins &amp; esguieres
 
 &amp; semblabes choses qui sont figurees</ab>
 
-<ab>Pour les pintes les <tl>moules</tl> se font de <m>terre ardille
+    <ab>Pour les pintes<comment rid="c_030r_01"/> les <tl>moules</tl> se font de <m>terre ardille
 blanche</m><lb/>
 
 meslee de <m>fiente de <al>cheval</al></m> &amp; <m>bourre</m> &amp;
@@ -90,7 +90,7 @@ selon la<lb/>
 grandeur des plats &amp; des assiettes Et quand ilz veulent
 apliquer</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,45 +1,45 @@
-<root>
-<page>060v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="060v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item</image>
 
-<div>
 
-<id>p060v_1</id>
+
+<div id="p060v_1" categories="varnish">
+
+
 
 <head><m>Vernis</m> sec en une <ms><tmp>heure</tmp></ms></head>
 
-<ab>P<exp>rens</exp><m>huile <add>@ de tourmentine</add> blanc</m>
-<add>@ &amp;</add> <m>termentine</m> &amp; <m>mastic pulverisé &amp;
+<ab>P<exp>rens</exp> <m>huile <add> de tourmentine</add> blanc</m>
+<add> &amp;</add> <m>termentine</m> &amp; <m>mastic, pulverisé &amp;
 passé<lb/>
 
 subtillem<exp>ent</exp> par un <tl>tamis</tl></m>, &amp; fais bouillir
 ensemble, remua<exp>n</exp>t<lb/>
 
-tousjours avecq un <tl>baston</tl> jusques à ce qu'il soict sec. Et<lb/>
+tousjours avecq un <tl>baston</tl> jusques à ce qu’il soict sec. Et<lb/>
 
 mects parmy pour deulx <ms>liards</ms> de bonne <m>eau de vye</m>.<lb/>
 
 Et si tu tires la larme de <m>mastic</m>, il sera plus blanc &amp;<lb/>
 
-plus cler. @ Il n'est point besoing d'y mectre de la
+plus cler.  Il n’est point besoing d’y mectre de la
 <m>tourmentine</m>,<lb/>
 
 mays seulem<exp>ent</exp> de son <m>huile blanc de tourmentine</m> &amp;
 du <m>mastic pulverisé</m><lb/>
 
-à discretion, jusques à ce qu'il aye assés de
-corps<figure>+</figure></ab>
+à discretion, jusques à ce qu’il aye assés de
+corps<mark>+</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark>
 
 Ce qu’on cognoist quand estant mis<lb/>
 
-sur un <tl>costeau</tl>, <env>au vent</env> il ne coule point.<lb/>
+sur un <tl>costeau</tl> <env>au vent</env>, il ne coule point.<lb/>
 
 Cestuy cy est excellent pour tableaulx<lb/>
 
@@ -47,39 +47,37 @@ et est sec en une <ms><tmp>heure</tmp></ms><lb/>
 
 et ne grippe point<lb/>
 
-co<exp>mm</exp>e celuy de <m>tour<lb/>
+co<exp>mm</exp>e celuy de <m>tour-<lb/>
 
 mentine</m>.</ab>
 </div>
 
-<div>
+<div id="p060v_2" categories="painting">
 
-<id>p060v_2</id>
 
-<head><comment>c_060v_01</comment>@ Laver les tableaulx</head>
+
+<head> Laver les tableaulx</head>
 
 <ab>Aulcuns les lavent avecq <m>eau de savon</m>, aultres avecq<lb/>
 
-<m>urine</m>, aultres avecq <m>vin blanc</m>, car la pouldre gaste
+<m><bp>urine</bp></m>, aultres avecq <m>vin blanc</m>, car la pouldre gaste
 les<lb/>
 
 couleurs.</ab>
 
 </div>
 
-<div>
+<div id="p060v_3" categories="painting">
 
-<id>p060v_3</id>
 
-<ab>
+<head margin="left-top"><m>Huile d’<pa>aspic</pa></m></head>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
 
-<render>tall</render>
 
-<head><comment>c_060v_02</comment><m>@ Huile d'<pa>aspic</pa></m></head>
 
-Il n'en fault pas<lb/>
+
+Il n’en fault pas<lb/>
 
 mectre parmy les<lb/>
 
@@ -87,7 +85,7 @@ couleurs, car il est si<lb/>
 
 brusc et penetrant<lb/>
 
-qu'il faict escailler<lb/>
+qu’il faict escailler<lb/>
 
 les couleurs, qui aprés<lb/>
 
@@ -95,7 +93,7 @@ se deffont. Et pour<lb/>
 
 ceste cause les <pro>painctres</pro><lb/>
 
-l'employent à nettoyer<lb/>
+l’employent à nettoyer<lb/>
 
 leurs <tl>pinceaulx à<lb/>
 
@@ -117,9 +115,9 @@ par un aultre, secretement<lb/>
 
 <tmp>le soir</tmp> versent quelques<lb/>
 
-gouttes d'<m>huile <del>sur le</del><lb/>
+gouttes d’<m>huile <del>sur le</del><lb/>
 
-d'<pa>aspic</pa></m> sur le bord d'en<lb/>
+d’<pa>aspic</pa></m> sur le bord d’en<lb/>
 
 hault du tableau, de<lb/>
 
@@ -135,7 +133,7 @@ deffaire les couleurs,<lb/>
 
 de sorte que pour faire<lb/>
 
-l'ouvrage uny &amp; d'un<lb/>
+l’ouvrage uny &amp; d’un<lb/>
 
 mesme contexte ilz sont<lb/>
 
@@ -143,15 +141,15 @@ contraincts de reffaire<lb/>
 
 tout et ainsy perdent<lb/>
 
-a leur besoigne</ab>
+a leur besoigne.</ab>
 
 </div>
 
-<div>
+<div id="p060v_4" categories="painting;varnish">
 
-<id>p060v_4</id>
 
-<head>@ Couleur de <m>bois</m></head>
+
+<head> Couleur de <m>bois</m></head>
 
 <ab>On donne une couche de <m>bistre</m>, puys une main de<lb/>
 
@@ -159,9 +157,9 @@ a leur besoigne</ab>
 
 </div>
 
-<div>
+<div id="p060v_5" categories="painting" continued="yes">
 
-<id>p060v_5</id>
+
 
 <head>Labeur des <pl>Flamens</pl></head>
 
@@ -171,12 +169,12 @@ du<lb/>
 pinceau</tl> à <del>f</del> la façon des bons <pro>enlumineurs</pro> et
 broyent leurs<lb/>
 
-couleurs fort subtillement, se gardent de la poulsiere et nettoyent<lb/>
+couleurs fort subtillement, se gardent de la poulsiere, et nettoyent<lb/>
 
 souvent leur <tl>pinceau</tl> des bouts de <m>poil</m> que quelque fois
 ilz<lb/>
 
-laissent, pource que cela demeurant sur l'ouvrage <del>il cela</del>
+laissent, pource que cela demeurant sur l’ouvrage <del>il cela</del>
 il<lb/>
 
 empescheroit de travailler nettement, de quoy il sont fort curieux.<lb/>
@@ -186,22 +184,22 @@ mesmem<exp>ent</exp><lb/>
 
 en petit ouvrage, en quoy il fault employer plus de diligence<lb/>
 
-pource qu'il se voict de plus pres. Ils achevent
+pource qu’il se voict de plus pres. Ils achevent
 communem<corr><exp>ent</exp></corr> le front<lb/>
 
 puys les yeulx, aprés le nes, enfin la bouche et le reste.<lb/>
 
 Mays ilz ne font pas comme quelques uns qui <del>fo</del> couchent<lb/>
 
-deulx ou trois carnations differentes, l'une jaulnastre &amp;
-l'autre<lb/>
+deulx ou trois carnations differentes, l’une jaulnastre &amp;
+l’autre<lb/>
 
 obscure, pource que les couleurs tousjours se meslent &amp; enfin<lb/>
 
-se meurent. Seulement ilz <del>t</del> font
-proprem<corr><exp>ent</exp></corr> leur impression.</ab>
+se meurent. Seulement ilz <del><ill/></del> font
+proprem<corr><exp>ent</exp></corr> leur impression,</ab>
 
-<cont/>
+
 
 </div>
 </root>

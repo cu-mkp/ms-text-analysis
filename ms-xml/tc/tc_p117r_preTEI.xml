@@ -1,17 +1,17 @@
-<root>
-<page>117r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="117r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f239.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f239.image</image>
 
-<div>
-<id>p117r_1</id>
+
+
+<div id="p117r_1" categories="casting">
+
 <head>Moyen de mouler les fleurs et herbes</head>
 
 <ab>Il les fault choisir en leur entiere verdure &amp; vivacite &amp;
 <del>les mou</del><lb/>
 
 ne les cuillir pas sil est possible qua lheure quon les vouldra
-mouler<lb/>
+moule<ups>r</ups><lb/>
 
 affin quelles ne se fanissent Ou sils te les fault porter de loing<lb/>
 
@@ -22,22 +22,22 @@ Fais doncq premierement une queue de <m>cire</m> en poincte
 co<exp>mm</exp>e une quille<lb/>
 
 de grandeur convenable a ce que tu veulx gecter co<exp>mm</exp>e tu vois
-au marge<lb/>
+au mar<ups>ge</ups><lb/>
 
 cotthe A Pose &amp; pique au pied de ceste petite quille ung bout
 de<lb/>
 
 <m>fil de fer</m> assez grosset &amp; fort Et a la poincte dicelle tu
-adapteras<lb/>
+adaptera<ups>s</ups><lb/>
 
 la queue de ta fleur ou de ton herbe Cela faict poses la
-proprem<exp>ent</exp><lb/>
+propre<ups>m<exp>ent</exp></ups><lb/>
 
 a part Et disposes ton <del><tl>moule</tl> de t</del> cercle &amp;
 contour d<m>ardille</m> co<exp>mm</exp>e<lb/>
 
 tu as faict pour les <al>serpens</al> en forme de <mu>mandorre</mu>
-<del>ainsy que</del> selon<lb/>
+<del>ainsy que</del> selo<ups>n</ups><lb/>
 
 la grandeur de ton herbe Puys prens celle que tu as præparee<lb/>
 
@@ -51,15 +51,15 @@ la <tl>queue de <m>fer</m></tl> par le bout de la <mu>mandorle</mu> de
 <m>terre</m> affin que la<lb/>
 
 quille de <m>cire</m> <del>q</del> ou lherbe est hantee se joingne au
-bout de la <mu>mandorle</mu><lb/>
+bout de la <mu>mand<ups>orle</ups></mu><lb/>
 
 de <m>terre</m> Et dispose tellement ton herbe ainsy couchee quelle
-demeure<lb/>
+demeur<ups>e</ups><lb/>
 
 au milieu de la dicte <mu>mandorre</mu> sans toucher en aulcun coste
 affin<lb/>
 
-que l<del>a</del>e sable que tu y gecteras prene esgalle espesseur
+que l<del>a</del>e <m>sable</m> que tu y gecteras prene esgalle espesseur
 <del>co<exp>mm</exp>e</del> par<lb/>
 
 tout &amp; <add>excede</add> soict de deulx bons
@@ -68,7 +68,7 @@ tout &amp; <add>excede</add> soict de deulx bons
 de <del>telle</del> lherbe Et ayant bien asseure la <tl>queue de
 <m>fer</m></tl> Gecte<lb/>
 
-promptement <del>destrempe</del> ton sable destrempe beaucoup plus
+promptement <del>destrempe</del> ton <m>sable destrempe</m> beaucoup plus
 cler<lb/>
 
 que pour les <al>serpents</al> dedans la <mu>mandorle</mu> Et le
@@ -77,10 +77,10 @@ plustost sera<lb/>
 le meilleur affin que l<m>eau de vye</m> ne se seiche point Et
 advise<lb/>
 
-dy mectre un peu plus d<m>eau de sel armoniac parmy la commune</m><lb/>
+dy mectre un peu plus d<m>eau de sel armoniac parmy la commune</m><comment rid="c_117r_02"/><lb/>
 
 que tu ne fais pour les <al>serpents</al> Et quand tu ferois du
-sable<lb/>
+<m>sable</m><lb/>
 
 expres pour les bouquets ou tu meslasses un peu plus d<m>alum de<lb/>
 
@@ -99,12 +99,12 @@ Et note que si lherbe que tu veulx gecter a la tige &amp; queue
 forte<lb/>
 
 tu la peulx gecter couchee co<exp>mm</exp>e dict a este Mais si cest
-quelque <add>fleur</add><lb/>
+quelque <add>fl<ups>eur</ups></add><lb/>
 
 foible &amp; delicate <del>ject</del> plante la debout avecq le <tl>pied
-de <m>cire</m></tl> pourceque<lb/>
+de <m>cire</m></tl> pource<ups>que</ups><lb/>
 
-le sable la <del>gectera</del> relevera tousjours en hault
+le <m>sable</m> la <del>gectera</del> relevera tousjours en hault
 esta<exp>n</exp>t fort cler<lb/>
 
 Noublie pas dadapter deulx souspirails avecq deulx <tl>petits
@@ -113,55 +113,34 @@ bastons</tl><lb/>
 prenant au pied du gect qui est la poincte de la <tl>quille de
 <m>cire</m></tl></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Si les herbes sont si delicates<lb/>
 
 quelles seslevent en hault<lb/>
 
-quand on gecte le sable destrempe<lb/>
+quand on gecte le <m>sable destrempe</m><lb/>
 
 on les peult arrester &amp; contenir avecq du <tl>filet</tl> passe parmy
-le cercle du <tl>moule</tl> avecq une <tl>esguille</tl></ab>
+le cercle du <tl>moule</tl> avecq une <tl>esg<ups>uille</ups></tl></ab>
 
-<figure>
-
-<id>fig_p117r_1</id>
-
-<margin>left-top</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs</link>
-
+<figure id="fig_p117r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs">
 </figure>
 
-<figure>
-
-<id>fig_p117r_2</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5VURRYzlWOFByNzQ</link>
-
+<figure id="fig_p117r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VURRYzlWOFByNzQ">
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Tant plus ta<lb/>
 
 fleur est subtile tant plus il<lb/>
 
 fault que le<lb/>
 
-sable soict clair</ab>
+<m>sable</m> soict clair</ab>
 
-<figure>
-
-<id>fig_p117r_3</id>
-
-<margin>left-bottom</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U</link>
-
+<figure id="fig_p117r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U">
 <caption><tl>Moule en noyau</tl></caption>
 
 </figure>

@@ -1,32 +1,32 @@
-<root>
-<page>061v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="061v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image</image>
 
-<div>
 
-<id>p061v_1</id>
+
+<div id="p061v_1" categories="painting;practical optics">
+
+
 
 <head><m>Eau</m> pour donner jour au<lb/>
 
 <pro>painctre</pro></head>
 
-<ab>Distille l'<m>eau de vigne</m> &amp; la mects dans une grande<lb/>
+<ab>Distille l’<m>eau de vigne</m><comment rid="c_061v_01"/> &amp; la mects dans une <tl>grande<lb/>
 
-<tl>bouteille</tl>. Et derriere icelle mects ta <tl>chandelle</tl>,
+bouteille</tl>. Et derriere icelle mects ta <tl>chandelle</tl>,
 &amp; elle ne <lb/>
 
 nuyra point à ta veue.</ab>
 
 </div>
 
-<div>
+<div id="p061v_2" categories="painting;varnish;practical optics">
 
-<id>p061v_2</id>
 
-<head>Chassis des <pl>Allemans</pl></head>
 
-<ab>Les <pl>Allemans</pl> qui travaillent en petit font des chassis non
+<head><tl>Chassis</tl><comment rid="c_061v_02"/> des <pl>Allemans</pl></head>
+
+<ab>Les <pl>Allemans</pl> qui travaillent en petit font des <tl>chassis</tl> non
 de<lb/>
 
 <m>verre</m>, mays de <m>toile</m> oincte de <m>vernis clair de
@@ -35,7 +35,7 @@ tourmentine</m>,<lb/>
 sçavoir <ms>moictié</ms> <m>huile de tourmentine</m> &amp; <ms>presque
 moictié</ms> de <m>tourmentine</m>,<lb/>
 
-pource que ce jour, qui n'est pas si esclatant que du <m>verre</m>,
+pource que ce jour, qui n’est pas si esclatant que du <m>verre</m>,
 leur<lb/>
 
 faict parroistre les traicts plus gros. Et quand ilz veulent<lb/>
@@ -50,19 +50,19 @@ de <al>rat</al></m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p061v_3" categories="painting">
 
-<id>p061v_3</id>
 
-<head><m>Azur d'esmail</m> à <m>huile</m></head>
 
-<ab>Il fault choisir le plus <del>beau</del> deslié qu'il sera possible,
+<head><m>Azur d’esmail</m> à <m>huile</m></head>
+
+<ab>Il fault choisir le plus <del>beau</del> deslié qu’il sera possible,
 car<lb/>
 
-s'il est gros on n'en peult travailler à <m>huile</m>. Et si tu
-n'en<lb/>
+s’il est gros on n’en peult travailler à <m>huile</m>. Et si tu
+n’en<lb/>
 
-trouves d'assés subtil, tu le peulx bien broyer, non à <m>eau</m><lb/>
+trouves d’assés subtil, tu le peulx bien broyer, non à <m>eau</m><lb/>
 
 mays à <m>huile</m>, &amp; le broyer espés. Aprés pose le sur ta
 <tl>pallete</tl><lb/>
@@ -70,13 +70,13 @@ mays à <m>huile</m>, &amp; le broyer espés. Aprés pose le sur ta
 &amp; y mesle un peu de <m>tourmentine</m>, mays non gueres, pour
 luy<lb/>
 
-donner liaison, et fais qu'il soict espés comme <m>beurre</m> ou
+donner liaison, et fais qu’il soict espés comme <m>beurre</m> ou
 <m>mortier</m>,<lb/>
 
 &amp; puys avecq un <tl>assés gros pinceau</tl> travaille le en esgaiant
 tousjours<lb/>
 
-le <tl>pinceau</tl>. Puys pour l'adoulcir hache à denteleure avecq
+le <tl>pinceau</tl>. Puys pour l’adoulcir hache à denteleure avecq
 <del>le</del><lb/>
 
 la <tl>poincte du pinceau</tl>. Les rehaulssements se feront avecq<lb/>
@@ -84,11 +84,11 @@ la <tl>poincte du pinceau</tl>. Les rehaulssements se feront avecq<lb/>
 <del>d</del> luy mesme deslayé avec<corr>q</corr> <m>ceruse</m> qui, luy
 donnant lyaison,<lb/>
 
-le rend plus aisé à travailler. Ainsy l'ay je veu employer.<lb/>
+le rend plus aisé à travailler. Ainsy l’ay je veu employer.<lb/>
 
-Il fault qu'il soict fort espés &amp; quasi que tu ayes pene<lb/>
+Il fault qu’il soict fort espés &amp; quasi que tu ayes pene<lb/>
 
-a l'estendre avecq le <tl>pinceau</tl>. Et n'est que bon que tu<lb/>
+a l’estendre avecq le <tl>pinceau</tl>. Et n’est que bon que tu<lb/>
 
 couches le tableau. Toutes ses difficultés ne se font point<lb/>
 
@@ -96,13 +96,13 @@ quand il est fort subtil &amp; delié sans estre broyé, et ne<lb/>
 
 coule point.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-L'<m>azur</m> veult estre<lb/>
 
-couché net, c'est pourquoy<lb/>
+L’<m>azur</m> veult estre<lb/>
+
+couché net, c’est pourquoy<lb/>
 
 <del>quan</del> il se meurt tousjours<lb/>
 
@@ -122,19 +122,19 @@ la vielle couche &amp; impri-<lb/>
 
 mer de nouveau, puys <lb/>
 
-poser l'<m>azur</m>. C'est<lb/>
+poser l’<m>azur</m>. C’est<lb/>
 
 ainsy presque des<lb/>
 
 aultres couleurs<lb/>.
 
-L'<m>azur</m> aussy, broyé<lb/>
+L’<m>azur</m> aussy, broyé<lb/>
 
 à <m>huile</m>, demeure tousjours<lb/>
 
-luisant, ce qui n'est<lb/>
+luisant, ce qui n’est<lb/>
 
-pas bon signe à l'<m>azur</m>,<lb/>
+pas bon signe à l’<m>azur</m>,<lb/>
 
 car cela le fait<lb/>
 
@@ -142,14 +142,14 @@ mourir.</ab>
 
 </div>
 
-<div>
+<div id="p061v_4" categories="painting">
 
-<id>p061v_4</id>
+
 
 <head>Broyer couleurs</head>
 
 <ab>Une table de <del><m>mabre</m> &amp; p</del> <m>verre</m>
-<ms>espoisse d'un <del><m>verre</m></del> <bp>poulce</bp></ms><lb/>
+<ms>espoisse d’un <del><m>verre</m></del> <bp>poulce</bp></ms><lb/>
 
 est plus propre pour broyer nettem<exp>ent</exp> les couleurs que chose
 qui<lb/>

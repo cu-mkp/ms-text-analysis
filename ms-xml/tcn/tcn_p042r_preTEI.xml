@@ -1,10 +1,10 @@
-<root>
-<page>042r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="042r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image</image>
 
-<div>
-<id>p042r_1</id>
+
+
+<div id="p042r_1" categories="casting">
+
 <head><pro>Fondeur</pro></head>
 
 <ab>Le <tl>moule de <m>terre</m></tl> se recuit jusques à estre quelque
@@ -20,21 +20,21 @@ recuit<lb/>
 
 </div>
 
-<div>
-<id>p042r_2</id>
+<div id="p042r_2" categories="wax process">
+
 <head><m>Cire</m> à cachet et empraincte</head>
 
 <ab>Pour les grands seaulx de <m>cire</m>, il fault avoir de<lb/>
 
-l'<m>eau tiede</m> tousjours preste &amp; <del>apre</del> tenir ta
+l’<m>eau tiede</m> tousjours preste &amp; <del>apre</del> tenir ta
 <m>cire</m> dedans.<lb/>
 
 Mays plustot il la fault bien avoyr pestrie entre<lb/>
 
 les <bp>mains</bp> pour la rendre bien unie, car aultrem<exp>ent</exp>
-l'<m>eau</m><lb/>
+l’<m>eau</m><lb/>
 
-qui se mectroit entre deulx l'empescheroit de s'unir. Aprés<lb/>
+qui se mectroit entre deulx l’empescheroit de s’unir. Aprés<lb/>
 
 tu en empraindras ce que tu vouldras et mectras trois<lb/>
 
@@ -44,13 +44,13 @@ ou quattre <m>papiers</m> dessus, &amp; avecq un <tl>baston</tl>
 arrondy comme un <tl>pilon</tl>, tu la rouleras co<exp>mm</exp>e si tu
 la voulois<lb/>
 
-polir, et elle s'attaquera au <m>papier</m>, qui t'aydera à<lb/>
+polir, et elle s’attaquera au <m>papier</m>, qui t’aydera à<lb/>
 
-la relever du moule. Ainsy tu empraindras mieulx<lb/>
+la relever du <tl>moule</tl>. Ainsy tu empraindras mieulx<lb/>
 
 que si tu la gectois fondue. Tu peulx tailler les figures<lb/>
 
-&amp; les dorer, <m>argenter</m> &amp; paindre de <m>couleurs à
+&amp; les <m>dorer</m>, <m>argenter</m> &amp; paindre de <m>couleurs à
 vernis</m> &amp; les<lb/>
 
 raporter sur un fonds de <m>verre</m> painct de <m>couleurs à<lb/>
@@ -62,8 +62,8 @@ par incrustation, fais le avecq <m>gomme armoniac</m> destrempée<lb/>
 avecq <m>vinagre</m>, et tu auras bonne <m>colle</m>.</ab>
 
 </div>
-<div>
-<id>p042r_3</id>
+<div id="p042r_3" categories="casting">
+
 <head>Pour gecter de <m>plastre</m></head>
 
 <ab>Fays fondre de la <m>cire</m>, &amp; avecq une grosse

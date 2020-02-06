@@ -1,6 +1,7 @@
 
 ~~~~~~~~~~~~~~~001r~~~~~~~~~~~~~~~
 
+Liste de noms
 
 M{estr}e Nicolas Coste a la rue de la heaumerie a
 limage s{ainc}t claude/ mirouers
@@ -15,6 +16,7 @@ boucheriecourroyeur essayer fleur de
 pastel
 
 
+Liste
 
 
 
@@ -25,46 +27,33 @@ Sacra Eleusinæ deæ propalare nefas
 Trompettes voy le livre des funerailles
 
 
+Liste de livres et d'autheurs
 
-
-@
-@Vuolfangus lazius
-
-
-Petrus appianus Mathemat{icus}
-
-
+Vuolfangus lazius
+Petrus appianusMathemat{icus}
 Ingolstadiensis Comment. urb. rom.
-
 Hieronimo Ruscelli
-
-
 Hermolaus barbarus
-
-
-Angelius Bargæus de aucupio et venatione
-
-
+Angelius Bargæusde aucupio et venatione
 Nicolaus Damascenus
-
-Cares{ariensis}@ de rebus
+Cares{ariensis}de rebus
 persarum
-
-
 Isidorus
-
-Osorius@
-
-
-Eupolemus historicus gentilis
+Osorius
+Eupolemushistoricus gentilis
 
 
 qui de rebus davidis & salomonis
 
 
-scripsit
-
--Cathalogue des villes
+scripsit 
+          
+          
+          
+          
+          
+mons{ieur}
+- Cathalogue des villes
 
 
 Calendrier des bergiers
@@ -83,7 +72,7 @@ Questions Aenigmatiques
 
 
 Des præceptes dagriculture
-+Le secret des finances a Lyon
++ Le secret des finances a Lyon
 Synesius
 Olaus Magnus
 +M{estr}e Bernard palissiinventeur des rustiques figulines du
@@ -92,76 +81,39 @@ roy
 
 et de la royne mere
 
-
-
-@Aquatilium animalium
-historiæ hypolito
-
-
-salviano typhernate authore Romæ
-1554
-
-
-
-@Les Annales de Normandie
-
-
-
-@Alexander Aphrodisæus
+Alexander Aphrodisæus
 Polydorus verg{ilius}
 Appianus
 Athenæus
-
-
 Pausanias
-
-
-Statius Thebaidos
-Servius in Aeneid{em}
+StatiusThebaidos
+Serviusin Aeneid{em}
 Macrobius
-
-
 Aulus Gellius
-
-
 Alexander ab Alex{andria}
 Festus
 Nonius
-Magius miscell{anea}
-Pollux onomast{icon}
+Magiusmiscell{anea}
+Polluxonomast{icon}
 Higinus
-
-
 Berosus
-
-
 Suetonius
-
-
 Valerius max{imus}
-
-
 Cornelius tacitu{s}
-
-
 Xenophon
 Seneca
 Dionisius Halicarnassensis
-
-
 Sabellicus
-Iulius Capitollin{us} @cum permultis
+cum permultis
 
-
-aliis 
+            
+aliisIulius Capitollin{us}
 Budæus
 Spartianus
 Blondus
 Volaterranus
 Herodotus
 Paulus Manutius
-
-
 Strabo
 Iulius firmicus
 Quintus Curtius
@@ -170,6 +122,18 @@ Cornelius Nepos
 Flavius Vopiscus
 
 
-@
-mons{ieur}
-@
+Liste de livres
+
+Aquatilium animalium
+historiæ hypolito
+
+
+salviano typhernate authore Romæ
+1554
+
+
+
+
+
+Les Annales de Normandie
+

@@ -1,29 +1,29 @@
-<root>
-<page>126v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="126v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image</image>
 
-<div>
 
-<id>p126v_1</id>
+
+<div id="p126v_1" categories="casting">
+
+
 
 <head><m><la>Crocum ferri</la></m></head>
 
-<ab>It is best made rather with <m>iron rust</m> than with
+<ab>It is much sooner made with <m>iron rust</m> than with
 <m>filings</m>. For if the <m>vinegar</m> <add>is good</add>, you will
 see it boil with large bubbles <del>as if it</del> on the <m>rust</m>,
-as it it were on the fire, on the <m>fillings</m>, it does not boil
+as if it were on the fire; on the <m>filings</m>, it does not boil
 unless it is put on the fire or <m>hot ashes</m>. However, when the
-<m>fillings</m> are passed through <m>vinegar</m> &amp; you have made it
-evaporate &amp; heat up &amp; it is very red, if you do this again for a
+<m>filings</m> are passed through <m>vinegar</m>, &amp; you have made it
+evaporate &amp; heat up, &amp; it is very red, if you do this again for a
 second time, the <m>vinegar</m> will have much more strength, &amp; the
-<m><la>crocum</la></m> will only be finer for it &amp; redder. Those who
+<m><la>crocum</la></m> will only be finer for it, &amp; redder. Those who
 use it to cast in <m>gold</m> <del><fr>ven</fr></del> buy the
-<ms>ounce</ms> for forty or fifty <ms><cn>sols</cn></ms>.</ab>
+<ms>ounce</ms> for forty or fifty <ms><cn>sous</cn></ms>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 It does not harden the <tl>molds</tl>, and, in scraping, one cannot tell
 that they are harder from it. But it makes the <tl>mold</tl> less dense,
@@ -31,56 +31,56 @@ and it drinks in and attracts the <m>gold</m> better.</ab>
 
 </div>
 
-<div>
+<div id="p126v_2" categories="casting">
 
-<id>p126v_2</id>
+
 
 <head><m>Plaster</m></head>
 
 <ab>You can mold with it as large a piece as you please. But if you take
 your <tl>molds</tl> from large works &amp; pieces of <m>wood</m>, it
-will not release well, unless you <del>boil</del> make your <m>wood</m>
-drink up <m>very hot wax</m>. For the <m>wood</m> absorbs &amp; drinks
+will not release well unless you <del>boil</del> make your <m>wood</m>
+imbibe <m>very hot wax</m>. For the <m>wood</m> absorbs &amp; drinks
 &amp; in this way attracts the <m>plaster</m>. You can assume the same
 thing for any other large piece of work. But the cure is to
-<del><fr>l’ab</fr></del> soak <del><fr>l’ouvra</fr></del> with <m>very
-hot wax</m> the work on which you want to cast your <m>plaster</m>. For,
+<del><fr>l’ab</fr></del> saturate <del><fr>l’ouvra</fr></del> with <m>very
+hot wax</m> the work on which you want to cast your <m>plaster</m>. For
 by this means, it will not drink it up &amp; will release very
 neatly.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
-If the <m>plaster</m> shrinks, it will always make flaws. Find some hard
-ones and <del>it</del> press your <tl>molds</tl> well together before
+If the <m>plaster</m> shrinks, it will always make flashing. Seek the hard
+kind and <del>it</del> put your <tl>molds</tl> well in the <tl>press</tl> before
 casting.</ab>
 
-<ab><margin>left-middle</margin>It is not good when it
+<ab margin="left-middle">It is not good when it
 shrinks.</ab></div>
 
-<div>
+<div id="p126v_3" categories="casting" continued="yes">
 
-<id>p126v_3</id>
+
 
 <head>Plants difficult to burn in the <fr>noyau</fr></head>
 
 <ab>Any plant which has a hard stem &amp; like <m>wood</m> is very
 difficult to burn in the <fr>noyau</fr>, such as <pa>asparagus</pa>,
-<pa>thyme</pa>, &amp; similar things, because they stay as <m>coal</m>
+<pa>thyme</pa>, &amp; similar things, because they stay as <m>charcoal</m>
 in the small conduits, &amp; if they do not reduce well into
 <m>ashes</m>, it is not possible to empty them from the <tl>mold</tl>.
-Some reheat them, to this effect, two or <del><fr>d</fr></del> three
+Some reheat them, to do this, two or <del><fr>d</fr></del> three
 times. Others, putting several plants together in the <tl>mold</tl>,
-pass through <del>threads</del> the plants &amp; <add>the</add>
-<del><fr>es <tl>moules</tl></fr></del> <tl>circle of <m>earth</m></tl>,
-which is to receive the wet sand,<del><fr>plusi</fr></del></ab>
+pass through <del>threads</del> the plants &amp; the<del><fr>es</fr></del><comment rid="c_126v_01"/>
+<del><tl>molds</tl></del> <tl>circle of <m>earth</m></tl>,
+which is to receive the <m>tempered sand</m>, <del><fr>plusi</fr></del></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-middle">
 
-This does proceed from plants that have a stem with lines, because
+This does not proceed from plants that have a stem with lines, because
 <pa>rosemary</pa> burns well, but it is in the nature of certain
 plants.</ab>
 
-<cont/>
+
 
 </div>
 </root>

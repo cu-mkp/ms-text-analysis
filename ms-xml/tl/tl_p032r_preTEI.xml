@@ -1,34 +1,33 @@
-<root>
-<page>032r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="032r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image</image>
 
-<div>
 
-<id>p032r_1</id>
+
+<div id="p032r_1" categories="arms and armor">
+
+
 
 <head>The body of the cuirass</head>
 
-<ab>The high lames of the pauldron of the <fr>brassard</fr> @ are like a
-masterpiece of the <pro>masters</pro>, for these pieces it is necessary
-that they be very precisely hollowed<comment>c_032r_01</comment> &amp;
-adjusted in order that the movement may be free. The bodies of the
-cuirass must be very evenly beaten &amp;
-driven<comment>c_032r_02</comment> with a <tl>hammer</tl>.</ab>
+<ab>The high plates of the pauldron of the <fr>brassard</fr>  are like a
+masterpiece of the <pro>masters</pro>, for it is necessary that
+these pieces be very precisely hollowed<comment rid="c_032r_01"/> &amp;
+adjusted in order that the movement may be free. Cuirass bodies
+must be very evenly beaten &amp; driven<comment rid="c_032r_02"/> with the <tl>hammer</tl>.</ab>
 
 <ab>Morions from <pl>Milan</pl> are all in one piece &amp; thus better
-than those that are of two<comment>c_032r_03</comment>.</ab>
+than those that are of two.<comment rid="c_032r_03"/></ab>
 
 </div>
 
-<div>
+<div id="p032r_2" categories="painting;varnish">
 
-<id>p032r_2</id>
+
 
 <head><pro>Painter</pro></head>
 
 <ab>As soon as the colors of panels are well dried, the <pl>Flemish</pl>
-varnish them so they do not die any further &amp; remain in that
+varnish them so they do not die any more than they already have &amp; remain in that
 state.</ab>
 
 <ab>The one who knows to work well in <m>distemper</m> will work well in
@@ -37,27 +36,27 @@ state.</ab>
 
 </div>
 
-<div>
+<div id="p032r_3" categories="painting">
 
-<id>p032r_3</id>
+
 
 <head>For layering <m>gold</m> in distemper</head>
 
 <ab>Common <pro>painters</pro> &amp; <pro>scribes</pro> make
-<m>batture</m>, which is <m><pro>joiner</pro>'s glue</m> tempered with
+<m><fr>batture</fr></m>, that is <m><pro>joiner</pro>’s glue</m> tempered with
 <m>water</m> on the fire, moderately clear, mixed with very little
-<m>honey</m>, that is to say a few <ms>drops</ms> to make it stick, and
-with it they they form letters, or that which they want to <m>gild</m>,
-with a <tl><fr>pinceau</fr></tl>, and immediately after layer the
+<m>honey</m>, that is to say a few <ms>drops</ms> to make it stick. And
+with it they form letters, or that which they want to <m>gild</m>,
+with a <tl>paintbrush</tl>, and immediately after layer the
 <m>gold</m>, but they never do their work quite neatly, and if there is
 a lot of <m>honey</m> it dries only with great difficulty. This layer is
 undone <env>in the rain</env>.</ab>
 
 <ab>Others do better, they temper <m>candy sugar</m> in <m>water</m> and
 mix it with <m>sanguine</m> that they call
-<m><df><fr>cocon</fr></df></m>, thoroughly ground, adding a little
+<m><df><fr>cocon</fr></df></m>, thoroughly ground, adding in a little
 <m>soap</m>. This is done neatly, &amp; renders <m>gold</m> beautiful if
-one uses it as the ground layer.</ab>
+one uses it as the seat.</ab>
 
 </div>
 </root>

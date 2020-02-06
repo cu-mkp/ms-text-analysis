@@ -1,11 +1,11 @@
-<root>
-<page>037v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="037v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f80.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f80.image</image>
 
-<div>
 
-<id>p037v_1</id>
+
+<div id="p037v_1" categories="cultivation">
+
+
 
 <head><pro>Jardinier</pro></head>
 
@@ -21,13 +21,13 @@ pas tant de fruict Fays de <ms>deux <bp>doits</bp> en deulx
 <bp>doigts</bp></ms> de petit<del>e</del>s<lb/>
 
 trous avecq un <tl>piquet</tl> &amp; mects en chascun deulx ou trois
-graines<lb/>
+<m>graines</m><lb/>
 
 Apres ayes de la <m>terre fort deliee</m> &amp; remplis en legerement
 les<lb/>
 
 fossettes Apres espands sur tout l<ms>espesseur dun <bp>pousse</bp></ms>
-d<oc>havets</oc><lb/>
+d<df><oc>havets</oc></df><lb/>
 
 cest a dire balle de <del>fl</del> <pa>bled</pa> Affin que la pluye
 survena<exp>n</exp>t<lb/>
@@ -38,15 +38,15 @@ ne batte poinct la terre &amp; nempesche leur naissance <add>Les
 attirent les <al>rats mulots</al> qui mangent les graines Et pour obvier
 a cela<lb/>
 
-ilz les fault mouiller de<del>s</del> <m>decoction dabsinthe</m></add>
+ilz les fault mouiller de<del>s</del> <m>decoction d<pa>absinthe</pa></m></add>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p037v_2" categories="glass process">
 
-<id>p037v_2</id>
+
 
 <head><pro>Vitrier</pro></head>
 
@@ -57,7 +57,7 @@ pour<lb/>
 
 travailler daprest Ains trassent sur le <m>verre net</m> avecq<lb/>
 
-du <m>noir a huile</m> Mays il fault bien que le <m>bois</m> soit<lb/>
+du <m>noir a huile</m> Mays il fault bien que le <m>bois</m><comment rid="c_037v_02"/> soit<lb/>
 
 <m>desgraisse</m> car sil a tant soit peu de <m>graisse</m> la
 couleur<lb/>
@@ -98,21 +98,21 @@ faire gay ou obscur</ab>
 
 </div>
 
-<div>
+<div id="p037v_3" categories="stones">
 
-<id>p037v_3</id>
+
 
 <head><m>Ambre jaulne</m></head>
 
 <ab>
 
-Il se taille aveq la <tl>lime</tl> puys on passe un certain <m>sel
-pulverise</m> par<lb/>
+Il se taille aveq la <tl>lime</tl> puys on passe un certain <tl><m>sel
+pulverise</m></tl> par<lb/>
 
-dessus quun <pl>anglois</pl> apelloict desramonet Mays je cuide que cela
+dessus quun <pl>anglois</pl> apelloict <tl><df>desramonet</df></tl> Mays je cuide que cela
 estoit<lb/>
 
-<m>ponce pulverisee</m> car elle avoict asperite d<m>arene</m> Et avecq
+<tl><m>ponce pulverisee</m></tl> car elle avoict asperite d<m>arene</m> Et avecq
 une <tl>corde</tl> tendue<lb/>
 
 il polissoit son <m>ambre</m> puys y passoit du <tl><m>tripoli de
@@ -127,7 +127,7 @@ blanchastre<lb/>
 Mays pour le remettre il le fault faire tremper une
 <ms><tmp>nuict</tmp></ms> dans<lb/>
 
-de l<m>urine</m> puys le faire bouillir un peu dedans
+de l<m><bp>urine</bp></m> puys le faire bouillir un peu dedans
 
 </ab>
 

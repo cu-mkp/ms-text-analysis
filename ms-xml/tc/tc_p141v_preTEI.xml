@@ -1,13 +1,13 @@
-<root>
-<page>141v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="141v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image</image>
 
-<div>
 
-<cont/>
 
-<id>p141r_1</id>
+<div continues="yes" id="p141r_1" categories="casting" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -25,7 +25,7 @@ figures Couche dessus<lb/>
 ton <al>escrevisse</al> le<del>s</del> dos <del>dessus</del> <add>en
 bas</add> &amp; les pattes le ventre &amp; les<lb/>
 
-œufs qui sont toutes parties plus fantasques a mouler<lb/>
+oeufs qui sont toutes parties plus fantasques a mouler<lb/>
 
 en contremont et en sus Enfonce le dos dans la <tl>plaste<lb/>
 
@@ -69,19 +69,19 @@ de lune des pattes avecq la mesme <m>cire</m> sur le corps<lb/>
 
 ou sur lune des grosses pattes Et fayre aussy si<lb/>
 
-elle ha des œufs que la queue soict a demy replyee<lb/>
+elle ha des oeufs que la queue soict a demy replyee<lb/>
 
-sur les œufs &amp; larrester en ceste forme avecq une<lb/>
+sur les oeufs &amp; larrester en ceste forme avecq une<lb/>
 
 <tl>poincte de <m>fil de fer</m></tl> Sur tout advise comme la
 chose<lb/>
 
 <del>s</del> ainsy disposee se puisse bien nettoyer Enfin ayant<lb/>
 
-frotte d<m>eau de vye</m> l<al>escrevisse</al> gecte ton sable
+frotte d<m>eau de vye</m> l<al>escrevisse</al> gecte ton <m>sable</m>
 Ayant<lb/>
 
-faict prise descouvre le dos de l<m>escrevisse</m> la teste &amp;
+faict prise descouvre le dos de l<al>escrevisse</al> la teste &amp;
 les<lb/>
 
 yeulx &amp; ses petits becs les grosses pattes et les petites
@@ -91,17 +91,17 @@ tout du long Car il fault descouvrir le plus quon peult<lb/>
 
 Et les longues cornes &amp; la queue sinon que tu layes<lb/>
 
-pliee &amp; recourvee pour tenir ses œufs Les aultres animaulx
+pliee &amp; recourvee pour tenir ses oeufs Les aultres animaulx
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Asseure ce qui se<lb/>
 
-relevera co<corr><exp>mm</exp></corr>e les<lb/>
+relevera coe les<lb/>
 
 deulx corniches<lb/>
 
@@ -115,19 +115,19 @@ dessoubs
 
 </ab>
 
-<figure>
+    <figure size="small" id="fig_p141v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk">
 
-<id>fig_p141v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Descouvre le plus<lb/>
 
@@ -143,9 +143,9 @@ en despouille
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais pancher le<lb/>
 
@@ -157,9 +157,9 @@ de lanimal
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pour la paindre<lb/>
 
@@ -193,21 +193,21 @@ pour limiter
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Couche les cornes sur les grosses<lb/>
 
 pates <del>&amp;</del>ou fais de <m>fil de letton<lb/>
 
-blanchi</m> &amp; les <m>soulde</m>
+blanchy</m> &amp; les <m>soulde</m>
 
 </ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 Advise bien <del>d</del>en moulant de disposer tellement les jambes<lb/>
 
@@ -216,9 +216,9 @@ quelles ne passent point le ventre de l<al>escrevisse</al>
 
 les posant elles sassoyent bien sur le ventre Aultrement les<lb/>
 
-<ill/> remuroient</ab>
+<ups>iambes pour le pois du corps qui est massif se romproient</ups></ab>
 
-<cont/>
+
 
 </div>
 </root>

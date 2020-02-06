@@ -1,11 +1,11 @@
-<root>
-<page>165r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="165r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item</image>
 
-<div>
 
-<id>p165r_1</id>
+
+<div id="p165r_1" categories="casting;tool">
+
+
 
 <head>Reparer</head>
 
@@ -15,14 +15,14 @@ avecq de la <m>cire gommee a esbaucher</m> qui soit noire ou grise</ab>
 
 </div>
 
-<div>
+<div id="p165r_2" categories="painting">
 
-<id>p165r_2</id>
+
 
 <head><m>Laque</m></head>
 
 <ab>Si estant broyee tu la laisses seicher sans la tenir en
-l<m>eau</m><lb/>
+l<m>ea<ups>u</ups></m><lb/>
 
 elle dessechera &amp; tu auras aultant de peyne a la broyer
 co<exp>mm</exp>e<lb/>
@@ -31,9 +31,9 @@ au parava<exp>n</exp>t <del><add>La</add></del></ab>
 
 </div>
 
-<div>
+<div id="p165r_3" categories="painting">
 
-<id>p165r_3</id>
+
 
 <head>Tendre un portrait en <m>toile</m></head>
 
@@ -46,9 +46,9 @@ uny sans le gaster</ab>
 
 </div>
 
-<div>
+<div id="p165r_4" categories="casting">
 
-<id>p165r_4</id>
+
 
 <head><m>Plastre</m> a mouler</head>
 
@@ -60,7 +60,7 @@ trop gras &amp; humide qui est ce qui le faict retirer au foeu
 
 se fendre dou viennent les baves celuy qui se tire en <env>terre<lb/>
 
-maigre</env> est le meilleur Il ne fault pas long temps garder les<lb/>
+maigre</env> est le meilleur Il ne fault pas <tmp>long temps</tmp> garder les<lb/>
 
 <tl>moules</tl> de <m>plastre gras</m> car ils semblent la <m>terre
 grasse</m> qui en<lb/>
@@ -70,11 +70,11 @@ se sechant delles mesmes se fend <add>Le mieulx est de les recuire<lb/>
 bien tost apres quilz sont faicts &amp; gecter Le <m>bon plastre</m> se
 garde<lb/>
 
-long temps en<lb/> <tl>moules</tl></add></ab>
+<tmp>long temps</tmp> en<lb/> <tl>moules</tl></add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il le fault<lb/>
 
@@ -94,9 +94,9 @@ mesle</ab>
 
 </div>
 
-<div>
+<div id="p165r_5" categories="painting;varnish">
 
-<id>p165r_5</id>
+
 
 <head><m>Sang de <al>dragon</al></m></head>
 
@@ -110,9 +110,9 @@ Destrempee a <m>vernis</m> elle se meurt</ab>
 
 </div>
 
-<div>
+<div id="p165r_6" categories="casting">
 
-<id>p165r_6</id>
+
 
 <head>Reparer <al>serpents</al> et <al>lesards</al></head>
 
@@ -126,7 +126,7 @@ quelque chose rompu tu le peulx hanter avecq de <tl>petites
 <del>pieces</del><lb/>
 
 poinctes de <m>fil de fer ou dacier</m></tl> &amp; <m>coller</m> avecq
-<m>colle de <al>poisson</al></m><lb/>
+<m>colle de <al>poisso<ups>n</ups></al></m><lb/>
 
 &amp; puys couvrir tout avecq <m>cire</m> grise ou noire Mays il
 fault<lb/>

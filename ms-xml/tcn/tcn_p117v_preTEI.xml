@@ -1,10 +1,10 @@
-<root>
-<page>117v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="117v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image</image>
 
-<div>
-<id>p117v_1</id>
+
+
+<div id="p117v_1" categories="casting">
+
 <head>Pour faire sortir la <m>cendre</m><lb/>
 
 des <tl>moules</tl> des fleurs et herbes</head>
@@ -39,11 +39,11 @@ le <m>vif argent</m> puisse aisement sortir, co<exp>mm</exp>e d’un
 
 pour rompre en secouant les <m>os calcinés de l’animal</m>, à cause<lb/>
 
-que ledit <m><figure>☿</figure></m> s’esvacue &amp; n’y demeure
+que ledit <m>☿</m> s’esvacue &amp; n’y demeure
 point.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 La tige de l’<pa>asperge</pa> est si<lb/>
 
 dure que le plus souvent elle demeure<lb/>
@@ -66,8 +66,9 @@ une grosse tige tirée<lb/>
 
 par la <tl>filiere</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+
+<ab margin="left-middle" render="tall">
+
 Si la chose bruslée<lb/>
 
 a laissé quelque<lb/>
@@ -96,8 +97,8 @@ ou <tl>pinceau coupé</tl>.</ab>
 
 </div>
 
-<div>
-<id>p117v_2</id>
+<div id="p117v_2" categories="casting">
+
 <head><pa>Marguerites</pa></head>
 
 <ab>Elles se pourroient bien gecter en <m>or</m>. Mays si tu les veulx
@@ -111,9 +112,9 @@ confondroit.</ab>
 
 </div>
 
-<div>
-<id>p117v_3</id>
-<head>Sable qui ha servi</head>
+<div id="p117v_3" categories="casting">
+
+<head><m>Sable qui ha servi</m></head>
 
 <ab>Il ne le faut pas gecter. Mais à cause qu’il est meslé d’<m>alum de
 plume</m>,<lb/>
@@ -124,8 +125,8 @@ au lieu de <m>brique</m>.</ab>
 
 </div>
 
-<div>
-<id>p117v_4</id>
+<div id="p117v_4" categories="casting">
+
 <head>Mouler à noyau figures de <m>cire</m><lb/>
 
 ou medailles de <m>plomb</m></head>
@@ -138,7 +139,7 @@ que ta medaille en soict presque essuicte &amp; qu’elle ne paroisse<lb/>
 presque pas avoir esté oincte. Aprés <del>destr</del> frotte la d’<m>eau
 de vye</m><lb/>
 
-et fais chaufer l’<m>eau</m> de laquelle tu destremperas ton sable
+et fais chaufer l’<m>eau</m> de laquelle tu destremperas ton <m>sable</m>
 susdict<lb/>
 
 de <m>plastre</m>, <m>brique</m> &amp; <m>alum</m>, affin qu’estant
@@ -147,13 +148,13 @@ de <m>plastre</m>, <m>brique</m> &amp; <m>alum</m>, affin qu’estant
 le gecteras, l’<m>huile</m> ne le refuse pas co<exp>mm</exp>e il feroit
 avecq l’<m>eau<lb/>
 
-froide</m>; <add>&amp; n’oublie pas en destrempa<exp>n</exp>t ton sable
+froide</m>; <add>&amp; n’oublie pas en destrempa<exp>n</exp>t ton <m>sable</m>
 d’y mesler tousjours un peu<lb/>
 
 de <m>sel armoniac</m>.</add></ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-middle">
+
 Les medailles<lb/>
 
 se moulent ainsy fort<lb/>
@@ -162,8 +163,8 @@ net.</ab>
 
 </div>
 
-<div>
-<id>p117v_5</id>
+<div id="p117v_5" categories="casting">
+
 <head><m>Sang des <al>serpens</al></m></head>
 
 <ab>S’il te faut couper quelque <al>serpent</al> dans le <tl>moule</tl>

@@ -1,13 +1,13 @@
-<root>
-<page>005r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="005r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image</image>
 
-<div>
 
-<cont/>
 
-<id>p004v_3</id>
+<div continues="yes" id="p004v_3" categories="varnish">
+
+
+
+
 
 <ab>ou <m><pa>linge</pa></m> &amp; le laisser ainsy xx4
 <ms><tmp>heures</tmp></ms>, &amp; il sera gravé.<lb/>
@@ -21,21 +21,20 @@ gravera promptement.</ab>
 
 </div>
 
-<div>
-<id>p005r_1</id>
+<div id="p005r_1" categories="casting;metal process;practical optics">
+
 <head>Mirouers d’<m>acier</m></head>
 
 <ab>
-
-<figure>+</figure> Ils s’appellent d’<m>acier</m> pource que
+Ils s’appellent d’<m>acier</m> pource que
 communem<exp>ent</exp> le temps passé<lb/>
 
-on les faisoict d’<m>acier</m> poly avecq <m>potée d’esmery</m>. Mays
+on les faisoict d’<m>acier</m> poly avecq <tl><m>potée d’esmery</m></tl>. Mays
 plus<lb/>
 
-facilement il s’en faict de diverses sortes avecq le <m>cuivre<lb/>
+facilement il s’en faict de diverses sortes avecq le <df><m>cuivre<lb/>
 
-franc</m>, qui est <m>rosette</m>, &amp; l’<m>estain</m>, pource qu’il
+franc</m></df>, qui est <m>rosette</m>, &amp; l’<m>estain</m>, pource qu’il
 se gecte en <tl>moule</tl><lb/>
 
 &amp; se faict rond, cave, convexe &amp; comme on veult pour
@@ -43,8 +42,10 @@ representer<lb/>
 
 diverses formes.</ab>
 
+<ab margin="left-middle"><mark>+</mark></ab>
+
 <ab>Prens doncq <ms>moictié</ms> <m>cuivre de rosette</m> &amp;
-<ms>moictié</ms> <m>estain doux</m>,<lb/>
+<ms>moictié</ms> <df><m>estain doux</m></df>,<lb/>
 
 c’est à dire fin, qui n’a poinct encores servi. Et les mects dans<lb/>
 
@@ -66,7 +67,7 @@ sorte.</ab>
 <ab>Enchassés en un dans du <m>plastre</m> affin qu’il tienne
 ferme,<lb/>
 
-&amp; puys mectés l’aultre par dessus avecq du <m>sable menu</m> <lb/>
+&amp; puys mectés l’aultre par dessus avecq du <tl><m>sable menu</m></tl> <lb/>
 
 entre deulx, &amp; frottés l’ung contre l’aultre, soict cave ou
 plat,<lb/>
@@ -93,8 +94,8 @@ faict à sec. Estant poly, tu le peulx enchasser.</ab>
 
 </div>
 
-<div>
-<id>p005r_2</id>
+<div id="p005r_2" categories="practical optics" continued="yes">
+
 <head>Mirouers concave</head>
 
 <ab>Le mirouer concave composé de la forme susdicte rend une<lb/>
@@ -104,15 +105,15 @@ infinité de gentilesses qui sembleroient magie. Si quelqu’un<lb/>
 se veult voir derriere, il fault mectre le <tl>mirouer concave</tl><lb/>
 
 à terre sur son pied, &amp; qu’il soict en panchant, aprés
-<sn>regarde<add>r</add></sn><lb/>
+regarde<add>r</add><lb/>
 
-d’un <ms>pas</ms>. Mays si tu <sn>regardes</sn> de pres, il te
+d’un <ms>pas</ms>. Mays si tu regardes de pres, il te
 represente à l’endroit,<lb/>
 
 mays le <bp>visaige</bp> fort grand &amp; le <bp>poil de la barbe</bp>
 gros comme</ab>
 
-<cont/>
+
 
 </div>
 </root>

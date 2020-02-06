@@ -1,33 +1,29 @@
-<root>
-<page>022r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="022r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f49.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f49.image</image>
 
-<div>
 
-<id>p022r_1</id>
 
-<del>
+<div id="p022r_1" categories="arms and armor">
 
-<figure>
 
-<id>fig_p022r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc</link>
+<head>Balle de <wp>canon</wp> poisant<lb/>
+        
+40 <ms>lb</ms> ayant 12 <ms>lignes</ms><lb/>
+            
+<ms><bp>pied</bp> de roy</ms></head>
 
-<caption>Un peu trop grande voy celle<lb/>
+    <figure size="large" id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
 
-<del>de</del> qui suict</caption>
 
-<caption>Balle de canon poisant<lb/>
 
-40 <ms>lb</ms> ayant 12 <ms>lignes<lb/>
 
-pied de roy</ms></caption>
 
 </figure>
-
-</del>
+    
+<ab margin="top">Un peu trop grande voy celle<lb/>
+        
+<del>de</del> qui suict</ab>
 
 </div>
 </root>

@@ -1,18 +1,18 @@
-<root>
-<page>101r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="101r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f207.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f207.image</image>
 
-<div>
 
-<cont/>
 
-<id>p100v_2</id>
+<div continues="yes" id="p100v_2" categories="stones">
 
-<ab>encores bien fort puys adjoustes y iii <ms><figure>℥</figure></ms>
+
+
+
+
+<ab>encores bien fort puys adjoustes y iii <ms>℥</ms>
 de <m>Minium</m> &amp; <tl>pilles</tl><lb/>
 
-encores bien tout ensemble &amp; le mectes dans le <tl>crusol</tl>
+encores bien tout ensemble &amp; le mectes dans le <tl><oc>crusol</oc></tl>
 lequel<lb/>
 
 vous couvrires dun <tl>tuile</tl> aproprie non guere espes affin
@@ -42,12 +42,12 @@ co<exp>mm</exp>e est<lb/>
 le <m>minium seul vitrifie</m> &amp; quelque <ms>grains</ms> d<m>or</m>
 en masse au fonds<lb/>
 
-<rub>Essaye l<m>or</m> cimente et acompaigne de
-l<m>antimoine</m></rub></ab>
+<emph>Essaye l<m>or</m> cimente et acompaigne de
+l<m>antimoine</m></emph></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 Si tu as besoing<lb/>
 
@@ -73,21 +73,14 @@ faire reverberer<lb/>
 
 la chaleur</ab>
 
-<figure>
-
-<id>fig_p101r_1</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM</link>
-
+    <figure size="small" id="fig_p101r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM">
 </figure>
 
 </div>
 
-<div>
+<div id="p101r_1" categories="stones">
 
-<id>p101r_1</id>
+
 
 <head><m>Topasse</m></head>
 
@@ -128,9 +121,9 @@ davantage<lb/>
 
 dans le <tl>mortier de <m>fer</m></tl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>tartre<lb/>
 
@@ -152,9 +145,9 @@ plus jaulne</ab>
 
 </div>
 
-<div>
+<div id="p101r_2" categories="metal process;casting" continued="yes">
 
-<id>p101r_2</id>
+
 
 <head><m>Sel</m> a fayre fondre</head>
 
@@ -164,8 +157,7 @@ ensemble<lb/>
 &amp; jecte sur le <m>cuivre fondu</m> ou <del>ch</del> en bain &amp; il
 le purifie<lb/>
 
-&amp; faict courre merveilleusement Premierem<exp>ent</exp> il fault
-decrepiter<lb/>
+&amp; faict courre merveilleusement Premierem<exp>ent</exp> il fault <df>decrepiter</df><lb/>
 
 le <m>sel commun</m> cest a dire le tenir dans bon foeu jusques a<lb/>
 
@@ -175,14 +167,14 @@ un <tl>four a vent</tl> Et le jecter nettem<exp>ent</exp> sur un
 <tl><m>mabre</m></tl> puys le piler<lb/>
 
 &amp; broyer fort subtillem<exp>ent</exp> puys le mectre dans un
-<tl>crusol</tl> sur <ms>aulta<exp>n</exp>t</ms><lb/>
+<tl><oc>crusol</oc></tl> sur <ms>aulta<exp>n</exp>t</ms><lb/>
 
 de <m>salpestre</m> &amp; le laisser bouillir &amp; mesler ensemble
 jusques a ce</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-bottom</margin>
+
 
 Il nettoye<lb/>
 
@@ -190,7 +182,7 @@ Il nettoye<lb/>
 
 le <m>metal</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

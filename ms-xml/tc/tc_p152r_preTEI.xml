@@ -1,23 +1,23 @@
-<root>
-<page>152r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image</image>
 
-<div>
 
-<id>p152r_1</id>
+
+<div id="p152r_1" categories="casting">
+
+
 
 <head>Mouler un <al>rat</al></head>
 
 <ab>La barbe de ses moustaches seroict malaisee a venir de gect<lb/>
 
 tu les pourras doncq raire avecq du foeu co<exp>mm</exp>e <del>d</del>le
-<pn>tyran de <pl>Syracuse</pl></pn><lb/>
+<pn>tyran de <pl>Syracu<ups>se</ups></pl></pn><comment rid="c_152r_01"/><lb/>
 
 &amp; apres tu luy en pourras remectre <del>darg</del> de naturelles
 <m>argentees</m><lb/>
 
-La queue est belle moulee pourcequelle est faicte a petits cercles<lb/>
+La queue est belle moulee pourcequelle est faicte a petits cercl<ups>es</ups><lb/>
 
 escailles presques co<exp>mm</exp>e celle dun <al>lesard</al> &amp; afin
 que le poil<lb/>
@@ -28,7 +28,7 @@ chandelle</tl><lb/>
 Le reste du corps se doibt oindre avecq <m>huile de
 <pa>froment</pa></m><lb/>
 
-qui tiendra le poil roide &amp; couche si bien que le sable ne<lb/>
+qui tiendra le poil roide &amp; couche si bien que le <m>sable</m> ne<lb/>
 
 lenlevera poinct en si embrouillant pour empescher de venir net<lb/>
 
@@ -46,8 +46,8 @@ mectre de l<m>huile commun</m> pour baisser le poil Et plustost<lb/>
 que mouler ses animaulx (excepte les <al>serpents</al> &amp;
 <al>lesards</al>)<lb/>
 
-laisse les <del>reposer</del> demeurer morts <tmp>un <ms>jour</ms> ou
-deulx</tmp> pour<lb/>
+laisse les <del>reposer</del> demeurer morts un <ms><tmp>jour</tmp></ms> ou
+deulx pour<lb/>
 
 les avoir plus maniables Car ilz se tiennent roides apres<lb/>
 
@@ -58,10 +58,10 @@ quilz ne soient un peu amollis Touteffois si tu le moules<lb/>
 incontinent apres quil est mort ou luy donne son plant<lb/>
 
 plustost quil ne se roidisse tu feras bien
-<del>Au</del><comment>c_152r_02</comment> Et pourceque<lb/>
+<del>Au</del><comment rid="c_152r_02"/> Et pourcequ<ups>e</ups><lb/>
 
 les yeulx se meurent <del>tu y en</del> si tu <add>ne</add> le moules
-promptem<exp>ent</exp> tu pourras<lb/>
+promptem<exp>ent</exp> tu pourr<ups>a</ups><comment rid="c_152r_03"/><lb/>
 
 substituer dans les yeulx des <m>moicties de <pa>poix</pa> bien
 ronds</m><lb/>
@@ -72,7 +72,7 @@ desnues de leur peau &amp; escorce Aulcuns font muer le<lb/>
 amiable Car<lb/>
 
 l<m>huile de <pa>froment</pa></m> est espes &amp; ha trop de corps Cest
-pourquoy<lb/>
+pourqu<ups>oy</ups><lb/>
 
 on nen use gueres que pour donner quelque traict a un<lb/>
 
@@ -90,14 +90,14 @@ tost sec &amp; amiable Plante le plustost que l<m>huiler</m> sur la<lb/>
 
 queue Frotte le d<m>eau de vye</m> estant sec de l<m>huile</m> Puys<lb/>
 
-gecte ton sable apres descouvre le co<exp>mm</exp>e les aultres
-animaulx<lb/>
+gecte ton <m>sable</m> apres descouvre le co<exp>mm</exp>e les aultres
+animau<ups>lx</ups><lb/>
 
 &amp; fais le second gect Il ne fault pas ouvrir le<lb/>
 
 <tl>moule</tl> quil ne soict recuit &amp; le <al>rat</al> brusle</ab>
 
-<ab><margin>left-middle</margin><figure>+</figure>
+<ab margin="left-middle"><mark>+</mark><lb/>
 
 Le <al>rat</al> pourcequil<lb/>
 
@@ -135,9 +135,9 @@ les <m>os</m> ne se<lb/>
 
 calcinent poinct
 
-<figure/></ab>
+<hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Toute plume<lb/>
 
@@ -147,9 +147,10 @@ est malaise<lb/>
 
 a mouler selon<lb/>
 
-le naturel</ab>
+le naturel
+<hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Le <m>beurre</m> pour<lb/>
 
@@ -161,9 +162,10 @@ que l<m>huile de <pa>froma<exp>n</exp>t</pa></m><lb/>
 
 pourcequil est plus<lb/>
 
-amiable</ab>
+amiable
+<hr/></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 Si le <al>rat</al> est gra<exp>n</exp>d<lb/>
 
@@ -189,7 +191,7 @@ gaste &amp; faict<lb/>
 
 grumeleux</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Ne mects ton<lb/>
 
@@ -197,7 +199,7 @@ Ne mects ton<lb/>
 
 quil ne soict bien refroidy lentem<exp>ent</exp> a sec<lb/>
 
-Aultrem<corr><exp>ent</exp></corr> il emboit lhumidite qui le faict<lb/>
+Aultrem il emboit lhumidite qui le faict<lb/>
 
 rompre</ab>
 

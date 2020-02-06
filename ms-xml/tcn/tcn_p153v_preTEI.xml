@@ -1,13 +1,13 @@
-<root>
-<page>153v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="153v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image</image>
 
-<div>
 
-<cont/>
 
-<id>p153r_2</id>
+<div continues="yes" id="p153r_2" categories="casting">
+
+
+
+
 
 <ab><m>farine</m>. Et pour l’aplatir ayes un <tl>petit baston de
 <m><pa>buys</pa></m></tl><lb/>
@@ -41,7 +41,7 @@ d’<pa>olive</pa></m> ton <tl>moule</tl>,<lb/>
 
 co<exp>mm</exp>e aulx aultres tu as faict, mects le <tl>contour<lb/>
 
-d’<m>ardille</m></tl> &amp; gecte <del>s</del> ton second moule. Et tu
+d’<m>ardille</m></tl> &amp; gecte <del>s</del> ton second <tl>moule</tl>. Et tu
 auras<lb/>
 
 ta medaille aussy tanvre &amp; creuse d’un costé que<lb/>
@@ -58,17 +58,17 @@ diverses<lb/>
 espesseur ou de <tl><m>carton</m></tl>, coupées avecq le
 <tl>rolleau</tl>.</ab>
 
-<figure>
+    <figure size="x-small" id="fig_p153v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5czR5TF9scDhsSG8">
 
-<id>fig_p153v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5czR5TF9scDhsSG8</link>
+
+
+
 
 </figure>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si tu frottois<lb/>
 
@@ -96,7 +96,7 @@ pour ces revers<lb/>
 
 destremper ton<lb/>
 
-sable avecq <m>eau<lb/>
+<m>sable</m> avecq <m>eau<lb/>
 
 chaulde</m>, car elle<lb/>
 
@@ -106,11 +106,11 @@ fondre<lb/>
 
 le <m>beurre</m>.
 
-<figure>
+    <figure size="x-small" id="fig_p153v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg">
 
-<id>fig_p153v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg</link>
+
+
 
 </figure>
 
@@ -118,13 +118,13 @@ le <m>beurre</m>.
 
 </div>
 
-<div>
+<div id="p153v_1" categories="casting">
 
-<id>p153v_1</id>
+
 
 <head>Essayer la bonté et force<lb/>
 
-d’un sable à recuire</head>
+d’un <m>sable</m> à recuire</head>
 
 <ab>Aprés qu’il ha faict prise, il se doibt trouver<lb/>
 
@@ -132,15 +132,15 @@ doulx &amp; aysé au couper, &amp; non pas rude. Il s’essaye<lb/>
 
 mieulx en un grand <tl>moule</tl> &amp; fantasque qu’en un<lb/>
 
-petit, car le grand demeure long temps au foeu<lb/>
+petit, car le grand demeure <tmp>long temps</tmp> au foeu<lb/>
 
 &amp; le petit est bien tost recuit.</ab>
 
 </div>
 
-<div>
+<div id="p153v_2" categories="metal process">
 
-<id>p153v_2</id>
+
 
 <head>Adoulcir l’<m>or</m></head>
 

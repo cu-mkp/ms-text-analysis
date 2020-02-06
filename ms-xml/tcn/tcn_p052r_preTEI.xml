@@ -1,11 +1,11 @@
-<root>
-<page>052r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="052r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f109.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f109.item</image>
 
-<div>
 
-<id>p052r_1</id>
+
+<div id="p052r_1" categories="cultivation;alchemy" continued="yes">
+
+
 
 <head>Oeuvre faicte en <pl>Argel</pl></head>
 
@@ -33,7 +33,7 @@ d’<pl>Argel</pl>.<lb/>
 Tiens le en <env>lieu chault &amp; serré</env> &amp; qu’il ne se perde
 rien de son<lb/>
 
-<m>fient</m> &amp; <m>urine</m>, de quoy tu feras un amas ou deulx affin
+<m>fient</m> &amp; <m><bp>urine</bp></m>, de quoy tu feras un amas ou deulx affin
 que,<lb/>
 
 pendant que l’un se refroidist, l’aultre soict en chaleur propre<lb/>
@@ -47,7 +47,7 @@ s’il se peult faire,<lb/>
 &amp; de la <ms>capacité d’une <tl>buye ou broc de
 <m>terre</m></tl></ms>. Mects dedans <tmp>vers<lb/>
 
-la <pn>S<exp>ainc</exp>t Jehan</pn></tmp> une douzaine &amp; demye
+la <pn>S<exp>ainc</exp>t Jehan</pn></tmp><comment rid="c_052v_01"/> une douzaine &amp; demye
 d’<m>oeufs de poule</m>, sçavoir<lb/>
 
 le <m>jaulne</m> sans la <m>glaire</m> &amp; le <m>germe</m> (voy).
@@ -60,7 +60,7 @@ mects y <ms>demy once</ms> (aultres disent en lx <m>oeufs</m> <ms>demy
 lb</ms>) de <m>graine<lb/>
 
 de <al>vers de soye <add>femelle</add></al></m>. Et aprés avoyr bien
-<m>lutté</m> le <tl>matteras</tl> (je ne sçay<lb/>
+<m><tl>lutté</tl></m> le <tl>matteras</tl> (je ne sçay<lb/>
 
 s’il seroit point besoing que pour la generation il y eust air),<lb/>
 
@@ -74,7 +74,7 @@ Et lors retire le <tl>mattelas</tl> &amp; ne l’ensevelis plus dans le
 <m>fiens</m>,<lb/>
 
 mays tiens le seulement posé sur la couche du <m>fiens</m>
-chaul<del>x</del><add>t</add><lb/>
+    chaul<del>x</del>t<comment rid="c_052r_01"/><lb/>
 
 jusques à ce que tous les <al>vers</al> se seront mangés &amp; consumés
 les<lb/>
@@ -114,11 +114,11 @@ aisles luy comanceront à naistre, il le fauldra faire mourir,<lb/>
 faisant avecq du <m>charbon</m> foeu de roue aultour de la
 <tl>bouteille</tl> un<lb/>
 
-<ms>empan</ms> loing, et lors bouche &amp; <m>lutte</m> bien la
+<ms>empan</ms> loing, et lors bouche &amp; <m><tl>lutte</tl></m> bien la
 <tl>bouteille</tl> affin qu’elle n’exale.<lb/>
 
 </ab>
 
-<cont/>
+
 </div>
 </root>

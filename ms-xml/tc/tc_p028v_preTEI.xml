@@ -1,26 +1,26 @@
-<root>
-<page>028v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="028v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f62.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f62.image</image>
 
-<div>
 
-<id>p028v_1</id>
+
+<div id="p028v_1" categories="casting">
+
+
 
 <head><pro>Pintiers</pro></head>
 
-<ab>Ils estiment le meilleur <m>estain</m> celuy qui est en saulmon<lb/>
+<ab>Ils estiment le meilleur <m>estain</m> celuy qui est en saulmon<comment rid="c_028v_04"/><lb/>
 
 qui nha poinct este refondu despuys quil est venu de<lb/>
 
-la <env>mine</env> pourceque les M<exp>aistr</exp>e<exp>s</exp> le
-refondent <del>a</del> en <tl>grille</tl><lb/>
+la <env>mine</env> pourceque les <pro>M<exp>aistr</exp>e<exp>s</exp></pro> le
+    refondent <del>a</del> en grille<comment rid="c_028v_05"/><lb/>
 
 poisant deux ou trois <ms>lb</ms> pour mieux le debiter et<lb/>
 
 vendre en detail Et en cestuy la bien souvent ilz y<lb/>
 
-font du meslinge de restes de plats de <m>souldure</m><lb/>
+font du meslinge de restes de <m>plats</m> de <m>souldure</m><lb/>
 
 &amp; d<m>estaim commun</m> Et pour cognoistre le meilleur cest<lb/>
 
@@ -39,7 +39,7 @@ ladoulcir<lb/>
 Celuy qui vient du coste d<pl>allemaigne</pl> est plus douls<lb/>
 
 Communement les <pro>M<exp>aistr</exp>e<exp>s</exp> pintiers jures</pro>
-aulx <env>bonnes villes</env><lb/>
+    aulx <env><pl>bonnes villes</pl></env><comment rid="c_028v_02"/><lb/>
 
 mectent six <ms>lb</ms> de <m>plomb fin</m> <del>sur</del> ou huict sur
 un <ms>quintal</ms><lb/>
@@ -53,7 +53,7 @@ et pour couvrir la noirceur du <m>plomb</m> <del>il</del> et sa
 doulceur<lb/>
 
 ilz y mectent de l<m>estaim de glace</m> 4 <ms>lb</ms> sur
-<ms>quintal</ms> <figure>+</figure><lb/>
+<ms>quintal</ms> <mark>+</mark><lb/>
 
 <del>po</del> qui blanchist &amp; affermist Et <del>un peu</del>
 <add>six ou huict <ms>lb</ms></add> de <m>rosette</m> <add>sur un
@@ -65,7 +65,7 @@ rendre la vaisselle <sn>sonnante</sn></ab>
 
 Pour mouler de plats &amp; escuelles ilz les font de <m>pierre<lb/>
 
-<del>porte</del> morte</m> qui est <m>grais</m> &amp; les tournent &amp;
+<del>porte</del> morte</m> qui est <m>grais</m><comment rid="c_008v_02"/> &amp; les tournent &amp;
 polissent <del>aultour</del><lb/>
 
 au <tl>tour</tl> Ils fondent leur <m>estaim</m> dans une <tl>cassolle
@@ -93,13 +93,13 @@ tousjours pres deus ilz frottent le milieu du revers de<lb/>
 
 lescuelle &amp; aultour du bort affin quil senleve mieulx<lb/>
 
-et en frottent la femelle molle</ab>
+et en frottent la <tl>femelle molle</tl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark><lb/>
 
 Quand l<m>estaing est<lb/>
 
@@ -119,9 +119,9 @@ cinq ou six <ms>lb</ms> d<m>estaim<lb/>
 
 de glace</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Sil ny ha gueres<lb/>
 
@@ -149,8 +149,9 @@ d<m>estain</m> on mect x <ms>lb</ms><lb/>
 
 de tous les deulx</ab>
 
-<ab><rub>Va au cinquiesme
-foeillet@</rub></ab><comment>c_028v_01</comment>
+<ab><emph>Va au cinquiesme
+
+foeillet</emph></ab><comment rid="c_028v_01"/>
 
 </div>
 </root>

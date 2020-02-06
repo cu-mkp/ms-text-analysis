@@ -1,29 +1,29 @@
-<root>
-<page>104v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="104v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f214.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f214.image</image>
 
-<div>
-<id>p104v_1</id>
-<head>Contre la galle des <al>chiens</al></head>
 
-<ab>Une <ms>demy <figure>℥</figure></ms> de <m>staphisagrie</m> pour les
+
+<div id="p104v_1" categories="medicine">
+
+<head><md>Contre la galle des <al>chiens</al></md></head>
+
+<ab>Une <ms>demy ℥</ms> de <m>staphisagrie</m> pour les
 <al>chiens<lb/>
 
-communs</al> &amp; une <ms><figure>℥</figure></ms> pour les grands, en
+communs</al> &amp; une <ms>℥</ms> pour les grands, en
 pouldre subtile,<lb/>
 
-battu avec deux <m>blanc <del>d<m>huile</m></del> d'oeufs</m> &amp; un
+battu avec deux <m>blanc <del>d<m>huile</m></del> d’oeufs</m> &amp; un
 <ms>quarteron</ms><lb/>
 
-d'<m>huile</m>. Leur faire boire à jeun, les ayant tenus<lb/>
+d’<m>huile</m>. Leur faire boire à jeun, les ayant tenus<lb/>
 
 la <tmp>nuit</tmp> enfermés sans manger. Aprouvé</ab>
 
 </div>
 
-<div>
-<id>p104v_2</id>
+<div id="p104v_2" categories="casting">
+
 <head>Pour gect</head>
 
 <ab>Si tu as quelque piece qui ne soict point de despouille &amp;<lb/>
@@ -38,16 +38,16 @@ sans y rien laisser. Mays advise que la <m>cire fondue</m> ne soict<lb/>
 
 ne trop chaulde ne trop froide. Aulcuns moulent avec de la<lb/>
 
-<m>cire</m> eschaufee dans de l'<m>eau chaulde</m>, mays en pressant
+<m>cire</m> eschaufee dans de l’<m>eau chaulde</m>, mays en pressant
 le<lb/>
 
 <tl>moule</tl> se gaulchist &amp; se faict faulx. Quand tu as le cave
 de<lb/>
 
-<m>cire</m>, tu y peulx gecter de l'<m>ardille fort doulce</m> &amp;
+<m>cire</m>, tu y peulx gecter de l’<m>ardille fort doulce</m> &amp;
 fort destrempee<lb/>
 
-&amp; claire, &amp; laisse secher à l'aise. Puys tu feras un cave<lb/>
+&amp; claire, &amp; laisse secher à l’aise. Puys tu feras un cave<lb/>
 
 là dessus <del>ave</del> de <m>plomb</m> ou <m>estaim</m>, dans
 <del>tu</del> lequel ce que tu<lb/>
@@ -56,36 +56,29 @@ formeras sera de bonne despouille.</ab>
 
 </div>
 
-<div>
-<id>p104v_3</id>
+<div id="p104v_3" categories="metal process">
+
 <head><pro>Orfevre</pro></head>
 
-<ab>Sçaiches que c'est que travailler le pailleterie, c'est<lb/>
+<ab>Sçaiches que c’est que travailler le pailleterie, c’est<lb/>
 
-des <m>escailles d'argent pur &amp; d'argent doré</m>, de quoy on
+des <m>escailles d’argent pur &amp; d’argent doré</m>, de quoy on
 faict<lb/>
 
-les hoquetons des <pro>archiers</pro>.</ab>
+les hoquetons des <pro>archiers</pro>.<comment rid="c_104v_04"/></ab>
 
 </div>
 
-<div>
-<id>p104v_4</id>
+<div id="p104v_4" categories="household and daily life;tricks and sleight of hand">
+
 <head><mu>Espinette</mu> jouant toute seule</head>
 
-<figure>
-
-<id>fig_p104v_1</id>
-
-<margin>left-bottom</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cWFSaUU5a2R6N2s</link>
-
+    <figure size="small" id="fig_p104v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cWFSaUU5a2R6N2s">
 </figure>
 
 <ab>Fais un axe tout entourné de roues percees tout aultour<lb/>
 
-en l'espesseur et attaches des <m>plumes</m> co<exp>mm</exp>e pour
+en l’espesseur et attaches des <m>plumes</m> co<exp>mm</exp>e pour
 <mu>cistre</mu> ou<lb/>
 
 <mu>espinette</mu>, &amp; les dispose selon la chançon que tu
@@ -94,10 +87,10 @@ vouldras<lb/>
 faire dire, y laissant <del>telle</del> distance convenable. Et
 tourna<exp>n</exp>t<lb/>
 
-l'axe, ou par toy mesme ou par ressort d'<tl>horloge</tl>, ton
+l’axe, ou par toy mesme ou par ressort d’<tl>horloge</tl>, ton
 invention<lb/>
 
-s'effectuera.</ab>
+s’effectuera.</ab>
 
 </div>
 </root>

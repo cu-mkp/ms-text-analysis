@@ -1,11 +1,11 @@
-<root>
-<page>164v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="164v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item</image>
 
-<div>
 
-<id>p164v_1</id>
+
+<div id="p164v_1" categories="casting">
+
+
 
 <head><tl>Moules</tl></head>
 
@@ -28,7 +28,7 @@ font gueres de baves s’ils sont pressés. Mays plustost que<lb/>
 
 les presser, mects entre eulx et la <tl>presse</tl> des <tl>pieces<lb/>
 
-de <m>feutre mouflé &amp; espés</m></tl> qui n’est encores gueres
+de <m>feutre moufle<comment rid="c_164v_03"/> &amp; espés</m></tl> qui n’est encores gueres
 foulé,<lb/>
 
 car il remplist les concavités &amp; garde le <tl>moule</tl> de se
@@ -38,9 +38,9 @@ Les <tl>crampons</tl> se doibvent mectre plustost que le recuire<lb/>
 
 ou deseicher.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
+
 
 Quand la <m>terre</m><lb/>
 
@@ -60,7 +60,7 @@ y mects s’enlevent<lb/>
 
 quand tu gectes le<lb/>
 
-sable, &amp; ainsy le<lb/>
+<m>sable</m>, &amp; ainsy le<lb/>
 
 <tl>moule</tl> se gaste<lb/>
 
@@ -84,11 +84,11 @@ avecq le <tl>souflet</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p164v_2" categories="casting">
 
-<id>p164v_2</id>
 
-<head>Sable</head>
+
+<head><m>Sable</m></head>
 
 <ab>
 
@@ -102,12 +102,12 @@ apartient, il soubstient. Il se cognoist bon quand, esta<exp>n</exp>t
 chault<lb/>
 
 aprés le gect, il s’abreuve incontinent d’<m>eau</m> quand on
-l<corr>’</corr>y<lb/>
+l<corr>'</corr>y<lb/>
 
 trempe &amp; se <del>rend</del> romp facillem<exp>ent</exp> pource que
 l’<m>alum</m> &amp; le <m><la>crocum</la></m><lb/>
 
-le rendent spongieulx. Au contraire le mauvais sable, qui n’est<lb/>
+le rendent spongieulx. Au contraire le <m>mauvais sable</m>, qui n’est<lb/>
 
 que de <m>plastre</m> &amp; <m>brique</m> &amp; peu meslé d’<m>alum</m>,
 se rompt aisem<exp>ent</exp><lb/>
@@ -118,9 +118,9 @@ Gecte s’il est possible tout à un coup.</ab>
 
 </div>
 
-<div>
+<div id="p164v_3" categories="casting">
 
-<id>p164v_3</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -142,13 +142,13 @@ quand tu as commancé</tmp>. Et ne les mects pas à refroidir<lb/>
 <env>au froid</env> <del>Avecq</del> car ilz se fenderoient, mays
 laisse<lb/>
 
-les atiedir<comment>c_164v_02</comment> prés du foeu, &amp;
-co<exp>mm</exp>e ilz sont encores en telle<lb/>
+les atiedir prés du foeu, &amp;
+<sn>co<exp>mm</exp>e ilz sont encores en telle<lb/>
 
 chaleur que tu as cy deva<exp>n</exp>t remarqué mecta<exp>n</exp>t le
 <tl><bp>doigt</bp></tl> au<lb/>
 
-trou, gecte. Et quand le <tl>moule</tl> est grand, il veut plus<lb/>
+trou, gecte.</sn> Et quand le <tl>moule</tl> est grand, il veut plus<lb/>
 
 de temps à recuire &amp; deseicher, &amp; fault gecter plus chault.</ab>
 

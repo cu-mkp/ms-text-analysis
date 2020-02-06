@@ -1,57 +1,54 @@
-<root>
-<page>026r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="026r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item</image>
 
-<div>
 
-<id>p026r_1</id>
 
-<ab>
+<div id="p026r_1" categories="arms and armor">
 
-<margin>top</margin>
 
-<render>wide</render>
+    
+<head><wp>Cannonball</wp></head>
+<ab margin="top" render="extra-wide">
 
-<rub>This is the true measure of the caliber, but the <tl>borer</tl>
-always takes away a little more.</rub></ab>
 
-<figure>
 
-<id>fig_p026r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE</link>
 
-<caption>Cannonball</caption>
+<emph>This is the true measure of the caliber, but the <tl>borer</tl>
+always takes away a little more.</emph></ab>
+
+    <figure size="large" id="fig_p026r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE">
+
+
+
+
 
 </figure>
 
-<cont/>
-
 </div>
 
-<div>
+<div id="p026r_2" categories="arms and armor">
 
-<id>p026r_2</id>
 
-<head>Petard</head>
+
+<head>Petard<comment rid="c_008r_04"/></head>
 
 <ab>They are made better in crucible form, <del>hollow at the</del>
-narrower at the bottom &amp; becoming larger towards the muzzle. It is
-necessary to pestle the powder thoroughly &amp; put on top of it either
-sand or <m>cork</m> or better still a fitted plate of <m>wax</m>
-thoroughly pestled on top, for it seals precisely &amp; makes for
+narrower at the bottom &amp; becoming larger toward the muzzle. It is
+necessary to <tl>pestle</tl> the <m>powder</m> thoroughly &amp; put on top of it either
+<m>sand</m> or <m>cork</m> or better still a fitted plate of <m>wax</m>
+thoroughly <tl>pestled</tl> on top, for it seals precisely &amp; makes for
 greater force. The ball only makes a hole, the <m>powder</m> alone makes
-more of an effect. One holds that, once loaded &amp; kept in a dry place
-for fifteen days, they have more force.</ab>
+more of an effect. One holds that, once loaded &amp; kept in a <env>dry place</env>
+for fifteen <tmp>days</tmp>, they have more force.</ab>
 
-<figure>
+    <figure size="small" id="fig_p026r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE">
 
-<id>fig_p026r_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE</link>
+
+
+
 
 </figure>
 

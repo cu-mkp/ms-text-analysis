@@ -23,22 +23,20 @@ histoire luy aprenant a tenir le charbon par la pointe
 luy aprend
 
 
-a pcoucher de couleurs
-
-
+a coucher de couleurs
 
 On luy propose aussy ces traicts &
 
 
 lignes
 
-CLa figure de lœuf pour visaiges
+La figure de loeuf pour visaiges
 et pour les corps plies est le
 principal
 
 
-patron & la croix co{mm}e la croix est le
-modelle du plant
+patron  co{mm}e la croix est le
+    modelle du plantc_065r_01
 
 
 droict & entier Sans ces traicts tu ne feras jamays bien
@@ -55,10 +53,12 @@ desmail
 
 
 
+
+
 Toutes couleurs qui nont point de corps
 
 
-a huile nen ont point a destrempeEt
+a huile nen ont point a destrempe
 
 
 ains a destrempe vont a fonds Les
@@ -100,10 +100,11 @@ Destrempe
 
 Il fault que les couleurs a destrempe soient
 tenues plus obscures
-pr
 
 
-ainsy que tu les destrempentpourceque elles blanchissent en
+
+ainsy que tu les destrempent
+pourceque elles blanchissent en
 seichant Mays les couleurs a huile demeurent
 
 

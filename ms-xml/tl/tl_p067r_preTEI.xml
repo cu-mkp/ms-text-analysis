@@ -1,33 +1,33 @@
-<root>
-<page>067r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image</image>
 
-<div>
 
-<cont/>
 
-<id>p066v_4</id>
+<div continues="yes" id="p066v_4" categories="painting">
+
+
+
+
 
 <ab>
 
 light, pull out the <m>hairs</m> which make the tip too long with the
 <bp>ends of your fingernails</bp>, and this until the tip seems good to
-you, &amp; and until you notice in it the <m><al>rat</al> hairs</m>
+you, &amp; until you notice in it the <m><al>rat</al> hairs</m>
 which are entirely black &amp; the <m>hair of the
-<al>petit-gris</al><comment>c_67r_01</comment></m> is <del>at the</del>
+<al>petit-gris</al><comment rid="c_067r_01"/></m> is <del>at the</del>
 whitish from the root to the middle. When it pleases you, bind
 <del><fr>b</fr></del> and tighten it very well with a <tl>thread</tl> in
 two places, then cut the excess &amp; fit it in a <m>quill</m> of a
-convenient size for it, of a <al>duck</al> or a <al>crow</al> for the
-small ones. Good <tl><fr>pinceaulx</fr></tl> are those that, once soaked
+convenient thickness for it, of a <al>duck</al> or a <al>crow</al> for the
+small ones. Good <tl>paintbrushes</tl> are those that, once dipped
 in <m>water</m>, do not bulge when you trace on your <bp>hand</bp>.</ab>
 
 </div>
 
-<div>
+<div id="p067r_1" categories="varnish">
 
-<id>p067r_1</id>
+
 
 <head><m>Oil</m></head>
 
@@ -38,44 +38,44 @@ making <m>varnish</m>.</ab>
 
 </div>
 
-<div>
+<div id="p067r_2" categories="casting">
 
-<id>p067r_2</id>
 
-<head>Sand</head>
 
-<ab>Everything ground &amp; tempered becomes porous, according to
+<head><m>Sand</m></head>
+
+<ab>Every ground &amp; tempered thing becomes porous, according to
 some.</ab>
 
 </div>
 
-<div>
+<div id="p067r_3" categories="tool;metal process">
 
-<id>p067r_3</id>
+
 
 <head><tl>Bellows furnace</tl></head>
 
-<ab>Before you put in the <m>metal</m>, it is necessary that it be red
-at the bottom, like like a <m>charcoal</m> &amp; well inflamed. Next,
+<ab>Before putting in the <m>metal</m>, it is necessary that it be red
+at the bottom, like a <m>charcoal</m> &amp; well inflamed. Next,
 you <del><ill/></del> fill it &amp; cover the <m>charcoal</m> &amp;
 adjust the <tl>bellows</tl>, otherwise the <m>metal</m> on top would
-melt as a result of the <tl>bellows</tl> &amp; its bottom would be
+melt by means of the <tl>bellows</tl> &amp; its bottom would be
 curdled &amp; cooled &amp; would not run. But if you proceed in this
 manner you will melt everything you like.</ab>
 
 </div>
 
-<div>
+<div id="p067r_4" categories="varnish">
 
-<id>p067r_4</id>
+
 
 <head><m>Varnish</m> on <m>paper</m></head>
 
 <ab>The <pl>Germans</pl> make boxes <del>p</del> covered with painted
-<m>paper</m> &amp; varnish it with <m>glair of the egg</m> mixed with
+<m>paper</m> &amp; varnish it with <m>glair of egg</m> mixed with
 <m>gum</m> &amp; a little <m><m>oil</m>, not of <m><pa>spike
-lavender</pa></m>, but another <sn>odorant</sn> that resembles
-<m><pa>olive</pa> oil</m></m>. Every work done with <m>glair</m>
+lavender</pa></m>, but <m>another <sn>fragrant</sn> one that resembles
+<pa>olive</pa> oil</m></m>. Every work done with <m>glair</m>
 supports <m>oil</m>. It is with this that <pro>painters</pro> trick the
 <pro>poor peasants</pro>, painting their bands of <m>taffeta</m> with
 this <m>glair</m>, to be done sooner. But <env>the first rain</env>

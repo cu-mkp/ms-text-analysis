@@ -1,18 +1,18 @@
-<root>
-<page>044v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="044v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image</image>
 
-<div>
 
-<id>p044v_1</id>
+
+<div id="p044v_1" categories="tool">
+
+
 
 <head>Tamis de <m>poil de <al>cheval</al></m></head>
 
 <ab>Ils se font à <pl>Coustance</pl> en <pl>Normandie</pl> de <m>poil de
 la que<exp>u</exp>e de <al>cheval</al></m>,<lb/>
 
-qu'ilz nettoyent avecq de la <m>lessive</m> à cause qu'ilz les trient
+qu’ilz nettoyent avecq de la <m>lessive</m> à cause qu’ilz les trient
 avecq<lb/>
 
 la <tl><bp>bouche</bp></tl> &amp; en separent les courts &amp; rompus.
@@ -24,7 +24,7 @@ attachent<lb/>
 par les deulx extremités de la <tl>lames</tl> le <m>poil</m> ou blanc ou
 noir,<lb/>
 
-selon l'ouvrage qu'ils veulent faire. Et est <corr><del>est</del></corr>
+selon l’ouvrage qu’ils veulent faire. Et est <corr><del>est</del></corr>
 faicte la trame<lb/>
 
 dessus &amp; dessoubs comme pour faire quelque aultre tyssu. Et<lb/>
@@ -35,7 +35,7 @@ trois <bp>doitgs</bp></ms>,<lb/>
 ilz passent aprés deulx <m>poils</m> à chasque frapem<exp>ent</exp> de
 marche et<lb/>
 
-tissent avecq trois marches. Il y a en tout le tamis xvii^(c)
+tissent avecq trois marches. Il y a en tout le tamis xvii<superscript>c</superscript><comment rid="c_044v_01"/>
 <m>poils</m>.<lb/>
 
 Ils les vendent à <ms>douzaines</ms> &amp; chascune xxx
@@ -44,14 +44,14 @@ Ils les vendent à <ms>douzaines</ms> &amp; chascune xxx
 jusques à <pl>Th<exp>ou</exp>l<exp>ou</exp>se</pl> pour les transporter
 aprés en <pl>Espaigne</pl>, et<lb/>
 
-prenent en eschange de l'<m>estamine de soye</m>.</ab></div>
+prenent en eschange de l’<m>estamine de soye</m>.</ab></div>
 
-<div>
+<div id="p044v_2" categories="medicine">
 
-<id>p044v_2</id>
 
-<head>Excellente <m>eau</m> co<exp>n</exp>tre la peste, de
-<pn>m<exp>onsieu</exp>r de Montorsin</pn></head>
+
+<head>Excellente <md><m>eau</m> co<exp>n</exp>tre la peste</md>, de
+    <pn>m<exp>onsieu</exp>r de Montorsin</pn><comment rid="c_044v_03"/></head>
 
 <ab>Prens <m>theriaque</m>, <m><pa>rue</pa></m> &amp;
 <m><pa>dictam</pa></m> &amp; <m>bon vinaigre</m>, mects<lb/>
@@ -62,7 +62,7 @@ ouverte<lb/>
 &amp; bien sellée, et la mects en bain fort lent trois ou 4
 <ms><tmp>jours</tmp></ms>.<lb/>
 
-Puys separe ta decoction de la residence, de laquelle en temps<lb/>
+Puys separe ta decoction de la residence, de laquelle<comment rid="c_044v_02"/> en temps<lb/>
 
 de besoing tu verseras sur un <tl>quarreau rouge enflammé</tl> &amp;
 en<lb/>
@@ -72,15 +72,15 @@ vestem<exp>ents</exp>. C’est<lb/>
 
 un secret fort rare &amp; esprouvé.</ab></div>
 
-<div>
+<div id="p044v_3" categories="medicine">
 
-<id>p044v_3</id>
 
-<head><m>Huile blanc somnifere</m></head>
+
+<head><md><m>Huile blanc somnifere</m></md></head>
 
 <ab>Prens x ou 12 <m>pommes de <pa>mandragore</pa></m>, mects les à<lb/>
 
-quartiers dans de l'<m>huile d'<pa>olif</pa></m>, le tout dans une
+quartiers dans de l’<m>huile d’<pa>olif</pa></m>, le tout dans une
 <del><tl>phiol</tl></del> <tl>bouteille<lb/>
 
 de <m>verre</m></tl>, laquelle tu poseras au bain marie par deulx
@@ -88,28 +88,29 @@ de <m>verre</m></tl>, laquelle tu poseras au bain marie par deulx
 
 et ton <m>huile</m> viendra blanc. Duquel si tu frottes un peu la<lb/>
 
-<bp>plante des pieds</bp>, tu auras bientost envye de dormir.</ab></div>
+<bp>plante des pieds</bp>, tu <md>auras bientost envye de dormir</md>.</ab></div>
 
-<div>
+<div id="p044v_4" categories="stones">
 
-<id>p044v_4</id>
+
 
 <head><m>Stuc</m></head>
 
-<ab>Aulcuns, pour <m>coller</m> <m>pierre</m>, n'employent pas la
+<ab>Aulcuns, pour <m>coller</m> <m>pierre</m>, n’employent pas la
 <del>poi</del> <m>gemme</m> &amp;<lb/>
 
-<m>poix resine noire</m>, pource qu'elle est trop grasse, mays
+<m>poix resine noire</m>, pource qu’elle est trop grasse, mays
 prenent<lb/>
 
 de la <m>rousine</m> &amp; du <m>soufre</m>, <ms>aultant <del>que</del>
-d'un que d'aultre</ms>, &amp;<lb/>
+d’un que d’aultre</ms>, &amp;<lb/>
 
 aultant de <m>cire</m> que de tous deulx, et y meslent de la
 <m>brique<lb/>
 
-pilée</m> pour le plus fort. Aultres, de la <m>croye blanche</m> ou
+<tl>pilée</tl>
+</m> pour le plus fort. Aultres, de la <m>croye blanche</m> ou
 <m>pierre<lb/>
 
-blanche pilée &amp; pulverisée &amp; tamisée</m>.</ab></div>
+blanche</m> <tl>pilée</tl> &amp; pulverisée &amp; tamisée.</ab></div>
 </root>

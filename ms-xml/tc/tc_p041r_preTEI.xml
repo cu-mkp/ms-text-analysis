@@ -1,11 +1,11 @@
-<root>
-<page>041r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="041r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image</image>
 
-<div>
 
-<id>p041r_1</id>
+
+<div id="p041r_1" categories="casting">
+
+
 
 <head><m>Terre de gect pour les <pro>fondeurs</pro></m></head>
 
@@ -16,7 +16,7 @@ trop grasse et<lb/>
 
 se fendroict &amp; ne tiendroit pas au foeu Mays il la fault<lb/>
 
-mesler de la <ms>moictie</ms> de sable et de la <ms>quarte</ms> ou
+mesler de la <ms>moictie</ms> de <m>sable</m> et de la <ms>quarte</ms> ou
 <ms>cinquiesme</ms> de <m>fiens<lb/>
 
 <add>de <al>cheval</al></add></m><lb/>
@@ -34,10 +34,9 @@ amiable<lb/>
 aultres choses Et quand la <m>terre</m> est grasse bien fort il luy
 fault<lb/>
 
-donner plus de sable &amp; plus de <m>fiens</m>
-@<comment>c_041r_01</comment> Mays il se trouve des <m>terres<lb/>
+donner plus de <m>sable</m> &amp; plus de <m>fiens</m><comment rid="c_032v_01"/> Mays il se trouve des <m>terres<lb/>
 
-grasses</m> meslees delles mesmes de sable Si elles ne le sont fais le
+grasses</m> meslees delles mesmes de <m>sable</m> Si elles ne le sont fais le
 par<lb/>
 
 artifice Il fault tousjours recuire les <m>terres</m> plustost que
@@ -47,36 +46,36 @@ jecter
 
 </div>
 
-<div>
+<div id="p041r_02" categories="cultivation">
 
-<id>p041r_02</id>
+
 
 <head><pa>Lis de jardin</pa></head>
 
 <ab>Si on le romp a sa premiere gecte &amp; il ne reboutte &amp;
 florist<lb/>
 
-que l<ms><tmp>an suivant</tmp></ms> &amp; croy que les <pa>herbes
-bulbeuses</pa> font ainsy</ab>
+que l<ms><tmp>an suivant</tmp></ms> &amp; croy que les herbes
+bulbeuses font ainsy</ab>
 
 </div>
 
-<div>
+<div id="p041r_03" categories="casting">
 
-<id>p041r_03</id>
 
-<head>Sable</head>
 
-<ab>Le sable doibt estre <del>jecte</del> pour gecter choisi non pas si
+<head><m>Sable</m></head>
+
+<ab>Le <m>sable</m> doibt estre <del>jecte</del> pour gecter choisi non pas si
 aride<lb/>
 
 quil naye poinct de prise Ne trop gras aussy Et combien quil<lb/>
 
-sen trouve de <m>naturel</m> Touteffois ce nest pas par tout Et si<lb/>
+sen trouve <env>de naturel</env> Touteffois ce nest pas par tout Et si<lb/>
 
 tu es en lieu quil ne sen trouve poinct Tu le peulx composer Mays<lb/>
 
-non pas avecq <m>terre grasse</m> car le sable nen veult
+non pas avecq <m>terre grasse</m> car le <m>sable</m> nen veult
 aulcunem<exp>ent</exp> car<lb/>
 
 elle faict soufler bien fort Mays tu luy peulx donner liaison<lb/>
@@ -96,21 +95,21 @@ tu le peulx brusler<lb/>
 avecq <m>aspalte</m> ou le mesler dune <ms>quarte partye</ms> de
 <m>tripoly</m> Garde<lb/>
 
-quil ne tumbe de <m>pain</m> dans ton sable Car cela faict fort<lb/>
+quil ne tumbe de <m>pain</m> dans ton <m>sable</m> Car cela faict fort<lb/>
 
 soufler</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Essaye de mesler<lb/>
 
 du <m>noir a noircy</m></ab></div>
 
-<div>
+<div id="p041r_04" categories="animal husbandry;household and daily life">
 
-<id>p041r_04</id>
+
 
 <head><al>Canards</al></head>
 
@@ -120,7 +119,7 @@ apres quilz sont<lb/>
 esclos ains demeurent en cest estat Mays apres ilz croissent bien
 tost<lb/>
 
-mesmem<exp>ent</exp> silz vont dans leau On les nourrist avecq du
+mesmem<exp>ent</exp> silz vont dans l<env>eau</env> On les nourrist avecq du
 <m>grain de <pa>mil</pa><lb/>
 
 bouilly</m> leur esmiant parmy du <m>pain</m> et y espandant des

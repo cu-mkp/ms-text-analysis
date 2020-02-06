@@ -1,10 +1,10 @@
-<root>
-<page>155r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="155r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=</image>
 
-<div>
-<id>p155r_1</id>
+
+
+<div id="p155r_1" categories="casting">
+
 <head>Mouler une <pa>rose</pa></head>
 
 <ab>Pource que les branchetes <add>du <pa>rosier</pa></add> qui sont
@@ -27,11 +27,11 @@ de<lb/>
 petits bouts des branchettes. Mect la foeuille ou <pa>rose</pa><lb/>
 
 le plus bas que tu pourras dans le <tl>moule</tl> pource que le
-sable<lb/>
+<m>sable</m><lb/>
 
 la releve tousjours. Tu <del>en</del> peulx aussy mouler plusieurs<lb/>
 
-foeuilles ensemble estant disposées l'une sur l'aultre, les<lb/>
+foeuilles ensemble estant disposées l’une sur l’aultre, les<lb/>
 
 distingant avecq les <tl>filets</tl> co<exp>mm</exp>e dict est. Et pour
 le regard<lb/>
@@ -40,11 +40,11 @@ de la <pa>rose</pa> tu peulx donner une legere couche de <m>beurre
 fondu</m><lb/>
 
 au dos de la foeuille, <del>de</del> <add>aulx premieres foeilles de
-dehors, non à celles de dedans</add> <del>be</del>, pour l'affermir
+dehors, non à celles de dedans</add> <del>be</del>, pour l’affermir
 &amp; luy donner force de<lb/>
 
-soubstenir, <add>affin que le sable destrempé ne les dilate &amp;
-escarte plus qu'il ne fault.</add> Tu <del>les</del> peulx bien mouler
+soubstenir, <add>affin que le <m>sable destrempé</m> ne les dilate &amp;
+escarte plus qu’il ne fault.</add> Tu <del>les</del> peulx bien mouler
 aussy les foeuilles<lb/>
 
 des <pa>rosiers</pa>, <pa>fraisiers</pa> &amp; semblables, qui sont
@@ -59,7 +59,7 @@ de la <m>cendre</m> <del>Toute</del> et faire des souspirails &amp;<lb/>
 
 plusieurs gects. Et ceste voye est la plus facille,<lb/>
 
-mays l'aultre se peult faire aussy. Et avecq de petits<lb/>
+mays l’aultre se peult faire aussy. Et avecq de petits<lb/>
 
 filons de <m>cire</m> adaptés &amp; joincts de foeuille à
 foeuillle,<lb/>
@@ -82,27 +82,27 @@ est<lb/>
 chault la <m>cendre</m> se tient co<exp>mm</exp>e attachée. Mays quand
 il<lb/>
 
-est froid elle s'esperd et sort avecq le vent ou quand<lb/>
+est froid elle s’esperd et sort avecq le vent ou quand<lb/>
 
-on retire l'<bp>alheine</bp> à soy par le petit pertuis.</ab>
+on retire l’<bp>alheine</bp> à soy par le petit pertuis.</ab>
 
-<figure>
+    <figure size="small" id="fig_p155r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b3lFZ18wbGducEk">
 
-<id>fig_p155r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b3lFZ18wbGducEk</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Tu peulx bien<lb/>
 
 donner un peu<lb/>
 
-d'espesseur au<lb/>
+d’espesseur au<lb/>
 
 bout des tiges<lb/>
 
@@ -126,15 +126,15 @@ et la tige<lb/>
 
 de <m>plomb</m> &amp;<lb/>
 
-<m>estain</m> n'auroit<lb/>
+<m>estain</m> n’auroit<lb/>
 
 pas assez de<lb/>
 
 force.</ab>
 
-<ab>
-<margin>left-bottom</margin>
-Je serois d'advis<lb/>
+<ab margin="left-bottom">
+
+Je serois d’advis<lb/>
 
 de mouler la<lb/>
 
@@ -158,23 +158,23 @@ ha grand volume<lb/>
 
 &amp; poisant.</ab>
 
-<ab><margin>bottom</margin>
-Mouille la <pa>rose</pa> d'<m>eau de vye</m> plustost que la mectre
+<ab margin="bottom">
+Mouille la <pa>rose</pa> d’<m>eau de vye</m> plustost que la mectre
 dans<lb/>
 
-le <tl>cercle d'<m>ardille</m></tl>. N'oublye pas d'<m>huiler</m> le
+le <tl>cercle d’<m>ardille</m></tl>. N’oublye pas d’<m>huiler</m> le
 gect de <m>cire</m>.<lb/>
 
-Et quand tu auras gecté ton sable destrempé, soufle fort<lb/>
+Et quand tu auras gecté ton <m>sable destrempé</m>, soufle fort<lb/>
 
-jusques à ce qu'il commance à faire prise. La <pa>rose</pa> est<lb/>
+jusques à ce qu’il commance à faire prise. La <pa>rose</pa> est<lb/>
 
-bien venue. Mays pource que le sable se trouve meslé parmy les<lb/>
+bien venue. Mays pource que le <m>sable</m> se trouve meslé parmy les<lb/>
 
-foeuilles, fais long temps tremper ton ouvrage dans l'<m>eau</m> affin
+foeuilles, fais <tmp>long temps</tmp> tremper ton ouvrage dans l’<m>eau</m> affin
 que,<lb/>
 
-le secouant dans l'<m>eau</m>, la <m>terre</m> s'en aille.</ab>
+le secouant dans l’<m>eau</m>, la <m>terre</m> s’en aille.</ab>
 
 </div>
 </root>

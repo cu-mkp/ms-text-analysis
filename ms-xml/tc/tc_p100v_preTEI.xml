@@ -1,11 +1,11 @@
-<root>
-<page>100v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="100v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image</image>
 
-<div>
 
-<id>p100v_1</id>
+
+<div id="p100v_1" categories="stones">
+
+
 
 <head><m>Pierrerie</m></head>
 
@@ -24,7 +24,7 @@ que tu pourras Calcines les trois ou 4 fois<lb/>
 dans ton <tl>four a vent</tl> &amp; les estaints dans de
 l<m>eau</m><lb/>
 
-ou <m>vinaigre</m> Apres prens en une <ms><figure>℥</figure></ms> et les
+ou <m>vinaigre</m> Apres prens en une <ms>℥</ms> et les
 <tl>pile</tl><lb/>
 
 dans un <tl>mortier tout pur de <m>cuivre</m></tl> &amp; avecq un
@@ -37,9 +37,9 @@ soient en pouldre fort subtile &amp; doulce et cela est<lb/>
 un signe quils ont prins de la substance du <m>cuivre</m><lb/>
 
 asses pour leur donner verdeur Lors sur ton
-<ms><figure>℥</figure></ms><lb/>
+<ms>℥</ms><lb/>
 
-de <m>caillou</m> mects y trois <ms><figure>℥</figure></ms> de <m>bon
+de <m>caillou</m> mects y trois <ms>℥</ms> de <m>bon
 minium non sophistique<lb/>
 
 de brique</m> &amp; daultre chose Et broye encores bien<lb/>
@@ -47,10 +47,9 @@ de brique</m> &amp; daultre chose Et broye encores bien<lb/>
 fort tout ensemble dans le <tl>mortier de <m>bronze</m></tl><lb/>
 
 Et sur tout cela mets y un <ms>gros</ms> <add><del>pour
-<ms><figure>℥</figure></ms></del></add> de <m>sel de verre</m><lb/>
+<ms>℥</ms></del></add> de <m>sel de verre</m><lb/>
 
-&amp; aulcuns &amp; le <pro>commun</pro> y mect d<del>e</del>u <m>suin
-de verre</m><lb/>
+&amp; aulcuns &amp; le <pro>commun</pro> y mect d<del>e</del>u <m>suin de verre</m><lb/>
 
 quilz trouvent ches les <pro>verriers</pro> ou
 <pro>apotiquaires</pro><lb/>
@@ -59,20 +58,15 @@ Mays le <m>sel alchali</m> co<exp>mm</exp>e tu scais est meilleur<lb/>
 
 En ceste sorte le <pro>vulgaire</pro> faict des <m>esmerauldes</m><lb/>
 
-&amp; en gectent en sable si tu nas point de <tl>mortier<lb/>
+&amp; en gectent en <m>sable</m> si tu nas point de <tl>mortier<lb/>
 
 de <m>bronze</m></tl> broye avecq <del>un mort</del> dans un
 <tl>chaulderon<lb/>
 
 de pur <m>cuivre</m></tl>
-
-<man><margin>left-middle</margin><m>Esmeraulde</m></man>
-
 </ab>
 
-<ab>
-
-<margin>left-top</margin>
+<ab margin="left-middle">
 
 Il fault faire<lb/>
 
@@ -90,21 +84,17 @@ la <tl>fornaise</tl> ou<lb/>
 
 que faire &amp; augmenter<lb/>
 
-le foeu
+le foeu<lb/>
 
-<figure>
-
-<id>fig_p100v_1</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28</link>
+<figure id="fig_p100v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28">
 
 </figure>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Elles sont faictes<lb/>
 
@@ -112,31 +102,34 @@ en une <ms><tmp>heure &amp; demye</tmp></ms>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
 Un <ms>gros</ms> de <m>sel</m><lb/>
 
-sur les quattre <ms><figure>℥</figure></ms><lb/>
+sur les quattre <ms>℥</ms><lb/>
 
 de <m>caillou</m> &amp; <m>minium</m><lb/>
 
-quand on dict pour <ms><figure>℥</figure></ms><lb/>
+quand on dict pour <ms>℥</ms><lb/>
 
 cela sentend sur une<lb/>
 
-<ms><figure>℥</figure></ms> du corps &amp; non pas<lb/>
+<ms>℥</ms> du corps &amp; non pas<lb/>
 
 des <m>sels</m> &amp; du <m>minium</m>
 
 </ab>
+    
+<ab margin="left-middle">
+<emph><m>Esmeraulde</m></emph></ab>
+    
 
 </div>
 
-<div>
+<div id="p100v_2" categories="stones" continued="yes">
 
-<id>p100v_2</id>
+
 
 <head>Pour <m>ruby</m> prens de l<m>or<lb/>
 
@@ -148,7 +141,7 @@ aultour pourcequil<lb/>
 fault plus de chaleur pour fayre <m>rubis</m> que pour
 <m>esmerauldes</m><lb/>
 
-Et prens une <ms><figure>℥</figure></ms> de <m>caillou blanc calcine</m>
+Et prens une <ms>℥</ms> de <m>caillou blanc calcine</m>
 et la mects dans<lb/>
 
 un <tl>mortier de <m>verre</m></tl> &amp; layant grossierement
@@ -160,9 +153,9 @@ avecq le <tl>pilon</tl> de mesme Mesles y <del><ms>un grain</ms></del>
 grain</ms> d<m>or en foeille</m> de quoy les <pro>painctres</pro>
 <m>dorent</m> &amp; broye</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-bottom</margin>
+
 
 Aulcuns disent que<lb/>
 
@@ -176,9 +169,9 @@ faict couleur de<lb/>
 
 <pa>peschier</pa></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-bottom</margin>
+
 
 Aultres disent quil<lb/>
 
@@ -188,7 +181,7 @@ plusieurs foys cimente<lb/>
 
 puys battu en foeille</ab>
 
-<cont/>
+
 
 </div>
 </root>

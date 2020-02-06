@@ -1,15 +1,15 @@
-<root>
-<page>148v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image</image>
 
-<div>
 
-<id>p148v_1</id>
+
+<div id="p148v_1" categories="casting">
+
+
 
 <head>Mouler <al>tortues</al></head>
 
-<ab>Apres rassemble les parties de ton <tl>moule</tl> et<lb/>
+<ab><comment rid="c_148v_01"/>Apres rassemble les parties de ton <tl>moule</tl> et<lb/>
 
 <tl>cramponne</tl> curieusement toutes les joinctures tant<lb/>
 
@@ -56,9 +56,9 @@ se trouveroit pesante sans estre creuse On lestime<lb/>
 mieulx moulee de ceste sorte <add>creuse</add> Et en <del>cha</del>
 ceste facon<lb/>
 
-pour faire bien un <tl>moule</tl> il fault bien <tmp>trois<lb/>
+pour faire bien un <tl>moule</tl> il fault bien trois<lb/>
 
-<ms>jours</ms></tmp> Advise en <tl>moules</tl> creux &amp; fantasques
+<ms><tmp>jours</tmp></ms> Advise en <tl>moules</tl> creux &amp; fantasques
 davoir<lb/>
 
 du <m>plastre fort</m> qui endure le foeu sans se crever sil est<lb/>
@@ -85,7 +85,7 @@ legerem<exp>ent</exp><lb/>
 avecq un <tl>burin</tl> puys les adoulcis avecq le <tl>ciselet</tl>
 Les<lb/>
 
-baves sostent avecq le <def><tl>chaple</tl></def> forme de
+baves sostent avecq le <df><tl>chaple</tl></df> forme de
 <tl>burin</tl> Pour les<lb/>
 
 grumeleures &amp; escailles elles se font ou avecq une <tl>petite<lb/>
@@ -95,9 +95,9 @@ gouge</tl> ou <tl>petites portes pieces rondes</tl> Ou avecq la
 
 ciselet</tl> non trampe &amp; frappe sur une <tl>petite lime</tl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais ce trou<lb/>
 

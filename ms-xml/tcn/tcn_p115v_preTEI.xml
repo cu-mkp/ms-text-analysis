@@ -1,10 +1,10 @@
-<root>
-<page>115v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="115v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image</image>
 
-<div>
-<id>p115v_1</id>
+
+
+<div id="p115v_1" categories="casting">
+
 <head>Gect d’<m>estaim</m></head>
 
 <ab>Si l’herbe ou fleur que tu veulx gecter <del>en <m>estaim</m></del>
@@ -40,8 +40,8 @@ le<lb/>
 
 faict mieulx courir &amp; l’affermist.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Sur le <m>plomb<lb/>
 
 allié d’estain</m> ou<lb/>
@@ -76,8 +76,9 @@ propre.</ab>
 
 </div>
 
-<div>
-<id>p115v_2</id>
+
+<div id="p115v_2" categories="casting">
+
 <head>Pour donner vent au <tl>moule</tl></head>
 
 <ab>Oultre les soupirails, si ton <del>es</del>herbe est fort
@@ -96,8 +97,9 @@ pour aider à nettoyer.</ab>
 
 </div>
 
-<div>
-<id>p115v_3</id>
+
+<div id="p115v_3" categories="casting" continued="yes">
+
 <head> Recuire les <tl>moules à noyau</tl></head>
 
 <ab>Aprés que tes <tl>moules</tl> ont leur gect, souspirails &amp;
@@ -150,15 +152,14 @@ qu’il faille<lb/>
 brusler, ce sera assés qu’ilz soient bien desseichés à ce mesme
 foeu,<lb/>
 
-si c’est pour gect d’<m>estain</m>, ilz se recuisent bien mieulx dans
+si c’est pour gect d’<m>estain</m>. Ilz se recuisent bien mieulx dans
 un<lb/>
 
 <tl>four de reverberation</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
 
-<figure/>
+<ab margin="left-top">
+<hr/>
 Ne retire pas<lb/>
 
 tes <tl>moules recuits</tl><lb/>
@@ -184,15 +185,10 @@ les gects &amp; souspirails<lb/>
 
 &amp; mectre les <tl>crampons</tl>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
 
-<figure>
+<ab margin="left-middle">
 
-<id>fig_p115v_1</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk</link>
-
+<figure id="fig_p115v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk">
 </figure>
 Garde de ne donner<lb/>
 
@@ -204,8 +200,9 @@ tes <tl>moules</tl> ne se<lb/>
 
 fendent.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+
+<ab margin="left-middle">
+
 Ils sont assés<lb/>
 
 recuits quand tout<lb/>
@@ -218,8 +215,9 @@ noir il n’est pas<lb/>
 
 assés.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+
+<ab margin="left-middle">
+
 Pour gecter en <m>argent</m>,<lb/>
 
 il ne fault point<lb/>
@@ -232,11 +230,12 @@ dans le <tl>moule</tl> qu’il faille<lb/>
 
 <del>despouiller</del> brusler pour<lb/>
 
-n’estre pas de bonne despouille. Tous les <tl>moules des
-<pro>ferriers</pro></tl> se recuisent deulx foys, la premiere pour
-<figure/></ab>
 
-<cont/>
+n’estre pas de bonne despouille. Tous les <tl>moules</tl> des
+fleurs se recuisent deulx foys, la premiere pour
+    <figure size="x-small" id="fig_p115v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ">            
+</figure></ab>
+
 
 </div>
 </root>

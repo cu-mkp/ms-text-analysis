@@ -1,13 +1,13 @@
-<root>
-<page>057r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="057r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f119.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f119.image</image>
 
-<div>
 
-<cont/>
 
-<id>p056v_1</id>
+<div continues="yes" id="p056v_1" categories="painting;varnish">
+
+
+
+
 
 <ab>
 
@@ -21,10 +21,10 @@ malaise<lb/>
 
 de soy mesme a broyer Il le fault faire rougir au feu puys<lb/>
 
-tout rouge le gecter dans de l<m>eau</m> froide &amp; il sesmiera &amp;
+tout rouge le gecter dans de l<m>eau froide</m> &amp; il sesmiera &amp;
 pulverisera<lb/>
 
-aysem<exp>ent</exp> pour apres le broyer @ Estant bien broye
+aysem<exp>ent</exp> pour apres le broyer  Estant bien broye
 <del>il</del> avecq force <m>eau</m><lb/>
 
 il semble <m>blanc de plomb</m> broye Mays pour cela il nha point de
@@ -34,10 +34,10 @@ Je croy quil seroit bon pour le gect</ab>
 
 <ab>
 
-@ Le <m>blanc de plomb</m> se faict de <m>lame de plomb</m> battue
+<comment rid="c_057r_02"/>Le <m>blanc de plomb</m> se faict de <m>lame de plomb</m> battue
 subtile &amp; mise<lb/>
 
-soubz le <m>fumier</m></ab>
+soubz le <env><tl><m>fumier</m></tl></env></ab>
 
 <ab>
 
@@ -50,7 +50,7 @@ ensemble<lb/>
 Il donne couleur dor sur l<m>argent</m> et plus beau sil est bruny Il
 Est sec<lb/>
 
-en <tmp>ung quart dheure</tmp> L<m>aloe</m> feroit bien plus couleur
+en <tmp>ung quart dheure</tmp> L<pa><m>aloe</m></pa> feroit bien plus couleur
 haulte Mais Il est long<lb/>
 
 a seicher &amp; laultre est sec en <tmp>ung quart dheure</tmp>
@@ -73,7 +73,7 @@ si sestoit <m>pouldre<lb/>
 
 dor</m> semee dessus</ab>
 
-<ab><comment>c_057r_01</comment>
+<ab><comment rid="c_057r_01"/>
 
 Le <m>vermillon</m> broye de soymesme est blaffart et palle Mays
 broye<lb/>

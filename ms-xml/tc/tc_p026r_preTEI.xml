@@ -1,42 +1,40 @@
-<root>
-<page>026r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="026r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item</image>
 
-<div>
 
-<id>p026r_1</id>
 
-<ab>
+<div id="p026r_1" categories="arms and armor">
 
-<margin>top</margin>
 
-<render>wide</render>
 
-<rub>Cecy est la juste mesure du Calibre<lb/>
+<head>Balle de <wp>canon</wp></head>
+    
+<ab margin="top" render="extra-wide">
+
+
+
+
+
+<emph>Cecy est la juste mesure du Calibre<lb/>
 
 mays le <tl>foret</tl> en emporte tousjours quelque peu
-dadva<exp>n</exp>tage</rub></ab>
+dadva<exp>n</exp>tage</emph></ab>
 
-<figure>
+    <figure size="large" id="fig_p026r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE">
 
-<id>fig_p026r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE</link>
 
-<caption>Balle de canon</caption>
+
 
 </figure>
 
-<cont/>
-
 </div>
 
-<div>
+<div id="p026r_2" categories="arms and armor">
 
-<id>p026r_2</id>
 
-<head>Mortier</head>
+
+<head>Mortier<comment rid="c_008r_04"/></head>
 
 <ab>Ils se font mieulx en forme de creusol <del>creulx par le</del> plus
 estroits<lb/>
@@ -44,10 +42,10 @@ estroits<lb/>
 par le cul &amp; vena<exp>n</exp>t en eslargissant par la gueule il
 fault fort<lb/>
 
-piler la <m>pouldre</m> &amp; y mectre dessus ou du sable ou du
+<tl>piler</tl> la <m>pouldre</m> &amp; y mectre dessus ou du <m>sable</m> ou du
 <m>liege</m> ou<lb/>
 
-pour mieulx une platene juste de <m>cire</m> fort pilee dessus car
+pour mieulx une platene juste de <m>cire</m> fort <tl>pilee</tl> dessus car
 elle<lb/>
 
 selle justement &amp; faict plus deffort La balle ne faict que trou<lb/>
@@ -58,15 +56,7 @@ charges<lb/>
 de quinze <tmp>jours</tmp> &amp; tenus en <env>lieu sec</env> ilz ont
 plus de force</ab>
 
-<figure>
-
-<id>fig_p026r_2</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE</link>
-
-</figure>
+    <figure size="small" id="fig_p026r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE"></figure>
 
 </div>
 </root>

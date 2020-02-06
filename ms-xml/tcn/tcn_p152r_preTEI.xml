@@ -1,18 +1,18 @@
-<root>
-<page>152r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image</image>
 
-<div>
 
-<id>p152r_1</id>
+
+<div id="p152r_1" categories="casting">
+
+
 
 <head>Mouler un <al>rat</al></head>
 
-<ab>La barbe de ses moustaches seroict malaisée à venir de gect,<lb/>
+<ab>La barbe de ses moustaches seroict malaisée à venir de gect;<lb/>
 
 tu les pourras doncq raire avecq du foeu co<exp>mm</exp>e <del>d</del>le
-<pn>tyran de <pl>Syracuse</pl></pn>,<lb/>
+<pn>tyran de <pl>Syracuse</pl></pn>,<comment rid="c_152r_01"/><lb/>
 
 &amp; aprés tu luy en pourras remectre <del>d’arg</del> de naturelles
 <m>argentées</m>.<lb/>
@@ -29,7 +29,7 @@ chandelle</tl>.<lb/>
 Le reste du corps se doibt oindre avecq <m>huile de
 <pa>froment</pa></m>,<lb/>
 
-qui tiendra le poil roide &amp; couché, si bien que le sable ne<lb/>
+qui tiendra le poil roide &amp; couché, si bien que le <m>sable</m> ne<lb/>
 
 l’enlevera poinct en s’i embrouillant pour empescher de venir net.<lb/>
 
@@ -47,8 +47,8 @@ mectre de l’<m>huile commun</m> pour baisser le poil. Et plustost<lb/>
 que mouler ses animaulx (excepté les <al>serpents</al> &amp;
 <al>lesards</al>),<lb/>
 
-laisse les <del>reposer</del> demeurer morts <tmp>un <ms>jour</ms> ou
-deulx</tmp> pour<lb/>
+laisse les <del>reposer</del> demeurer morts un <ms><tmp>jour</tmp></ms> ou
+deulx pour<lb/>
 
 les avoir plus maniables. Car ilz se tiennent roides aprés<lb/>
 
@@ -58,11 +58,11 @@ qu’ilz ne soient un peu amollis. Touteffois si tu le moules<lb/>
 
 incontinent aprés qu’il est mort, ou luy donne son plant<lb/>
 
-plustost qu’il ne se roidisse, tu feras bien. <del>Au</del> Et pource
+plustost qu’il ne se roidisse, tu feras bien. <del>Au</del><comment rid="c_152r_02"/> Et pource
 que<lb/>
 
 les yeulx se meurent <del>tu y en</del> si tu <add>ne</add> le moules
-promptem<exp>ent</exp>, tu pourras<lb/>
+promptem<exp>ent</exp>, tu pourra<corr>s</corr><comment rid="c_152r_03"/><lb/>
 
 substituer dans les yeulx des <m>moictiés de <pa>poix</pa> bien
 ronds</m>,<lb/>
@@ -96,14 +96,14 @@ la<lb/>
 queue. Frotte le d’<m>eau de vye</m> estant sec de l’<m>huile</m>.
 Puys<lb/>
 
-gecte ton sable, aprés descouvre le co<exp>mm</exp>e les aultres
+gecte ton <m>sable</m>, aprés descouvre le co<exp>mm</exp>e les aultres
 animaulx,<lb/>
 
 &amp; fais le second gect. Il ne fault pas ouvrir le<lb/>
 
 <tl>moule</tl> qu’il ne soict recuit &amp; le <al>rat</al> bruslé.</ab>
 
-<ab><margin>left-middle</margin><figure>+</figure>
+<ab margin="left-middle"><mark>+</mark><lb/>
 
 Le <al>rat</al>, pource qu’il<lb/>
 
@@ -139,9 +139,10 @@ bien nettoyer, car<lb/>
 
 les <m>os</m> ne se<lb/>
 
-calcinent poinct.</ab>
+calcinent poinct.
+<hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Toute plume<lb/>
 
@@ -151,9 +152,10 @@ est malaisé<lb/>
 
 à mouler selon<lb/>
 
-le naturel.</ab>
+le naturel.
+<hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Le <m>beurre</m> pour<lb/>
 
@@ -165,9 +167,10 @@ que l’<m>huile de <pa>froma<exp>n</exp>t</pa></m>,<lb/>
 
 pource qu’il est plus<lb/>
 
-amiable.</ab>
+amiable.
+<hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si le <al>rat</al> est gra<exp>n</exp>d,<lb/>
 
@@ -193,7 +196,7 @@ gaste &amp; faict<lb/>
 
 grumeleux.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Ne mects ton<lb/>
 

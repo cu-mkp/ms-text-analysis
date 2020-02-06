@@ -1,11 +1,11 @@
-<root>
-<page>031v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="031v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image</image>
 
-<div>
 
-<id>p031v_1</id>
+
+<div id="p031v_1" categories="painting">
+
+
 
 <head><pro>Painctre</pro></head>
 
@@ -27,25 +27,25 @@ tout cella</ab>
 
 </div>
 
-<div>
+<div id="p031v_2" categories="painting">
 
-<id>p031v_2</id>
+
 
 <head><tl>Broisses</tl></head>
 
 <ab>Prens de celles qui ont un peu servy aulx
-<pro>blanchiss<corr>e<exp>ur</exp></corr>s</pro><lb/>
+<pro>blanchisss<lb/>
 
-de <m>chaulx vive</m> car lasperite de la <m>chaulx</m> &amp;
+de chaulx vive</pro> car lasperite de la <m>chaulx</m> &amp;
 lusage<lb/>
 
 les rend plus maniables</ab>
 
 </div>
 
-<div>
+<div id="p031v_3" categories="painting">
 
-<id>p031v_3</id>
+
 
 <head>Paindre au naturel</head>
 
@@ -57,18 +57,18 @@ quil ne fauldroit</ab>
 
 </div>
 
-<div>
+<div id="p031v_4" categories="painting;glass process">
 
-<id>p031v_4</id>
 
-<head>Paindre daprest</head>
+
+    <head>Paindre daprest<comment rid="c_031v_01"/></head>
 
 <ab>Pour le bleu ilz prenent de l<m>azur desmail</m> du plus<lb/>
 
 gros &amp; le broyent sur une <tl><m>escaille</m></tl> &amp; y meslent
 deulx ou trois<lb/>
 
-<ms>patenostres</ms> de <m>roquaille</m> ou plus selon la
+    <ms>patenostres</ms> de <m>roquaille</m><comment rid="c_031v_02"/> ou plus selon la
 qua<exp>n</exp>tite de la besoigne<lb/>
 
 Et ayant faict leur desseing de <m>noir descaille</m> (qui se paint<lb/>

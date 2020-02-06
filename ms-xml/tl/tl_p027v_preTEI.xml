@@ -1,112 +1,96 @@
-<root>
-<page>027v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="027v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f60.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f60.image</image>
 
-<div>
 
-<cont/>
 
-<id>p026r_1</id>
+<div id="p027v_1" categories="arms and armor">
 
-<figure>
-
-<id>fig_p027v_1</id>
-
-<margin>left-top</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg</link>
-
-<caption>Falconet</caption>
-
+<head><wp>Falconet</wp></head>
+    
+<figure id="fig_p027v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg">
 </figure>
 
-<figure>
+</div>
 
-<id>fig_p027v_2</id>
 
-<margin>right-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg</link>
+<div id="p027v_2" categories="arms and armor">
 
-<caption>Falconet of 4 <ms>quintals</ms>, alternatively passe-volant, is
-8 <ms>pans</ms> long</caption>
+<head margin="right-top" ><wp>Falconet</wp> of 4 <ms>quintals</ms>, alternatively <wp>passe-volant</wp>, is
+8 <ms><fr>pans</fr></ms> long</head>
 
+<figure id="fig_p027v_2" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg">
 </figure>
 
-<figure>
+</div>
 
-<id>fig_p027v_3</id>
+    
+    
+<div id="p027v_3" categories="arms and armor">
+    
+<head margin="left-bottom">3 <ms>quintals</ms>, is 9 <ms><fr>pans</fr></ms> long</head>
 
-<margin>left-middle</margin>
+<figure id="fig_p027v_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA">
+</figure>
+    
+</div>
+    
+    
+    
+<div id="p027v_4" categories="arms and armor">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA</link>
+<head>2 <ms>quintals</ms>, is one <ms><fr>cane</fr></ms> long, which
+is 8 <ms><pl>Montpellier</pl> <fr>pans</fr></ms></head>
 
-<caption>3 <ms>quintals</ms>, is 9 <ms>pans</ms> long</caption>
-
+<figure id="fig_p027v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM">
 </figure>
 
-<figure>
+</div>
 
-<id>fig_p027v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM</link>
 
-<caption>2 <ms>quintals</ms>, is one <ms><fr>cane</fr></ms> long, which
-is 8 <ms><pl>Montpellier</pl> <fr>pan</fr>s</ms> </caption>
+<div id="p027v_5" categories="arms and armor">
 
+<head margin="right-top" >1 <ms>quintal</ms>, is six <ms><fr>pans</fr></ms> and a
+half</head>
+
+<figure id="fig_p027v_5" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U">
+</figure>
+    
+</div>
+
+
+
+<div id="p027v_6" categories="arms and armor">
+
+<head margin="left-bottom" >1 <ms>quintal</ms> and a half is 7 <ms><fr>pans</fr></ms> and a
+half</head>
+    
+<figure id="fig_p027v_6" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E">
 </figure>
 
-<figure>
+</div>
 
-<id>fig_p027v_5</id>
 
-<margin>right-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U</link>
-
-<caption>1 <ms>quintal</ms>, is six <ms><fr>pans</fr></ms> and a
-half</caption>
-
+<div id="p027v_7" categories="arms and armor">
+    
+<head>60 <ms>lb</ms> <wp>musket</wp>,<comment rid="c_027v_01"/> is 5
+<ms><fr>pans</fr></ms> and a half or 6</head>
+    
+<figure id="fig_p027v_7" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA">
 </figure>
 
-<figure>
+</div>
 
-<id>fig_p027v_6</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E</link>
+<div id="p027v_8" categories="arms and armor">
 
-<caption>1 <ms>quintal</ms> and a half is 7 <ms><fr>pans</fr></ms> and a
-half</caption>
-
-</figure>
-
-<figure>
-
-<id>fig_p027v_7</id>
-
-<margin>right-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA</link>
-
-<caption>60 <ms>lb</ms> musket<comment>c_027v_01</comment>, is 5
-<ms><fr>pans</fr></ms> and a half or 6</caption>
-
-</figure>
-
-<figure>
-
-<id>fig_p027v_8</id>
-
-<margin>bottom</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc</link>
-
-<caption>5 <ms>quintals</ms> is eleven <ms><fr>pans</fr></ms> and a
-half</caption>
-
+<head>5 <ms>quintals</ms> is eleven <ms><fr>pans</fr></ms> and a
+half</head>
+    
+<figure id="fig_p027v_8" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc">
 </figure>
 
 </div>

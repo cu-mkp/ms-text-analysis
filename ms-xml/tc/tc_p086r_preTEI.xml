@@ -1,13 +1,13 @@
-<root>
-<page>086r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="086r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f177.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f177.image</image>
 
-<div>
 
-<cont/>
 
-<id>p085v_4</id>
+<div continues="yes" id="p085v_4" categories="casting" continued="yes">
+
+
+
+
 
 <ab>de la <m>matiere de poelone</m> meslee dune bossette qui est
 <m>potin</m><lb/>
@@ -26,14 +26,14 @@ coste &amp; cave de laultre tant figure que les l<exp>ett</exp>res Il
 est<lb/>
 
 vray que la matiere estoit blanchastre co<exp>mm</exp>e quasi
-metalline<lb/>
+<m>metalline</m><lb/>
 Mays cestoit a cause du <m>potin</m> Jay faict un aultre gect<lb/>
 
-de <m>matiere de poelonne</m> seule dans mesme sable Mays non<lb/>
+de <m>matiere de poelonne</m> seule dans mesme <m>sable</m> Mays non<lb/>
 
 pas si recuit Il nest pas bien venu</ab>
 
-<ab>Despuys jay moule d<m>os de pied de <al>bœuf</al> brusle
+<ab>Despuys jay moule d<m>os de pied de <al>boeuf</al> brusle
 pulverise</m><lb/>
 
 &amp; <tl>tamise</tl> par un <tl>double tamys</tl> &amp; <del>hum</del>
@@ -66,13 +66,13 @@ de poelonne</m> Il me raporta mes figures fort nettes Il est<lb/>
 
 vray que javoys fort fort recuit mon <tl>chassis</tl> Il ne<lb/>
 
-soubstint quun gect<comment>c_086r_01</comment> <rub>Je trouve</rub> que
-quand un sable est<lb/>
+soubstint <underline>quun gect <emph>Je trouve</emph> que</underline>
+quand un <m>sable</m> est<lb/>
 
 tellement subtilie quil se rend dansse co<exp>mm</exp>e <m>ceruse</m>
 &amp; uny <del>co<exp>mm</exp>e</del><lb/>
 
-sans le cognoistre aride rare <m>areneulx</m> &amp; co<exp>mm</exp>e
+sans le cognoistre aride rare areneulx &amp; co<exp>mm</exp>e
 spongieulx quil<lb/>
 
 moule bien net Mays il ne recoit pas si bien le <m>metal</m>
@@ -80,10 +80,10 @@ co<exp>mm</exp>e sil<lb/>
 
 estoit poreulx pour supper la matiere Ains estant gras &amp; uny<lb/>
 
-il soufle &amp; ne recoit point les traicts subtils <rub>Je croy
+il soufle &amp; ne recoit point les traicts subtils <emph>Je croy
 que<lb/>
 
-le secret</rub> de bien gecter gist de trouver un sable qui<lb/>
+le secret</emph> de bien gecter gist de trouver un <m>sable</m> qui<lb/>
 
 recoive bien le <m>metal</m> lun pour le <m>plomb</m> laultre pour
 un<lb/>
@@ -108,17 +108,17 @@ de<lb/>
 matiere qui contient beaucoup plus de chaleur que petite quantite<lb/>
 
 Il fault que le <tl>chassis</tl> soit froid &amp; que tu gectes a coup
-<m>Lutte</m><lb/>
+<m><tl>Lutte</tl></m><lb/>
 
 tousjours lentree de ton <tl>chassis</tl> car le <m>metal</m> touchant
-le <m>fer</m> ou <m>metal</m></ab>
+le <m>fer</m> ou <m>metal</m><comment rid="c_016v_05"/></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 
 Cest <m>os</m> veult<lb/>
 
-estre fort pile<lb/>
+estre fort <tl>pile</tl><lb/>
 
 dans un <tl>mortier</tl><lb/>
 
@@ -128,7 +128,7 @@ estre fort recuit<lb/>
 
 pource quil sesmie</ab>
 
-<cont/>
+
 
 </div>
 </root>

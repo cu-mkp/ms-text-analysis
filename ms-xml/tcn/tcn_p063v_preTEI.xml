@@ -1,24 +1,24 @@
-<root>
-<page>063v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="063v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f132.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f132.item</image>
 
-<div>
 
-<id>p063v_1</id>
 
-<head><m>Velours</m> et noirs</head>
+<div id="p063v_1" categories="painting">
 
-<ab>Il fault <corr><del>fault</del></corr> faire l<del>e</del>a
+
+
+<head>Velours et noirs</head>
+
+<ab>Il fault <corr><del>fault</del></corr> faire l<del>e</del>a<comment rid="c_063v_01"/>
 <del>milieu</del> principalle couche <del>d</del>fort<lb/>
 
 obscure &amp; les plis &amp; rehaulssem<exp>ents</exp> de la mesme fort
 esclarcie<lb/>
 
-avecq du blanc, &amp; sur les fins d<del>u</del>e son jour tu donnes
+avecq du blanc, &amp; sur les fins d<del>u</del>e<comment rid="c_063v_01"/> son jour tu donnes
 un<lb/>
 
-traict blanc. Pour <m>velours</m> bleu &amp; vert, tu
+traict blanc. Pour velours bleu &amp; vert, tu
 <del>rehaulsses</del><lb/>
 
 touches le renfoncem<exp>ent</exp> de noir d’<m>os de
@@ -27,15 +27,15 @@ touches le renfoncem<exp>ent</exp> de noir d’<m>os de
 noir. Pour <m>laque</m>, le noir de <m>charbon de pierre</m> qui<lb/>
 
 faict un noir rougeastre <add>sur <m>laque</m> pour
-<m>velours</m></add>. Le <m>charbon commun</m> faict<lb/>
+velours</add>. Le <m>charbon commun</m> faict<lb/>
 
 un noir blanchastre. <del>P</del></ab>
 
 </div>
 
-<div>
+<div id="p063v_2" categories="painting">
 
-<id>p063v_2</id>
+
 
 <head>Armes</head>
 
@@ -45,9 +45,9 @@ pour faire armes.</ab>
 
 </div>
 
-<div>
+<div id="p063v_3" categories="painting">
 
-<id>p063v_3</id>
+
 
 <head><m>Scudegrun</m></head>
 
@@ -60,9 +60,9 @@ de la <m>ceruse</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_4" categories="painting">
 
-<id>p063v_4</id>
+
 
 <head><m>Rosette</m></head>
 
@@ -73,13 +73,13 @@ son corps avecq <m>ceruse</m> &amp; <m>taincture de
 
 </div>
 
-<div>
+<div id="p063v_5" categories="painting">
 
-<id>p063v_5</id>
+
 
 <head>Pers de <pl>Flendres</pl></head>
 
-<ab>Au moys de may, on mect de la <m>fiente de <al>vache</al></m><lb/>
+<ab>Au <tmp>moys de may</tmp>, on mect de la <m>fiente de <al>vache</al></m><lb/>
 
 pourrir soubs le <m>fient de <al>cheval</al></m>. Puys, on mesle<lb/>
 
@@ -87,9 +87,9 @@ avecq <m>florée</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_6" categories="painting">
 
-<id>p063v_6</id>
+
 
 <head>Paysages de neiges</head>
 
@@ -99,16 +99,16 @@ avecq <m>florée</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_7" categories="painting">
 
-<id>p063v_7</id>
+
 
 <head>Adoulcir</head>
 
 <ab>Si tu as travaillé &amp; faict ton assiete de quelque couleur
 desiccative,<lb/>
 
-co<exp>mm</exp>e le <m>mine</m>, &amp; semblable, acheve d’adoulcir
+co<exp>mm</exp>e le <m>mine</m> &amp; semblable, acheve d’adoulcir
 pendant que l’ouvraige est<lb/>
 
 frais, car si tu attendois au <tmp>lendemain</tmp> il seroit sec &amp;

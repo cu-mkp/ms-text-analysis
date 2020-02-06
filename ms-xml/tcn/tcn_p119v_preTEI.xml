@@ -1,21 +1,21 @@
-<root>
-<page>119v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="119v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image</image>
 
-<div>
 
-<id>p119v_1</id>
 
-<head>Facon d’acoustrer l<del><m>aspalt</m></del><add>e
-<m>spat</m></add></head>
+<div id="p119v_1" categories="casting">
+
+
+
+<head>Facon d’acoustrer l<del>a</del>e<comment rid="c_119v_04"/> <del>spalt</del>
+<add><m><de>spat</de></m></add><comment rid="c_108r_02"/></head>
 
 <ab>Il se trouve en terre en <pl>Allemaigne</pl> de couleur de
 <m>plastre cuit</m><lb/>
 
 faict à longs filets, fort doulx à manier. Et pource qu’il est<lb/>
 
-meslé de <m>terre</m> et <m>ordure</m>, on le pile
+meslé de <m>terre</m> et <m>ordure</m>, on le <tl>pile</tl>
 grossierem<exp>ent</exp> &amp; on en faict des<lb/>
 
 pelotes, l’ayant pour ces effect destrempé en <m>eau de sel
@@ -78,19 +78,17 @@ pour mieux faire tu pourras mectre à part d’iceluy pour<lb/>
 
 servir à chasque <m>metal</m>.</ab>
 
-<ab>
 
-<margin>left-top</margin>
+<ab margin="left-middle">
 
-Voy <la><pn>Gesnerus</pn><comment>c_119v_03</comment><lb/>
+Voy <la><pn>Gesnerus</pn><comment rid="c_119v_02"/><lb/>
 
-De lapidibus</la><lb/>
+De lapidibus</la><comment rid="c_119v_03"/><lb/>
 
 </ab>
 
-<ab>
 
-<margin>left-top</margin>
+<ab margin="left-middle">
 
 Il endure<lb/>
 
@@ -120,11 +118,10 @@ soict canellé,<lb/>
 
 il tient.</ab>
 
-<ab>
 
-<margin>left-middle</margin>
+<ab margin="left-middle">
 
-Le <m>spat</m> ne<lb/>
+Le <m><de>spat</de></m> ne<lb/>
 
 faict presque<lb/>
 
@@ -146,15 +143,15 @@ aysem<exp>ent</exp> avecq les<lb/>
 
 </div>
 
-<div>
+<div id="p119v_2" categories="casting">
 
-<id>p119v_2</id>
+
 
 <head>Excellent secret pour mouler creus<lb/>
 
 et fort subtil en <m>or fin</m></head>
 
-<ab>Jecte avec ton sable susdict ton animal et <al>lesarde</al> ou
+<ab>Jecte avec ton <m>sable</m> susdict ton animal et <al>lesarde</al> ou
 aultre<lb/>
 
 chose avec <m>argent de billon</m>, &amp; il viendra fort net.

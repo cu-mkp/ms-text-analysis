@@ -1,13 +1,7 @@
-<root>
-<page>145v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="145v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image</image>
 
-<div>
-
-<cont/>
-
-<id>p145r_2</id>
+<div continues="yes" id="p145r_2" categories="casting">
 
 <ab>Mays <del>pource que</del> les <tl><bp>doigts</bp></tl> ne pressent
 point uniment, <del>on</del><lb/>
@@ -46,15 +40,71 @@ despouillera.<lb/>
 Quand tu vouldras gecter, asseure &amp; joincts tes deulx<lb/>
 
 <tl><m>os</m></tl> avecq de <tl>petites pointes de <m>bois</m></tl>
-&amp;<sup>c</sup>. Mays pour mouler<lb/>
+&amp;<corr>c</corr>. Mays pour mouler<lb/>
 
-bien net il n’y ha que nostre sable. </ab>
+bien net il n’y ha que nostre <m>sable</m>. </ab>
 
 </div>
 
-<div>
 
-<id>p145v_1</id>
+<div id="p145v_2" categories="casting">
+        
+<head margin="left-top"><mark>+</mark><lb/><lb/>Fleurs</head>
+        
+<ab margin="left-top">
+            
+Quand tu les moules,<lb/>
+            
+si elles ne sont assés<lb/>
+            
+fortes pour se tenir<lb/>
+            
+droictes, passe un<lb/>
+            
+<tl>filet</tl> par le <tl>moule</tl><lb/>
+            
+pour les garder<lb/>
+            
+qu’elles ne se haulssent,<lb/>
+            
+&amp; gecte le <m>sable</m> peu à peu,<lb/>
+            
+&amp; soufle tousjours<lb/>
+            
+fort affin qu’il<lb/>
+            
+s’assoye partout,<lb/>
+            
+aultrement il viendra<lb/>
+            
+grumeleus.</ab>
+        
+<ab margin="left-top">
+            
+Pource que tu ne<lb/>
+            
+mects poinct en cecy<lb/>
+            
+de <tl>platine d’<m>ardille</m></tl><lb/>
+            
+le <tl>moule</tl> quelque<lb/>
+            
+fois tient sur la <tl>table</tl><lb/>
+            
+que tu l’as gecté.<lb/>
+            
+Pour le faire<lb/>
+            
+deffaire, frappe un<lb/>
+            
+grand coup d’un <tl>marteau</tl><lb/>
+            
+au costé de la <tl>table</tl>.</ab>
+        
+</div>
+            
+            
+<div id="p145v_1" categories="casting" continued="yes">
 
 <head>Mouler herbes et fleurs</head>
 
@@ -75,7 +125,7 @@ qu’aulx<lb/>
 
 faire fort et espés selon la grandeur qu’il te<lb/>
 
-convient, aultrement il se creveroit, le sable<lb/>
+convient, aultrement il se creveroit, le <m>sable</m><lb/>
 
 estant dedans. Asseure le &amp; le fortifie bien par<lb/>
 
@@ -94,97 +144,20 @@ Puys trempe ta fleur ou herbe dans de <m>bonne<lb/>
 eau de vie</m> <del>ou bien moin</del> mise dans un <tl>long
 verre</tl></ab>
 
-<figure>
-
-<id>fig_p145v_2</id>
-
-<margin>left-bottom</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc</link>
-
+<figure id="fig_p145v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc">
 </figure>
-
-<cont/>
 
 </div>
 
-<div>
+<div id="p145v_2" part="y">
 
-<id>p145v_2</id>
-
-<margin>left-top</margin>
-
-<head>Fleurs</head>
-
-<ab><comment>c_145v_01</comment>
-
-<figure>+</figure>
-
-</ab>
-
-<ab>
-
-<margin>left-top</margin>
-
-Quand tu les moules,<lb/>
-
-si elles ne sont assés<lb/>
-
-fortes pour se tenir<lb/>
-
-droictes, passe un<lb/>
-
-<tl>filet</tl> par le <tl>moule</tl><lb/>
-
-pour les garder<lb/>
-
-qu’elles ne se haulssent,<lb/>
-
-&amp; gecte le sable peu à peu,<lb/>
-
-&amp; soufle tousjours<lb/>
-
-fort affin qu’il<lb/>
-
-s’assoye partout,<lb/>
-
-aultrement il viendra<lb/>
-
-grumeleus.</ab>
-
-<ab>
-
-<margin>left-middle</margin>
-
-Pource que tu ne<lb/>
-
-mects poinct en cecy<lb/>
-
-de <tl>platine d’<m>ardille</m></tl><lb/>
-
-le <tl>moule</tl> quelque-<lb/>
-
-fois tient sur la <tl>table</tl><lb/>
-
-que tu l’as gecté.<lb/>
-
-Pour le faire<lb/>
-
-deffaire, frappe un<lb/>
-
-grand coup d’un <tl>marteau</tl><lb/>
-
-au costé de la <tl>table</tl>.</ab>
-
-<ab>
-
-<margin>left-bottom</margin>
-
+<ab margin="left-middle">
+    
 C’est assés de recuire<lb/>
 
 une fois ton <tl>moule</tl><lb/>
 
-<m>luthé</m> pour fleurs &amp; la seconde fois<lb/>
+<m><tl>luthé</tl></m> pour fleurs &amp; la seconde fois<lb/>
 
 le chaufer si tu gectes en <m>estain</m> &amp; <m>plomb</m>,<lb/>
 
@@ -193,8 +166,6 @@ car pour l’<m>or</m> &amp; l’<m>argent</m> il le fault<lb/>
 recuire deulx fois.</ab>
 
 <ab>
-
-<margin>bottom</margin>
 
 Gecte bien rouge ton <m>estaim</m> dans<lb/>
 
@@ -205,4 +176,5 @@ puisses tenir le <tl><bp>doigt</bp></tl> sans læsion dans le
 pertuis</sn>.</ab>
 
 </div>
+
 </root>

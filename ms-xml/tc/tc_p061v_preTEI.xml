@@ -1,32 +1,32 @@
-<root>
-<page>061v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="061v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image</image>
 
-<div>
 
-<id>p061v_1</id>
+
+<div id="p061v_1" categories="painting;practical optics">
+
+
 
 <head><m>Eau</m> pour donner jour au<lb/>
 
 <pro>painctre</pro></head>
 
-<ab>Distille l<m>eau de vigne</m> &amp; la mects dans une grande<lb/>
+<ab>Distille l<m>eau de vigne</m><comment rid="c_061v_01"/> &amp; la mects dans une <tl>grande<lb/>
 
-<tl>bouteille</tl> Et derriere icelle mects ta <tl>chandelle</tl> &amp;
+bouteille</tl> Et derriere icelle mects ta <tl>chandelle</tl> &amp;
 elle ne<lb/>
 
 nuyra point a ta veue</ab>
 
 </div>
 
-<div>
+<div id="p061v_2" categories="painting;varnish;practical optics">
 
-<id>p061v_2</id>
 
-<head>Chassis des <pl>allemans</pl></head>
 
-<ab>Les <pl>allemans</pl> qui travaillent en petit font des chassis non
+<head><tl>Chassis</tl><comment rid="c_061v_02"/> des <pl>allemans</pl></head>
+
+<ab>Les <pl>allemans</pl> qui travaillent en petit font des <tl>chassis</tl> non
 de<lb/>
 
 <m>verre</m> Mays de <m>toile</m> oincte de <m>vernis clair de
@@ -50,9 +50,9 @@ de <al>rat</al></m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p061v_3" categories="painting">
 
-<id>p061v_3</id>
+
 
 <head><m>Azur desmail</m> a <m>huile</m></head>
 
@@ -94,9 +94,9 @@ quand il est fort subtil &amp; delie sans estre broye Et ne<lb/>
 
 coule point</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L<m>azur</m> veult estre<lb/>
 
@@ -140,9 +140,9 @@ mourir</ab>
 
 </div>
 
-<div>
+<div id="p061v_4" categories="painting">
 
-<id>p061v_4</id>
+
 
 <head>Broyer couleurs</head>
 

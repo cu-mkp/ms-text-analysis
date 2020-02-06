@@ -1,18 +1,17 @@
-<root>
-<page>102r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="102r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image</image>
 
-<div>
 
-<id>p102r_1</id>
+
+<div id="p102r_1" categories="metal process">
+    
+
 
 <head>Provisions pour loeuvre de colchos</head>
 
 <ab>7 <tl>cornues</tl><lb/>
 
-2 <ms>lb</ms>de
-<figure><del><m>☿</m></del></figure><comment>c_102r_01</comment><figure><m>☿</m></figure><lb/>
+2 <ms>lb</ms> de <ill/><comment rid="c_102r_01"/> <m>☿</m><lb/>
 
 Une mesure de <m>gros sel</m><lb/>
 
@@ -32,9 +31,9 @@ Un payre de petits <tl>ciseaulx</tl></ab>
 
 </div>
 
-<div>
+<div id="p102r_2" categories="metal process">
 
-<id>p102r_2</id>
+
 
 <head>Pour le <tl>four</tl></head>
 
@@ -46,7 +45,7 @@ Et espesse dun <ms><bp>pied</bp></ms> persee par le milieu<lb/>
 2 <tl>boictes</tl> ou <tl>pots de <m>terre</m> avecq un
 couvercle</tl><lb/>
 
-2 petits <tl>tuyaulx de <m>fer blanc</m></tl> pour evacuer la fumee du
+2 petits <tl>tuyaulx de <m>fer blanc</m></tl> pour evacuer la <m>fumee</m> du
 <tl>four</tl><lb/>
 
 <m>Huile de graine de <pa>navete</pa></m> pour les <tl>lampes</tl> a
@@ -56,11 +55,11 @@ un <tl>fusil</tl></ab>
 
 </div>
 
-<div>
+<div id="p102r_3" categories="metal process">
 
-<id>p102r_3</id>
 
-<head><m>Ciment royal</m></head>
+
+<head><m>Ciment royal</m><comment rid="c_102r_02"/></head>
 
 <ab>Une <ms>lb &amp; demye</ms> de <m>vitriol</m><lb/>
 
@@ -70,9 +69,9 @@ Aultant d<m>alum de roche</m></ab>
 
 </div>
 
-<div>
+<div id="p102r_4" categories="glass process">
 
-<id>p102r_4</id>
+
 
 <head><tl>Vaisseaulx de <m>verre</m></tl></head>
 
@@ -88,16 +87,9 @@ quune <tl><ms>plume d<pl>holande</pl></ms></tl><lb/>
 y puysse justem<exp>ent</exp> entrer &amp; un bord au bout Ainsy de la
 haulteur<lb/>
 
-de sept <ms>travers de <bp>doigt</bp></ms>
+de sept <ms>travers de <bp>doigt</bp></ms><lb/>
 
-<figure>
-
-<id>fig_p102r_1</id>
-
-<margin>bottom</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M</link>
-
+    <figure size="small" id="fig_p102r_1" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M">
 </figure>
 
 </ab>

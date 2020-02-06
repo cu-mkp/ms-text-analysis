@@ -1,16 +1,16 @@
-<root>
-<page>065r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="065r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image</image>
 
-<div>
 
-<id>p065r_1</id>
+
+<div id="p065r_1" categories="painting">
+
+
 
 <head>Umbres</head>
 
 <ab>Pourceque les noirs font diverses couleurs les uns un noir
-rougeastre<lb/>
+rougeas<ups>tre</ups><lb/>
 
 les aultres tirant sur le bleu aultres sur le vert Choisis ceulx<lb/>
 
@@ -26,11 +26,11 @@ d<m>ocre <add>jaulne</add></m> &amp; de<lb/>
 <m>blanc de plomb</m> Ou bien apres que tu as broye ton <m>blanc de
 plomb</m><lb/>
 
-<del>bro</del> et <del>nettoye p</del> ramasse avecq la <figure>
+    <del>bro</del> et <del>nettoye p</del> ramasse avecq la <figure size="x-small" id="fig_p065r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc">
 
-<id>fig_p065r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc</link>
+
+
 
 </figure> broyes y la <m>geiette</m> Ainsy il<lb/>
 
@@ -43,11 +43,11 @@ Les noirs qui font un noir verdastre sont propres pour lOmbre<lb/>
 des femmes Prens doncq du noir de <gap/> un peu de <m>verd de<lb/>
 
 vessie</m> &amp; du <m>bistre</m> &amp; tu auras un parfaict umbre de
-femme a <m>destrempe</m></ab>
+femme a <m>destremp<ups>e</ups></m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 La pouldre<lb/>
 
@@ -73,9 +73,9 @@ de corps</ab>
 
 </div>
 
-<div>
+<div id="p065r_2" categories="painting">
 
-<id>p065r_2</id>
+
 
 <head>Carnation</head>
 
@@ -91,11 +91,11 @@ droicte a la<lb/>
 
 gaulche co<exp>mm</exp>e
 
-<figure>
+    <figure size="x-small" id="fig_p065r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk">
 
-<id>fig_p065r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk</link>
+
+
 
 </figure>
 
@@ -105,9 +105,9 @@ doibt estre adoulci en rond</ab>
 
 </div>
 
-<div>
+<div id="p065r_3" categories="painting;practical optics">
 
-<id>p065r_3</id>
+
 
 <head><tl>Mirouer</tl></head>
 
@@ -121,10 +121,10 @@ iceluy<lb/>
 rudes<lb/>
 
 Mays ne le regarde pas a la <tl>chandelle</tl> Car la <env>lumiere du
-foeu</env><lb/>
+foe<ups>u</ups></env><lb/>
 
 faict trouver les umbres rougeastres Le <pro>painctre</pro> aussy
-sinstruict<lb/>
+sinstruic<ups>t</ups><lb/>
 
 en soymesme par le <tl>mirouer</tl> Car dans iceluy il voit ce que
 le<lb/>
@@ -133,9 +133,9 @@ naturel peult faire</ab>
 
 </div>
 
-<div>
+<div id="p065r_4" categories="painting">
 
-<id>p065r_4</id>
+
 
 <head>Couleurs grasses</head>
 
@@ -144,17 +144,18 @@ quelque<lb/>
 
 partye luisante qui semble nestre pas seiches Cest que cest endroit<lb/>
 
-est gras &amp; les secondes couleurs quon y couche ne prendroient pas a
-sec<lb/>
+est gras &amp; les secondes couleurs quon y couche ne prendroient pas
+ais<ups>em<exp>ent</exp></ups><lb/>
 
-si tu ne frotois cest endroit de <m>savon</m> ou nallenois dessus
+si tu ne frotois cest endroit de <m>savon</m> ou n<bp>allenois</bp> dessus
 pourceque<lb/>
 
 lhumidite fera prendre les couleurs</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-middle</margin>
+
+
 
 On ne peult<lb/>
 
@@ -180,9 +181,10 @@ puys coucher l<m>or couleur</m><lb/>
 
 avecq le <tl>pinceau</tl>.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-bottom</margin>
+
+
 
 Toutes couleurs<lb/>
 
@@ -198,9 +200,9 @@ sont bonnes pour<lb/>
 
 faire or couleur</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-bottom</margin>
+
 
 Toute couleur ou chose<lb/>
 
@@ -210,11 +212,11 @@ y mectant de l<m>eau</m><lb/>
 
 en broyant a<lb/>
 
-corps Mays celles<lb/>
+<df>corps</df> Mays celles<lb/>
 
 qui nen ont point<lb/>
 
-co<exp>mm</exp>e le <m>verre pile</m><lb/>
+co<exp>mm</exp>e le <m>verre <tl>pile</tl></m><lb/>
 
 la <m>laque</m> &amp; se<lb/>
 

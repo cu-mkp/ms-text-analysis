@@ -1,13 +1,13 @@
-<root>
-<page>132r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="132r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f269.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f269.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p131v_1</id>
+<div continues="yes" id="p131v_1" categories="casting">
+
+
+
+
 
 <ab>de nouvrir pas trop chault ton <tl>moule</tl> Car cela aigrist
 faict<lb/>
@@ -21,23 +21,23 @@ cela<lb/>
 fait retirer <del>le met</del> l<m>estain</m> ou <m>plomb</m></ab>
 
 </div>
-<div>
-<id>p132r_1</id>
+<div id="p132r_1" categories="casting">
+
 <head><tl>Moule</tl> faict a deulx gects</head>
 
 <ab>Il souvre estant recuit pour le nettoyer apres on remect<lb/>
 
-les <tl>crampons</tl> On <m>lutte</m> le <tl>molle</tl> &amp;
+les <tl>crampons</tl> On <m><tl>lutte</tl></m> le <tl>molle</tl> &amp;
 singulierem<exp>ent</exp> les joinctures<lb/>
 
 Puys on fait lentement seicher la <m>terre</m> Et puys
 co<exp>mm</exp>e<lb/>
 
-elle ne fume plus On laisse refroidir le <tl>moule</tl> jusques a<lb/>
+elle ne <m>fume</m> plus On laisse refroidir le <tl>moule</tl> jusques a<lb/>
 
 ce que tu le puisses tenir sans lesion Apres mects dans<lb/>
 
-les <tl>presses</tl> ou dans le sable dans une <tl>terrine</tl> &amp;
+les <tl>presses</tl> ou dans le <m>sable</m> dans une <tl>terrine</tl> &amp;
 gecte<lb/>
 
 d<m>estaim</m> Car si tu gectois d<m>argent</m> ou d<m>or</m> il
@@ -48,8 +48,8 @@ co<exp>mm</exp>e il seroit<lb/>
 
 tout rouge</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si ton <tl>moule</tl><lb/>
 
 <del>f</del> par le default<lb/>
@@ -68,13 +68,13 @@ reserrer &amp; le<lb/>
 
 <tl>cramponer</tl> et<lb/>
 
-<m>luter</m> de nouveau<lb/>
+<m><tl>luter</tl></m> de nouveau<lb/>
 
 et le reserrer</ab>
 
 </div>
-<div>
-<id>p132r_2</id>
+<div id="p132r_2" categories="casting" continued="yes">
+
 <head>Forme de recuire les <tl>moules</tl></head>
 
 <ab>Allume des <m>charbons</m> a la <tl>forge</tl> &amp; puys disposes
@@ -107,7 +107,7 @@ dessoubs Mays comme il sera sec ilz sallumeront deulx<lb/>
 
 mesmes Et quand il est sec dun coste tourne le de lautre<lb/>
 
-Et quand il sera sec de touts les deulx &amp; ne fumera plus<lb/>
+Et quand il sera sec de touts les deulx &amp; ne <m>fumera</m> plus<lb/>
 
 lors vigore le foeu &amp; le couvre de <m>charbons</m> allumes Et<lb/>
 
@@ -124,15 +124,15 @@ allumes &amp; ne le descouvre pas car il se fendroit Garde que le<lb/>
 
 <env>vent dune fenestre</env> ne batte pas dessus Laisse refroidir</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand tu<lb/>
 
 veulx recuire<lb/>
 
 tes <tl>moules</tl> <del>&amp;</del> soict<lb/>
 
-que tu les <m>luttes</m><lb/>
+que tu les <m><tl>luttes</tl></m><lb/>
 
 ou non marque<lb/>
 
@@ -166,9 +166,9 @@ dessoubs que<lb/>
 
 sur le dos </ab>
 
-<ab>
-<margin>left-middle</margin>
-@Si ton <tl>moule</tl> est<lb/>
+<ab margin="left-middle">
+
+Si ton <tl>moule</tl> est<lb/>
 
 petit il ne le fault<lb/>
 
@@ -178,9 +178,9 @@ au foeu car il sy<lb/>
 
 corrompt et se fend<lb/>
 
-car il est plustost recuict quun grand</ab>
+<ups>car il est plustost recuict quun grand</ups></ab>
 
-<cont/>
+
 
 </div>
 </root>

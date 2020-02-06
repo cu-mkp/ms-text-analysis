@@ -1,18 +1,18 @@
-<root>
-<page>009v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="009v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image</image>
 
-<div>
 
-<id>p009v_1</id>
+
+<div id="p009v_1" categories="painting">
+
+
 
 <head><pro>Painctre</pro></head>
 
 <ab>Ils font parfondre l<m>orpiment</m> dans une <tl>bouteille de
 <m>verre</m></tl><lb/>
 
-sur les <m>cendres</m> bien chauldes Mays il seroict bien plus
+sur les <m>cendres bien chauldes</m> Mays il seroict bien plus
 propre<lb/>
 
 de sublimer l<m>orpiment</m> dans un <tl>mattelas</tl> a long col
@@ -42,13 +42,13 @@ parmy Le <m>vert de terre</m> ne semploye poinct a <m>huile</m></ab>
 
 </div>
 
-<div>
+<div id="p009v_2" categories="merchants">
 
-<id>p009v_2</id>
 
-<head>@<pro>Marchant</pro></head>
 
-<ab>Le Raiglement que les <pro>Marchans</pro> ont accoustumé<lb/>
+<head><pro>Marchant</pro></head>
+
+<ab><comment rid="c_009v_03"/>Le Raiglement que les <pro>Marchans</pro> ont accoustumé<lb/>
 
 tenir en leurs livres Scavoir le livre Brouillart<lb/>
 
@@ -58,23 +58,23 @@ appelle le livre de Raisons</ab>
 
 </div>
 
-<div>
+<div id="p009v_3" categories="merchants">
 
-<id>p009v_3</id>
+
 
 <head>Brouillart</head>
 
-<ab>Et premierement <pn>francois du Cros</pn> doibt du
-<tmp>11<superscript>e</superscript> de<lb/>
+<ab>Et premierement <pn>francois du Cros</pn><comment rid="c_009v_02"/> doibt du
+<tmp>ii<superscript>e</superscript> de<lb/>
 
 Septembre 1581</tmp> / po<exp>ur</exp> 1 <ms>cane</ms> <m>toille
 babtiste</m> a 8 <ms><cn>livres</cn><lb/>
 
-Canne</ms> Jedis <figure>--</figure> 8 <ms><cn>t.</cn></ms></ab>
+Canne</ms> Jedis <mark>--</mark> 8 <ms><cn>t.</cn></ms><comment rid="c_009v_01"/></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Mudat</oc> au livre<lb/>
 
@@ -83,16 +83,16 @@ de vantes a c.<lb/>
 25 /</ab>
 
 <ab><pn>Francois du Cros</pn> doibt du
-<tmp>11<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
+<tmp>ii<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
 
 1 <ms>Canne</ms> <m>toille babtiste</m> a 8 <ms><cn>livres</cn>
 Canne</ms> Ainsy que appert<lb/>
 
 au brouillart a c. 25 /</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Mudat</oc> au livre<lb/>
 
@@ -101,7 +101,7 @@ de raisons a c.<lb/>
 55 /</ab>
 
 <ab><pn>Francois du Cros</pn> doibt du
-<tmp>11<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
+<tmp>ii<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
 
 marchandise que luy mesmes a prise expeciffiée par le<lb/>
 
@@ -111,8 +111,8 @@ menu au livre de vantes n° 7 / a c. 55 / La somme de 8
 delaquelle led<exp>ict</exp> <pn>du Cros</pn> en a faict Cedulle le dict
 <tmp>Jour</tmp> a<lb/>
 
-payer a la <tmp>feste de la <pn>s<exp>ainc</exp>t andre</pn></tmp>
-prochainne parce dis <figure>--</figure> 8 <ms><cn>lb t.</cn></ms></ab>
+payer a la <tmp>feste de la <pn>s<exp>ainc</exp>t andre</pn><comment rid="c_009v_04"/></tmp>
+prochainne parce dis <mark>--</mark> 8 <ms><cn>lb t.</cn></ms></ab>
 
 </div>
 </root>

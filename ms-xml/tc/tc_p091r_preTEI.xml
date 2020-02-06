@@ -1,11 +1,11 @@
-<root>
-<page>091r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="091r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image</image>
 
-<div>
 
-<id>p091r_1</id>
+
+<div id="p091r_1" categories="cultivation">
+
+
 
 <head>Hanter</head>
 
@@ -47,17 +47,17 @@ quil<lb/>
 
 ne peult profficter Mays le bois vieulx resiste mieulx a la<lb/>
 
-compression du bois vieulx<comment>c_091r_01</comment> <del>que le
+compression du bois vieulx <del>que le
 jeune</del> a cause quil est plus dur que<lb/>
 
-le jeune @<comment>c_091r_02</comment>Mays si le greffe est tout de bois
+le jeune <comment rid="c_091r_02"/>Mays si le greffe est tout de bois
 vieulx jamays il ne faict<lb/>
 
 belle mise ains vient caduc &amp; court &amp; long a croistre</ab></div>
 
-<div>
+<div id="p091r_2" categories="casting" continued="yes">
 
-<id>p091r_2</id>
+
 
 <head>Mouler en <tl><m>os de <al>seiche</al></m></tl></head>
 
@@ -79,7 +79,7 @@ sabreuvent de ce<lb/>
 <m>charbon de <pa>saule</pa></m> qui les faict bien despouiller &amp;
 garde de rien<lb/>
 
-enlever Puys sur un <tl>contre os</tl> cest a dire un lopin de<lb/>
+enlever Puys sur un <tl><df>contre os</df></tl> cest a dire un lopin de<lb/>
 
 <m>brique</m> unye de la grandeur de ton <tl><m>os</m></tl> pose ta
 medaille &amp; puys<lb/>
@@ -110,14 +110,14 @@ Cest pourquoy il fault resuivre la chose gectee avec le
 escrouir<lb/>
 
 Si la piece a mouler est de grand relief trasse
-premierem<corr><exp>ent</exp></corr> le<lb/>
+premierem le<lb/>
 
 <tl>moule</tl> &amp; le cave avecq un <tl>trancheplume</tl> pour faire
 voye a la<lb/>
 
 medaille &amp; puys moule Et si la medaille est a deulx envers</ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-middle">
 plustost que<lb/>
 
 geter chaufe<lb/>
@@ -132,7 +132,7 @@ la froideur<lb/>
 
 &amp; humeur</ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-middle">
 Quand le<lb/>
 
 <m>plomb</m> chaufe<lb/>
@@ -141,7 +141,7 @@ trop il se<lb/>
 
 calcine</ab>
 
-<cont/>
+
 
 </div>
 </root>

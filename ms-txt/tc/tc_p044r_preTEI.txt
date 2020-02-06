@@ -9,9 +9,9 @@ est de 4 pieds de
 
 roy de long & xviii deniers de balle La
 chasse vi deniers de
-pouldre sa portee iiii^(xx) pans & 3 piedslxi & demy deulx
+pouldre sa portee iiiixxpans & 3 pieds & demy deulx
 poulces & quelque ligne quest laulne de
-paris Lhaquebute
+    paris Lhaquebute
 
 
 moyene qui est lordinayre & la plus aysee porte xv
@@ -42,6 +42,7 @@ cela faict plus sonner la vaisselle & nest pas si
 rompante
 
 
+
 Cest estaim
 
 
@@ -62,7 +63,7 @@ tireras
 
 
 mouille quelque linge dans huile & le mects au lieu de
-papier.
+    papier.
 
 
 Laque

@@ -1,11 +1,11 @@
-<root>
-<page>133v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="133v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image</image>
 
-<div>
 
-<id>p133v_1</id>
+
+<div id="p133v_1" categories="casting">
+
+
 
 <head>
 
@@ -25,15 +25,15 @@ qui<lb/>
 
 volontiers soufle Le plus cler gecte plus subtil &amp; plus<lb/>
 
-net pourveu quon soufle asses fort en gectant sur le sable<lb/>
+net pourveu quon soufle asses fort en gectant sur le <m>sable<lb/>
 
-destrempe &amp; gecte affin de dissiper ces petits bouillons</ab>
+destrempe</m> &amp; gecte affin de dissiper ces petits bouillons</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-Quand le sable<lb/>
+
+Quand le <m>sable</m><lb/>
 
 est espes gecte<lb/>
 
@@ -41,9 +41,9 @@ volontiers il soufle</ab>
 
 </div>
 
-<div>
+<div id="p133v_2" categories="casting">
 
-<id>p133v_2</id>
+
 
 <head>Chose qui nest en despouille</head>
 
@@ -66,11 +66,11 @@ seche &amp; se retire plustost que faire crouste sur le
 
 ou <m>moisissure</m></ab>
 
-<ab>
+<ab margin="left-middle" render ="tall">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark><lb/>
 
 Quand tu moules de<lb/>
 
@@ -123,9 +123,9 @@ avecq de la <m>cire</m></ab>
 
 </div>
 
-<div>
+<div id="p133v_3" categories="casting" continued="yes">
 
-<id>p133v_3</id>
+
 
 <head>Divers animaulx enlasses</head>
 
@@ -145,7 +145,7 @@ de despouille coupe ce que tu pourras &amp; laisse le reste<lb/>
 
 brusler. Et pour faire tenir en la gueule du <al>serpent</al><lb/>
 
-qui est esleve une <al>angroise</al> qui est petite &amp; quil
+qui est esleve une <al><po>angroise</po></al> qui est petite &amp; quil
 fauldroit<lb/>
 
 soubstenir en lair <del>po</del> a cause que la teste du
@@ -176,9 +176,9 @@ les parties de lanimal qui passent lune sur lautre ou celles<lb/>
 que tu vois qui napuyent pas bien sur la <tl>plaste de
 <del><m>cire</m></del> <m>terre</m></tl><lb/>
 
-Affin que le sable destrempe ne lenleve pas Et cest pour</ab>
+Affin que le <m>sable destrempe</m> ne lenleve pas Et cest pour</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,16 +1,16 @@
-<root>
-<page>108r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="108r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image</image>
 
-<div>
 
-<id>p108r_1</id>
+
+<div continues="yes" id="p107r_1" categories="casting">
+
+
 
 <ab>Pour tenir les noyaulx, aulcuns employent du <tl><m>fil du
 propre<lb/>
 
-metal</m> dont ils gectent</tl>, pource qu'il se reduict <del>avec</del>
+metal</m> dont ils gectent</tl>, pource qu’il se reduict <del>avec</del>
 &amp; fond avecq<lb/>
 
 son semblable, mays pource que en fondant ou plyant le<lb/>
@@ -18,18 +18,18 @@ son semblable, mays pource que en fondant ou plyant le<lb/>
 noyau varie, les aultres trouvent mieulx de se<del>r</del> servir
 de<lb/>
 
-<tl><m>fil de fer</m></tl> esguisé par les bouts, pource qu'il tient
+<tl><m>fil de fer</m></tl> esguisé par les bouts, pource qu’il tient
 plus ferme,<lb/>
 
-&amp; ayant les bouts subtils, ne paroist non plus qu'une pointe<lb/>
+&amp; ayant les bouts subtils, ne paroist non plus qu’une pointe<lb/>
 
-d'aiguille. Et on le peult <m>dorer</m> ou <m>argenter</m> plustost que
+d’aiguille. Et on le peult <m>dorer</m> ou <m>argenter</m> plustost que
 le<lb/>
 
-mectre en oeuvre. S'il faict trou, on le recouvre avecq un petit
+mectre en oeuvre. S’il faict trou, on le recouvre avecq un petit
 <tl>ciseau</tl>.</ab>
 
-<ab>L'<m>eau de vye</m> empesche que le sable ne soufle point &amp; ne
+<ab>L’<m>eau de vye</m> empesche que le <m>sable</m> ne soufle point &amp; ne
 faict<lb/>
 
 point aulx borts du <tl>moule</tl> de petits trous si la chose à
@@ -38,12 +38,12 @@ mouler<lb/>
 en est bien mouillée. Les trous &amp; vesies &amp; souflements ne se
 font<lb/>
 
-poinct à l'endroict du <tl>moule</tl>, qui est espés, mays aulx borts,
+poinct à l’endroict du <tl>moule</tl>, qui est espés, mays aulx borts,
 qui<lb/>
 
 sont plus deliés.</ab>
 
-<ab>On gecte d'<m>argent commun</m> de quoy les <pro>orfevres</pro>
+<ab>On gecte d’<m>argent commun</m> de quoy les <pro>orfevres</pro>
 vulgairem<exp>ent</exp><lb/>
 
 travaillent, qui est allié <del>Et que</del> mediocrem<exp>ent</exp>. Et
@@ -51,25 +51,25 @@ quand<lb/>
 
 on gecteroit de <m>souldure</m>, il courroit encores mieulx.</ab>
 
-<ab><rub>Le <m>spat</m></rub> est une <m>pierre blanchastre</m> qui se
+<ab><emph>Le <df><m><de>spat</de></m></df><comment rid="c_108r_02"/></emph> est une <m>pierre blanchastre</m> qui se
 trouve en<lb/>
 
 <pl>Allemaigne</pl>, &amp; principallem<exp>ent</exp> a
 <pl>Auguste</pl>, de quoy on se sert pour<lb/>
 
-le plus excellent sable qui se puisse trouver pour <m>plomb</m>,<lb/>
+<m>le plus excellent sable qui se puisse trouver pour <m>plomb</m>,<lb/>
 
-<m>estain</m>, <m>cuivre</m>, <m>argent</m> &amp; <m>or</m>. Et tant
+<m>estain</m>, <m>cuivre</m>, <m>argent</m> &amp; <m>or</m></m>. Et tant
 plus il sert, tant plus<lb/>
 
-il est meilleur. Il est propre pour gecter en chassis choses<lb/>
+il est meilleur. Il est propre pour gecter en <tl>chassis</tl> choses<lb/>
 
-plattes. Pour choses rondes, il n'est pas si duisant ne<lb/>
+plattes. Pour choses rondes, il n’est pas si duisant ne<lb/>
 
 si tenant au feu que le susdict composé de <m>plastre</m>.</ab>
 
 <ab>Les retailleures de <del>cui</del> gros <m>cuir gras</m> sont
-<del>p</del>bons à gecter<lb/>
+<del>p</del>bons<comment rid="c_108r_01"/> à gecter<lb/>
 
 dans le <m>cuivre et latton fondu</m>, car il le nettoye &amp; luy
 oste<lb/>
@@ -78,17 +78,17 @@ toute sa <m>crasse</m>.</ab>
 
 </div>
 
-<div>
-<id>p108r_2</id>
-<head><m>Spalt</m></head>
+<div id="p108r_2" categories="casting" continued="yes">
 
-<ab>Le <m>spalt</m> est blanc comme <m>plastre cuict</m>, et se trouve
+<head><m><de>Spalt</de></m><comment rid="c_108r_02"/></head>
+
+<ab>Le <m><de>spalt</de></m> est blanc comme <m>plastre cuict</m>, et se trouve
 en monceaulx<lb/>
 
 &amp; <m>pierres</m> faictes à longues escailles &amp; longs filets. Il
 est fort tendre,<lb/>
 
-de sorte qu'avecq l'<tl><bp>ongle</bp></tl> on le peult racler &amp; en
+de sorte qu’avecq l’<tl><bp>ongle</bp></tl> on le peult racler &amp; en
 faire pouldre c<exp>omm</exp>e<lb/>
 
 de n<exp>ost</exp>re <m>croye de <pl>Champaigne</pl></m>. Et pource que
@@ -100,13 +100,13 @@ aultre substance, pour le<lb/>
 purifier on le broye, venant de la <env>pierrerie</env>, assés
 grossierem<corr><exp>ent</exp></corr> puys<lb/>
 
-on le destrempe avecq de l'<m>eau de sel armoniac</m>. <del>M</del>En
+on le destrempe avecq de l’<m>eau de sel armoniac</m>. <del>M</del>En
 mecta<exp>n</exp>t la<lb/>
 
-<ms>grosseur d'une <pa>noix</pa></ms> d'iceluy dans une grande
-<tl>bouteille</tl> d'<m>eau</m>, et</ab>
+<ms>grosseur d’une <pa>noix</pa></ms> d’iceluy dans une grande
+<tl>bouteille</tl> d’<m>eau</m>, et</ab>
 
-<cont/>
+
 
 </div>
 </root>

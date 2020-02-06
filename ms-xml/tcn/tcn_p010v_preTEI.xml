@@ -1,15 +1,15 @@
-<root>
-<page>010v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="010v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image</image>
 
-<div>
 
-<id>p010v_1</id>
+
+<div id="p010v_1" categories="painting">
+
+
 
 <head>Pour paindre à <m>huile</m> sur<lb/>
 
-<m>taffetas</m> <add>sans que l'<m>huile</m> coure</add></head>
+<m>taffetas</m> <add>sans que l’<m>huile</m> coure</add></head>
 
 <ab>Il fault faire couche de <m>batture</m>, qui se faict <del>de miel
 bien<lb/>
@@ -18,10 +18,10 @@ cuit &amp; <m>tourmentine</m></del>
 
 de <m>colle forte</m> trempée 24 <ms>heures</ms> dans<lb/>
 
-l'<m>eau</m>, puys legierement mise à bouillir affin qu'elle ne
+l’<m>eau</m>, puys legierement mise à bouillir affin qu’elle ne
 soict<lb/>
 
-gueres forte. Aprés mesles y pour l'adoulcir un peu<lb/>
+gueres forte. Aprés mesles y pour l’adoulcir un peu<lb/>
 
 de <m>miel</m> &amp; faicts bouillir tout ensemble. Et sur<lb/>
 
@@ -29,22 +29,22 @@ ceste couche, qui sera bientost seiche, tu pourras paindre à<lb/>
 
 <m>huile</m>, qui adoulcira encores davantage la couche, qui te<lb/>
 
-peult aussi servir à faire assiete d'<m>or</m>. L'<m>eau d'alum</m>
+peult aussi servir à faire assiete d’<m>or</m>. L’<m>eau d’alum</m>
 garde<lb/>
 
-aussi l'<m>huile</m> de courir.</ab>
+aussi l’<m>huile</m> de courir.</ab>
 
 </div>
 
-<div>
+<div id="p010v_2" categories="painting">
 
-<id>p010v_2</id>
 
-<head>Assiete d'<m>or de foeuille</m> sur <m>parchemin</m><lb/>
+
+<head>Assiete d’<m>or de foeuille</m> sur <m>parchemin</m><lb/>
 
 ou <m>papier</m></head>
 
-<ab>Fais <m>colle d'amydon</m> fort clere &amp; qui ne demonstre
+<ab>Fais <m>colle d’amydon</m> fort clere &amp; qui ne demonstre
 poinct<lb/>
 
 avoyr de corps. Et en fais six ou cinq couches, &amp; sur la<lb/>
@@ -53,27 +53,27 @@ derniere, estant demy seiche, aplique ton <m>or</m>.</ab>
 
 </div>
 
-<div>
+<div id="p010v_3" categories="metal process;painting">
 
-<id>p010v_3</id>
 
-<head>Pour nettoyer l'<m>or de foeille</m><lb/>
+
+<head>Pour nettoyer l’<m>or de foeille</m><lb/>
 
 posé sur le <m>fer</m></head>
 
 <ab>Frotte tes armes ou aultres pieces dorées de <m>fiente<lb/>
 
-de <al>cheval</al> seche</m></ab>
+de <al>cheval</al> seche</m>.</ab>
 
 </div>
 
-<div>
+<div id="p010v_4" categories="painting">
 
-<id>p010v_4</id>
+
 
 <head>Pour blanchir la <m>ceruse</m></head>
 
-<ab>Fais durcir des <m>œufs, partis les par moictie &amp; oste le<lb/>
+<ab>Fais durcir des <m>oeufs, partis les par moictie &amp; oste le<lb/>
 
 jaulne &amp; entre les deulx moictiés du blanc</m> mects un lopin<lb/>
 

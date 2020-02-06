@@ -1,13 +1,13 @@
-<root>
-<page>146r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="146r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image</image>
 
-<div>
 
-<cont/>
 
-<id>p145v_1</id>
+<div continues="yes" id="p145v_1" categories="casting">
+
+
+
+
 
 <ab>affin quelle se mouille par tout sinon mouille la<lb/>
 
@@ -25,7 +25,7 @@ pourveu que lherbe ou fleur ne touche a aulcune chose<lb/>
 
 &amp; puisse laisser assez despesseur au <tl>moule</tl> Car le<lb/>
 
-sable destrempe haulse tousjours lherbe ou fleur<lb/>
+<m>sable destrempe</m> haulse tousjours lherbe ou fleur<lb/>
 
 Ainsy si elle nest roide delle mesme passe avecq<lb/>
 
@@ -37,20 +37,20 @@ la garder denlever Ou si tu ten oublioys baise <lb/>
 la fleur avecques quelque <del>b</del><tl>petit bastonceau</tl>
 jusques<lb/>
 
-a ce que le sable gecte se commance a <del>d</del>espaissir<lb/>
+a ce que le <m>sable</m> gecte se commance a <del>d</del>espaissir<lb/>
 
 Ta fleur estant bien disposee <del>D</del>Choisis une<lb/>
 
 <tl>escuelle</tl> asses grande pour y destremper aultant<lb/>
 
-de sable quil en faict besoing pour remplir ton<lb/>
+de <m>sable</m> quil en faict besoing pour remplir ton<lb/>
 
 <tl>moule</tl> Mects y un peu d<m>eau de sel armoniac</m> puys<lb/>
 
-de l<m>eau de <env>fontaine</env></m> et co<exp>mm</exp>e l<tl>e<del>au
+de l<m>eau de fontaine</m> et co<exp>mm</exp>e l<tl>e<del>au
 en</del>scuelle</tl> sera presque<lb/>
 
-pleine Mects y en saulpouldrant ton sable &amp;<lb/>
+pleine Mects y en saulpouldrant ton <m>sable</m> &amp;<lb/>
 
 mesle &amp; le dilaye bien affin quil soict tout un<lb/>
 
@@ -66,31 +66,31 @@ demy<lb/>
 
 couverte soufle fort par tout pour faire perdre<lb/>
 
-les petites bulles Apres acheve de remplir &amp; soufle<lb/>
+les petites bulles Apres acheve de remplir &amp; souf<ups>le</ups><lb/>
 
 tousjours Fais un peu pancher le <tl>moule</tl> vers le<lb/>
 
-plus large Et si tu trouves quelque reste du sable<lb/>
+plus large Et si tu trouves quelque reste du <m>sable</m><lb/>
 
-espes qui ne soict pas bien deslaye gecte le plustost<lb/>
+espes qui ne soict pas bien deslaye gecte le plustos<ups>t</ups><lb/>
 
 vers le gect quailleurs En fin tu peulx bien gecter<lb/>
 
-du sable destrempe plus espes affin de faire faire<lb/>
+du <m>sable destrempe</m> plus espes affin de faire faire<lb/>
 
 prise plustost Jay ainsy moule un <pa>solcy</pa> avecq<lb/>
 
 ses foeilles Le <m><la>crocu<exp>m</exp> ferri</la></m> est plus seur
 pour les<lb/>
 
-fleurs @ et quand il y ha <m><la>crocum</la></m> <m>lute</m> avecq le
-mesme sable<lb/>
+fleurs  et quand il y ha <m><la>crocum</la></m> <m><tl>lute</tl></m> avecq le
+mesme <m>sab<ups>le</ups><lb/>
 
-qui ha servi et est le plus excellent de tous</ab>
+qui ha servi</m> et est le plus excellent de tous</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top" render="wide">
 
-<render>wide</render>
+
 
 La ligue dont jay gecte une grande branche de <pa>soulcy</pa> qui avecq
 sa fleur ses boutons<lb/>
@@ -105,7 +105,7 @@ fin</m> mesle de deulx<lb/>
 
 <ms>unces</ms> de <m>plomb</m></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Sil y a quelques<lb/>
 
@@ -113,7 +113,7 @@ baves repare<lb/>
 
 avecq un <tl>trancheplume</tl></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Descouvre la<lb/>
 
@@ -131,7 +131,7 @@ trempe le bien dans<lb/>
 
 l<m>eau</m> Apres use<lb/>
 
-de <tl>sayes de <al>porceau</al></tl><lb/>
+de <tl><m>sayes de <al>porceau</al></m></tl><lb/>
 
 dun bout de <tl><m>fil de<lb/>
 
@@ -167,7 +167,7 @@ pour faire tout sortir<lb/>
 
 attire avecq la <tl><bp>bouche</bp></tl></ab>
 
-<ab><margin>left-middle</margin>@
+<ab margin="left-middle">
 
 Advise de natacher<lb/>
 

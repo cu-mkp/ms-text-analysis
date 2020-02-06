@@ -18,7 +18,8 @@ gravera promptement
 
 Mirouers dacier
 
-+ Ils sappellent dacier pourceque
+
+Ils sappellent dacier pourceque
 communem{ent} le temps passe
 
 
@@ -38,6 +39,8 @@ representer
 
 
 diverses formes
+
++
 
 Prens doncq moictiecuivre de rosette &
 moictieestain doux

@@ -1,29 +1,29 @@
-<root>
-<page>141r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="141r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image</image>
 
-<div>
 
-<id>p141r_1</id>
+
+<div id="p141r_1" categories="casting" continued="yes">
+
+
 
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab><margin>top</margin>
+<ab margin="top">
 
 Sil y manque quelque petite chose tu la<lb/>
 
-peulx rejoindre ou bien remplir avecq du <m>ciment<lb/>
+peulx rejoindre ou bien remplir avecq du <m>cimen<ups>t</ups><lb/>
 
-d<pro>orfevre</pro></m><lb/>
+d<pro>orfevr<ups>e</ups></pro></m><lb/>
 
-pource que<lb/>
+pource q<ups>ue</ups><lb/>
 
-elle <ill/><lb/>
+ce<ups>la</ups><lb/>
 
-<ill/><lb/>
+se<lb/>
 
-<ill/></ab>
+p<ups>ainct</ups><comment rid="c_141r_01"/></ab>
 
 <ab>L<al>escrevisse</al> est des plus fantasques a mouler Mays
 aussy<lb/>
@@ -33,13 +33,13 @@ donne exemple de mouler beaucoup daultres fort difficilles<lb/>
 Les masles se discernent par les oeufs que portent les femelles<lb/>
 
 Et par quattres <del>jambes</del> petites jambettes blanches au bout
-quon<lb/>
+quon<ups>t</ups><lb/>
 
 les masles <del>ap</del> au dedans de la queue apres les huict
 jambes<lb/>
 
-principalles Il nest que bon de les faire un peu seicher pour ce
-que<lb/>
+principalles Il nest que bon de les faire un peu seicher pour <ups>ce
+q<exp>ue</exp></ups><lb/>
 
 les grumeleures nen viennent que plus <del>dures</del> rudes &amp;
 plus<lb/>
@@ -58,7 +58,7 @@ la mediocrite Elles ont certain poil entre les pattes &amp; au<lb/>
 
 bout de la queue Et pourceque tout poil est fascheux a<lb/>
 
-mouler a cause quil sembrouille avecq le sable &amp; ne se<lb/>
+mouler a cause quil sembrouille avecq le <m>sable</m> &amp; ne se<lb/>
 
 despouille pas Tu le peulx brusler avecq un <tl><m>fer</m>
 chault</tl><lb/>
@@ -70,22 +70,22 @@ animaulx qui ont poil ou plume Il fault que tu les oignes<lb/>
 d<m>huile <add>d<pa>olif</pa></add> de <pa>from<exp>ent</exp></pa></m>
 qui est incontinent sec &amp; qui fera coucher<lb/>
 
-&amp; estendre le poil Ainsy tu auras la forme de ton animal<lb/>
+&amp; estendre le poil Ainsy tu auras la forme de ton anim<ups>al</ups><lb/>
 
 Et le poil aussy se monstrera Mays faict a ondes Et<lb/>
 
 cest chose qui se peult reparer Si ton <al>escrevisse</al> a des<lb/>
 
-eulx qui sont delicats Et qui seroient malaises a descouvrir<lb/>
+eulx qui sont delicats Et qui seroient malaises a descouv<ups>rir</ups><lb/>
 
 sans rompre Tu feras mieulx de faire le premier gect<lb/>
 
 sur le ventre &amp; les oeufs affin quil <del>te</del> ne te faille
-descouvrir<lb/>
+descou<ups>rir</ups><lb/>
 
-que sur le dos qui est dur &amp; facile a manier Et le ventre<lb/>
+que sur le dos qui est dur, &amp; facile a manier Et le ventre<lb/>
 
-&amp; les œufs demeurront dans le <tl>moule</tl> Et fauldra les<lb/>
+&amp; les oeufs demeurront dans le <tl>moule</tl> Et fauldra les<lb/>
 
 faire brusler dedans plustost quouvrir ton <tl>moule</tl> <del>&amp;
 en</del><lb/>
@@ -101,9 +101,9 @@ prise se separe aisem<exp>ent</exp> du premier apres estre recuit<lb/>
 
 qui est un particulier secret pour semblable <tl>moules</tl></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Le gect se faict par la<lb/>
 
@@ -111,9 +111,9 @@ queue fort tanvre
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Noublie pas<lb/>
 
@@ -125,9 +125,9 @@ que mouler
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <al>cerf volant</al><lb/>
 
@@ -139,9 +139,9 @@ de mesme facon
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Si ton <al>escrevisse</al><lb/>
 
@@ -159,9 +159,9 @@ peulx donner
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Elle se pourroit<lb/>
 
@@ -193,9 +193,9 @@ pour les <al>tortues</al>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu ouvres<lb/>
 
@@ -209,15 +209,15 @@ non en pouldre<lb/>
 
 Et sans louvrir<lb/>
 
-le <m><figure>☿</figure></m> ny feroit rien
+le <m>☿</m> ny feroit rien
 
 </ab>
 
  
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+<hr/>
 
 Couche ces<lb/>
 
@@ -229,17 +229,17 @@ fort cleres
 
 </ab>
 
-<ab>
+<ab margin="right-bottom">
 
-<margin>right-bottom</margin>
+<hr/>
 
 Pour la paindre fais la bouillir avecq du <m>vin</m> &amp; un<lb/>
 
 peu de <m>sel</m> affin quelles viennent bien rouges &amp; prens y
-patron<lb/>
+patro<ups>n</ups><lb/>
 
 pains le dos de <m>vermeillon</m> mesle de <m>laque</m> &amp; les costes
-&amp; dessoubs<lb/>
+&amp; de<ups>ssou</ups><comment rid="c_141r_02"/><lb/>
 
 du ventre &amp; des jambes avecq du <m>vermeillon</m> &amp; de l<m>ocre
 jaulne</m><lb/>
@@ -248,7 +248,7 @@ et du <m>blanc</m>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

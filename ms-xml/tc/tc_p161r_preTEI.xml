@@ -1,16 +1,16 @@
-<root>
-<page>161r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="161r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f327.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f327.item.r=</image>
 
-<div>
-<id>p161r_1</id>
-<head>Praeparation du sable pour <tl>chassis</tl></head>
 
-<ab>Apres que ton sable <del>de noyau dalu</del> de <m>gip de
-<la>lateribus</la></m> &amp; <m><la>alume<lb/>
 
-jameni</la></m> ta servi en noyau Rassemble les <m>lopins des
+<div id="p161r_1" categories="casting">
+
+<head><comment rid="c_161r_03"/>Præparation du <m>sable pour <tl>chassis</tl></m></head>
+
+<ab>Apres que ton <m>sable <del>de noyau dalu</del> de <m>gip de
+<la>lateribus</la></m><comment rid="c_161r_01"/> &amp; <m><la>alume<lb/>
+
+jameni</la></m><comment rid="c_161r_02"/></m> ta servi en noyau Rassemble les <m>lopins des
 moules</m><lb/>
 
 romps les sur une <tl>longue table</tl> avecq un <tl>gros billot</tl>
@@ -38,12 +38,12 @@ les<lb/>
 <m>ordures</m> aillent sur la superficie de l<m>eau</m> &amp; continue
 de le remuer<lb/>
 
-ainsy co<exp>mm</exp>e le <m>gip mat</m> quon praepare pour dorer d<m>or
-bruny</m> @<comment>c_161r_03</comment> cinq ou<lb/>
+ainsy co<exp>mm</exp>e le <m>gip mat</m> quon præpare pour dorer d<m>or
+bruny</m> cinq ou<lb/>
 
 six <ms><tmp>jours</tmp></ms> jusques a ce quil ne soict
-aulcunem<exp>ent</exp> grumeleux <del><figure>#</figure>
-<la>nota</la></del>@<comment>c_161r_04</comment> Et a<lb/>
+aulcunem<exp>ent</exp> grumeleux <del><add><mark>#</mark>
+<la>nota</la></add></del> Et a<lb/>
 
 chasque fois que tu le remueras laisse le reposer &amp; vuide<lb/>
 
@@ -55,7 +55,7 @@ claire</m> &amp; ainsy<lb/>
 lave &amp; remue le jusques a ce quil soict bien subtil &amp;
 repurge<lb/>
 
-de toute <m>ordure</m> <la>nota</la> <figure>#</figure> Apres laisse le
+de toute <m>ordure</m> <add><la>nota</la> <mark>#</mark></add><comment rid="c_161r_04"/> Apres laisse le
 un peu essorer <add>et secher</add> et en fais<lb/>
 
 des pelotes destrempees en <m>eau de sel armoniac</m> et estant
@@ -70,11 +70,11 @@ espace<lb/>
 de temps</tmp> Estant recuites de ceste sorte pulverise les &amp;
 essaye<lb/>
 
-en <tl>chassis</tl> de mouler quelque chose ayant humecte ta<lb/>
+en <tl>chassis</tl> de <tl>mouler</tl> quelque chose ayant humecte ta<lb/>
 
 pouldre d<m>eau de sel armoniac</m> Et fays recuire &amp; rougir<lb/>
 
-le <tl>chassis</tl> &amp; si ton sable se retire Il le fault encore<lb/>
+le <tl>chassis</tl> &amp; si ton <m>sable</m> se retire Il le fault encore<lb/>
 
 pulveriser &amp; destremper en <m>eau de sel armoniac</m> le
 reduire<lb/>
@@ -87,15 +87,15 @@ ne se retire point au <tl>chassis</tl> quand tu le rougiras Le<lb/>
 principal est quil soict bien recuit Car aultrem<exp>ent</exp> le
 <m>sel<lb/>
 
-armoniac</m> ne se calcineroit pas bien &amp; rendroit le sable
+armoniac</m> ne se calcineroit pas bien &amp; rendroit le <m>sable</m>
 grossier<lb/>
 
 &amp; pour ceste cause il ny fault pas trop de <m>sel armoniac</m></ab>
 
-<ab>
-<margin>left-middle</margin><lb/>@<comment>c_161r_05</comment>
+<ab margin="left-middle">
+<lb/><comment rid="c_161r_05"/>
 
-<figure>#</figure><lb/>
+<mark>#</mark><lb/>
 
 <la>nota</la> quil fault<lb/>
 
@@ -129,9 +129,9 @@ inclina<exp>ti</exp>on &amp; le<lb/>
 
 laisser <del>secher</del></ab>
 
-<ab>
-<man><margin>left-middle</margin>
-<la>nota</la></man></ab>
+<ab margin="left-middle">
+
+<emph><la>nota</la></emph></ab>
 
 </div>
 </root>

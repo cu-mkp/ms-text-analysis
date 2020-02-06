@@ -1,11 +1,11 @@
-<root>
-<page>137v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image</image>
 
-<div>
-<id>p137v_1</id>
-<head>Destremper sable pour <tl>moule</tl> de<lb/>
+
+
+<div id="p137v_1" categories="casting" continued="yes">
+
+<head>Destremper <m>sable</m> pour <tl>moule</tl> de<lb/>
 
 medailles plattes</head>
 
@@ -20,7 +20,7 @@ refuser<lb/>
 
 sur la chose <m>huilee</m> On faict bien chaufer l<m>eau</m> pour<lb/>
 
-destremper le sable Car avecq l<m>eau froide</m> il refuseroit<lb/>
+destremper le <m>sable</m> Car avecq l<m>eau froide</m> il refuseroit<lb/>
 
 Les medailles s<m>huilent</m> pourceque elles ne prestent<lb/>
 
@@ -28,14 +28,14 @@ point &amp; par ainsy pourroient rompre le <tl>molle</tl> Les<lb/>
 
 animaulx qui prestent ne veulent point estre <m>huiles</m><lb/>
 
-L<m>eau chaulde</m> doibt <sn>estre de telle chaleur que tu ny<lb/>
+L<m>eau chaulde</m> doibt <ms><sn>estre de telle chaleur que tu ny<lb/>
 
 puysses tenir le <tl><bp>doigt</bp></tl> sinon avec sentiment bien
-chault</sn><lb/>
+chault</sn></ms><lb/>
 
-Destrempe le sable plus espes pour medailles plattes &amp;<lb/>
+Destrempe le <m>sable</m> plus espes pour medailles plattes &amp;<lb/>
 
-solides que pour <al>lesards</al> &amp; choses subtiles Ton sable<lb/>
+solides que pour <al>lesards</al> &amp; choses subtiles Ton <m>sable</m><lb/>
 
 ayant faict prise nettoye &amp; rascle ton <tl>moule</tl> dun coste<lb/>
 
@@ -55,7 +55,7 @@ du<lb/>
 premier <tl>molle</tl> gecte <del>mes</del> affin que le second gect
 sy<lb/>
 
-conjoigne sans varier &amp; mesmem<corr><exp>ent</exp></corr> fais une
+conjoigne sans varier &amp; mesmem fais une
 coche au<lb/>
 
 fonds du <tl>molle</tl> ou est la teste de la chose moulee<lb/>
@@ -88,8 +88,8 @@ du coste<lb/>
 
 du gect &amp; lautre du coste de la teste qui est a loposite</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Garde bien de<lb/>
 
 n<m>huiler</m> gueres<lb/>
@@ -98,7 +98,7 @@ la medaille car<lb/>
 
 si l<m>huile</m> redonde<lb/>
 
-il divertist le sable<lb/>
+il divertist le <m>sable</m><lb/>
 
 de sunir &amp; amasser<lb/>
 
@@ -120,8 +120,8 @@ du pinceau <m>huile</m></tl><lb/>
 
 l<m>huile</m> partout </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Sur tout fais<lb/>
 
 que le gect soict<lb/>
@@ -150,7 +150,7 @@ aussy dencocher<lb/>
 
 lentree du gect</ab>
 
-<cont/>
+
 
 </div>
 </root>

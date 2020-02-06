@@ -1,56 +1,53 @@
-<root>
-<page>0121r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="121r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f247.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f247.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p120v_4</id>
+<div continues="yes" id="p120v_6" categories="preserving">
+
 
 <ab>Signe quil ha quelque humidite &amp; si la fleur avoict aussy
-quelque<lb/>
+quelq<ups>ue</ups><lb/>
 
 aquosite elle se pourriroit Il ne fault aussy quil soict
 <del>trop</del><lb/>
 
 grossier car de sa pesanteur il chargeroit la fleur &amp; luy
-feroit<lb/>
+feroi<ups>t</ups><lb/>
 
 perdre sa forme Layant doncq ainsy co<exp>mm</exp>e il est besoing
-choisy<lb/>
+chois<ups>y</ups><lb/>
 
 Ayes une <tl>boicte</tl> dans laquelle fais premierem<exp>ent</exp> un
 monceau<lb/>
 
-dudict sable sur lequel tu poseras la queue de ta fleur <del>en
-telle</del><lb/>
+dudict <m>sable</m> sur lequel tu poseras la queue de ta fleur <del>en
+te<ups>lle</ups></del><lb/>
 
 <del>sort</del> couchee en telle sorte que la fleur ne touche ne le
 fonds<lb/>
 
 ne les costes de la <tl>boicte</tl> ains demeure en lair Alors
-charge<lb/>
+charg<ups>e</ups><lb/>
 
-dadvantage <del>sur</del> du sable sur la queue affin quelle
+dadvantage <del>sur</del> du <m>sable</m> sur la queue affin quelle
 demeure<lb/>
 
-ferme &amp; asseuree En fin prens du mesme sable &amp; avecq les
+ferme &amp; asseuree En fin prens du mesme <m>sable</m> &amp; avecq les
 deulx<lb/>
 
 <tl><bp>doibs</bp></tl> pulverise &amp; jecte le subtillem<exp>ent</exp>
 sur la fleur <del>e</del> imitant en<lb/>
 
-cela le descoulem<exp>ent</exp> dun <ms><tl>horologe de sable</tl></ms>
+cela le descoulem<exp>ent</exp> dun <ms><tl>horologe de <m>sable</m></tl></ms>
 Et co<exp>mm</exp>e la fleur sera<lb/>
 
 co<exp>mm</exp>e <del>a demy</del> couverte frappe du
 <tl><bp>poin</bp></tl> sur la table ou la <tl>boicte</tl><lb/>
 
-est posee affin que le sable saplombe &amp; entre par tout En fin<lb/>
+est posee affin que le <m>sable</m> saplombe &amp; entre par tout En fin<lb/>
 
-couvre la du tout Et y pose ainsy par ordre dautres fleurs<lb/>
+couvre la du tout Et y pose ainsy par ordre dautres fleur<ups>s</ups><lb/>
 
 lune sur laultre tant que ta <tl>boicte</tl> en pourra contenir
 Cela<lb/>
@@ -67,19 +64,18 @@ se reserre Ains il fault quelle seiche au mesme estat que<lb/>
 
 tu luy as mise Or advise de choisir pour cet effect les<lb/>
 
-<pa>boufains</pa> <pa>soulcis</pa> Les fleurs jaulnes des pres
+<pa><po>boufains</po></pa> <pa>soulcis</pa> Les <pa>fleurs jaulnes</pa> des pres
 appeles<lb/>
 
-<la><pa>ranunculus</pa></la> ou <la><pa>palta lupina</pa></la>
+<la><pa>ranunculus</pa></la><comment rid="c_121r_03"/> ou <la><pa>palta lupina</pa></la><comment rid="c_121r_02"/>
 L<pa>amaranthe</pa> &amp; semblables le<lb/>
 
 <pa>genest</pa> Et aultres que ton experience tenseignera</ab>
 
-<ab>
 
-<margin>left-top</margin>
+<ab margin="left-middle">
 
-Le sable de quoy<lb/>
+Le <m>sable de quoy<lb/>
 
 les <pro>orfevres</pro> usent<lb/>
 
@@ -87,9 +83,9 @@ les <m>esmaulx</m> ou le<lb/>
 
 blanc dont usent<lb/>
 
-les <pro>verriers</pro> &amp; tout<lb/>
+les <pro>verriers</pro></m> &amp; tout<lb/>
 
-sable maigre qui<lb/>
+<m>sable maigre</m> qui<lb/>
 
 ne faict point<lb/>
 
@@ -131,17 +127,16 @@ de ceste poulsiere<lb/>
 
 co<exp>mm</exp>e tu scais</ab>
 
-<ab>
 
-<margin>left-middle</margin>
+<ab margin="left-middle">
 
 Les <pa>pensees</pa> se<lb/>
 
 gardent ainsy</ab></div>
 
-<div>
+<div id="p121r_1" categories="preserving">
 
-<id>p121r_1</id>
+
 
 <head>Pour garder les fruits<lb/>
 
@@ -162,7 +157,7 @@ des confictures<lb/>
 Arme les de <m>paille</m> ou aultre chose quelles ne se puissent<lb/>
 
 rompre Et les selle bien de <m>cire</m> quelles ne puissent
-respirer<lb/>
+respir<ups>er</ups><lb/>
 
 Et si elles avoient un couvercle de <m>verre</m> bien selle de
 <m>cire</m><lb/>
@@ -170,13 +165,12 @@ Et si elles avoient un couvercle de <m>verre</m> bien selle de
 elles nen seroient que meilleures Mects dans une <tl>quaisse</tl><lb/>
 
 dans le <env>puys</env> Ou dans la <env>cave</env> dans une
-<tl><po>pone</po> ou ung coin<lb/>
+<tl><po>pone</po> ou ung cos<comment rid="c_121r_01"/><lb/>
 
 de terre plein d<m>eau</m></tl></ab>
 
-<ab>
 
-<margin>left-bottom</margin>
+<ab margin="left-middle">
 
 car la ou la<lb/>
 

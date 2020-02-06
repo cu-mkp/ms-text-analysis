@@ -1,13 +1,13 @@
-<root>
-<page>158v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="158v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image</image>
 
-<div>
 
-<id>p158v_1</id>
 
-<head>Couleurs pour les feuilles vertes</head>
+<div id="p158v_1" categories="painting">
+
+
+
+<head>Couleurs pour les feuilles vertes<comment rid="c_158v_02"/></head>
 
 <ab>On les painct co<exp>mmun</exp>ement a <m>huile</m> pourceque les
 couleurs<lb/>
@@ -31,23 +31,23 @@ Si le verd est obscur Mects parmy du <m>charbon<lb/>
 de noyau de <pa>pescher</pa></m> qui faict un <del>v</del> noir
 verdastre<lb/>
 
-co<exp>mm</exp>e le noir d<m>os de pied de <al>bœuf</al></m> faict
+co<exp>mm</exp>e le noir d<m>os de pied de <al>boeuf</al></m> faict
 bleuastre<lb/>
 
 Et ainsy par jugement &amp; discretion mects la couleur<lb/>
 
 sur la <m>fleur ou foeille naturelle</m> pour voyr<lb/>
 
-si elle aproche bien @<comment>c_158v_01</comment>Mays couche la fort
+si elle aproche bien <comment rid="c_158v_01"/>Mays couche la fort
 clere pour ne<lb/>
 
 couvrir pas les traicts de louvrage</ab>
 
 </div>
 
-<div>
+<div id="p158v_2" categories="casting">
 
-<id>p158v_2</id>
+
 
 <head>Grands <tl>moules</tl></head>
 
@@ -59,9 +59,9 @@ pas</ab>
 
 </div>
 
-<div>
+<div id="p158v_3" categories="casting">
 
-<id>p158v_3</id>
+
 
 <head><m>Fumee de <tl>chandelle</tl></m></head>
 
@@ -84,9 +84,9 @@ pourceque la medaille estoit espesse estoict fort chault</ab>
 
 </div>
 
-<div>
+<div id="p158v_4" categories="casting">
 
-<id>p158v_4</id>
+
 
 <head>Gect</head>
 
@@ -102,9 +102,9 @@ tanvre donne luy le gect de son espesseur Noublie pas de<lb/>
 fayre des souspirails au gect ou communem<exp>ent</exp> la matiere
 soufle</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Noublie jamays<lb/>
 

@@ -1,26 +1,26 @@
-<root>
-<page>071v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="071v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image</image>
 
-<div>
 
-<id>p071v_1</id>
+
+<div id="p071v_1" categories="varnish">
+
+
 
 <head><m>Varnish</m></head>
 
 <ab>To a <ms>half lb</ms> of <m><pa>spike lavender</pa> oil</m>, put in
-4 <ms><figure>℥</figure></ms> of <m>sandarac</m> &amp; <m>mastic,
-pulverized subtly</m> . And first, boil your <m>oil</m> in a
+4 <ms>℥</ms> of <m>sandarac</m> &amp; <m>mastic subtly pulverized</m>. 
+And first, boil your <m>oil</m> in a
 <tl>pot</tl> on a <tl>chafing dish</tl>, and then mix in little <add>by
 little</add> the aforesaid <m>gums</m>, stirring continually with a
 <tl>small stick split and quartered at the tip</tl>, &amp; when you do
 not collect <m>gum</m> with the tip, that is to say that it is totally
 melted &amp; that your <m>varnish</m> is done. And to render it clearer,
-put into the concoction a little lump of <m>camphor</m>. It is true that
+put in a small lump of <m>camphor</m> to decoct. It is true that
 with this it is not dry so soon. Heed well that the <m><pa>spike
-lavender</pa> oil</m> will be good, clear &amp; not fatty, otherwise
-your <m>varnish</m> will be worth nothing. You can test it
+lavender</pa> oil</m> be good, clear &amp; not fatty, otherwise
+your <m>varnish</m> would be worth nothing. You can test it
 <del><fr>d</fr></del> by soaking some <m>paper</m> in it &amp; heating
 it. If the <m>oil</m>, which will evaporate, leaves the <m>paper</m>
 clean, without <del>being</del> a yellow mark, it is good, if not, it is
@@ -28,9 +28,9 @@ fatty.</ab>
 
 </div>
 
-<div>
+<div id="p071v_2" categories="household and daily life;animal husbandry">
 
-<id>p071v_2</id>
+
 
 <head><al>Sheep</al> fat</head>
 
@@ -40,33 +40,32 @@ others.</ab>
 
 </div>
 
-<div>
+<div id="p071v_3" categories="household and daily life">
 
-<id>p071v_3</id>
+
 
 <head><al>Spider</al></head>
 
-<ab>In <pl>Ireland</pl>, one finds none there, &amp; if one touches them
-with <tl><m>wood</m></tl> that is there, they die. This is why some of
-the <pro>rich</pro> from <pl>England</pl> make their ceilings from this
-<m>wood</m>, &amp; by this method, they have no <fr>arantelles</fr>
-&amp; spiderwebs.</ab>
+<ab>In <pl>Ireland</pl>, there are none, &amp; if one touches them
+with <tl><m>wood</m></tl> that is there, they die. This is why some
+<pro>rich</pro> people of <pl>England</pl> make their ceilings from this
+<m>wood</m>, &amp; by this method, they never have cobwebs
+&amp; <al>spider</al>webs.</ab>
 
 </div>
 
-<div>
+<div id="p071v_4" categories="casting">
 
-<id>p071v_4</id>
 
-<head>Sand</head>
 
-<ab>The <m><fr>cimolée</fr></m> is very good for casting in
-<m>copper</m>, but one ought not take <m>the one from
-<pro>cutlers</pro></m>, because it is only <m>sludge</m>, but rather the
-one of those who <del><fr>moulent</fr></del> mold large shears.</ab>
+<head><m>Sand</m></head>
 
-<ab><m>Pierres de filieres</m>, which <pro>knife grinders</pro> use for
-whetting, mold very neatly, once scraped, for <m>lead</m>. It is
+<ab><m>Grindings</m> are very good for casting in
+<m>copper</m>, but one ought not to take <m>those of
+<pro>cutlers</pro></m>, because it is only <m>sludge</m>, but rather those
+of those who <del>grind</del> mold large shears.</ab>
+
+<ab><m>Pierres de filieres</m>,<comment rid="c_170v_01"/> with which <pro>those who sharpen</pro>, mold very neatly, once scraped, for <m>lead</m>. It is
 commonly <m>slate</m>-colored. One frequently brings them to
 <pl>Toulouse</pl> from around <pl>Carcassonne</pl> .</ab>
 

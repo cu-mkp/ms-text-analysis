@@ -1,11 +1,9 @@
-<root>
-<page>072v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="072v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image</image>
 
-<div>
 
-<id>p072v_1</id>
+
+<div id="p072v_1" categories="casting">
 
 <head>Gect</head>
 
@@ -46,12 +44,12 @@ sinon un petit point au milieu Et ce signe te signifiera quil<lb/>
 y a asses d<m>estaim</m> Aultrem<exp>ent</exp> le <m>plomb</m> domine
 trop Le<lb/>
 
-sable est bon pour le <m>plomb</m> &amp; <m>estain</m> Le bon est fort
+<m>sable</m> est bon pour le <m>plomb</m> &amp; <m>estain</m> Le bon est fort
 delie<lb/>
 
 &amp; subtil &amp; maigre Toutesfois qui faict prise entre les<lb/>
 
-<tl><bp>doigts</bp></tl> Le sable veult estre recuit plustost questre
+<tl><bp>doigts</bp></tl> Le <m>sable</m> veult estre recuit plustost questre
 mis<lb/>
 
 en oeuvre Et <del>estant</del> <add>pour en</add> mouler il veult estre
@@ -106,17 +104,16 @@ gecter Mays elle<lb/>
 
 est brusque</ab>
 
-<ab>
+<ab margin="top">
 
-<margin>top</margin>
 
 Pour faire couler bien le <m>plomb</m><lb/>
 
 on mect un peu d<m>argent vif</m> dedans</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Frotte l<m>os de <al>seiche</al></m> sur une <tl>table<lb/>
 
@@ -126,9 +123,9 @@ laultre &amp; traverse les deus <m>os</m> avecq<lb/>
 
 des <tl>chevilles</tl> pour remarquer la place</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 L<tl><m>os de <al>seiche</al></m></tl><lb/>
 
@@ -150,9 +147,9 @@ Car la <m>moelle</m> y<lb/>
 
 est plus delicate</del></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>moelle de los</m><lb/>
 
@@ -170,11 +167,11 @@ tient la <m>moelle</m> estant<lb/>
 
 calcinee est bonne<lb/>
 
-pour faire sable</ab>
+pour faire <m>sable</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu gectes du<lb/>
 
@@ -208,17 +205,17 @@ reposer un peu<lb/>
 
 devant que gecter</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulcuns co<exp>mm</exp>e les<lb/>
 
 <pro>imprimeurs</pro> meslent<lb/>
 
-de la <m>limaille de fer</m><lb/>
+de la <m>limaille de fer<lb/>
 
-ou d<m>espingle</m> parmy<lb/>
+ou despingle</m> parmy<lb/>
 
 le <m>plomb</m> <del>Mays</del> pour<lb/>
 
@@ -230,9 +227,9 @@ cela le rend brusc<lb/>
 
 le <tl>marteau</tl></ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Ayes une <tl>gratte<lb/>
 

@@ -1,15 +1,15 @@
-<root>
-<page>014r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="014r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image</image>
 
-<div>
 
-<id>p014r_1</id>
 
-<head>Pour <env>murailles</env> de <m>terre</m> et bastiment<lb/>
+<div id="p014r_1" categories="household and daily life">
 
-rustique </head>
+
+
+<head>Pour murailles de <m>terre</m> et bastiment<lb/>
+
+rustique<comment rid="c_014r_01"/></head>
 
 <ab>Les <al>hirondelles</al> nous ont aprins ce mestier faisant leurs
 nids<lb/>
@@ -21,7 +21,7 @@ foing ou de paille</m> Es lieulx doncq ou la <m>pierre</m> &amp; la
 <m>brique</m> manque<lb/>
 
 on ce peult ayder de <m>terre</m> a faire paroy &amp;
-<env>muraille</env> En quoy la<lb/>
+muraille En quoy la<lb/>
 
 <m>terre legiere</m> qui ne faict poinct de mottes estant labouree ains
 qui est<lb/>
@@ -32,7 +32,7 @@ se<lb/>
 bat &amp; tapit mieulx Il est vray quil la fault humecter &amp;
 <del>la</del> avecq la<lb/>
 
-<tl>palle baisse</tl> la coupper en forme de gasons Et ainsi la poser
+<tl><po>palle baisse</po></tl> la coupper en forme de gasons Et ainsi la poser
 &amp;<lb/>
 
 disposer Ceste cy dure dadvantaige Et ny a pas tant de facon<lb/>
@@ -49,22 +49,22 @@ le <tl>cordeau</tl><lb/>
 les largeur &amp; longueur de leurs fondements fichent <del>en
 terres</del> sur le<lb/>
 
-bord diceulx dune part &amp; daultre de g<tl>rands <del>ch</del>
+bord diceulx dune part &amp; daultre de <tl>grands <del>ch</del>
 perches</tl> <del>&amp;</del> ou <tl>chevro<exp>n</exp>s</tl><lb/>
 
 pour apuyer des <tl>tables</tl> entre lesquelles il gectent la
 <m>terre</m> faisant<lb/>
 
 chasque couche dun <ms><bp>pied</bp></ms> ou environ lentremeslant comme
-<figure>S.S.S</figure> de<lb/><comment>c_014r_05</comment>
+<mark>S.S.S</mark><lb/><comment rid="c_014r_05"/> de
 
 <m>branches de <pa>bruyeres</pa></m> ou semblables choses puys avecq
 tros formes<lb/>
 
-de <tl>battouers</tl> lappillent &amp; la battent Lun sappelle le
+de <tl>battouers</tl> l<po>appillent</po> &amp; la battent Lun sappelle le
 <tl>mail</tl> qui<lb/>
 
-est en forme triangulaire comme A Et de cestuy on appille
+est en forme triangulaire comme A Et de cestuy on <po>appille</po>
 premierem<exp>ent</exp> la<lb/>
 
 <m>terre</m> Apres on ce sert dun qui est de <m>billots</m> poinctus par
@@ -73,51 +73,39 @@ le bout &amp;<lb/>
 emmanches a un gros baston &amp; cestuy est pour bien presser la
 <m>terre</m><lb/>
 
-aux extremites et bords de la <env>muraille</env> qui adhære aux tables
-&amp; sappelle <lb/>
+aux extremites et bords de la muraille qui adhære aux <tl>tables</tl>
+    &amp; sappelle<comment rid="c_014r_02"/> <lb/>
 
 Laultre sappelle la <tl>batte</tl> qui est pour aplanir &amp; battre la
 <m>terre</m><lb/>
 
-pour la derniere foys ainsy quil appert par .C. Puys on faict<lb/>
+pour la derniere foys ainsy quil appert par .C.<comment rid="c_014r_03"/> Puys on faict<lb/>
 
 un aultre couche de <m>terre</m> <add>&amp;
 <m><pa>bruiere</pa></m></add> et on la bat co<exp>mm</exp>e est dict
 &amp; ainsy on continue<lb/>
 
-jusques a ce que la <env>muraille</env> est parfaicte laquelle on couvre
+jusques a ce que la muraille est parfaicte laquelle on couvre
 de<lb/>
 
 <m><pa>bruyeres</pa></m> &amp; puys de <m>terre</m> Aulcuns <del>m</del>
-entremeslent en ladicte <env>muraille</env><lb/>
+entremeslent en ladicte muraille<lb/>
 
-des rengs de <m>brique</m> Ils font aussi la <env>muraille</env> en
+des rengs de <m>brique</m> Ils font aussi la muraille en
 talluant<lb/>
 
 donnant <del>a</del> largeur aux fondements selon quon veult haulsser
 <lb/>
 
-la <env>muraille</env> Laquelle estant vielle blanchist &amp; par la
+la muraille Laquelle estant vielle blanchist &amp; par la
 demonstre<lb/>
 
 quil y a du <m>salpestre</m> Cest pourquoy quand elles tumbent les<lb/>
 
 <pro>pouldriers</pro> en font leur proffict</ab>
 
-<figure>
-
-<id>fig_p014r_1</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU</link>
-
-<!--A-->
-
-<!--Nicolas Misery:text refers also to a "C" part of the figure, which
-is absent in the actual figure.-->
-
-</figure>
+<figure size="medium" id="fig_p014r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU">
+<caption>A</caption></figure>
 
 </div>
 </root>

@@ -1,17 +1,17 @@
-<root>
-<page>137r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image</image>
 
-<div>
 
-<id>p137r_1</id>
+
+<div id="p137r_1" categories="casting">
+
+
 
 <head>Pour gecter en <m>cuivre rouge</m></head>
 
 <ab>Le <m>cuivre rouge pur de <tl>chaudron</tl>ou dautres ouvrages<lb/>
 
-tanvres</m> est propre pour gect Et pour le faire courre gectes<lb/>
+tanvres</m> est propre pour gect Et pour le faire courre gect<ups>es</ups><lb/>
 
 y du <m>sel armoniac</m> &amp; co<exp>mm</exp>e tu seras prest a gecter
 mects dedans<lb/>
@@ -19,10 +19,10 @@ mects dedans<lb/>
 un peu d<m>estaim fin</m> &amp; fort peu Et note quil fault gecter<lb/>
 
 le <m>cuivre</m> fort chault dans le <tl>moule</tl> qui soit aussy
-enflamme<lb/>
+enflam<ups>me</ups><lb/>
 
 &amp; tout rouge co<exp>mm</exp>e en l<m>or</m> <m>argent</m>
-<m>letton</m> &amp; <m>metal</m> Tu cognoistras<lb/>
+<m>letton</m> &amp; <m>metal</m><comment rid="c_016v_05"/> Tu cognoistra<ups>s</ups><lb/>
 
 quil sera asses chault quand il est uny clair &amp; luisant comme<lb/>
 
@@ -39,20 +39,20 @@ Le <m>cuivre rouge</m> vient plus net que le <m>laitton</m> qui ha<lb/>
 
 <m>force fumees</m> qui empeschent de courre Je lay moule en<lb/>
 
-noyau net co<exp>mm</exp>e le principal &amp; tanvre co<exp>mm</exp>e
-<m>papier</m> Il faut<lb/>
+noyau net co<exp>mm</exp>e le principal<comment rid="c_137r_03"/> &amp; tanvre co<exp>mm</exp>e
+<m>papier</m> Il fau<ups>t</ups><lb/>
 
 quil soict si chault quil soict blanc &amp; luisant &amp; poly
 co<exp>mm</exp>e<lb/>
 
 <m>argent fondu</m> et <add>co<exp>mm</exp>e un mirouer</add> Je lay
-gecte au mesme sable que dessus en<lb/>
+gecte au mesme <m>sable</m> que dessus en<lb/>
 
 noyau</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Le <m>cuivre</m> et <m>letton</m> sont les plus longs a fondre que nul
 des aultres <m>metaulx</m><lb/>
@@ -67,27 +67,27 @@ fort chault<lb/>
 
 quil soit co<exp>mm</exp>e <m>eau</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ostant ton <tl>moule</tl><lb/>
 
 du foeu plante<lb/>
 
-le dans d<del>es</del>u <tl>brasier</tl><lb/>
+le dans d<del>es</del><comment rid="c_137r_02"/> <tl>brasier</tl><lb/>
 
 duquel soict<lb/>
 
 remply un <tl>pot</tl><lb/>
 
-ou <tl>vaisseau</tl>@<comment>c_137r_01</comment></ab>
+ou <tl>vaisseau</tl><hr/></ab>
 
 </div>
 
-<div>
+<div id="p137r_2" categories="casting;metal process">
 
-<id>p137r_2</id>
+
 
 <head><m>Huile tingente</m> pour fayre<lb/>
 
@@ -95,7 +95,7 @@ courre les <m>metaux</m></head>
 
 <ab>
 
-P<exp>rens</exp> <m><figure>☿</figure> sublime de <pl>venise</pl></m>
+P<exp>rens</exp> <m>☿ sublime de <pl>venise</pl></m>
 vray &amp; non <m>arsenic sublime</m> un <ms>poix</ms><lb/>
 
 <m><la>Aes ustum</la></m> un <ms>poix</ms> <m>Sel armoniac</m> un
@@ -114,9 +114,10 @@ Laisse<lb/>
 
 courra merveilleusem<exp>ent</exp></ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
+
+
 
 Les <pro>fondeurs<lb/>
 
@@ -138,9 +139,9 @@ armoniac</m> pour le rendre clair &amp; net<lb/>
 
 Et quand ilz veulent gecter ilz y<lb/>
 
-mectent force <m>estain</m> Le <env>froid &amp;<lb/></env>
+mectent force <m>estain</m> Le <env>froid &amp;<lb/>
 
-<env>humidite</env> luy est fort contraire<lb/>
+humidite</env> luy est fort contraire<lb/>
 
 Ce qui rend<lb/>
 
@@ -150,19 +151,19 @@ du <pro>fondeur</pro><lb/>
 
 car il ne fault<lb/>
 
-quun <env>sourdis<lb/></env>
+quun <env><po>sourdis</po><lb/>
 
 d<m>eau</m> dans la<lb/>
 
-<env>fosse</env> pour<lb/>
+fosse</env> pour<lb/>
 
 perdre tout</ab>
 
 </div>
 
-<div>
+<div id="p137r_3" categories="casting">
 
-<id>p137r_3</id>
+
 
 <head><tl>Crampons</tl></head>
 
@@ -170,20 +171,20 @@ perdre tout</ab>
 fer</m></tl> recuit<lb/>
 
 &amp; replye puys battu par les bouts sur l<tl>enclume</tl>
-Co<exp>mm</exp>e ilz sont<lb/>
+Co<exp>mm</exp>e ilz son<ups>t</ups><lb/>
 
 ainsy subtilies ils sont subgects a se brusler les metta<exp>n</exp>t
 souvent<lb/>
 
 dans les <tl>moules</tl> a recuire Sers toy doncq des nouveaulx</ab>
 
-<figure>
+    <figure size="x-small" id="fig_p137r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aG5XMHdYTTYzbzA">
 
-<id>fig_p137r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aG5XMHdYTTYzbzA</link>
+
+
+
 
 </figure>
 

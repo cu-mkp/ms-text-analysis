@@ -1,13 +1,13 @@
-<root>
-<page>134r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="134r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image</image>
 
-<div>
 
-<cont/>
 
-<id>p133v_3</id>
+<div continues="yes" id="p133v_3" categories="casting">
+
+
+
+
 
 <ab>
 
@@ -15,7 +15,7 @@ eviter de mectre des <tl>poinctes</tl>, qui ne se doibvent pas mectre
 sinon<lb/>
 
 à l’eslevem<exp>ent</exp> de la teste, aulx plus espés endroits du
-corps, &amp; des<lb/>
+corps &amp; des<lb/>
 
 simples &amp; deliées au milieu des pieds des <al>lesards</al>, les
 ongles<lb/>
@@ -43,7 +43,7 @@ il demeure une cavité qui remplist ces petits doigts de
 la <m>cire</m> les partyes de l’animal qui passent l’une sur
 l’aultre,<lb/>
 
-a<corr>ffin</corr> que le sable destrempé entrant entre deulx ne le
+a<corr>ffin</corr> que le <m>sable destrempé</m> entrant entre deulx ne le
 fasse<lb/>
 
 enlever. <del>Et si</del> Car si cela advenoit le <del><tl>moule</tl> se
@@ -64,9 +64,9 @@ inconvenient advenoit tu le pourras reparer en ceste sorte.</ab>
 
 </div>
 
-<div>
+<div id="p134r_1" categories="casting">
 
-<id>p134r_1</id>
+
 
 <head>Pour racoustrer un <tl>moule</tl> percé</head>
 
@@ -79,7 +79,7 @@ et se divertist du plant que tu luy as donné, ou pour n’estre<lb/>
 
 pas bien mort ou pour n’avoir pas esté bien attaché avecq les<lb/>
 
-<tl>poinctes de <m>fer</m></tl> ou avecq <m>cire</m> fondue, et qu’il
+<tl>poinctes de <m>fer</m></tl> ou avecq <m>cire fondue</m>, et qu’il
 n’aye pas l’espesseur<lb/>
 
 qu’il convient par dehors au droit de l’enleveure, ou soict percé,<lb/>
@@ -92,19 +92,19 @@ aultour de petits trous <corr><del>tout aultour</del></corr>, puys fais
 tremper le<lb/>
 
 dos du <tl>moule</tl>. Et gecte promptem<exp>ent</exp> dessus du
-<add>mesme</add> sable destrempé,<lb/>
+<add>mesme</add> <m>sable destrempé</m>,<lb/>
 
 qui entrera dans ces pertuis &amp; moulera &amp; s’attaquera à
 l’aultre.<lb/>
-Mays il fauldra bien <m>lutter</m> aprés cet endroit.</ab>
+Mays il fauldra bien <m><tl>lutter</tl></m> aprés cet endroit.</ab>
 
 </div>
 
-<div>
+<div id="p134r_2" categories="casting">
 
-<id>p134r_2</id>
 
-<head>Sable de <m><la>crocum</la></m></head>
+
+<head><m>Sable de <m><la>crocum</la></m></m></head>
 
 <ab>
 
@@ -121,9 +121,9 @@ pour<lb/>
 
 l’<m>or</m> &amp; <m>argent</m> gueres ne se pratique.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Essaye pour <lb/>
 

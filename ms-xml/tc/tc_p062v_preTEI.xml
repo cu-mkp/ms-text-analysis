@@ -1,11 +1,11 @@
-<root>
-<page>062v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="062v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f130.item.">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f130.item.</image>
 
-<div>
 
-<id>p062v_1</id>
+
+<div id="p062v_1" categories="painting">
+
+
 
 <head>Portraire</head>
 
@@ -24,15 +24,15 @@ il la fault frotter avecq de la <m>cendre</m> &amp; de l<m>eau</m></ab>
 
 </div>
 
-<div>
+<div id="p062v_2" categories="painting">
 
-<id>p062v_2</id>
+
 
 <head>Perspective</head>
 
 <ab>Pour cognoistre le poinct il fault coucher une <tl>regle</tl><lb/>
 
-sur les lignes &amp; a la desmenee dicelles le poinct sera<lb/>
+sur les lignes &amp; a la desmenee<comment rid="c_062v_01"/> dicelles le poinct sera<lb/>
 
 Aucuns font un pertuis au bout de leurs <tl>regles</tl> pour
 assurer<lb/>
@@ -55,17 +55,17 @@ l<bp>oeil</bp></tl> font errer<lb/>
 
 perspective est tres difficille
 
-<figure>
+<figure id="fig_p062v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkRNOG9hZmpMT2M">
 
-<id>fig_p062v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZkRNOG9hZmpMT2M</link>
+
+
 
 </figure></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pour paindre perspective<lb/>
 
@@ -99,21 +99,15 @@ un bout<lb/>
 
 au hault du tableau
 
-<figure>
+</ab><figure id="fig_p062v_2" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5X0hKa0FueWdjMFk">
 
-<id>fig_p062v_2</id>
-
-<margin>left-bottom</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5X0hKa0FueWdjMFk</link>
-
-</figure></ab>
+</figure>
 
 </div>
 
-<div>
+<div id="p062v_3" categories="painting">
 
-<id>p062v_3</id>
+
 
 <head>Tableau</head>
 
@@ -125,7 +119,7 @@ mesmem<exp>ent</exp> a<lb/>
 
 quil te sera possible car sil est panche il y a danger que quelque<lb/>
 
-poulsiere &amp; ordure ne si attache Tiens net &amp; sans poulsiere<lb/>
+poulsiere &amp; <m>ordure</m> ne si attache Tiens net &amp; sans poulsiere<lb/>
 
 Le lieu ou tu pains</ab>
 

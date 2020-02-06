@@ -1,100 +1,100 @@
-<root>
-<page>162r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="162r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=</image>
 
-<div>
-<id>p162r_1</id>
+
+
+<div id="p162r_1" categories="La boutique">
+
 <head>Pour la <env>boutique</env></head>
 
-<ab>Il se peult colliger par le dire d<pn>herodote</pn> que la
+<ab>Il se peult colliger par le dire d<pn>herodote</pn><comment rid="c_001r_71"/> que la
 navigation<lb/>
 
-des <pl>portugais</pl> nest pas nouvellem<corr><exp>ent</exp></corr> par
+des <pl>portugais</pl> nest pas nouvellem par
 eulx inventee comme ils se<lb/>
 
-ventent Au comancem<corr><exp>ent</exp></corr> du premier livre intitule
-<gk>Clio</gk> il dict<lb/>
+ventent Au comancem du premier livre intitule
+<el>Clio</el><comment rid="c_162r_08"/> il dict<lb/>
 
 que les <pl>phoeniciens</pl> venoient de la <pl>mer rouge</pl> par
 continuelles<lb/>
-navigations en la <pl>coste de graece</pl> principalle<exp>ment</exp> a
+navigations en la <pl>coste de græce</pl> principalle<exp>ment</exp> a
 <pl>argos</pl> ou ilz<lb/>
 
-portoient des marchandises d<pl>aegipte</pl> &amp; d<pl>assyrie</pl> que
-co<exp>mmun</exp>em<corr><exp>ent</exp></corr><lb/>
+portoient des marchandises d<pl>ægipte</pl> &amp; d<pl>assyrie</pl> que
+co<exp>mmun</exp>em<lb/>
 
-en six <tmp>jours</tmp> il avoient debite</ab>
 
-<ab>
+en six <tmp>jours</tmp> il avoient debite<comment rid="c_162r_01"/></ab>
 
-<man>
-<margin>left-top</margin>
-Navigatio<exp>n</exp><lb/>
+<ab margin="left-middle">
 
-marchandise<comment>c_162r_07</comment></man>
+<emph>
+<underline>Navigatio<exp>n</exp><lb/>
+
+marchandise</underline></emph>
 
 </ab>
-
+</div>
+<div>
 <ab>
 
-<pn>Herodote</pn> au premier foeuillet de <gk>Clio</gk> dict que les
+<pn>Herodote</pn> au premier foeuillet de <el>Clio</el> dict que les
 <pl>grecs</pl> furent<lb/>
 
 dans un long vaisseau en la <pl>coste de colchos</pl> &amp; au
 <pl>fleuve phasis</pl><lb/>
 
-ou ilz ravirent <pn>Medee</pn>
+ou ilz ravirent <pn>Medee</pn><comment rid="c_162r_02"/>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<man>
-<margin>left-top</margin>
-Galeres</man>
+<emph>
+
+Galeres</emph>
 
 </ab>
-
+</div>
+<div>
 <ab>
 
-<pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn>
-presenta au temple de <pl>delphe</pl><lb/>
+<pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn><comment rid="c_162r_11"/>
+presenta au temple de <pl>delphe</pl><comment rid="c_162r_04"/><lb/>
 
 <la>pateras <m>aureas</m> sex pondo 30
-<ms><cn>talentorum</cn></ms></la></ab>
+<ms><cn>talentorum</cn></ms></la><comment rid="c_162r_03"/></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<man>
-<margin>left-middle</margin>
-Vases d<m>or</m></man>
+<emph>
+Vases d<m>or</m></emph>
 
 </ab>
-
+</div>
+<div>
 <ab>
 
-<pn>Herod<exp>ote</exp></pn> <pn>Halyattes</pn> pere de <pn>croesus</pn>
-<la><rub>pateram ex <m>ferro</m><lb/>
+<pn>Herod<exp>ote</exp></pn> <pn>Halyattes</pn><comment rid="c_162r_07"/> pere de <pn>croesus</pn><comment rid="c_162r_09"/>
+<la><emph>pateram ex <m>ferro</m><lb/>
 
 compactilem apud <pl>delphos</pl> dedicavit spectatu dignam<lb/>
 
 inter omnia quae sunt <pl>delphis</pl> donaria opus <pn>Glauci<lb/>
 
-Chii</pn> qui solus omnium compactionem <m>ferri</m>
-excogitavit</rub><lb/>
+Chii</pn><comment rid="c_162r_10"/> qui solus omnium compactionem <m>ferri</m>
+excogitavit</emph><comment rid="c_162r_05"/><lb/>
 
-<m>compactile ferrum</m></la> qui est fait dassemblage &amp; choses
+<m>compactile ferrum</m></la><comment rid="c_162r_06"/> qui est fait dassemblage &amp; choses
 raportees</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<man>
-
-<margin>left-middle</margin>
+<emph>
 Vase de <m>fer</m><lb/>
 
-raporte et <m>soulde</m></man>
+raporte et <m>soulde</m></emph>
 
 </ab>
 
@@ -110,28 +110,26 @@ Aussy pour le desir daprendre jexpose ce peu qui est de ma<lb/>
 <env>boutique</env> pour <del>avoyr en</del> recepvoir en
 commu<exp>n</exp> commerce des l<exp>ett</exp>res<lb/>
 
-beaucoup plus rares secrets des benevoles <pro>lecteurs</pro></ab>
-
-<figure/>
+beaucoup plus rares secrets des benevoles <pro>lecteurs</pro><hr/></ab>
 
 </div>
 
-<div>
-<id>p162r_2</id>
+<div id="p162r_2" categories="casting">
+
 <head><m><la>Aes ustum</la></m></head>
 
 <ab>Estant pulverise subtillem<exp>ent</exp> il moule tresnet &amp; ha
 une<lb/>
 
-certaine graisse qui luy donne liaison <figure>|</figure> plus quau
+certaine graisse qui luy donne liaison <mark>|</mark> plus quau
 <m><la>Crocum</la></m><lb/>
 
 &amp; croy quil ne seroit point mal propre au gect</ab>
 
 </div>
 
-<div>
-<id>p162r_3</id>
+<div id="p162r_3" categories="casting">
+
 <head><m>Boys pourry</m></head>
 
 <ab><m>Celuy qui est blanc leger comme une esponge</m> estant

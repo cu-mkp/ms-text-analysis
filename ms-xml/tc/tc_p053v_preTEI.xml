@@ -1,11 +1,11 @@
-<root>
-<page>053v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="053v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f112.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f112.image</image>
 
-<div>
 
-<id>p053v_1</id>
+
+<div id="p053v_1" categories="cultivation;animal husbandry" continued="yes">
+
+
 
 <head><al>Vers de soye</al></head>
 
@@ -25,7 +25,7 @@ malladies<lb/>
 de <del><m>soye</m></del> grene<lb/>
 
 ilz sen produict des <al>vers</al> qui raportent <del>ord</del>
-co<exp>mmun</exp>em<corr><exp>ent</exp></corr> xv <ms>lb</ms> de
+co<exp>mmun</exp>em xv <ms>lb</ms> de
 <m>soye</m><lb/>
 
 Mays <del>l<ms>once</ms></del> dune <ms>once</ms> de grene produicte en
@@ -79,7 +79,7 @@ Et<lb/>
 encores quelle soict blanche elle se jaulnist quand on la tire
 avecq<lb/>
 
-l<tl><m>eau chaulde</m></tl> <del>Despuys</del> Les <al>vers</al>
+l<m>eau chaulde</m> <del>Despuys</del> Les <al>vers</al>
 <tmp>despuys leur naissance jusques<lb/>
 
 a<add>u</add> <del>leur</del> temps quilz font leur coquons &amp; leur
@@ -114,9 +114,9 @@ pentecoste</tmp> elles comancent a vouloir monster a des branches<lb/>
 seiches de <pa>brande</pa> ou <pa>bruyere</pa> quon leur præpare
 <del>en</del> &amp; attache</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Voy <la><pn>Hieronymus<lb/>
 Vida <pl>Albensis</pl> <add>ep<exp>iscop</exp>us</add><lb/>
@@ -124,18 +124,18 @@ Vida <pl>Albensis</pl> <add>ep<exp>iscop</exp>us</add><lb/>
 scripsit carmine<lb/>
 de <al>bombicum</al> natura
 
-</la></ab>
+</la><comment rid="c_053v_01"/></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 coment on les<lb/>
 remue
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

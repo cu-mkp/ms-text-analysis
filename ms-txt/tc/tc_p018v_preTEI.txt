@@ -12,7 +12,7 @@ Sa balle poise huict lb ou 9 & sa charge est de six
 livres
 
 
-de pouldreEt pour A la culasse elle porte trois
+de pouldre A la culasse elle porte trois
 balles
 
 
@@ -42,10 +42,12 @@ pas
 
 
 
+
+
 Aulx canons & grosses
 
 
-pieces on donnen aulta{n}t
+pieces on donne aulta{n}t
 
 
 de pouldre quest le
@@ -59,8 +61,6 @@ proportion vient
 
 
 lescusson Aulx
-
-
 moyennes pieces
 
 
@@ -98,9 +98,7 @@ balles En g{e}n{er}al
 
 
 on charge toutes
-
-
-pieces jusques
+piecesjusques
 
 
 a lescusson On
@@ -116,10 +114,8 @@ le canon
 
 
 jusques a la
-
-
 piece de quattre
-quintalsde char
+quintals
 
 
 et leur donne lon
@@ -167,7 +163,7 @@ dix pans de long ou 12 Sa balle poise vi ou vii lb
 & sa
 
 
-charge est de 4 lb de pouldre A la culasse elle ha
+charge est de 4 lb de pouldreA la culasse elle ha
 trois
 
 
@@ -207,7 +203,7 @@ Le passevolant poise vi quintals ha de long huict ou
 
 noeuf pans Sa balle poise deulx lb & pour sa
 charge une
-lb & demye de pouldre A la culasse il ha trois
+lb & demye de pouldreA la culasse il ha trois
 balles &
 
 
@@ -230,7 +226,7 @@ sa balle poise une lb & un quart sa charge est demy
 lb
 
 
-de pouldre A la culasse trois balles au devant deulx pour
+de pouldreA la culasse trois balles au devant deulx pour
 
 
 le mener deux chevaulx combien que telles pieces ne se
@@ -243,5 +239,5 @@ gueres daultant que il ne servent que pour les maisons
 Celles qui se charrient ou pour batterie ou pour combat,
 
 
-assigie sont canons colevrines bastardes moyennes & pieces
+assigie sont canonscolevrinesbastardes moyennes & pieces
 

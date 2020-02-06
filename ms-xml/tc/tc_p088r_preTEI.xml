@@ -1,16 +1,16 @@
-<root>
-<page>088r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="088r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image</image>
 
-<div>
-<id>p088r_1</id>
-<head><pa>Visme</pa></head>
+
+
+<div id="p088r_1" categories="cultivation">
+
+<head><pa><oc>Visme</oc></pa></head>
 
 <ab>Il se peult planter co<exp>mm</exp>e la <pa>ronce</pa> des deulx
 costes &amp; ceulx qui<lb/>
 
-plantent le gros pied contre mont disent quil faict plus grosse<lb/>
+plantent le gros pied contre mont disent quil faict plus gross<ups>e</ups><lb/>
 
 souche Mays il ny ha que la poincte en hault car il croist<lb/>
 
@@ -18,8 +18,8 @@ plus hault</ab>
 
 </div>
 
-<div>
-<id>p088r_2</id>
+<div id="p088r_2" categories="tool">
+
 <head><tl>Mortiers</tl></head>
 
 <ab>Les <tl>mortiers de <m>cuivre fin</m></tl> ne jectent point de foeu
@@ -28,14 +28,14 @@ pourveu que<lb/>
 le <tl>pilon de <m>fer</m></tl> ne soict point trempe Si faict bien le
 <tl>mortier</tl> de<lb/>
 
-<m>metal</m> pource quil est aigre On faict pour ceste occasion le<lb/>
+<m>metal</m><comment rid="c_016v_05"/> pource quil est aigre On faict pour ceste occasion le<lb/>
 
 fons des <tl>grands mortiers</tl> de <m>cuivre fin</m></ab>
 
 </div>
 
-<div>
-<id>p088r_3</id>
+<div id="p088r_3" categories="varnish">
+
 <head><m>Vernis</m></head>
 
 <ab><m>Huile de tormentine</m> <m>Tormentine</m> &amp; <m>bonne eau de
@@ -53,8 +53,8 @@ corps<lb/>
 
 </div>
 
-<div>
-<id>p088r_4</id>
+<div id="p088r_4" categories="cultivation">
+
 <head>Hanter</head>
 
 <ab>On trouve par experience que le greffe qui <del>est</del> ha son
@@ -66,15 +66,15 @@ est aussy tortu</ab>
 
 </div>
 
-<div>
-<id>p088r_5</id>
+<div id="p088r_5" categories="household and daily life">
+
 <head><pro>Boulangier</pro></head>
 
 <ab>La <m>poulsiere</m> garde le <m><pa>bled</pa></m> de
-<oc>cussonner</oc> Et pour le bien<lb/>
+<oc>cussonner</oc> Et pour le bi<ups>en</ups><lb/>
 
 nettoyer quand il est tache &amp; co<exp>mm</exp>e rouille Passe des
-<m>cendres</m><lb/>
+<m>cendre<ups>s</ups></m><lb/>
 
 par le <tl>tamis</tl> &amp; les mesle avecq le <m><pa>bled</pa></m> puys
 bellute<lb/>
@@ -89,8 +89,8 @@ beau</ab>
 
 </div>
 
-<div>
-<id>p088r_6</id>
+<div id="p088r_6" categories="casting">
+
 <head><m>Estain de glace</m></head>
 
 <ab>Il faict la matiere plus blanche</ab>

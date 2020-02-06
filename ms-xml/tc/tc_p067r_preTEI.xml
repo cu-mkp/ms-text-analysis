@@ -1,12 +1,12 @@
-<root>
-<page>067r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image</image>
 
-<div>
-<cont/>
 
-<id>p066v_4</id>
+
+<div continues="yes" id="p066v_4" categories="painting">
+
+
+
 
 <ab>jour arrache du <bp>bout des ongles</bp> les <m>poils</m> qui
 font<lb/>
@@ -16,14 +16,14 @@ la poincte trop longue Et jusques a ce que la poincte te<lb/>
 semble bien &amp; que tu y remarques les <m>poils de <al>rat</al></m>
 qui sont<lb/>
 
-touts noirs &amp; le <m>poil de <al>menue gris</al></m> est
+touts noirs &amp; le <m>poil de <al>menue gris</al></m><comment rid="c_067r_01"/> est
 blanchastre<lb/>
 
 <del>a la</del> despuys la racine jusques au milieu Quand il<lb/>
 
 sera a ta fantasie lie <del>b</del> Et sarre bien fort avecq du<lb/>
 
-<m>filet</m> en deulx endroicts puys couppe le superflu<lb/>
+<tl>filet</tl> en deulx endroicts puys couppe le superflu<lb/>
 
 &amp; ladapte a un <m>tuyau</m> de grosseur qui luy soict<lb/>
 
@@ -38,9 +38,9 @@ sur la <bp>main</bp></ab>
 
 </div>
 
-<div>
+<div id="p067r_1" categories="varnish">
 
-<id>p067r_1</id>
+
 
 <head><m>Huile</m></head>
 
@@ -54,11 +54,11 @@ sevapore au foeu &amp; laisse le <m>papier</m> net comme la
 
 </div>
 
-<div>
+<div id="p067r_2" categories="casting">
 
-<id>p067r_2</id>
 
-<head>Sable</head>
+
+<head><m>Sable</m></head>
 
 <ab>Toute chose broyee &amp; destrempee soufle selon<lb/>
 
@@ -66,9 +66,9 @@ aulcuns</ab>
 
 </div>
 
-<div>
+<div id="p067r_3" categories="tool;metal process">
 
-<id>p067r_3</id>
+
 
 <head><tl>Four a souflets</tl></head>
 
@@ -91,9 +91,9 @@ ceste sorte tu fondras tout ce quil te plaira</ab>
 
 </div>
 
-<div>
+<div id="p067r_4" categories="varnish">
 
-<id>p067r_4</id>
+
 
 <head><m>Vernis</m> sur <m>papier</m></head>
 
@@ -103,7 +103,7 @@ ceste sorte tu fondras tout ce quil te plaira</ab>
 de <m>glaire doeuf</m> meslee de <m>gomme</m> &amp; dun peu
 d<m><m>huile</m> non d<m><pa>aspic</pa></m> mays<lb/>
 
-dun aultre <sn>odorant</sn> qui semble <m>huile d<pa>olif</pa></m></m>
+dun <m>aultre <sn>odorant</sn> qui semble huile d<pa>olif</pa></m></m>
 Tout ouvrage faict avecq<lb/>
 
 <m>glaire</m> soubstient l<m>huile</m> Cest avecq cela que les

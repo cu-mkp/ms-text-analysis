@@ -1,19 +1,19 @@
-<root>
-<page>030r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="030r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image</image>
 
-<div>
-<id>p030r_1</id>
+
+
+<div id="p030r_1" categories="metal process;practical optics">
+
 <head><m>Plomb</m></head>
 
-<ab>Le meilleur, plus gras &amp; plus douls s'aporte
-d'<pl>Allemaigne</pl>,<lb/>
+<ab>Le meilleur, plus gras &amp; plus douls s’aporte
+d’<pl>Allemaigne</pl>,<lb/>
 
-qui n'est pas en saulmon mays en lattes de la longueur<lb/>
+qui n’est pas en saulmon<comment rid="c_028v_04"/> mays en lattes<comment rid="c_030r_03"/> de la longueur<lb/>
 
 du <ms><bp>bras</bp></ms> ou environ &amp; de largeur de trois
-<ms><bp>doigts</bp></ms>. Il s'en porte<lb/>
+<ms><bp>doigts</bp></ms>. Il s’en porte<lb/>
 
 à <pl>Lyon</pl>, et de cestuy cy on faict à <pl>Noremberg</pl> la
 foeille<lb/>
@@ -22,17 +22,17 @@ des petits mirouers.</ab>
 
 </div>
 
-<div>
-<id>p030r_2</id>
-<head><pro>Pintier</pro></head>
+<div id="p030r_2" categories="casting" continued="yes">
+
+<head><comment rid="c_030r_02"/><pro>Pintier</pro></head>
 
 <ab>Ils font leurs <tl>moules</tl> aussy de <m>metal</m>, qui sont de
 plus grand<lb/>
 
-durée &amp; moulent plus net que le <m>grais</m>, pource que la
+durée &amp; moulent plus net que le <m>grais</m>,<comment rid="c_008v_02"/> pource que la
 vaisselle<lb/>
 
-y vient sans baves &amp; bien unye. Mays c'est pour les
+y vient sans baves &amp; bien unye. Mays c’est pour les
 <pro>riches</pro>,<lb/>
 
 car un <tl>moule</tl> coste quinze ou seize <cn>frans</cn>. On en
@@ -43,7 +43,7 @@ principallem<exp>ent</exp> de <m>metal</m> pour bassins &amp; esguieres
 
 &amp; semblabes choses qui sont figurées.</ab>
 
-<ab>Pour les pintes, les <tl>moules</tl> se font de <m>terre ardille
+    <ab>Pour les pintes,<comment rid="c_030r_01"/> les <tl>moules</tl> se font de <m>terre ardille
 blanche</m><lb/>
 
 meslée de <m>fiente de <al>cheval</al></m> &amp; <m>bourre</m> &amp;
@@ -61,25 +61,24 @@ pinctes de <m>grais</m>.</ab>
 <ab>Aulx <tl>moules de <m>metal</m></tl>, on faict des souspirails et on
 gecte<lb/>
 
-à un coup, qui est cause qu'au milieu du plat il ne se faict<lb/>
+à un coup, qui est cause qu’au milieu du plat il ne se faict<lb/>
 
 poinct une ligne noire enfumée, qui vient de la vapeur<lb/>
 
-&amp; fumée du <m>metal</m> qui se gecte, qui est cause qu'en cet
+&amp; fumée du <m>metal</m> qui se gecte, qui est cause qu’en cet
 endroict<lb/>
 
-l'ouvraige est grumeleux &amp; bien souvent percé. Toutesfois<lb/>
+l’ouvraige est grumeleux &amp; bien souvent percé. Toutesfois<lb/>
 
 ilz le reparent par la <m>souldure</m> <del>du n</del>, co<exp>mm</exp>e
 dict est. Ceste<lb/>
 
 fumée se faict sur le milieu au droit du gect &amp; aulx <tl>moules<lb/>
+de <m>grais</m></tl>.</ab>
 
-de <m>grais</m></tl></ab>
+<ab>La vaisselle se peult <tl>marteler</tl> <del>mar</del> pour estre plus<lb/>
 
-<ab>La vaisselle se peult marteler <del>mar</del> pour estre plus<lb/>
-
-vendable. Mays elle n'en dure pas tant.</ab>
+vendable. Mays elle n’en dure pas tant.</ab>
 
 <ab>Aulx branches de leur <tl>roue de <m>fer</m></tl>, ilz ont des
 coches selon la<lb/>
@@ -87,7 +86,7 @@ coches selon la<lb/>
 grandeur des plats &amp; des assiettes. Et quand ilz veulent
 apliquer</ab>
 
-<cont/>
+
 
 </div>
 </root>

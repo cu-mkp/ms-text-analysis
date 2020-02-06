@@ -1,11 +1,11 @@
-<root>
-<page>152v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f310.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f310.image</image>
 
-<div>
 
-<id>p152v_1</id>
+
+<div id="p152v_1" categories="casting">
+
+
 
 <head>Reparer les choses gectees</head>
 
@@ -34,16 +34,16 @@ Les choses aussy moulees en creux sont fantasques<lb/>
 
 a gecter Si doncq il arrive quelque default<lb/>
 
-Ayes un <tl>coisinet @ <comment>c_152v_01</comment> de <m>cuir</m></tl>
-plein de sable subtil<lb/>
+Ayes un <tl>coisinet   de <m>cuir</m></tl>
+plein de <m>sable subtil</m><lb/>
 
-&amp; layant pose sur le bequet de la <tl>table des
+&amp; layant pose sur le bequet<comment rid="c_152v_02"/> de la <tl>table des
 <pro>orfevres</pro></tl><lb/>
 
 ou lon <tl>lime</tl> poses y ton ouvraige &amp; le tiens seur<lb/>
 
 avecq une <tl>corde</tl> <add>qui passe soubs ton
-<tl><bp>pied</bp></tl></add> Le sable dans le <tl>sac</tl> obeist &amp;
+<tl><bp>pied</bp></tl></add> Le <m>sable</m> dans le <tl>sac</tl> obeist &amp;
 se<lb/>
 
 renge tantost espes dun coste &amp; minse de laultre<lb/>
@@ -88,7 +88,7 @@ cela avecq les houtils susdicts &amp; avecq les <tl>ciselets</tl><lb/>
 
 convenables</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Pour l<m>or</m> &amp; petit<lb/>
 
@@ -106,24 +106,10 @@ tiendra ainsy<lb/>
 
 avecq la <tl>corde</tl></ab>
 
-<figure>
-
-<id>fig_p152v_1</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3NpRV82clA2UVE</link>
-
+    <figure size="small" id="fig_p152v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3NpRV82clA2UVE">
 </figure>
 
-<figure>
-
-<id>fig_p152v_2</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cWhfVmhvbWszZlE</link>
-
+    <figure size="small" id="fig_p152v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cWhfVmhvbWszZlE">
 </figure>
 
 </div>

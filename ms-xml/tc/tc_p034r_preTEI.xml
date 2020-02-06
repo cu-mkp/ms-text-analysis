@@ -1,11 +1,11 @@
-<root>
-<page>034r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="034r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image</image>
 
-<div>
 
-<id>p034r_1</id>
+
+<div id="p034r_1" categories="tricks and sleight of hand">
+
+
 
 <head>Pour dire a quelquun que <del>mettant</del> <add>tenant</add> le
 <bp>doit</bp> tousjours<lb/>
@@ -13,7 +13,7 @@
 au <bp>front</bp> tu lempescheras de sortir dune
 <env>chambre</env></head>
 
-<ab><figure>X</figure>Fais luy <bp>embrasser</bp> la <tl>quenoille du
+<ab><mark>X</mark><comment rid="c_084v_02"/> Fais luy <bp>embrasser</bp> la <tl>quenoille du
 lict</tl> ou chose semblable<lb/>
 
 &amp; que du mesme <bp>bras</bp> il tienne le <bp>doigt</bp> au
@@ -21,11 +21,11 @@ lict</tl> ou chose semblable<lb/>
 
 </div>
 
-<div>
+<div id="p034r_2" categories="tricks and sleight of hand">
 
-<id>p034r_2</id>
 
-<head><figure>X</figure>Gaiger a quelqu<del>e</del>un que se
+
+<head><mark>X</mark> Gaiger a quelqu<del>e</del>un que se
 promenant<lb/>
 
 jusques a tel lieu et en revenir il ne<lb/>
@@ -33,7 +33,7 @@ jusques a tel lieu et en revenir il ne<lb/>
 dira point quattre fois de suite botte sa<exp>n</exp>s
 espero<exp>n</exp></head>
 
-<ab><figure>X</figure>Sil sessaye de le dir<del>a</del>e <add>mays il
+<ab><mark>X</mark> Sil sessaye de le dir<del>a</del>e<comment rid="c_034r_04"/> <add>mays il
 fault quil parle <sn>hault</sn></add> quand il sera alle &amp; revenu tu
 luy<lb/>
 
@@ -43,32 +43,31 @@ botte sans dire esperon car ta gageure est telle</ab>
 
 </div>
 
-<div>
+<div id="p034r_3" categories="tricks and sleight of hand">
 
-<id>p034r_3</id>
+
 
 <head>Faire tenir un <tl>chandellier</tl> co<exp>n</exp>tre la
 <env>muraille</env><lb/>
 
 sans y fayre trou</head>
 
-<figure>X</figure>
 
-<ab>Fais le tenir par un <pro>vallet</pro> contre la
+<ab><mark>X</mark> Fais le tenir par un <pro>vallet</pro> contre la
 <env>muraille</env></ab>
 
 </div>
 
-<div>
+<div id="p034r_4" categories="tricks and sleight of hand">
 
-<id>p034r_4</id>
 
-<head><figure>X</figure>Ne casser point un <tl><m>verre</m></tl>
+
+<head><mark>X</mark> Ne casser point un <tl><m>verre</m></tl>
 dune<lb/>
 
 <tl>busche</tl> ou dun <tl>gros baston</tl></head>
 
-<ab><figure>X</figure>Tu en coupperas un petit loppin gros <ms>comme un
+<ab><mark>X</mark> Tu en coupperas un petit loppin gros <ms>comme un
 <tl>curedent</tl></ms><lb/>
 
 &amp; ainsy luy donneras dune <tl>busche</tl> ou dun <tl>gros
@@ -78,9 +77,9 @@ quoy il ne cassera point le <tl><m>verre</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p034r_5" categories="tricks and sleight of hand">
 
-<id>p034r_5</id>
+
 
 <head>Escripre subtillement</head>
 
@@ -95,7 +94,7 @@ co<exp>mm</exp>e<lb/>
 pour un <pro>messager</pro> lequel si tu veulx distraire sa chemise
 nen<lb/>
 
-scaura rien</ab>
+scaura rien<comment rid="c_034r_03"/></ab>
 
 </div>
 </root>

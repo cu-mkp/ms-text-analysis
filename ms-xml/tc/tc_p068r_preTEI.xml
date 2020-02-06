@@ -1,10 +1,10 @@
-<root>
-<page>068r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="068r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image</image>
 
-<div>
-<id>p068r_1</id>
+
+
+<div id="p068r_1" categories="decorative">
+
 <head>Tables fantasques</head>
 
 <ab>Tu peulx faire divers compartiments encoches &amp; dans<lb/>
@@ -23,8 +23,8 @@ ouvraiges</ab>
 
 </div>
 
-<div>
-<id>p068r_2</id>
+<div id="p068r_2" categories="cultivation">
+
 <head>Planter abres</head>
 
 <ab>Il les fault planter en <del><env>lieu sec</env></del> <env>temps
@@ -37,14 +37,14 @@ ne remplissent les fosses &amp; ne nyent les abres</ab>
 
 </div>
 
-<div>
-<id>p068r_3</id>
+<div id="p068r_3" categories="casting" continued="yes">
+
 <head>Gect</head>
 
-<ab>Jay essaye 4 sortes de sables pour le <m>plomb</m> &amp;
+<ab>Jay essaye 4 sortes de <m>sables</m> pour le <m>plomb</m> &amp;
 <m>estain</m> La <m>croye</m><lb/>
 
-Le <m>verre pile</m> Le <m>tripoly</m> &amp; le <m>linge brusle</m>
+Le <m>verre <tl>pile</tl></m> Le <m>tripoly</m> &amp; le <m>linge brusle</m>
 touts 4 fort<lb/>
 
 excellents Mays quand a la <m>croye</m> il fault quelle soict de la
@@ -70,15 +70,15 @@ refaire ton <tl>moule au chassis</tl> de prendre nouvelle <m>pouldre de
 croye</m><lb/>
 
 qui naye point este mise en oeuvre car celle qui ha servy au
-chassis<lb/>
+<tl>chassis</tl><lb/>
 
 est desseichee &amp; nha pas tant de prise &amp; liayson que la
 recente<lb/>
 
-Le <m>verre pile</m> se peult faire en <m>sable de verre commun
+Le <m>verre <tl>pile</tl></m> se peult faire en <m>sable de verre commun</m>
 touteffois<lb/>
 
-le cristallin</m> est plus excellent Car le commun ne tient que du
+le <m>cristallin</m> est plus excellent Car le commun ne tient que du
 <del><m>verre</m></del><lb/>
 
 <m>sel de salicor</m> Mays le <m>cristallin</m> tient du <m>sel de
@@ -94,14 +94,14 @@ parfaictem<exp>ent</exp> Gectes tes lopins de <m>verre</m> quel quil
 soit entre les plus<lb/>
 
 gros <m>charbons</m> allumes que tu pourras si aultre commodite
-<del>t</del> <add>d</add>e
-foeu<del>t</del><comment>c_68r_03</comment><lb/>
+<del>t</del>de<comment rid="c_068r_04"/>
+foeu<del>t</del><comment rid="c_068r_03"/><lb/>
 
 violent te default Et lors quil sera bien rouge gecte le dans
 l<m>eau</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>potee</m> est<lb/>
 
 estimee excellente<lb/>
@@ -112,7 +112,7 @@ pour ces deulx<lb/>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

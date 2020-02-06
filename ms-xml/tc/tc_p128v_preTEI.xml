@@ -1,13 +1,13 @@
-<root>
-<page>128v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="128v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image</image>
 
-<div>
 
-<cont/>
 
-<id>p128r_1</id>
+<div continues="yes" id="p128r_1" categories="casting">
+
+
+
+
 
 <ab>
 
@@ -27,18 +27,18 @@ Et pour cet effect ayes du <m>sable maigre delie</m> Dans<lb/>
 une <tl>terrine</tl> ou aultre <tl>vaisseau</tl> duquel tu te vouldras
 ayder<lb/>
 
-Fays une fosse dans le sable Puys avecq tes <tl>molettes</tl><lb/>
+Fays une fosse dans le <m>sable</m> Puys avecq tes <tl>molettes</tl><lb/>
 
 prens ton <tl>moule bien rouge</tl> &amp; le pose dans ceste fosse
 de<lb/>
 
-sable Couvre incontinent louverture de ton <tl>mo4ule</tl> affin
+<m>sable</m> Couvre incontinent louverture de ton <tl>moule</tl> affin
 que<lb/>
 
 aulcune <m>cendre</m> &amp; poulsiere nentre dedans &amp; lors acheve
 de<lb/>
 
-lentourner de sable jusques au bout du gect &amp; des souspirailz<lb/>
+lentourner de <m>sable</m> jusques au bout du gect &amp; des souspirailz<lb/>
 
 Ce faict descouvre ton <tl>moule</tl> &amp; gecte dessus ton <m>argent
 bien<lb/>
@@ -60,14 +60,14 @@ peulx gecter <m>argent plus fin que la ligue du <pl>capital</pl> et<lb/>
 co<exp>mm</exp>e de <cn>realle</cn></m> Mays que tu y adjoustes de ce
 grain</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
 
-Ne laisse pas pour cela de mettre devant toute chose un peu de
-<m>borras</m> dans l<m>argent<lb/>
 
-fondu</m> car encores<lb/>
+<ups>Ne laisse pas pour cela de mettre devant toutes choses un peu de
+<m>borras</m> dans l<m>argent</m></ups><lb/>
+
+fondu car encores<lb/>
 
 que les <pro>orfevres</pro> ny<lb/>
 
@@ -93,9 +93,9 @@ qui soict pose au bout<lb/>
 
 de ta <tl>forge</tl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 Si tu veulx soufler la<lb/>
 
@@ -111,9 +111,9 @@ en bas &amp; soufle
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand l<m>argent</m> est bien<lb/>
 
@@ -139,9 +139,9 @@ qui le font courre
 
 </div>
 
-<div>
+<div id="p128v_1" categories="casting;metal process">
 
-<id>p128v_1</id>
+
 
 <head>Blanchiment de l<m>argent</m> gecte</head>
 
@@ -159,7 +159,7 @@ chappe ou croste <del>qui est contraire au</del> <del>Nos</del>
 <pl>france</pl></del> sont communem<exp>ent</exp> bien empresses a
 blanchir leurs<lb/>
 
-ouvraiges Mesmem<corr><exp>ent</exp></corr> les grossieres pource quils
+ouvraiges Mesmem les grossieres pource quils
 nusent<lb/>
 
 que du <m>commun bullitoyre</m> qui est de <m>tartre</m> &amp; <m>sel
@@ -184,7 +184,7 @@ pource que<lb/>
 il nestoit pas net a sa fantasie de ceste croste Il fist brusler<lb/>
 
 du <m>tartre</m> <add>dans du <tl><m>papier</m></tl></add> jusques a ce
-quil fut noir &amp; ne fuma plus Puys<lb/>
+quil fut noir &amp; ne <m>fuma</m> plus Puys<lb/>
 
 il destrempa ledict <m>tartre</m> <del>d</del> avecq de l<m>eau du
 bullitoyre</m> co<exp>m</exp>posee<lb/>
@@ -202,19 +202,19 @@ apres le <tl>grattebroissa</tl> dans l<m>eau claire</m>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark><lb/>
 
 Note que le <m>bullitoyre</m><lb/>
 
 pour l<m>argent</m> nest jamays<lb/>
 
-bon dans un <tl>crusol</tl><lb/>
+bon dans un <tl><oc>crusol</oc></tl><lb/>
 
-pource que leau prena<exp>n</exp>t<lb/>
+pource que l<m>eau</m> prena<exp>n</exp>t<lb/>
 
 la forme du <del>f</del> <m>tartre</m><lb/>
 
@@ -232,9 +232,9 @@ saulce qui colore l<m>or</m>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il observoit de ne<lb/>
 
@@ -260,7 +260,7 @@ pour secret ce <m>tartre<lb/>
 
 brusle</m> mis dessus pour<lb/>
 
-l<m>argent bas</m>
+l<m><ups>argent</ups> bas</m>
 
 </ab>
 

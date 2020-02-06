@@ -1,11 +1,11 @@
-<root>
-<page>136v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="136v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image</image>
 
-<div>
 
-<id>p136v_1</id>
+
+<div id="p136v_1" categories="casting">
+
+
 
 <head>
 
@@ -48,10 +48,10 @@ soy toute recente, sur le <m>letton fondu</m>. Advise de gecter<lb/>
 fort chault &amp; que ton <tl>moule</tl> soict rouge co<exp>mm</exp>e en
 l’<m>or</m>, <m>argent</m>,<lb/>
 
-<m>cuivre</m> &amp; <m>metal</m>. Si tu gectes de la <m>calamine</m>
+<m>cuivre</m> &amp; <m>metal</m>.<comment rid="c_016v_05"/> Si tu gectes de la <m>calamine</m>
 recente, <md>garde<lb/>
 
-toy de la <m>fumée</m> car elle est pernicieuse</md>. J’ay vouleu
+toy de la fumée car elle est pernicieuse</md>. J’ay vouleu
 employer<lb/>
 
 pour gecter medailles des <m>gectons d’<pl>Allemaigne</pl></m>, &amp; en
@@ -78,20 +78,20 @@ fort poly.<lb/>
 La seconde fusion vient mieulx, pour ce qu’il y a de la
 <m>calamine</m><lb/>
 
-exalée et ne faict pas tant de <m>fumée</m>. Si c’est en
+exalée et ne faict pas tant de fumée. Si c’est en
 <tl>chassis</tl><lb/>
 
 qui ne se rompe point &amp; soubstiene, l<del>a</del>e second gect
 viendra<lb/>
 
-net pour ce qu’il est imbu de la <m>fumée calaminayre</m>, qui<lb/>
+net pour ce qu’il est imbu de la fumée calaminayre, qui<lb/>
 
 embrasse &amp; reçoyt la seconde. Le <m>sel armoniac</m> seul mis<lb/>
 
 dans le <m>laitton</m> le rend net &amp; luisant. L’<m>huile
 tingente</m><lb/>
 
-encores plus. Il ne luy fault aultre sable que le præcedent<lb/>
+encores plus. Il ne luy fault aultre <m>sable</m> que le præcedent<lb/>
 
 en noyau, &amp; que le <tl>moule</tl> soict rouge co<exp>mm</exp>e pour
 l’<m>or</m>. Fais<lb/>
@@ -100,9 +100,9 @@ force souspirails. Et si tu gectois <m>letton jaulny</m> avecq la<lb/>
 
 <m>tuthie præparée</m>, tu n’aurois point de mauvaises fumées.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ce <m>metal</m> est fort<lb/>
 

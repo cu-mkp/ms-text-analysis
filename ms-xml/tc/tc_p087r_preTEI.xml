@@ -1,19 +1,19 @@
-<root>
-<page>087r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="087r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image</image>
 
-<div>
 
-<cont/>
 
-<id>p086v_1</id>
+<div continues="yes" id="p086v_1" categories="casting">
+
+
+
+
 
 <ab>Pour bien mouler il fault gecter dans un grand <tl>chassis</tl><lb/>
 
 plusieurs medailles ensemble Car quand il y a beaucoup de<lb/>
 
-matiere &amp; que le <tl>crusol</tl> est presque plein il chaufe
+matiere &amp; que le <tl><oc>crusol</oc></tl> est presque plein il chaufe
 dadvantage<lb/>
 
 &amp; puys si une medaille ne vient bien laultre sera bonne</ab>
@@ -29,25 +29,25 @@ il est<lb/>
 plus aise a fondre que le <m>cuivre</m> co<exp>mm</exp>e estant plus
 aigre</ab>
 
-<ab><rub>Les <pro>fondeurs</pro></rub> ont quelques uns ceste
+<ab><emph>Les <pro>fondeurs</pro></emph> ont quelques uns ceste
 superstition quil ny a<lb/>
 
 que <tmp>trois jours en la sepmaine</tmp> bons a fondre scavoir le
 <tmp>mardy</tmp><lb/>
 
 le <del><tmp>mercredy</tmp></del> <tmp>jeudy</tmp> et le
-<tmp>sabmedy</tmp> les aultres leur sont<lb/>
+<tmp>sabmedy</tmp> les aultres leur son<ups>t</ups><lb/>
 
 malheureulx</ab>
 
 <ab>Quand tu moules ne frappe pas excessivem<exp>ent</exp> sur la
 medaille<lb/>
 
-qui est en sable pource que cela lempesche de despouiller<lb/>
+qui est en <m>sable</m> pource que cela lempesche de despouiller<lb/>
 
 bien net &amp; estonne le <tl>moule</tl></ab>
 
-<ab>Advise aussy que le sable ne surpasse point les bords du<lb/>
+<ab>Advise aussy que le <m>sable</m> ne surpasse point les bords du<lb/>
 
 <tl>chassis</tl> car cela faict la medaille moulee plus haulte que<lb/>
 
@@ -56,18 +56,18 @@ dans<lb/>
 
 la forme Fais doncq tousjours que la superficie de ton<lb/>
 
-gect <add>sur</add><comment>c_087r_01</comment>passe a ligne droicte le
+gect <add>sur</add>passe a ligne droicte le
 <tl>moule</tl> Et pour cest effect<lb/>
 
 mects y si bon te semble un lopin de <tl><m>carton</m></tl> de telle
-espesseur<lb/>
+espesseu<ups>r</ups><lb/>
 
 quil te plaira</ab>
 
-<ab><rub>Les <pro>fondeurs</pro></rub> pour garder de soufler leur
+<ab><emph>Les <pro>fondeurs</pro></emph> pour garder de soufler leur
 ouvrages de<lb/>
 
-grand gect il sont curieulx de tresbien recuire leurs moules Et<lb/>
+grand gect il sont curieulx de tresbien recuire leurs <tl>moules</tl> Et<lb/>
 
 pour cognoistre sils sont asses recuits ilz frappent du
 <tl><bp>doigt</bp></tl><lb/>
@@ -75,15 +75,15 @@ pour cognoistre sils sont asses recuits ilz frappent du
 contre &amp; sils commancent a <sn>sonner</sn> co<exp>mm</exp>e un pot
 Ils le sont asses </ab>
 
-<ab><comment>c_087r_02</comment><rub>Pour gecter net leurs canons
-ilz</rub> meslent parmy<lb/>
+<ab><emph>Pour gecter net leurs canons
+ilz</emph> meslent parmy<lb/>
 
 leur <m>terre</m> de <m>fin sable de gect</m> sils en peuvent
-recouvrer</ab>
+recouvrer<hr/></ab>
 
 </div>
-<div>
-<id>p087r_1</id>
+<div id="p087r_1" categories="casting">
+
 <head><m>Sable de <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl></m></head>
 
 <ab>Le <del>bo</del> communem<exp>ent</exp> bon est <m>celuy qui se

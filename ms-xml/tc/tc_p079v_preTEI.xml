@@ -1,15 +1,15 @@
-<root>
-<page>079v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="079v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image</image>
 
-<div>
 
-<cont/>
 
-<id>p079r_3</id>
+<div continues="yes" id="p079r_3" categories="metal process;wood and its coloring">
 
-<ab>et mectes le dedans ung <tl>pot de <m>terre</m></tl> &amp; quil y
+
+
+
+
+<ab><comment rid="c_079v_03"/>et mectes le dedans ung <tl>pot de <m>terre</m></tl> &amp; quil y
 ayt<lb/>
 
 forces <m>cendres</m> chauldes dessoubz &amp; feres petit a<lb/>
@@ -18,20 +18,20 @@ petit du foeu dessoubz de plus en plus &amp; ne le<lb/>
 
 fault pas bouger &amp; quand il sera cuit &amp; si fault<lb/>
 
-q<exp>u</exp>il soit six <ms><tmp>heures</tmp></ms> &amp; gardes
-q<exp>ue</exp> la <m>fumee</m> ne vous<lb/>
+q<exp>u</exp>il soit six <ms><tmp>heures</tmp></ms> &amp; <md>gardes
+q<exp>ue</exp> la fumee ne vous<lb/>
 
-face mal car est maulvaix</ab>
+face mal car est maulvaix</md></ab>
 
 </div>
 
-<div>
+<div id="p079v_1" categories="varnish">
 
-<id>p079v_1</id>
+
 
 <head>Pour faire <m>verny</m></head>
 
-<ab>Prenes <m>Masticq</m> <m>sang <del>daRage</del> <add>darac</add></m>
+<ab>Prenes <m>Masticq</m> <m>sang <del>daRage</del> <add>darac</add></m><comment rid="c_077v_03"/>
 <m>Gomme aRabic</m> &amp;<lb/>
 
 <m>Huille d<pa>aspic</pa></m> aultant dung q<exp>ue</exp>
@@ -43,24 +43,24 @@ couche de <m>colle bien clere</m> &amp; le laisses seicher</ab>
 
 </div>
 
-<div>
+<div id="p079v_2" categories="medicine">
 
-<id>p079v_2</id>
 
-<head>@ <comment>c_079v_02</comment>Contrepoison contre la <m>fumee des
-metaulx</m></head>
+
+<head><comment rid="c_079v_02"/><md>Contrepoison contre la fumee des
+metaulx</md></head>
 
 <ab>Prens le <tmp>matin</tmp> une <m>rostie au boeurre</m> &amp;
-l<m>antimoine</m> ne<lb/>
+<md>l<m>antimoine</m> ne<lb/>
 
-<m>aultre vapeur</m> ne te pourra nuire Ou mects une <ms>demy</ms>
+<m>aultre vapeur</m> ne te pourra nuire</md> Ou mects une <ms>demy</ms>
 <m>vessie<lb/>
 
 de <al>porc</al></m> devant le <bp>visage</bp></ab></div>
 
-<div>
+<div id="p079v_3" categories="casting">
 
-<id>p079v_3</id>
+
 
 <head><m>Estaim</m> pour gect</head>
 
@@ -71,17 +71,17 @@ de <al>porc</al></m> devant le <bp>visage</bp></ab></div>
 de 9 ou <del>dix</del> dix <ms>lb</ms> de <m>plomb fin</m> sur un
 <ms>quintal</ms> d<m>estain</m></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 Aulcuns ne trouvent<lb/>
 
-rien mieulx que l<m>estain<lb/>
+<ups>r</ups>ien mieulx que l<m>estain<lb/>
 
-fin</m></ab></div>
+<ups>f</ups>in</m></ab></div>
 
-<div>
+<div id="p079v_4" categories="printing">
 
-<id>p079v_4</id>
+
 
 <head>Mixture pour les <pro>imprimeurs</pro></head>
 
@@ -91,12 +91,12 @@ couche de <m>letton</m> &amp; <m>vielles<lb/>
 escailles ou lames de fer</m> ou <del>clo</del> <m>testes de cloux de
 fer</m> et<lb/>
 
-continues ainsy jusques a ce que le <tl>crusol</tl> soit plain Et<lb/>
+continues ainsy jusques a ce que le <tl><oc>crusol</oc></tl> soit plain Et<lb/>
 
 fais fondre au <tl>four a vent</tl> &amp; puys mesle un peu
 d<m>estain</m> &amp;<lb/>
 
-acheve de remplir le <tl>crusol</tl> de <m>plomb</m> <del>jusques a ce
+acheve de remplir le <tl><oc>crusol</oc></tl> de <m>plomb</m> <del>jusques a ce
 que il<lb/>
 
 le cause</del> Et vigore le foeu &amp; mesle pour faire bien allier<lb/>

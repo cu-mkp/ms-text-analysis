@@ -1,15 +1,15 @@
-<root>
-<page>057v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="057v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item</image>
 
-<div>
 
-<id>p057v_1</id>
 
-<head><pro>Gainier</pro></head>
+<div id="p057v_1" categories="arms and armor">
 
-<ab><comment>c_057v_01</comment>@Les <pro>Gainiers</pro> se servent de
+
+
+<head><comment rid="c_057v_01"/><pro>Gainier</pro></head>
+
+<ab>Les <pro>Gainiers</pro> se servent de
 <m>petites peaulx <al>daigneaulx</al> et<lb/>
 <al>chevreaulx</al> fort deliees</m> quasi comme <m>parchemin</m> Et les
 tiennent en <env>lieux<lb/>
@@ -32,7 +32,7 @@ mectent le tout<lb/>
 en une <tl>presse</tl> et luy laissent seicher. Appres la <m>terre</m>
 seulement le<lb/>
 
-<m>cuyr</m> demeure nectement emprainct de la <ms>grosseur dun
+<m>cuyr</m> demeure nectement emprainct <gap/> de la <ms>grosseur dun
 <pa>poix</pa></ms><lb/>
 
 Et lors tu donnes au <m>cuyr</m> deux ou trois couches lune appres<lb/>
@@ -51,23 +51,23 @@ sorte on<lb/>
 
 peult promptement Imiter de grandes statues &amp; de fort subtille<lb/>
 
-medailhe et les paindre &amp; estoffer &amp; sont legieres et
+medailhe et les paindre &amp; estoffer<comment rid="c_057v_03"/> &amp; sont legieres et
 portatives<lb/>
 
 &amp; de <tmp>longue duree</tmp> Ce qui semprainct sur ung relief se
 faict aultrem<exp>ent</exp><lb/>
 
-et se resuict aveq ung <tl><m>fer</m> chault</tl></ab>
+et se resuict aveq ung <tl><m>fer</m> chault</tl><hr/></ab>
 
 </div>
 
-<div>
+<div id="p057v_2" categories="painting" continued="yes">
 
-<id>p057v_2</id>
 
-<head><pro>Painctre</pro></head>
 
-<ab><comment>c_057v_02</comment>@<tl><m>Croons</m></tl> bons ne se font
+<head><pro>Painctre</pro><comment rid="c_057v_04"/></head>
+
+<ab><comment rid="c_057v_02"/><tl><m>Croons</m></tl> bons ne se font
 aveq <m>colle</m> <del>bonne</del> mays aveq <m>laict de<lb/>
 
 femme</m></ab>
@@ -94,7 +94,7 @@ Jaulnist</ab>
 <ab>L<m>huille de <pa>noix</pa></m> de 4 ou 5 <tmp>ans</tmp> qui est
 Cler est la meilheure couleur<lb/>
 
-garde de poulsiere Celuy qui est recentem<exp>ent</exp> tire avecq la
+garde de poulsiere <comment rid="c_057v_02"/>Celuy qui est recentem<exp>ent</exp> tire avecq la
 presse<lb/>
 
 en forme d<m>huille d<pa>amendes</pa></m> est blanc mesmem<exp>ent</exp>
@@ -102,7 +102,7 @@ si la <m>peau des <pa>noix</pa></m><lb/>
 
 est tiree</ab>
 
-<cont/>
+
 
 </div>
 </root>

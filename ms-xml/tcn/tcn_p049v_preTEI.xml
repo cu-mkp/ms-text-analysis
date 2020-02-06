@@ -1,16 +1,16 @@
-<root>
-<page>049v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="049v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f104.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f104.image</image>
 
-<div>
 
-<id>p049v_1</id>
+
+<div id="p049v_1" categories="animal husbandry">
+
+
 
 <head><al>Oyseaulx</al></head>
 
 <ab>Les <al>calendres</al> &amp; touts <al>oiseaulx</al> prins au nid
-&amp; qui n'ont<lb/>
+&amp; qui n’ont<lb/>
 
 poinct eu de liberté sont meilleurs, car ceulx qui sont pris<lb/>
 
@@ -19,12 +19,12 @@ au filé ne chantent jamays si bien. Touteffois les sauvaiges<lb/>
 donnent <del><ill/></del> bien plaisir de leur ramage, mays il
 fault<lb/>
 
-qu'ilz soient pris <ms><tmp>devant la <pn>S<exp>ainc</exp>t
-Michel</pn></tmp></ms>, aultrem<exp>ent</exp> ilz ne vivent<lb/>
+qu’ilz soient pris <tmp>devant la <pn>S<exp>ainc</exp>t
+Michel</pn></tmp>,<comment rid="c_049v_09"/> aultrem<exp>ent</exp> ilz ne vivent<lb/>
 
 gueres. Il leur vient à touts sur la fourche de la queue<lb/>
 
-une petite aposteme par foys, qu'aulcuns appellent gaillardise,<lb/>
+une petite aposteme par foys, qu’aulcuns appellent <df>gaillardise</df>,<comment rid="c_049v_06"/><lb/>
 
 qui les rend mallades &amp; quelques foys les faict mourir,<lb/>
 
@@ -34,39 +34,39 @@ cognoist quand ilz<lb/>
 sont tristes &amp; ne chantent point. Il le fault percer <del>av</del>,
 non<lb/>
 
-pas avecq une <tl>espingle</tl>, mays tout doulcem<exp>ent</exp> en
+pas avecq une <tl>espingle</tl>,<comment rid="c_049r_04"/> mays tout doulcem<exp>ent</exp> en
 tournant avecq<lb/>
 
-le bout d'une <tl>plume bien poinctue</tl>. La <al>calendre</al> ne
+le bout d’une <tl>plume bien poinctue</tl>. La <al>calendre</al> ne
 veult poinct estre<lb/>
 
-sans sable <del>gris</del> de riviere, &amp; le gris est le meilleur, un
+sans <m>sable <del>gris</del> de riviere</m>, &amp; le gris est le meilleur, un
 peu grossier.<lb/>
 
-Elle s'y frotte &amp; s'en purge.
+Elle s’y frotte &amp; s’en purge.
 
 </ab>
 
 </div>
 
-<div>
+<div id="p049v_2" categories="metal process">
 
-<id>p049v_2</id>
+
 
 <head>Graine de <m>plomb</m></head>
 
 <ab>Ayes une <tl>carte</tl> <del>percee</del> de laquelle on joue,
-percée d'une <tl>espingle</tl><lb/>
+percée d’une <tl>espingle</tl><lb/>
 
 ou <tl>esguille</tl>, repliée par les quattre costés. Tiens la par<lb/>
 
-le bout d'un petit <tl>baston fendu</tl>, et tenant le dict
+le bout d’un petit <tl>baston fendu</tl>, et tenant le dict
 <tl>baston</tl><lb/>
 
-par <del>un bout</del><add>l'aultre</add> extremité, dispose ta carte à
+par <del>un bout</del><add>l’aultre</add> extremité, dispose ta <tl>carte</tl> à
 trois ou 4 <ms><bp>doigts</bp></ms><lb/>
 
-de l'<m>eau</m> que tu auras mise dans un <tl>plat</tl> ou semblable
+de l’<m>eau</m> que tu auras mise dans un <tl>plat</tl> ou semblable
 <tl>vaisseau</tl>.<lb/>
 
 Puys fais verser ton <m>plomb</m>, qui ne soict pas trop chault,<lb/>
@@ -79,64 +79,64 @@ par<lb/>
 
 un gros <tl>tamis</tl> pour separer la plus grosse graine de la<lb/>
 
-plus menue. La grossette portera 25 ou 30 <ms>pas</ms>.
+plus menue. La grossette portera 25 ou 30 <ms>pas</ms>.<comment rid="c_049v_08"/>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p049v_3" categories="animal husbandry">
 
-<id>p049v_3</id>
+
 
 <head><al>Oyseaulx</al></head>
 
 <ab>Ceulx qui <del>peuvent</del> sont pris <tmp>à la
-<pn>S<exp>ainc</exp>t Michel</pn></tmp> sont bons<lb/>
+<pn>S<exp>ainc</exp>t Michel</pn></tmp><comment rid="c_049v_09"/> sont bons<lb/>
 
 pour garder, mays ceulx qui sont pris en <tmp>mars</tmp> se
 meurent,<lb/>
 
-pource qu'ilz commancent d'entrer en amour. Les <al>benarris</al><lb/>
+pource qu’ilz commancent d’entrer en amour. Les <oc><al>benarris</al></oc><lb/>
 
-se nourrissent d'<pa>avoyne</pa> <tmp>tout l'esté</tmp> affin qu'ilz se
+se nourrissent d’<pa>avoyne</pa> <tmp>tout l’esté</tmp> affin qu’ilz se
 nourrissent<lb/>
 
-sans s'engresser, pour estre plus propres à chasser &amp; faire<lb/>
+sans s’engresser, pour estre plus propres à chasser &amp; faire<lb/>
 
 prendre les aultres. Puys, quand on les veult engraisser<lb/>
 
 pour vendre, on leur donne du <pa>mil</pa>. Ils chantent <tmp>la
 nuict</tmp>.<lb/>
 
-Il les fault <del>c</del> prendre <ms><tmp>aprés la my juillet jusques à
-la <pn>S<exp>ainc</exp>t Michel</pn></tmp></ms>,<lb/>
+Il les fault <del>c</del> prendre <tmp>aprés la my juillet jusques à
+la <pn>S<exp>ainc</exp>t Michel</pn></tmp>,<lb/>
 
-car aprés ce temps là qu'ilz ont faict leurs petits en ce pays, ilz<lb/>
+car aprés ce temps là qu’ilz ont faict leurs petits en ce pays, ilz<lb/>
 
 s’en<corr><del>t</del></corr> vont co<exp>mm</exp>e font les
 <al>tourterelles</al>. Les <al>tarins</al> aussy se doibvent<lb/>
 
 prendre <ms><tmp>despuys la Toussaints jusques à Noël</tmp></ms>, car
-aprés ilz s'ent vont<lb/>
+aprés ilz s’ent vont<lb/>
 
 aulx <env>montaignes</env> cover.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-Les <al>benarrins</al> sont<lb/>
+
+Les <oc><al>benarrins</al></oc> sont<lb/>
 
 ventriloques, de sorte<lb/>
 
 que chantant sans ouvrir<lb/>
 
-le bec on diroit qu'il<lb/>
+le bec on diroit qu’il<lb/>
 
-sont<comment>c_049v_05</comment>
+sont.<comment rid="c_049v_05"/>
 
 </ab>
 

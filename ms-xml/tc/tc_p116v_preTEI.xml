@@ -1,10 +1,10 @@
-<root>
-<page>116v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="116v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image</image>
 
-<div>
-<id>p116v_1</id>
+
+
+<div id="p116v_1" categories="casting">
+
 <head>Mouler <al>serpents</al> <env>en tout temps</env></head>
 
 <ab><del>Aulcu</del>Pourceque <tmp>lhiver</tmp> elles sont cachees en
@@ -35,8 +35,8 @@ en<lb/>
 
 <m>metal</m> co<exp>mm</exp>e dict est</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Si en entortillant le<lb/>
 
 <al>serpent</al> de <m>cire</m> quelque<lb/>
@@ -51,8 +51,8 @@ de la <m>cire</m> moulee</ab>
 
 </div>
 
-<div>
-<id>p116v_2</id>
+<div id="p116v_2" categories="casting">
+
 <head>Mixture d<m>estain</m> et de <m>plomb</m></head>
 
 <ab>Pour herbes subtiles &amp; autres fleurs ou feuillages tanvres<lb/>
@@ -79,7 +79,7 @@ ton<lb/>
 y avecq la <m>rousine</m> aussy gros d<m>estain de glace</m> comme
 est<lb/>
 
-<ms>la grosseur dune <pa>avelane</pa> avecq sa coquille</ms> &amp; mesle
+<ms>la grosseur dune <oc><pa>avelane</pa></oc> avecq sa coquille</ms> &amp; mesle
 &amp; gecte<lb/>
 
 Et fais quil y aye plus de <m>metal</m> quil ne fault affin<lb/>
@@ -98,8 +98,8 @@ longuet Si la matiere est fort tanvre il fault que ce soit presque<lb/>
 
 tout <m>estaim</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
+
 Si tu <del>moules<lb/>
 
 de plu</del> veulx gecter<lb/>
@@ -108,7 +108,7 @@ de plu</del> veulx gecter<lb/>
 
 en noyau dans le<lb/>
 
-sable susdict recuits<lb/>
+<m>sable</m> susdict recuits<lb/>
 
 ton <tl>moule</tl> une foys<lb/>
 
@@ -158,8 +158,8 @@ chaleur tiede</ab>
 
 </div>
 
-<div>
-<id>p116v_3</id>
+<div id="p116v_3" categories="casting">
+
 <head>Gect pour <m>cuivre</m> et <m>letton</m></head>
 
 <ab>Pour le <m>cuivre rouge</m> il fault mectre du <m>sel armoniac</m>
@@ -185,9 +185,9 @@ Mays qua<exp>n</exp>d il est<lb/>
 bien fondu il coule mieulx mesmement sil est allie <del>dun</del> de
 <m>letton</m> Le <m>letton</m><lb/>
 
-sallie dun <ms>quart</ms> de <m>cuivre</m> Et on y mect co<exp>mm</exp>e
+sallie dun <ms>quart</ms> de <m>cuivre</m> Et on y mect<comment rid="c_116v_02"/> co<exp>mm</exp>e
 au <m>cuivre</m> Mays
-particulierem<corr><exp>ent</exp></corr><comment>c_116v_01</comment><lb/>
+particulierem<comment rid="c_116v_01"/><lb/>
 
 un peu de <m>calamine</m> le fait bien<lb/>
 

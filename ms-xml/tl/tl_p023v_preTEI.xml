@@ -1,23 +1,16 @@
-<root>
-<page>023v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="023v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image</image>
 
-<div>
 
-<cont/>
 
-<id>p023r_1</id>
+<div continues="yes" id="p023r_1" categories="arms and armor">
 
-<figure>
 
-<id>fig_p023v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg</link>
 
-</figure>
+<ab margin="left-middle" render="tall"><figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
+</figure></ab>
 
 <ab><m>powder</m>. When the sausage is full, dip it <del>well in</del>
 lightly, to wet the <m>canvas</m> &amp; not the <m>powder</m>, in two
@@ -27,34 +20,32 @@ one needs to join to the said sausage a long <tl>string</tl> or
 <tl>cord</tl> which should be <ms>two times longer than the
 sausage</ms>, &amp; one ought not to tighten it to the sausage but only
 to bind it to it at both ends &amp; to sew it on the sausage in a few
-places in the middle. Next one needs to smear the entire sausage with
+places in the middle. Next one needs to anoint the entire sausage with
 <m>very good turpentine</m>, and at whichever end of it you wish to join
-to the touch-hole of the petard for giving fire, you can sew
+ to the touch-hole of the <wp>petard</wp><comment rid="c_008r_04"/> for giving fire, you can sew
 <del>a</del> or tightly attach a <m>large strip of canvas</m> one
-<fr><ms>empan</ms></fr> wide which should also be well soaked in
-<m>turpentine</m>, &amp; this strip must be split in the middle in order
-to wrap &amp; tie it around the petard, and one needs to attach it in
+<ms><fr>empan</fr></ms> wide which should also be well soaked in
+<m>turpentine</m>; &amp; this strip must be split in the middle in order
+to wrap &amp; tie it around the <wp>petard</wp>, and one needs to attach it in
 such a way that <del>the touch-hole should be close to <del><fr>u
 m</fr></del>the</del> the tip of the sausage, which should be open,
-should be joined to the touch-hole of the petard. Then one needs to put
+should be joined to the touch-hole of the <wp>petard</wp>. Then one needs to put
 a lot of tightly-pressed <m>powder</m> onto the touch-hole of the
-petard. And next, the one outside the ditch needs to pull the
+<wp>petard</wp>. And next, the one outside the ditch needs to pull the
 <tl>thread</tl> &amp; <tl>cord</tl> that is joined to the sausage until
-it is moderately extended, but not so much that it is detached. And if
+it is moderately extended, but not so much that it is detached<del><fr>sen</fr></del>. And if
 there was <m>water</m> in the ditch, one would need to support the
-sausage with forks. Then, the one who holds the end of the sausage will
+sausage with <tl>forks</tl>. Then, the one who holds the end of the sausage will
 be able to give fire, having gotten himself to safety, &amp; the others
 also.</ab>
 
 </div>
 
-<div>
-
-<id>p023v_1</id>
-
-<ab>Petards that one wants to place on doors or <m>iron</m> grates are
+<div id="p023v_1" categories="arms and armor">
+ <head><sup>On petards</sup></head>
+<ab><wp>Petards</wp> that one wants to place on doors or <m>iron</m> grates are
 sufficient if they weigh 40 or 50 <ms>lb</ms>. Moreover, as for its
-load, ball, &amp; fashion of proceeding, one needs to do all as is
+charge, ball, &amp; fashion of proceeding, one needs to do all as is
 already said above, concerning the one of 3 <ms>quintals</ms>. One man
 can carry it.</ab>
 

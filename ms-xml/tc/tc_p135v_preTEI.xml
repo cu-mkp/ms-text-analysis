@@ -1,23 +1,23 @@
-<root>
-<page>135v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="135v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r=</image>
 
-<div>
-<id>p135v_1</id>
-<head>Pour gecter en <m><figure>☼</figure></m></head>
+
+
+<div id="p135v_1" categories="casting" continued="yes">
+
+<head>Pour gecter en <m>☼</m><comment rid="c_135v_01"/></head>
 
 <ab>
 
-Prens un <tl>crusol</tl> de capacite convenable pour ce que<lb/>
+Prens un <tl><oc>crusol</oc></tl> de capacite convenable pour ce que<lb/>
 
 tu y veulx mectre pile un peu de <m>borras</m> grossierem<exp>ent</exp>
 &amp; le mects<lb/>
 
-au fonds puys le <m><figure>☼</figure></m> dessus Dispose sur les
+au fonds puys le <m>☼</m> dessus Dispose sur les
 <m>charbons</m><lb/>
 
-de la <tl>forge</tl> en telle sorte ton <tl>crusol</tl> que le vent du
+de la <tl>forge</tl> en telle sorte ton <tl><oc>crusol</oc></tl> que le vent du
 <tl>souflet</tl><lb/>
 
 luy soufle par dessoubs et non au coste car cela le refroidiroit<lb/>
@@ -29,7 +29,7 @@ affin quil<lb/>
 
 se puisse bien entourner de <m>charbon</m> Laisse recuire ledict<lb/>
 
-<tl>crusol</tl> jusques a ce quil soict bien rouge Alors fais<lb/>
+<tl><oc>crusol</oc></tl> jusques a ce quil soict bien rouge Alors fais<lb/>
 
 soufler par ton <pro>garson</pro> a longues poussades et fort<lb/>
 
@@ -59,7 +59,7 @@ dedans a secousses avec le <tl>petit souflet</tl> Mays sil y a<lb/>
 
 <m>charbons</m> dedans soufle un peu fort pour les en<lb/>
 
-fayre sortir Et si l<m>or</m> fume &amp; tourne mets encores<lb/>
+fayre sortir Et si l<m>or</m> <m>fume</m> &amp; tourne mets encores<lb/>
 
 du <m>borras</m> Et <del>note</del> soufle par dessus Prenant<lb/>
 
@@ -69,12 +69,12 @@ il se couvre quand tu soufles co<exp>mm</exp>e sil estoit refroidy<lb/>
 
 Mays sil ne faict ce signe il est asses douls<lb/>
 
-@Lors fais soufler bien fort affin de le bien eschaufer et<lb/>
+Lors fais soufler bien fort affin de le bien eschaufer et<lb/>
 
 co<exp>mm</exp>e tu penseras quil soit asses chault gecte par dessus
 dans le<lb/>
 
-<tl>crusol</tl> de la <def><m>couleur</m></def> composee
+<tl><oc>crusol</oc></tl> de la <df><m>couleur</m></df><comment rid="c_135r_01"/> composee
 co<exp>mm</exp>e est dict cy devant de <m>verdet</m><lb/>
 
 <m>selpestre</m> <m>sal armoniac</m> &amp; <m>borras</m> <add>un
@@ -83,23 +83,23 @@ peu</add> Et <del>laisse reposer</del> soufle<lb/>
 tousjours du <tl>petit souflet</tl> Et l<m>or</m> viendra luisant
 co<exp>mm</exp>e</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
 
-Si tu gectes en <m>or</m><lb/>
+
+<ups>Si tu</ups> gectes en <m>or</m><lb/>
 
 quelque piece dimporta<exp>n</exp>ce<lb/>
 
-<m>lute</m> ton <tl>moule</tl><lb/>
+<m><tl>lute</tl></m> ton <tl>moule</tl><lb/>
 
-du mesme sable<lb/>
+du mesme <m>sable<lb/>
 
 ou il <del>y a</del> y aye<lb/>
 
-du <m><la>crocum</la></m></ab>
+du <m><la>crocum</la></m></m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Si tu veulx gecter<lb/>
 
@@ -115,10 +115,10 @@ dicelle <add>un <tl>four a vent</tl></add> ou tu puysse<lb/>
 
 tenir ton <tl>moule</tl> dans<lb/>
 
-le sable to<del>n</del>ut rouge </ab>
+le <m>sable</m> to<del>n</del>ut rouge </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 On peult gecter<lb/>
 
@@ -126,7 +126,7 @@ deulx ou trois <ms>lb</ms><lb/>
 
 d<m>or</m> </ab>
 
-<cont/>
+
 
 </div>
 </root>

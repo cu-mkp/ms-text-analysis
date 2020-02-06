@@ -1,49 +1,49 @@
-<root>
-<page>097r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="097r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image</image>
 
-<div>
 
-<id>p097r_1</id>
+
+<div id="p097r_1" categories="arms and armor;metal process;varnish">
+
+
 
 <head>Le <m>vernis noir</m></head>
 
-<ab>Il est dict au commencem<exp>ent</exp> du livre ou tu le peulx voyr
+<ab>Il est dict au commencem<exp>ent</exp> du livre<comment rid="c_097r_02"/> ou tu le peulx voyr
 qui se<lb/>
 
 faict avecq du <m>gallipot</m></ab>
 
 </div>
 
-<div>
+<div id="p097r_2" categories="arms and armor;metal process">
 
-<id>p097r_2</id>
 
-<head>Dorer</head>
+
+<head>Dorer<comment rid="c_097r_03"/></head>
 
 <ab>On apreste fort les gardes avecq la <tl>lime doulce</tl> fort doulce
 de<lb/>
 
-sorte quen toutes les gardes il ny aye rien de noir Et apres les<lb/>
+sorte quen toutes les gardes<comment rid="c_097r_04"/> il ny aye rien de noir Et apres les<lb/>
 
-chaufer &amp; passer co<exp>mm</exp>e dict est Mays pour dorer &amp;
+chaufer &amp; passer co<exp>mm</exp>e dict est<comment rid="c_097r_05"/> Mays pour dorer &amp;
 <m>argenter</m> il ne fault<lb/>
 
 pas quelles passent sinon un petit le bleu Puys pendant que les
-gardes<lb/>
+gard<ups>es</ups><lb/>
 
-sont chauldes on les attache a lestoc &amp; avecq des <tl>pincettes</tl>
+sont chauldes on les attache a l<tl><oc>estoc</oc></tl> &amp; avecq des <tl>pincettes</tl>
 on couche<lb/>
 
 l<m>or</m> &amp; on le faict assoir avecq la <m>sanguine</m> bien nette
 &amp; frottee avecq de<lb/>
 
 la <m>pottee</m> Et co<exp>mm</exp>e les gardes sont froides on les
-faict reschaufer<lb/>
+faict reschaufe<ups>r</ups><lb/>
 
 puys on couche l<m>or</m> co<exp>mm</exp>e dessus Et on donne
-<del>de</del> premierem<x><exp>ent</exp></x> deulx<lb/>
+<del>de</del> premierem deulx<lb/>
 
 couches jusques a ce que toute la garde soict bien garnie Et apres<lb/>
 
@@ -74,19 +74,19 @@ elle est achevee de bien brunir on la frotte fort bien avecq un
 blanc</m></tl> Et fault que l<m>or</m> soict plus espes &amp; plus fort
 que pour les<lb/>
 
-<pro>painctres</pro> Le <ms>quarteron</ms> compte cinquante ou LX
+<pro>painctres</pro> Le <ms>quarteron</ms> compte cinquante ou lx
 <cn>s<exp>ols</exp></cn></ab>
 
 </div>
 
-<div>
+<div id="p097r_3" categories="arms and armor;metal process">
 
-<id>p097r_3</id>
+
 
 <head><m>Argenter</m></head>
 
 <ab>Il fault aprester les gardes &amp; les blanchir avecq une
-<del>lince</del><comment>c_097r_01</comment> <tl>lime</tl><lb/>
+<del>li<ill/></del> <tl>lime</tl><lb/>
 
 un peu plus rude <del>pour</del>que pour l<m>or</m> Et on les faict
 passer le gris co<exp>mm</exp>e<lb/>
@@ -101,7 +101,7 @@ garde avec <del>un petit</del> les <tl>pincettes</tl> &amp; un petit
 <tl>brunisson</tl> Et puys les<lb/>
 
 faire reschaufer &amp; charger jusques a ce quelles soient toutes
-<m>argentees</m><lb/>
+<m>argente<ups>es</ups></m><lb/>
 
 Apres il les fault charger pour la troisiesme foys la <m>foeille</m>
 en<lb/>

@@ -1,15 +1,15 @@
-<root>
-<page>069v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="069v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image</image>
 
-<div>
 
-<cont/>
 
-<id>p069r_2</id>
+<div continues="yes" id="p069r_2" categories="casting" continued="yes">
 
-<ab>Le sable <env>pres de mon sol</env> est fort excellent Mays il<lb/>
+
+
+
+
+<ab>Le <m>sable <env>pres de mon sol</env></m> est fort excellent Mays il<lb/>
 
 fault pour fayre ouvrage excellent le prendre frais qui<lb/>
 
@@ -27,11 +27,11 @@ ceste fonte mays cest pour les grands ouvraiges &amp; non<lb/>
 
 pour les petits </ab>
 
-<ab>Le <m>sable de pieds de <al>bœuf</al> brusles deulx foys &amp;
+<ab>Le <m>sable de pieds de <al>boeuf</al> brusles deulx foys &amp;
 fort<lb/>
 
 subtilies</m> font plus net en <m>cuivre</m> &amp; sans chape que
-sable<lb/>
+<m>sable</m><lb/>
 
 que jay veu Jen ay gecte une medaille de relief bien<lb/>
 
@@ -54,7 +54,7 @@ brusle</m> qui<lb/>
 
 est gras &amp; douls de soymesme veult estre aplique sec</ab>
 
-<ab>Tout sable humecte veult estre fort battu &amp; demene<lb/>
+<ab>Tout <m>sable</m> humecte veult estre fort battu &amp; demene<lb/>
 
 pour estre subtilie &amp; aplany des petites glebes qui se<lb/>
 
@@ -75,12 +75,12 @@ de le mesler dun peut de <m>cuivre</m> come dun <ms>quart</ms>
 avecq<lb/>
 <m>matiere de poilonne</m></ab>
 
-<ab>Les <pro>fondeurs</pro> gectent bien chassis jusques a 30 ou 40<lb/>
+<ab>Les <pro>fondeurs</pro> gectent bien <tl>chassis</tl> jusques a 30 ou 40<lb/>
 
 <ms>lb</ms> Mays non pas dadvantaige </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il est bon pour gra<exp>n</exp>d<lb/>
 
 ouvrage Mays pour<lb/>
@@ -105,7 +105,7 @@ brusle</m> ou <m>sel armoniac</m><lb/>
 
 ou <m>tripoly</m> &amp; semblables</ab>
 
-<cont/>
+
 
 </div>
 </root>

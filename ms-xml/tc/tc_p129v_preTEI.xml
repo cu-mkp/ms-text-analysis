@@ -1,11 +1,11 @@
-<root>
-<page>129v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="129v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=</image>
 
-<div>
 
-<id>p129v_1</id>
+
+<div id="p129v_1" categories="preserving;decorative;casting">
+
+
 
 <head>Animaulx seiches au <tl>four</tl><lb/>
 
@@ -25,17 +25,17 @@ Mays<lb/>
 
 il fault quilz soient promptem<exp>ent</exp> seiches</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 Note quil leur fault<lb/>
 
 donner leur plant &amp; les<lb/>
 
-mectre dans le sable<lb/>
+mectre dans le <m>sable</m><lb/>
 
 co<exp>mm</exp>e les fleurs<lb/>
 
@@ -43,7 +43,7 @@ co<exp>mm</exp>e les fleurs<lb/>
 
 les fayre seicher<lb/>
 
-au <tl>four</tl> qui<comment>c_129v_01</comment> soict<lb/>
+au <tl>four</tl> qui soict<lb/>
 
 <ms>asses chault co<exp>mm</exp>e quand<lb/>
 
@@ -78,9 +78,9 @@ une <tl>broisse</tl></ab>
 
 </div>
 
-<div>
+<div id="p129v_2" categories="casting">
 
-<id>p129v_2</id>
+
 
 <head>Animaulx gectes en <m>cuivre</m></head>
 
@@ -93,9 +93,9 @@ de mesme</ab>
 
 </div>
 
-<div>
+<div id="p129v_3" categories="casting">
 
-<id>p129v_3</id>
+
 
 <head>Advis sur le gect</head>
 
@@ -115,11 +115,11 @@ court<lb/>
 
 plus doulcement sans sempecher de vapeurs &amp; fumee</ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
 
-<comment>c_129v_02</comment>Fais tousjours<lb/>
+
+<hr/><comment rid="c_129v_02"/>Fais tousjours<lb/>
 
 lentree du gect<lb/>
 
@@ -129,13 +129,21 @@ encoche &amp; grumeleux<lb/>
 
 pour retirer la furie du<lb/>
 
-<m>metal</m></ab>
+<m>metal</m><hr/></ab>
+    <figure size="x-small" id="fig_p129v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms">
+        
+        
+        
+        
+        
+    </figure> 
 
 </div>
 
-<div>
+<div></div>
+<div id="p129v_4" categories="casting">
 
-<id>p129v_4</id>
+
 
 <head><al>Yraigne</al> moulee sur une foeille</head>
 
@@ -150,7 +158,7 @@ a mouler si tu ne les couches ou fais flammer avecq une
 ou les affermis &amp; couches <del>avecq de</del> les oigna<exp>n</exp>t
 de <m>huile de <pa>froma<exp>n</exp>t</pa></m><lb/>
 
-fais les mourir dans le <m>vinaigre</m> &amp; <m>urine</m>
+fais les mourir dans le <m>vinaigre</m> &amp; <m><bp>urine</bp></m>
 co<exp>mm</exp>e les <al>serpents</al><lb/>
 
 <del>&amp;</del> ou dans l<m>eau de vye</m> Et puys fais leur plant<lb/>
@@ -182,28 +190,19 @@ letton</m></tl><lb/>
 
 autour de la foeille de <pa>vigne</pa> pour la bien asseurer Puys<lb/>
 
-arreste avecq un peu de <m>cire</m> fondue Et la <tl>pointe dun <m>fil
+arreste avecq un peu de <m>cire fondue</m> Et la <tl>pointe dun <m>fil
 de fer</m> chault</tl><lb/>
 
 le bout des pattes les adaptant avecq le bout des <tl>petites
 molettes</tl> Fays<lb/>
 
 le semblable du bout des petites corniches de l<al>iraigne</al>
-Retourne<lb/>
+Retourne <mark>🜊</mark></ab>
 
-<figure>🜊</figure></ab>
+<ab margin="left-top" render="wide">
 
-<ab>
 
-<margin>left-middle</margin>
 
-<figure>
-
-<id>fig_p129v_1</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms</link>
-
-</figure>
 
 <add>Pour faire le gect<lb/>
 
@@ -211,10 +210,10 @@ de l<al>iraigne</al> sur la<lb/>
 
 foeille et pour empescher<lb/>
 
-que le sable ne couvre l<al>iraigne</al> par dessoubs le ventre munis le
+que le <m>sable</m> ne couvre l<al>iraigne</al> par dessoubs le ventre munis le
 bout de la<lb/>
 
-queue &amp; le bas du corps dun peu de <m>cire</m> fondue &amp; apliquee
+queue &amp; le bas du corps dun peu de <m>cire fondue</m> &amp; apliquee
 avecq le <tl><m>fil de fer</m> chault</tl> co<exp>mm</exp>e tu scais
 En<lb/>
 
@@ -227,11 +226,11 @@ l<al>iraigne</al></add>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>🜊</figure>
+
+<mark>🜊</mark>
 
 La <m>cire</m> estant froide<lb/>
 
@@ -249,7 +248,7 @@ pose le <tl>cercle de <m>terre</m></tl><lb/>
 
 aultour &amp; gecte ton<lb/>
 
-sable destrempe comme<lb/>
+<m>sable destrempe</m> comme<lb/>
 
 des aultres En ceste<lb/>
 

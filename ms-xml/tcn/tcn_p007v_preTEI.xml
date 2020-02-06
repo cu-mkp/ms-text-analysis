@@ -1,16 +1,16 @@
-<root>
-<page>007v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="007v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image</image>
 
-<div>
-<id>p007v_1</id>
+
+
+<div id="p007v_1" categories="wood and its coloring">
+
 <head>Pour donner couleur de toute<lb/>
 
 sorte de <m>metaulx</m> au <m>boys</m> &amp; aultre chose</head>
 
 <ab>P<exp>renés</exp> <m>pierre de touche</m> &amp; <m>pierre ponce</m>,
-aultant d'un que d'aultre, <lb/> &amp; les broyés ensemble &amp;
+aultant d’un que d’aultre, <lb/> &amp; les broyés ensemble &amp;
 destrempés avecq <m>colle de retailles</m><lb/>
 
 plus forte que pour paindre &amp; peignés en ce que vous vouldrés.<lb/>
@@ -22,19 +22,19 @@ puys le brunissés.</ab>
 
 </div>
 
-<div>
-<id>p007v_2</id>
-<head>Contre la colique venteuse</head>
+<div id="p007v_2" categories="medicine">
+
+<head><md>Contre la colique venteuse</md></head>
 
 <ab>P<exp>renés</exp> une <ms>douzaine</ms> de <m><pa>noix</pa> communes
-seiches</m> &amp; l'une aprés<lb/>
+seiches</m> &amp; l’une aprés<lb/>
 
-l'aultre gectés les en un bon <tl>brasier</tl> où elles se puissent<lb/>
+l’aultre gectés les en un bon <tl>brasier</tl> où elles se puissent<lb/>
 
 enflammer &amp; les tirés avecq des <tl>pincettes</tl> et les
 laissés<lb/>
 
-ardre &amp; bien esprendre en l'air, et les estaignés dans<lb/>
+ardre &amp; bien esprendre en l’air, et les estaignés dans<lb/>
 
 un <tl><m>verre</m> de <m>bon vin</m></tl>. Aprés laissés froidir le
 <m>vin</m> et le<lb/>
@@ -42,20 +42,20 @@ un <tl><m>verre</m> de <m>bon vin</m></tl>. Aprés laissés froidir le
 coulés &amp; en versés la <ms>moictié</ms>, car six <m><pa>noix</pa></m>
 estainctes<lb/>
 
-sont pour une <ms>dose</ms>. Excellent remede contre la suffocation<lb/>
+sont pour une <ms>dose</ms>. Excellent remede <md>contre la suffocation<lb/>
 
-de <bp>matrice</bp>.</ab>
+de <bp>matrice</bp></md>.</ab>
 
 </div>
 
-<div>
-<id>p007v_3</id>
-<head>Pour oster la douleur de la g<exp>outte</exp></head>
+<div id="p007v_3" categories="medicine">
 
-<ab>P<exp>renés</exp> <ms>demy lb.</ms> de <m>marquasite dorée &amp;
+    <head><md>Pour oster la douleur de la G.</md><comment rid="c_007v_01"/></head>
+
+<ab>P<exp>renés</exp> <ms>demy lb</ms> de <m>marquasite dorée &amp;
 jaulne subtillem<exp>ent</exp> pulverisée</m>,<lb/>
 
-<ms>demy once</ms> de <m>storax</m>, 4 <ms>lb.</ms> d’<m>urine</m>,
+<ms>demy once</ms> de <m>storax</m>, 4 <ms>lb</ms> d’<m><bp>urine</bp></m>,
 incorporés bien tout<lb/>
 
 ensemble peu à peu dans un <tl>mortier</tl>, puys faictes bouillir<lb/>
@@ -63,33 +63,33 @@ ensemble peu à peu dans un <tl>mortier</tl>, puys faictes bouillir<lb/>
 bien fort tout ensemble. Mays il fault que le <tl>pot</tl> soict
 bien<lb/>
 
-couvert affin que la fumée n'exhale poinct. Aprés distillés<lb/>
+couvert affin que la <m>fumée</m> n’exhale poinct. Aprés distillés<lb/>
 
-l’<m>urine</m> <del>cest</del> imbibée &amp; separée par inclination en
+l’<m><bp>urine</bp></m> <del>cest</del> imbibée &amp; separée par inclination en
 un <tl>alembic<lb/>
 
-bien luté &amp; couvert d'un chapiteau de <m>cuivre</m></tl>, &amp;
+bien <tl><m>luté</m></tl> &amp; couvert d’un chapiteau de <m>cuivre</m></tl>, &amp;
 imbibés un<lb/>
 
-<tl><m>linge</m></tl> de ladicte <m>eau</m> &amp; l'apliqués tiedement
+<tl><m>linge</m></tl> de ladicte <m>eau</m> &amp; l’apliqués tiedement
 sur la douleur.</ab>
 
 </div>
 
-<div>
-<id>p007v_4</id>
-<head>Contre gonhorrea</head>
+<div id="p007v_4" categories="medicine">
 
-<ab><la><m>Aquae <pro>fabrorum</pro> antiquae</m> <ms>lb.</ms> i.,
+    <head><md>Contre gonhorrea</md><comment rid="c_007v_02"/></head>
+
+<ab><la><m>Aquae <pro>fabrorum</pro> antiquae</m> <ms>lb</ms> i.,
 <m>boli Armeniae</m> in <del>tel</del> tenuissimum<lb/>
 
-pollinem redactae <ms><figure>℥</figure></ms>.i., <m>mellis
-co<exp>mmun</exp>is</m> <ms><figure>ʒ</figure></ms>.iii. coquantur ad
+pollinem redactae <ms>℥</ms>.i., <m>mellis
+co<exp>mmun</exp>is</m> <ms>ʒ</ms>.iii. coquantur ad
 <m>mellis</m><lb/>
 
 despumationem. Tum refrigerata colentur cum forti expressione<lb/>
 
-&amp; de colatura utatur per injectionem.</la></ab>
+&amp; de colatura utatur per <md>injectionem</md>.<comment rid="c_007v_03"/></la></ab>
 
 </div>
 </root>

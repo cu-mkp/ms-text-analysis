@@ -1,15 +1,12 @@
-<root>
-<page>120v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="120v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image</image>
 
-<div>
 
-<cont/>
 
-<id>p120r_3</id>
+<div continues="yes" id="p120r_3" categories="casting;animal husbandry">
 
-<ab>mange de luy mesme Et pour luy<comment>c_120v_01</comment> convier
+
+<ab>mange de luy mesme Et pour luy convier
 mieulx tu peulx bien<lb/>
 
 mectre parmy la <m>chair &amp; loeuf</m> quelque <m><al>ver de
@@ -19,8 +16,9 @@ car il en est fort friand</ab>
 
 </div>
 
-<div>
-<id>p120v_1</id>
+
+<div id="p120v_1" categories="casting;medicine">
+
 <head><m><la>Crocum ferri</la></m></head>
 
 <ab>Il est excellent <md>sinapise</md> sur les playes pour arrester
@@ -28,8 +26,8 @@ le<lb/>
 
 <bp>sang</bp> Le meilleur est de <m>limaille daiguilles</m></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Le <m><la>crocum ferri</la></m><lb/>
 
 endurcist les<lb/>
@@ -44,8 +42,9 @@ il en y a les rend plus mols &amp; doulx</ab>
 
 </div>
 
-<div>
-<id>p120v_2</id>
+
+<div id="p120v_2" categories="preserving">
+
 <head>Anatomie</head>
 
 <ab>Il fault escorcher lanimal &amp; le faire bouillir Ou bien<lb/>
@@ -54,11 +53,12 @@ lescorcher &amp; le mectre dans <m>bonne chaulx vive</m></ab>
 
 </div>
 
-<div>
-<id>p120v_3</id>
+
+<div id="p120v_3" categories="casting">
+
 <head>Fayre courre l<m>argent</m></head>
 
-<ab><del>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
+<ab><comment rid="c_120v_08"/>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
 pulverises</m><lb/>
 
 &amp; gectes sur l<m>argent fondu</m> le font courre <del>Si cest
@@ -67,7 +67,7 @@ pou</del> et<lb/>
 suffist Mays pour ouvrage subtil Il y fault de l<m><la>aes<lb/>
 
 ustum</la></m> de la <m>limaille <del>de letton</del> <add>cuivre
-menue</add> d<del>u</del>e lantimoyne du sublime
+menue</add> d<del>u</del>e<comment rid="c_120v_01"/> lantimoyne du sublime
 Subtilem<exp>ent</exp><lb/>
 
 pulverises</m> <del>Cela</del> De cela se faict une masse qui naigrist
@@ -78,88 +78,47 @@ Si le <del>s</del> <m>plastre</m> est bon il ny fault point de
 
 l<m>argent</m> Mays on mect plus d<m>alum de plume</m><lb/>
 
-<add>@<comment>c_120v_02</comment>Il y fault aussy du <m>sel commun
+<add><comment rid="c_120v_02"/>Il y fault aussy du <m>sel commun
 fondu</m> &amp; du <m>salpestre</m> avecq les<lb/>
 
 drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>aes ustum</la></m>
 <m>limaille de cuivre</m><lb/>
 
-<m>antimoyne</m> &amp;</add></del></ab>
+<m>antimoyne</m> &amp;</add></ab>
 
-<comment>c_120v_03</comment><rub><comment>c_120v_04</comment>Voy</rub>
-le second foeillet suivant
+<ab><emph>Voy</emph>
+le second foeillet suivant<comment rid="c_120v_04"/></ab>
 
-<ab>
-<man><margin>left-middle</margin>
-<del><la>Siscitatio<lb/>
+<ab margin="left-middle">
+<comment rid="c_120v_08"/><emph>
+<la>Siscitatio<lb/>
 
-dubia</la></del></man>
+dubia</la></emph><comment rid="c_120v_07"/>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+
+<ab margin="left-middle">
+
 Un peu d<m>axunge</m><lb/>
 
 Et de l<m>arsenic</m>
 
 </ab>
 
-<ab>
-
-<margin>left-middle</margin>
-
-<figure>+</figure>
-
-</ab>
-
 </div>
 
-<div>
 
-<id>p120v_6</id>
+<div>    
+</div>
+
+
+<div id="p120v_6" categories="preserving" continued="yes">
 
 <head>Garder fleurs seiches en mesme<lb/>
 
-<figure/> estat <tmp>toute lannee</tmp></head>
+    <figure size="x-small" id="fig_p120v_3" link="https://drive.google.com/file/d/1Sbuw9J8eX42Yhyp56CQoO7gShZRMVkn9"></figure> estat <tmp>toute lannee</tmp></head>
 
-<ab>
-
-<margin>left-middle</margin>
-
-Les fleurs se gardent aussy en leur mesme beaulte dans le <m>vinaigre
-distille</m> <del>v</del>dans un <tl>vase<lb/>
-
-bien selle</tl> qui ne prene aulcun vent qui soit bien selle de
-<m>cire</m> &amp; <m>mastic</m> Les <pa>œillets</pa> &amp;
-<pa>roses</pa><lb/>
-
-la <m>resideure du vinaigre commu<exp>n</exp></m> les faict pourrir
-<lb/>
-
-Si le <m>sable</m> faict <m>poulssiere</m> &amp; tient<lb/>
-
-sur les fleurs &amp; quaisem<exp>ent</exp> avecq un<lb/>
-
-<tl>pinceau</tl> il ne soste il nest pas bon<lb/>
-
-Le plus maigre est le meilleur</ab>
-
-<ab>
-<margin>right-middle</margin>
-Le <m>sable de <env>riviere</env></m> lave<lb/>
-
-par le <env>coura<exp>n</exp>t des eaulx</env> est<lb/>
-
-bon estant passe par un <tl><m>linge</m></tl><lb/>
-
-pour<lb/>
-
-secouer<lb/>
-
-la pou<lb/>
-
-dre</ab>
 
 <ab>
 
@@ -179,8 +138,8 @@ commancent a fanir<lb/>
 
 elles ne se garderoient point Les ayant doncq ainsy choisies<lb/>
 
-Ayes du <m>sable</m> le plus maigre &amp; aride que tu pourras
-trouver<lb/>
+Ayes du <m>sable le plus maigre &amp; aride que tu pourras
+trouver</m><lb/>
 
 qui soict fort subtil co<exp>mm</exp>e celuy duquel les
 <pro>orfevres</pro> <del>usent</del> <add>se servent</add> pour<lb/>
@@ -191,12 +150,52 @@ pas sur<lb/>
 tout quil fasse <m>poulsiere</m> Ne quil demeure sur la <bp>main</bp> ou
 y<lb/>
 
-laisse marque quand tu luy<comment>c_120v_05</comment> as pulverise
+laisse marque quand tu luy as pulverise
 &amp; puys verse Car cest</ab>
 
-<ab>
-<margin>left-bottom</margin>
-<figure>+</figure><lb/>
+
+<ab margin="right-top">
+        
+Le <m>sable de riviere</m> lave<lb/>
+        
+par le <env>coura<exp>n</exp>t des eaulx</env> est<lb/>
+        
+bon estant passe par un <tl><m>linge</m></tl><lb/>
+        
+pour<lb/>
+        
+secouer<lb/>
+        
+la pou<lb/>
+        
+dre<hr/></ab>
+ 
+ 
+<ab margin="left-top" render="wide">
+<mark>+</mark><lb/>
+        
+Les fleurs se gardent aussy en leur mesme beaulte dans le <m>vinaigre
+distille</m> <del>v</del>dans<comment rid="c_120v_03"/> un <tl>vase<lb/>
+                
+bien selle</tl> qui ne prene aulcun vent qui soit bien selle de
+<m>cire</m> &amp; <m>mastic</m> Les <pa>oeillets</pa> &amp;
+<pa>roses</pa><lb/>
+        
+la <m>resideure du vinaigre commu<exp>n</exp></m> les faict pourrir
+<lb/>
+        
+Si le <m>sable</m> faict <m>poulssiere</m> &amp; tient<lb/>
+        
+sur les fleurs &amp; quaisem<exp>ent</exp> avecq un<lb/>
+        
+<tl>pinceau</tl> il ne soste il nest pas bon<lb/>
+        
+Le plus maigre est le meilleur</ab>
+  
+  
+<ab margin="left-middle">
+
+<mark>+</mark><lb/>
 
 Fais que ta<lb/>
 
@@ -220,8 +219,9 @@ couvre &amp; garde<lb/>
 
 en <env>lieu sec</env></ab>
 
-<ab>
-<margin>left-bottom</margin>
+
+<ab margin="left-middle" render="tall">
+
 <del>Que</del> Il ne fault pas mectre<lb/>
 
 lesdictes fleurs en <tl>grands vases</tl><lb/>
@@ -230,15 +230,16 @@ car quand on tire un il fault<lb/>
 
 tirer tout</ab>
 
-<ab>
-<margin>bottom</margin>
+
+<ab margin="bottom">
+
 Advise bien de ne coeuillir pas tes fleurs<lb/>
 
 <del>q</del> en <env>temps de pluye et humide</env> Mays lors<lb/>
 
 que le <env>soleil</env> aura passe dessus</ab>
 
-<cont/>
+
 
 </div>
 </root>

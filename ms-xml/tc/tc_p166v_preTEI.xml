@@ -1,34 +1,31 @@
-<root>
-<page>166v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="166v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image</image>
 
-<div>
 
-<cont/>
 
-<id>p166v_1</id>
+<div continues="yes" id="p166r_1" categories="La boutique">
 
-@<comment>c_166v_01</comment><ab>Aulx exemplaires <pl>grecs</pl> il
-sadjouste un psalme de <pn>david</pn><lb/>
 
-duquel <pn>s<exp>ainc</exp>t Athanase</pn> faict mention <del>en</del>
-<la>in Sinopsi</la> il se comma<exp>n</exp>ce<lb/>
 
-<la>parvus eram</la> &amp; au second verset le prophete royal dict<lb/>
-<la><del><bp>Manus</bp> meӕ</del>
-@<comment>c_166v_02</comment><bp>Manus</bp> meӕ fecerunt organum et
+
+<ab>Aulx exemplaires <pl>grecs</pl> il
+sadjouste un psalme de <pn>david</pn><comment rid="c_166v_02"/><lb/>
+
+duquel <pn>s<exp>ainc</exp>t Athanase</pn><comment rid="c_166v_08"/> faict mention <del>en</del>
+<la>in Sinopsi</la><comment rid="c_166v_07"/> il se comma<exp>n</exp>ce<lb/>
+
+<la>parvus eram</la><comment rid="c_166v_04"/> &amp; au second verset le prophete royal dict<lb/>
+<del><la><bp>Manus</bp> meӕ</la></del>
+<emph><la><bp>Manus</bp> meӕ fecerunt organum et
 <bp>digiti</bp><lb/>
 
-mei aptarunt psalterium</la></ab>
-
-<figure/>
+mei aptarunt psalterium</la></emph><comment rid="c_166v_05"/><hr/></ab>
 
 </div>
 
-<div>
+<div id="p166v_2" categories="preserving;cultivation">
 
-<id>p166v_2</id>
+
 
 <head>Garder <pa>chastaignes</pa></head>
 
@@ -36,22 +33,22 @@ mei aptarunt psalterium</la></ab>
 
 Il les fault laisser dans leur coquille herissonnee jusques<lb/>
 
-a ce quon les veuille manger Et avec cella<comment>c_166v_03</comment>
+a ce quon les veuille manger Et avec cella<comment rid="c_166v_03"/>
 les laisser en<lb/>
 
 <env>lieu humide</env> ou a l<env>agout de quelque toict</env></ab>
 
 </div>
 
-<div>
+<div id="p166v_3" categories="household and daily life">
 
-<id>p166v_3</id>
 
-<head><m>Bougie</m> <sn>odorante</sn> du <pl>mans</pl></head>
+
+<head><tl><m>Bougie</m></tl> <sn>odorante</sn> du <pl>mans</pl></head>
 
 <ab>
 
-Ils fondent parmy la <m>cire</m> &amp; <m>bougie</m> de la
+Ils fondent parmy la <m>cire</m> &amp; <tl><m>bougie</m></tl> de la
 <m>rousine</m><lb/>
 
 quon apelle en <pl>France</pl> de <pl>bourgoigne</pl> qui est
@@ -63,37 +60,37 @@ Ils parfument aussy le lumignon et meche</ab>
 
 </div>
 
-<div>
+<div id="p166v_4" categories="metal process">
 
-<id>p166v_4</id>
+
 
 <head>Adoulcir l<m>or</m></head>
 
 <ab>
 
-Dissouldre du <m><la>caput mortuum</la></m> dans <m>vinaigre<lb/>
+Dissouldre du <m><la>caput mortuum</la></m><comment rid="c_166v_06"/> dans <m>vinaigre<lb/>
 
 distille</m> <tl>filtrer</tl> &amp; congeler en <m>sel</m> &amp; diceluy
-cementer <m><figure>☉</figure></m><lb/>
+cementer <m>☉</m><lb/>
 
-&amp; il ladoulcist merveilleusem<corr><exp>ent</exp></corr></ab>
+&amp; il ladoulcist merveilleusem</ab>
 
 </div>
 
-<div>
+<div id="p166v_5" categories="metal process;corrosives">
 
-<id>p166v_5</id>
+
 
 <head>Augmenter la couleur du <m>sol</m></head>
 
 <ab>
 
-Mects sur les cendres chauldes <m>eau fort de vitriol</m><lb/>
+Mects sur les <m>cendres chauldes</m> <m>eau fort de vitriol</m><lb/>
 
 couvre dun <tl>tuile</tl> la <tl>bouteille</tl> cest a dire la gueule
 puys<lb/>
 
-destoupe &amp; il sortira une <m>fumee espesse</m> sur laquelle<lb/>
+destoupe &amp; il sortira une fumee espesse sur laquelle<lb/>
 
 mects l<m>or</m> et il recepvra haulte taincture
 

@@ -1,19 +1,19 @@
-<root>
-<page>085v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image</image>
 
-<div>
-<id>p085v_1</id>
+
+
+<div id="p085v_1" categories="casting">
+
 <head><pro>Fondeur</pro></head>
 
-<ab>Ils meslent de la <m>glaire doeufs battue</m> avecq la <m>terre de
+<ab>Ils meslent de la <m>glaire doeufs battue</m> avecq la <m>terre</m> de
 quoy ilz<lb/>
 
 font la premiere couche de la chappe de pieces &amp; cloches &amp;
 toutes<lb/>
 
-aultres pieces</m> disant que ladicte <m>glaire</m> faict venir
+aultres pieces disant que ladicte <m>glaire</m> faict venir
 <del>d</del> nect &amp; faict<lb/>
 
 poser &amp; asseoir la matiere En noyau pour petit ouvraige la
@@ -29,11 +29,11 @@ petit ouvraige</ab>
 
 </div>
 
-<div>
-<id>p085v_2</id>
+<div id="p085v_2" categories="tool">
+
 <head><tl>Mortiers</tl></head>
 
-<ab>Ils<comment>c_085v_01</comment> fault quilz soient de la plus fine
+<ab>Ils fault quilz soient de la plus fine
 matiere qui se puisse co<exp>mm</exp>e<lb/>
 
 le <m>cuivre de chauldron</m> qui est meilleur que la <m>rosette</m>
@@ -41,7 +41,7 @@ Affin<lb/>
 
 quil soubstienne le coup mieulx</ab>
 
-<ab>Les <tl>mortiers</tl> aussy pour piler sont plus forts &amp;
+<ab>Les <tl>mortiers</tl> aussy pour <tl>piler</tl> sont plus forts &amp;
 moings<lb/>
 
 dangereulx de se rompre sils sont de <m>cuivre fin</m> Et pour une<lb/>
@@ -49,18 +49,18 @@ dangereulx de se rompre sils sont de <m>cuivre fin</m> Et pour une<lb/>
 <env>mayson particuliere</env> ilz ne <sn>sonnent</sn> point tant &amp;
 ne <sn>menent</sn> point ta<exp>n</exp>t<lb/>
 
-de bruict que ceulx de <m>metal</m> Il est vray que ceulx qui sont
+de bruict que ceulx de <m>metal</m><comment rid="c_016v_05"/> Il est vray que ceulx qui sont
 de<lb/>
 
 <m>metal</m> sont plus <sn>sonans</sn> pour les
 <pro>apothiquaires</pro></ab>
 
-<ab>Les grenades doibvent estre de <m>fin metal</m></ab>
+<ab>Les <wp>grenades</wp> doibvent estre de <m>fin metal</m></ab>
 
 </div>
 
-<div>
-<id>p085v_3</id>
+<div id="p085v_3" categories="casting">
+
 <head><m>Sable de <env>mine</env></m></head>
 
 <ab>Il veult estre bien recuict pour les <m>grands metaulx</m>
@@ -72,7 +72,7 @@ le<lb/>
 subtilient sur le <tl><m>porphire</m></tl> Aultres le bruslent avecq
 de<lb/>
 
-l<m>aspalte</m> @<comment>c_085v_02</comment>Mays quand il est trop
+l<m>aspalte</m> Mays quand il est trop
 brusle il ne moule pas si net<lb/>
 
 pourcequil nha pas de corps et est trop maigre tu luy en pourras donner
@@ -81,9 +81,9 @@ avecq du <m>tripoly</m> ou<lb/>
 <m>feultre brusle</m></ab>
 
 </div>
-<div>
-<id>p085v_4</id>
-<head>Sables experimentes</head>
+<div id="p085v_4" categories="casting" continued="yes">
+
+<head><m>Sables experimentes</m></head>
 
 <ab>Jay experimente le <m>sable de
 <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl></m> &amp; apres lavoyr bien
@@ -111,16 +111,10 @@ cave<lb/>
 &amp; de l<ms>espesseur dune piece de quarante <cn>sols</cn></ms> Jay
 gecte treschault</ab>
 
-<ab>
-<margin>left-middle</margin>
 
-<figure>X</figure>
+<ab margin="left-middle">
+<mark>X</mark><comment rid="c_084v_02"/><lb/>
 
-</ab>
-
-<ab>
-
-<margin>left-middle</margin>
 Le <m>sable de <env>mine</env></m><lb/>
 
 bien choisy &amp; bien<lb/>
@@ -151,7 +145,7 @@ nha pas asses de corps<lb/>
 
 pour soubstenir</ab>
 
-<cont/>
+
 
 </div>
 </root>

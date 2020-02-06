@@ -1,14 +1,14 @@
-<root>
-<page>020r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image</image>
 
-<div>
 
-<id>p020r_1</id>
 
-<head>@Pour<comment>c_020r_01</comment> faire
-les<m><oc>Millas</oc></m></head><comment>c_020r_02</comment>
+<div id="p020r_1" categories="household and daily life">
+
+
+
+<head><comment rid="c_020r_01"/>Pour faire
+les <m><oc>Millas</oc></m></head>
 
 <ab>
 
@@ -18,14 +18,14 @@ tirer la <m>croutte</m> Et puis le<lb/>
 netoyeres bien apres Il fault le remouldre bien delie Et le passer
 par<lb/>
 
-ung <tl>cedas</tl> bien delie ce faict Il fault detremper la
+ung <oc><tl>cedas</tl></oc> bien delie ce faict Il fault detremper la
 <m>farine</m> avec du<lb/>
 
 <m>beurre frais fondu</m> et du <m>laict</m> Et quil y ait <ms>aultant
 dung comme daultre</ms><lb/>
 
 de maniere quil soit fort clair comme <m>pate po<exp>ur</exp> faire
-bignetz</m> Et y<lb/><comment>c_020r_02</comment>
+bignetz</m> Et y<lb/>
 
 mettres des <m>Jaulnes doeuf</m> selon la quantite de la <m>farine</m>
 de sorte<lb/>
@@ -34,7 +34,7 @@ quil revienne deux <m>Jaulnes deouf</m> po<exp>ur</exp> chaique
 <m><oc>millas</oc></m> puis y mettres<lb/>
 
 du <m><pa>safran</pa></m> si vous voules po<exp>ur</exp> leur donner ung
-peu de couleur</ab><comment>c_020r_02</comment>
+peu de couleur</ab>
 
 <ab>
 
@@ -69,7 +69,7 @@ Il fault quil soit plus grand Et quil ne soit pas ouvert<lb/>
 par dessus puis ayant faict cela vous mettres ung peu de
 <m>foin</m><lb/>
 
-sur le d<exp>ict</exp> <tl>couvercle</tl> Et force <tl>rachaulx</tl> Et
+sur le d<exp>ict</exp> <tl>couvercle</tl> Et force rachaulx Et
 y feres bon feu<lb/>
 
 tout au tour de charbon cela faict vous en descouvrires<lb/>
@@ -80,11 +80,11 @@ faudra quil soit dur</ab>
 
 </div>
 
-<div>
+<div id="p020r_2" categories="glass process">
 
-<id>p020r_2</id>
 
-<head>@<pro>Vitrier</pro></head>
+
+<head><pro>Vitrier</pro></head>
 
 <ab>
 
@@ -107,11 +107,11 @@ sefface avecq du <m>vernis</m> &amp; du <m>sel</m> &amp; aultres
 <m>drogues</m> que les<lb/>
 
 <pro>vitriers</pro> y mettent Le <m>verre de <pl>lorraine</pl></m> se
-vent a <ms>lien</ms> &amp;<lb/>
+    vent a <ms>lien</ms><comment rid="c_020r_04"/> &amp;<lb/>
 
 a chasque <ms><df>lien</df></ms> il y a trois <ms>tables</ms> le
 <ms>lien</ms> coste co<exp>mmun</exp>ement x
-<cn>s<exp>ous</exp></cn><lb/>
+<cn>s<exp>ols</exp></cn><lb/>
 
 Le <m>verre de plat</m> se <del>vent en</del> faict en <pl>France</pl>
 il est plus blanc &amp; plus clair<lb/>
@@ -122,14 +122,14 @@ aussy co<exp>mmun</exp>ement<lb/>
 envelle &amp; pour ceste occasion il est meilleur a faire petites
 losanges que<lb/>
 
-grandes pieces quarrees en forme de chassis pourceque elles ne se
+grandes pieces quarrees en forme de <tl>chassis</tl> pourceque elles ne se
 peuvent bonnem<exp>ent</exp><lb/>
 
 bien assoir uniment</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>verre de plat</m><lb/>
 
@@ -137,7 +137,7 @@ se vent a <ms>paniers</ms><lb/>
 
 Le <ms><df>panier</df></ms> contient<lb/>
 
-24<comment>c_020r_03</comment> <ms>plats</ms> qui se<lb/>
+24 <ms>plats</ms> qui se<lb/>
 
 vendent communem<exp>ent</exp><lb/>
 

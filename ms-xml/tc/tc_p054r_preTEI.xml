@@ -1,13 +1,13 @@
-<root>
-<page>054r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="054r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image</image>
 
-<div>
 
-<cont/>
 
-<id>p053v_1</id>
+<div continues="yes" id="p053v_1" categories="cultivation;animal husbandry">
+
+
+
+
 
 <ab>sur quelques <tl>tables haultes</tl> &amp; a cella cognoist on quand
 elles veulent<lb/>
@@ -22,7 +22,7 @@ elles sarrestent &amp; commancent a filer leur prison quon appelle
 coquon<lb/>
 
 de la <ms>grandeur dun oeuf de <al>pigeon</al></ms>
-co<exp>mmun</exp>em<corr><exp>ent</exp></corr> combien quil sen
+co<exp>mmun</exp>em combien quil sen
 trouve<lb/>
 
 de beaucoup plus gros pourceque il advient que quelque foys il se<lb/>
@@ -74,7 +74,7 @@ gecter car<lb/>
 il ne seroit pas bon de le donner a une aultre Ils ont acheve de<lb/>
 
 filer &amp; faire leurs oeufs en trois <ms><tmp>sepmaines</tmp></ms>
-&amp; <tmp>vers la <pn>s<exp>ain</exp>t Jehan</pn></tmp><lb/>
+&amp; <tmp>vers la <pn>s<exp>ain</exp>t Jehan</pn></tmp><comment rid="c_052v_01"/><lb/>
 
 Et lors on garde leurs oeufs &amp; grene <ms><tmp>jusques a la
 sepmaine<lb/>
@@ -84,13 +84,13 @@ filent parmy la foeille &amp; y font<lb/>
 
 leur coquon sans monter hault</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>soye</m> des<lb/>
 
-coquons ou il y a</ab>
+coquons ou il y a<comment rid="c_054r_01"/></ab>
 
 </div>
 </root>

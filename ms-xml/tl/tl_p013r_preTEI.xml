@@ -1,13 +1,13 @@
-<root>
-<page>013r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="013r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image</image>
 
-<div>
 
-<cont/>
 
-<id>p012v_3</id>
+<div continues="yes" id="p012v_3" categories="stones">
+
+
+
+
 
 <ab>
 
@@ -15,12 +15,12 @@
 respond to make this white crust on the surface that I was seeking,
 leaving the rest of the thing of its natural color, I made a opening in
 a <m>brick</m> of the exact size of the thing &amp; put it inside. Then
-I reddened two <tl><pro>glassmaker</pro>'s
-solders</tl><comment>c_013r_01</comment>, &amp; as they were red, I
+I reddened two <tl><pro>glassworkers’</pro>
+solders</tl>, &amp; as they were red, I
 presented them one after the other onto the surface of the thing until I
-got the white crust that I required, on which I made such drawing as I
+had the white crust that I required, on which I made such drawing as I
 wanted, uncovering up to the red base with a <tl><m>diamond</m>
-point</tl>, and I polished it with <tl><m><al>hog</al> bristles</m></tl>
+point</tl>, and I polished it with <tl>small <m><al>hog</al> bristle</m> brushes</tl>
 and <tl><m>tripoli</m></tl>. I do not know if it would be better to
 reheat it under hot <m>ashes</m>, &amp; if it would be good to encase it
 in <m>alabaster</m>, which is very cold, as I encased it in the
@@ -28,11 +28,11 @@ in <m>alabaster</m>, which is very cold, as I encased it in the
 
 </div>
 
-<div>
+<div id="p013r_1" categories="painting">
 
-<id>p013r_1</id>
 
-<head>Carnation from <m>arsenic</m></head>
+
+<head>Flesh color from <m>arsenic</m></head>
 
 <ab><m>Sublimated arsenic</m>, that is to say, the white one that is
 sold as <m>stone</m>, when ground on <tl><m>marble</m></tl>, mixed with
@@ -43,35 +43,35 @@ with the <m>lake</m>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_2" categories="dyeing">
 
-<id>p013r_2</id>
 
-<head>For <m>dyeing</m></head>
+
+<head>For dyeing</head>
 
 <ab>Mix <m>sal ammoniac</m> &amp; <m>vitriol</m> &amp; boil them
 together. Then mix in <m>lake</m> or <m>verdet</m> &amp; <m>azure</m> or
 similar, &amp; dye. This will not come off unless the <al>animal</al>
-sheds. @<la>Non bona</la>.</ab>
+sheds. <la>Non bona</la>.<comment rid="c_013r_01"/></ab>
 
 </div>
 
-<div>
+<div id="p013r_3" categories="stones">
 
-<id>p013r_3</id>
+
 
 <head>Polishing of <m>stones</m></head>
 
 <ab><m>Engraved <del><fr>tai</fr></del> stones</m> are not polished on a
 <tl><m>copper</m> wheel</tl>, but with <tl>brushes</tl> and
 <tl><m>tripoli</m></tl>. Yet <m>stones cut in facets and flat</m> are
-polished on the said <tl>wheel</tl>.</ab>
+polished on the aforesaid <tl>wheel</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_4" categories="tool" continued="yes">
 
-<id>p013r_4</id>
+
 
 <head><tl>Fine sieves of <m>raw silk</m></tl></head>
 
@@ -82,7 +82,7 @@ renders the <m>silk</m> <del><fr>chas</fr></del> charged with a sticky
 vapor that would hold the <m>flour</m> &amp; in the end would prevent it
 from</ab>
 
-<cont/>
+
 
 </div>
 </root>

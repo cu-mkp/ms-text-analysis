@@ -1,11 +1,11 @@
-<root>
-<page>144r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="144r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f293.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f293.image</image>
 
-<div>
 
-<id>p144r_1</id>
+
+<div id="p144r_1" categories="casting" continued="yes">
+
+
 
 <head><al>Tortues</al></head>
 
@@ -17,7 +17,7 @@ estant plus plattes &amp; ayant la teste &amp; queue plus longues<lb/>
 <del>q</del> et les pattes plus droictes &amp; mieulx en despouille que
 <al>celles<lb/>
 
-de <env>garrigue</env></al> qui sont maigres ridees &amp; fort
+de <pl><env>garrigue</env></pl></al> qui sont maigres ridees &amp; fort
 enfoncees<lb/>
 
 dans leurs coquille Qui ont aussy le dessus de la<lb/>
@@ -49,18 +49,18 @@ dune seule piece Doncques pour mectre la main a loeuvre<lb/>
 apres que tu lauras faicte entierem<exp>ent</exp> mourir dans le
 <m>vinaigre</m><lb/>
 
-&amp; <m>urine</m> co<exp>mm</exp>e dict est Laisse la bien seicher Et
+&amp; <m><bp>urine</bp></m> co<exp>mm</exp>e dict est Laisse la bien seicher Et
 la nettoye<lb/>
 
 bien avecq tes <tl>sayes</tl> Apres <del>pas</del> ayes ta <tl>platine
 d<m>ardille</m></tl><lb/>
 
-et la pose dessus et acache la un peu affin que la coquille<lb/>
+et la pose dessus et <po>acache</po> la un peu affin que la coquille<lb/>
 
 de dessoubs si encoche Luy ayant neantmoins faict plustost le<lb/>
 
 plant de la teste avec une <tl>poincte fortete</tl> co<exp>mm</exp>e des
-aultres animaulx<lb/>
+aultres animau<ups>lx</ups><lb/>
 
 la luy faisant tenir haulte par le moyen de <del>un</del> quelque
 peu<lb/>
@@ -80,7 +80,7 @@ sont<lb/>
 creves et purulents Aultant en peulx tu faire a tous aultres<lb/>
 
 animalets avecq de la <m>graine de <pa>grand passevelours</pa></m> du
-<m><pa>petit</pa></m><comment>c_144r_01</comment> et la<lb/>
+<m><pa>petit</pa></m> et la<lb/>
 
 <m>graine de <pa>chou navette</pa></m> &amp; Ce faict tu disposeras les
 pates les<lb/>
@@ -91,7 +91,7 @@ l<m>ardille</m><lb/>
 bouche tout le vuyde daultour la <al>tortue</al> cest a scavoir ce qui
 est<lb/>
 
-entre les deulx coquilles Affin que le sable y entrant nempesche<lb/>
+entre les deulx coquilles Affin que le <m>sable</m> y entrant nempesche<lb/>
 
 de despouiller Et pourceque les pattes doibvent estre plus<lb/>
 
@@ -103,9 +103,9 @@ dans la <tl>platine d<m>ardille</m></tl> pour les y adapter Ta
 
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
+
 
 Quand elles<lb/>
 
@@ -123,19 +123,15 @@ et manient<lb/>
 
 mieulx</ab>
 
-<figure><comment>c_144r_02</comment>
+    <figure size="small" id="fig_p144r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0">
 
-<margin>left-middle</margin>
-
-<id>fig_p144r_1</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0</link>
 
 </figure>
 
-<ab>
 
-<man><margin>left-middle</margin>
+<ab margin="left-middle">
+
+<emph>
 
 yeulx<lb/>
 
@@ -143,21 +139,18 @@ danimaulx<lb/>
 
 de mon<lb/>
 
-invention</man>
+invention</emph>
 
 </ab>
 
-<figure><comment>c_144r_03</comment>
+    <figure size="small" id="fig_p144r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkN6Y3ZTM1pKRG8">
 
-<margin>left-middle</margin>
 
-<id>fig_p144r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZkN6Y3ZTM1pKRG8</link>
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

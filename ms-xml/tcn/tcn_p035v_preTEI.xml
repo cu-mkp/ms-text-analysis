@@ -1,11 +1,11 @@
-<root>
-<page>035v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="035v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f76.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f76.image</image>
 
-<div>
 
-<id>p035v_1</id>
+
+<div id="p035v_1" categories="tricks and sleight of hand">
+
+
 
 <head>Pour garder quelqu’un de ne<lb/>
 
@@ -17,25 +17,25 @@ aultrem<exp>ent</exp><lb/>
 <m><pa>jarus</pa></m>, &amp; en saulpouldrés la
 <m>viande</m><del>s</del>. À quoy il n’y a<lb/>
 
-poinct de dangier. @Voy <pn>Mathiol</pn>.</ab>
+poinct de dangier. Voy <pn>Mathiol</pn>.<comment rid="c_035v_01"/></ab>
 
 </div>
 
-<div>
+<div id="p035v_2" categories="tricks and sleight of hand" continued="yes">
 
-<id>p035v_2</id>
+
 
 <head>Pour fayre transmuer du <m><pa>bled</pa></m><lb/>
 
 d’un <tl>vaisseau</tl> à aultre</head>
 
-<figure>
+<figure id="fig_p035v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WEY2UUhMRTg4Y00">
 
-<id>fig_p035v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WEY2UUhMRTg4Y00</link>
+
+
+
 
 </figure>
 
@@ -100,7 +100,7 @@ tourneras<lb/>
 dextrem<exp>ent</exp> du costé qu’il est vuyde &amp; le laisseras
 couvert.<lb/>
 
-Puys commanderas que par <la>invisibilium</la> le <m><pa>bled</pa></m>
+Puys commanderas que par <la>invisibilium</la><comment rid="c_035v_02"/> le <m><pa>bled</pa></m>
 passe<lb/>
 
 dans la <tl>cloche</tl>, de laquelle tu fraperas un peu
@@ -120,7 +120,7 @@ de <m><pa>bled</pa></m>, que tu racleras dextrem<exp>ent</exp> avecq la
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

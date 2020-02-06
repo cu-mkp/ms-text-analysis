@@ -1,15 +1,15 @@
-<root>
-<page>076r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="076r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item</image>
 
-<div>
 
-<cont/>
 
-<id>p075v_4</id>
+<div continues="yes" id="p075v_4" categories="wood and its coloring">
 
-<ab>sy nen trouves Et en couvrir dicell<exp>e</exp> pouldre
+
+
+
+
+<ab><comment rid="c_073v_02"/>sy nen trouves Et en couvrir dicell<exp>e</exp> pouldre
 led<exp>ict</exp> <m>boys</m><lb/>
 
 Jusques ace quil soit froid &amp; le feres Rebouillir &amp; en
@@ -22,9 +22,9 @@ led<exp>ict</exp> <m>boys</m> en boulhant</ab>
 
 </div>
 
-<div>
+<div id="p076r_1" categories="wood and its coloring">
 
-<id>p076r_1</id>
+
 
 <head>Pour faire <m>boys</m> verd</head>
 
@@ -40,7 +40,7 @@ mecteres vos matieres en ung <tl>pot <m>plombe</m></tl> dessus le foeu
 sans<lb/>
 
 prandre air &amp; puys mectre le <tl>pot</tl> en ung
-<tl><m>fumier</m></tl> lespace de<lb/>
+<env><tl><m>fumier</m></tl></env> lespace de<lb/>
 
 quinze <ms><tmp>Jours</tmp></ms> Et quand il sera hors vous feres
 bouillir vos<lb/>
@@ -49,15 +49,15 @@ matieres lespace de trois <ms><tmp>heures</tmp></ms></ab>
 
 </div>
 
-<div>
+<div id="p076r_2" categories="wood and its coloring">
 
-<id>p076r_2</id>
+
 
 <head>Pour faire <m>boys</m> Rouge</head>
 
 <ab>
 
-Prenes une <ms>Carte</ms> d<m>urine vieilhe</m> et trois <ms>onces</ms>
+Prenes une <ms>Carte</ms> d<m><bp>urine vieilhe</bp></m> et trois <ms>onces</ms>
 de <m>Garante</m><lb/>
 
 &amp; une <ms>once</ms> d<m>alung de glace</m> et mectres le tout dans
@@ -67,15 +67,15 @@ v<exp>ost</exp>re <tl>pot</tl><lb/>
 
 </div>
 
-<div>
+<div id="p076r_3" categories="wood and its coloring">
 
-<id>p076r_3</id>
+
 
 <head>Pour le faire Bleu</head>
 
 <ab>
 
-Prenes une <ms>carte</ms> d<m>urine</m> comme dessus et une
+Prenes une <ms>carte</ms> d<m><bp>urine</bp></m> comme dessus et une
 <ms>once</ms> d<m>alung</m><lb/>
 
 &amp; deux <ms>dragmes</ms> de <m>sel armoniac</m> &amp; demye
@@ -86,15 +86,15 @@ du verd</ab>
 
 </div>
 
-<div>
+<div id="p076r_4" categories="wood and its coloring">
 
-<id>p076r_4</id>
+
 
 <head>Pour le faire Violet</head>
 
 <ab>
 
-Prenes une <ms>carte</ms> d<m>hurine</m> &amp; une <ms>once</ms>
+Prenes une <ms>carte</ms> d<m><bp>hurine</bp></m> &amp; une <ms>once</ms>
 d<m>alung</m> &amp; deux <ms>dragmes</ms><lb/>
 
 de <m>sel armoniac</m> &amp; une de <m>lacque</m> &amp; faire comme
@@ -102,15 +102,15 @@ dess<exp>us</exp></ab>
 
 </div>
 
-<div>
+<div id="p076r_5" categories="wood and its coloring">
 
-<id>p076r_5</id>
+
 
 <head>Pour le faire Jaulne</head>
 
 <ab>
 
-Prenes <m>hurinne</m> comme dessus Et <m><pa>Guesdre</pa></m> deux
+Prenes <m><bp>hurinne</bp></m> comme dessus Et <m><pa>Guesdre</pa></m> deux
 <ms>onces</ms> &amp; une<lb/>
 
 <ms>once</ms> de <m><pa>fustict</pa></m> Et deux

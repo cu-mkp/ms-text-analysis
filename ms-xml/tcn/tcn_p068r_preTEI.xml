@@ -1,10 +1,10 @@
-<root>
-<page>068r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="068r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image</image>
 
-<div>
-<id>p068r_1</id>
+
+
+<div id="p068r_1" categories="decorative">
+
 <head>Tables fantasques</head>
 
 <ab>Tu peulx faire divers compartiments encochés &amp; dans<lb/>
@@ -12,10 +12,10 @@
 iceulx mectre des <al>poissons</al> pains sur du <m>carton simple</m> au
 naturel<lb/>
 
-&amp; avecq couleurs, &amp; s'il te semble sur du <m>papier argenté
+&amp; avecq couleurs, &amp; s’il te semble, sur du <m>papier argenté
 &amp; <tl>bruny</tl></m>,<lb/>
 
-qui representera l'escaille, et aprés couvrir cela de <m>corne de<lb/>
+qui representera l’escaille, et aprés couvrir cela de <m>corne de<lb/>
 
 lanterne bien claire</m>. Cela mesmes peulx tu apliquer en aultres<lb/>
 
@@ -23,8 +23,8 @@ ouvraiges.</ab>
 
 </div>
 
-<div>
-<id>p068r_2</id>
+<div id="p068r_2" categories="cultivation">
+
 <head>Planter abres</head>
 
 <ab>Il les fault planter en <del><env>lieu sec</env></del> <env>temps
@@ -33,21 +33,21 @@ sec</env>, &amp; assembler force<lb/>
 <m>terre</m> au pied tout aultour, co<exp>mm</exp>e une motte, affin que
 les <env>pluyes</env><lb/>
 
-ne remplissent les fosses &amp; ne nyent les abres.</ab>
+ne remplissent les fosses &amp; ne n<corr>o</corr>yent les abres.</ab>
 
 </div>
 
-<div>
-<id>p068r_3</id>
+<div id="p068r_3" categories="casting" continued="yes">
+
 <head>Gect</head>
 
-<ab>J'ay essayé 4 sortes de sables pour le <m>plomb</m> &amp;
+<ab>J’ay essayé 4 sortes de <m>sables</m> pour le <m>plomb</m> &amp;
 <m>estain</m>, la <m>croye</m>,<lb/>
 
-le <m>verre pilé</m>, le <m>tripoly</m>, &amp; le <m>linge bruslé</m>,
+le <m>verre <tl>pilé</tl></m>, le <m>tripoly</m>, &amp; le <m>linge bruslé</m>,
 touts 4 fort<lb/>
 
-excellents. Mays quand à la <m>croye</m>, il fault qu'elle soict de la
+excellents. Mays quand à la <m>croye</m>, il fault qu’elle soict de la
 plus<lb/>
 
 doulce que tu pourras trouver, comme est <m>celle de <pl>Champaigne</pl>
@@ -56,12 +56,12 @@ dont<lb/>
 usent les <pro>painctres</pro></m>. Elle despouille fort net, ne veult
 poinct estre<lb/>
 
-humectée de <m>magistra</m> ne d'aulcune chose, ains toute seiche, en
+humectée de <m>magistra</m> ne d’aulcune chose, ains toute seiche, en
 son<lb/>
 
 naturel, subtillement pulverisé. Le premier gect est tousjours plus<lb/>
 
-nect, touteffois il en soustiendra bien deulx ou trois. Mays il n'y
+nect; touteffois il en soustiendra bien deulx ou trois. Mays il n’y
 a<lb/>
 
 que le premier il fault que tu advises, quand tu vouldras<lb/>
@@ -70,15 +70,15 @@ refaire ton <tl>moule au chassis</tl>, de prendre nouvelle <m>pouldre de
 croye</m>,<lb/>
 
 qui n’aye point esté mise en oeuvre, car celle qui ha servy au
-chassis<lb/>
+<tl>chassis</tl><lb/>
 
-est desseichée &amp; n'ha pas tant de prise &amp; liayson que la
+est desseichée &amp; n’ha pas tant de prise &amp; liayson que la
 recente.<lb/>
 
-Le <m>verre pilé</m> se peult faire en <m>sable de verre commun,
+Le <m>verre <tl>pilé</tl></m> se peult faire en <m>sable de verre commun</m>,
 touteffois<lb/>
 
-le cristallin</m> est plus excellent, car le commun ne tient que du
+le <m>cristallin</m> est plus excellent, car le commun ne tient que du
 <del><m>verre</m></del><lb/>
 
 <m>sel de salicor</m>, mays le <m>cristallin</m> tient du <m>sel de
@@ -90,17 +90,17 @@ estant<lb/>
 calciné &amp; reduit comme à sa premiere matiere. Or, pour le
 calciner<lb/>
 
-parfaictement, gectes tes lopins de <m>verre</m> quel qu'il soit entre
+parfaictement, gectes tes lopins de <m>verre</m> quel qu’il soit entre
 les plus<lb/>
 
 gros <m>charbons</m> allumés que tu pourras, si aultre commodité
-<del>t</del><add>d</add>e foeu<del>t</del><lb/>
+    <del>t</del>de<comment rid="c_068r_04"/> foeu<del>t</del><comment rid="c_068r_03"/>><lb/>
 
-violent te default. Et lorsqu'il sera bien rouge gecte le dans
-l'<m>eau</m></ab>
+violent te default. Et lorsqu’il sera bien rouge gecte le dans
+l’<m>eau</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>potée</m> est<lb/>
 
 estimée excellente<lb/>
@@ -111,7 +111,7 @@ pour ces deulx<lb/>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

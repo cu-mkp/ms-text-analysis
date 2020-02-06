@@ -1,11 +1,11 @@
-<root>
-<page>032r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="032r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image</image>
 
-<div>
 
-<id>p032r_1</id>
+
+<div id="p032r_1" categories="arms and armor">
+
+
 
 <head>Corps de cuirasse</head>
 
@@ -14,23 +14,23 @@
 co<exp>mm</exp>e chef doeuvre des <pro>maistres</pro> car il fault que
 ces pieces<lb/>
 
-soient fort exactem<exp>ent</exp> vuides &amp; adjoustees affin que le
+soient fort exactem<exp>ent</exp> vuides<comment rid="c_032r_01"/> &amp; adjoustees affin que le
 mouvem<exp>ent</exp><lb/>
 
 soict libre Les corps de cuirasse doibvent estre fort<lb/>
 
-uniment battus &amp; menes avecq le <tl>marteau</tl></ab>
+uniment battus &amp; menes<comment rid="c_032r_02"/> avecq le <tl>marteau</tl></ab>
 
 <ab>Les morrions de <pl>milan</pl> sont tous dune piece &amp; par
 ainsy<lb/>
 
-meilleurs que ceulx qui sont de deulx</ab>
+meilleurs que ceulx qui sont de deulx<comment rid="c_032r_03"/></ab>
 
 </div>
 
-<div>
+<div id="p032r_2" categories="painting;varnish">
 
-<id>p032r_2</id>
+
 
 <head><pro>Painctre</pro></head>
 
@@ -48,9 +48,9 @@ travailler a <m>huile</m> ne travaillera pas a <m>destrempe</m></ab>
 
 </div>
 
-<div>
+<div id="p032r_3" categories="painting">
 
-<id>p032r_3</id>
+
 
 <head>Pour coucher l<m>or</m> a destrempe</head>
 
@@ -79,7 +79,7 @@ pluye</env></ab>
 en <m>eau</m> et le meslent avecq de la <m>sanguine</m> quilz
 appellent<lb/>
 
-<m>cocon</m> fort braye y adjoustant un peu de <m>savon</m> Cestuy<lb/>
+<m><df>cocon</df></m> fort braye y adjoustant un peu de <m>savon</m> Cestuy<lb/>
 
 se faict net &amp; rend l<m>or</m> beau si on en faict son assiette</ab>
 

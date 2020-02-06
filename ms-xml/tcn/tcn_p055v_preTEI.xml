@@ -1,15 +1,15 @@
-<root>
-<page>055v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="055v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f116.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f116.image</image>
 
-<div>
 
-<cont/>
 
-<id>p055r_4</id>
+<div continues="yes" id="p055r_4" categories="medicine">
 
-<ab><ms><tmp><sup>espace</sup> de quinze jours</tmp></ms>. Aprés tu la
+
+
+
+
+<ab>de quinze <ms><tmp>jours</tmp></ms>. Aprés tu la
 romperas de bien loings<lb/>
 
 &amp; avecq un <tl>long baston</tl> sans le regarder &amp; estant
@@ -23,22 +23,22 @@ qui soict au bort</env>.</ab>
 
 </div>
 
-<div>
+<div id="p055v_1" categories="medicine;metal process">
 
-<id>p055v_1</id>
+
 
 <head>Aultre pour les <m>eaulx</m></head>
 
-<ab><al>Tuaparc</al> nad nu <tl>top</tl> avecq <m>chaulx vive</m> qui
+<ab><al>Tuaparc</al> nad nu <tl>top</tl><comment rid="c_055v_01"/> avecq <m>chaulx vive</m> qui
 consumera<lb/>
 
-tout ceste pouldre aprés &amp;<exp>c</exp> </ab></div>
+tout ceste pouldre aprés, &amp;<corr>c</corr>.</ab></div>
 
-<div>
+<div id="p055v_2" categories="metal process">
 
-<id>p055v_2</id>
 
-<head><m>Acier<comment></comment> de damas</m></head>
+
+<head><m>Acier de damas</m><comment rid="c_055v_03"/></head>
 
 <ab>Distille des <m><al>lumbris</al></m> à part &amp; de la <m>foeille
 de<lb/>
@@ -46,30 +46,30 @@ de<lb/>
 <pa>reforts</pa></m> à part &amp; mesle ces deulx <m>eaulx</m>
 <ms>aultant<lb/>
 
-d'une que d'aultre</ms> &amp; là dedans trempe.</ab></div>
+d’une que d’aultre</ms> &amp; là dedans trempe.</ab></div>
 
-<div>
+<div id="p055v_3" categories="household and daily life">
 
-<id>p055v_3</id>
 
-<head>Pour cognoistre le chemin qu'on<lb/>
+
+<head>Pour cognoistre le chemin qu’on<lb/>
 
 faict <env>en plaine mer</env></head>
 
-<ab>Trempes un <m>ferlin</m> dans de l'<m>huile</m>, puys l'attaches à
+<ab>Trempes un <m>ferlin</m><comment rid="c_055v_04"/> dans de l’<m>huile</m>, puys l’attaches à
 la<lb/>
 
-pouppe du navire, de sorte qu'il trempe dans l'<m><env>eau</env></m>
+pouppe du navire, de sorte qu’il trempe dans l’<env><m>eau</m></env>
 &amp; il fera<lb/>
 
 une voye qui se monstrera de dix <ms>lieux</ms> pource que
-l'<m><env>eau</env></m><lb/>
+l’<env><m>eau</m></env><lb/>
 
-se depart par où l'<m>huile</m> a passé.</ab></div>
+se depart par où l’<m>huile</m> a passé.</ab></div>
 
-<div>
+<div id="p055v_4" categories="casting">
 
-<id>p055v_4</id>
+
 
 <head>Pour gect</head>
 
@@ -79,16 +79,16 @@ se depart par où l'<m>huile</m> a passé.</ab></div>
 le <m>plomb</m>. Mays il ne la fault point mouiller ne broyer, ains
 subtilier<lb/>
 
-en pilant ou raclant &amp; passer par un <tl>tamis</tl>. Ainsy de la
-<m>ponce</m>, qu'il<lb/>
+en <tl>pilant</tl> ou raclant &amp; passer par un <tl>tamis</tl>. Ainsy de la
+<m>ponce</m>, qu’il<lb/>
 
 ne fault point broyer avecq <m>eau</m> ne corrompre de son naturel. Le
 <m>plomb</m><lb/>
 
-doibt estre peu meslé d'<m>estain</m> pour seulement luy donner force,
+doibt estre peu meslé d’<m>estain</m> pour seulement luy donner force,
 et deulx<lb/>
 
 <ms>pars</ms> <del>d<m>estain</m> sur de</del> <m>plomb</m> sur
-<del>de</del> une d'<m>estain</m> ou plus.</ab>
+<del>de</del> une d’<m>estain</m> ou plus.</ab>
 </div>
 </root>

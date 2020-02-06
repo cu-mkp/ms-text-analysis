@@ -1,11 +1,11 @@
-<root>
-<page>136v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="136v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image</image>
 
-<div>
 
-<id>p136v_1</id>
+
+<div id="p136v_1" categories="casting">
+
+
 
 <head>
 
@@ -46,10 +46,10 @@ soy toute recente sur le <m>letton fondu</m> Advise de gecter<lb/>
 fort chault &amp; que ton <tl>moule</tl> soict rouge co<exp>mm</exp>e en
 l<m>or</m> <m>argent</m><lb/>
 
-<m>cuivre</m> &amp; <m>metal</m> Si tu gectes de la <m>calamine</m>
+<m>cuivre</m> &amp; <m>metal</m><comment rid="c_016v_05"/> Si tu gectes de la <m>calamine</m>
 recente <md>garde<lb/>
 
-toy de la <m>fumee</m> car elle est pernicieuse</md> Jay vouleu
+toy de la fumee car elle est pernicieuse</md> Jay vouleu
 employer<lb/>
 
 pour gecter medailles des <m>gectons d<pl>allemaigne</pl></m> &amp; en
@@ -75,31 +75,31 @@ poly<lb/>
 
 La seconde fusion vient mieulx pourcequil y a de la <m>calamine</m><lb/>
 
-exalee et ne faict pas tant de <m>fumee</m> Si cest en
+exalee et ne faict pas tant de fumee Si cest en
 <tl>chassis</tl><lb/>
 
 qui ne se rompe point &amp; soubstiene l<del>a</del>e second gect
 viendra<lb/>
 
-net pourcequil est imbu de la <m>fumee calaminayre</m> qui<lb/>
+net pourcequil est imbu de la fumee calaminayre qui<lb/>
 
 embrasse &amp; recoyt la seconde Le <m>sel armoniac</m> seul mis<lb/>
 
 dans le <m>laitton</m> le rend net &amp; luisant L<m>huile
 tingente</m><lb/>
 
-encores plus Il ne luy fault aultre sable que le præcedent<lb/>
+encores plus Il ne luy fault aultre <m>sable</m> que le præcedent<lb/>
 
 en noyau &amp; que le <tl>moule</tl> soict rouge co<exp>mm</exp>e pour
 l<m>or</m> Fais<lb/>
 
 force souspirails Et si tu gectois <m>letton jaulny</m> avecq la<lb/>
 
-<m>tuthie præparee</m> tu naurois point de <m>mauvaises fumees</m></ab>
+<m>tuthie præparee</m> tu naurois point de mauvaises fumees</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ce <m>metal</m> est fort<lb/>
 
@@ -135,7 +135,7 @@ quand tu le gectes<lb/>
 
 Les <pro>gecteurs</pro> ne<lb/>
 
-prenent pas co<exp>mmun</exp>em<corr><exp>ent</exp></corr><lb/>
+prenent pas co<exp>mmun</exp>em<lb/>
 
 de ce <m>laicton tant<lb/>
 
@@ -177,7 +177,7 @@ trempe dans de<lb/>
 
 la <m>graisse de<lb/>
 
-<al>porc</al></m> mesle<corr>e</corr> de<lb/>
+<al>porc</al></m> mesle de<lb/>
 
 <m>salpestre</m> ou <m>sel armoniac</m></tl><lb/>
 

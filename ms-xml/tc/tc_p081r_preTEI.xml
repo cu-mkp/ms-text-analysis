@@ -1,13 +1,13 @@
-<root>
-<page>081r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="081r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image</image>
 
-<div>
-<id>p081r_1</id>
-<head>Sable</head>
 
-<ab>Il sen trouve dexcellent au costau de <pl>puy david</pl> aupres de
+
+<div id="p081r_1" categories="casting">
+
+<head><m>Sable</m></head>
+
+<ab>Il sen trouve dexcellent <env>au costau</env> de <pl>puy david</pl><comment rid="c_081r_01"/> aupres de
 <pl>th<exp>ou</exp>l<exp>ous</exp>e</pl><lb/>
 
 pour <m>plomb</m> <m>estaim</m> &amp; <m>cuivre</m> Il ne veult pas
@@ -23,22 +23,22 @@ grumeleus &amp; mal net Il vault mieulx recuire de loing quavecq<lb/>
 la flamme de <m>paille</m> qui engendre <del>des</del> de la
 <m>crasse</m> Plustost que<lb/>
 
-remplir le <tl>chassis</tl> tu peulx mectre du plus subtil sable que tu
+remplir le <tl>chassis</tl> tu peulx mectre du plus subtil <m>sable</m> que tu
 auras<lb/>
 
 dans un <tl><m>linge</m> fort subtil</tl> &amp; en poncer a sec la
 medaille Et puys<lb/>
 
-le sable mouille que tu y mects dessus qui ha plus de corps le<lb/>
+le <m>sable</m> mouille que tu y mects dessus qui ha plus de corps le<lb/>
 
 grippe</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Le <m>suif</m> faict soufler</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Le <m>mercure<lb/>
 
 arreste</m> melle co<exp>mm</exp>e<lb/>
@@ -61,8 +61,8 @@ Et souspirails</ab>
 
 </div>
 
-<div>
-<id>p081r_2</id>
+<div id="p081r_2" categories="casting">
+
 <head><m>Terre</m> a mouler</head>
 
 <ab>La <m>terre a <pro>gainiers</pro> ou celle dont les
@@ -86,19 +86,19 @@ est fort grande tu la peulx mouler a plusieurs parties<lb/>
 
 Si tu la recuits il fault que ce soit a foeu clos On trouve<lb/>
 
-de ceste <m>terre</m> au <pl>fosseret</pl> &amp; en un aultre lieu
-appelle <pl>Ox</pl></ab>
+de ceste <m>terre</m> au <pl>fosseret</pl><comment rid="c_081r_02"/> &amp; en un aultre lieu
+appelle <pl>Ox</pl><comment rid="c_081r_03"/></ab>
 
 </div>
 
-<div>
-<id>p081r_3</id>
+<div id="p081r_3" categories="casting">
+
 <head><m>Plastre</m></head>
 
 <ab>Il fault quil soit bien cuict ce que tu cognoistras quand le
 cuisant<lb/>
 
-en quelque <tl>cassolle de <m>fer</m> ou <m>metal</m></tl> tu le mesles
+en quelque <tl>cassolle de <m>fer</m> ou <m>metal</m></tl><comment rid="c_016v_05"/> tu le mesles
 avecq une <tl>verge<lb/>
 
 de <m>fer</m></tl> &amp; sil sattaque au <m>fer</m> il nest pas asses
@@ -117,17 +117,17 @@ rompent si on ne luy donne une main de <m>colle</m></ab>
 
 </div>
 
-<div>
-<id>p081r_4</id>
+<div id="p081r_4" categories="casting">
+
 <head><m>Carton</m></head>
 
 <ab>Il fault prendre du <m>papier de <pl>florence</pl></m> qui est le
-plus fin &amp; le piler &amp;<lb/>
+plus fin &amp; le <tl>piler</tl> &amp;<lb/>
 
 faire tremper plusieurs fois &amp; changer d<m>eau</m> <tmp>tous les
 jours</tmp> affin quil ne<lb/>
 
-sente point mal &amp; co<exp>mm</exp>e tu lauras moule dans le cave pose
+<sn>sente</sn> point mal &amp; co<exp>mm</exp>e tu lauras moule dans le cave pose
 ung <tl><m>linge</m></tl> dessus &amp;<lb/>
 
 par derriere frotte avecq une <tl>dent</tl> co<exp>mm</exp>e si tu

@@ -1,24 +1,24 @@
-<root>
-<page>131r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="131r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=</image>
 
-<div>
-<id>p131r_1</id>
+
+
+<div id="p131r_1" categories="casting">
+
 <head><m>Herbes</m> qui sont malaisées<lb/>
 
 à brusler dans le <tl>moule</tl></head>
 
-<ab>Moule les à deulx ou trois gects, qui estant recuit s’ouvrira<lb/>
+<ab>Moule les à deulx ou trois gects, qui estant recuit s’ouvriro<exp>n</exp>t,<lb/>
 
 &amp; il te sera plus aisé à retirer le <m>charbon</m> de dedans.</ab>
 
-<ab>
-<margin>left-middle</margin>Essay</ab>
+<ab margin="left-middle">
+<emph>Essay</emph></ab>
 
 </div>
-<div>
-<id>p131r_2</id>
+<div id="p131r_2" categories="casting">
+
 <head>L<exp>ett</exp>re et <m>papier</m> moulé</head>
 
 <ab>Escripts de quelque <m>ancre</m> bien gommée ou de quelque
@@ -34,8 +34,8 @@ mouille d’<m>eau de vye,</m> et gecte d’une part &amp; d’aultre.</ab>
 
 </div>
 
-<div>
-<id>p131r_3</id>
+<div id="p131r_3" categories="decorative">
+
 <head>Pour orner des <env>licts</env>, <env>mirouers</env><lb/>
 
 et semblables</head>
@@ -57,9 +57,9 @@ d’<m>orpiment</m><lb/>
 
 </div>
 
-<div>
-<id>p131r_4</id>
-<head>Pour bien aprendre un <al>ch<del>ei</del>ien</al></head>
+<div id="p131r_4" categories="household and daily life">
+
+<head>Pour bien aprendre un <al>ch<del>ei</del>ien</al><comment rid="c_131r_01"/></head>
 
 <ab>
 
@@ -71,13 +71,13 @@ comma<exp>n</exp>des, donnes luy, pour te fayre aymer, du
 tenu soubs l’<bp>aisselle</bp>. Qui doit estre une mauvaise drogue,
 <add>&amp;</add><lb/>
 
-pour le maistre, s’il est rousseau — &amp; pour l’<pro>aprentis</pro>
+pour le <pro>maistre</pro>, s’il est rousseau, &amp; pour l’<pro>aprentis</pro>
 aussy.</ab>
 
 </div>
 
-<div>
-<id>p131r_5</id>
+<div id="p131r_5" categories="casting" continued="yes">
+
 <head><m>Cires</m> moulées</head>
 
 <ab>Les figures de <m>cire</m> composée de <m>ceruse</m> &amp; <m>blanc
@@ -103,11 +103,11 @@ de <m>ceruse</m> ou aultre couleur metallique s’attaque au
 
 Et pour ceste raison, si tu veulx esbaucher quelque chose </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
 
-<figure>+</figure><lb/>
-<la>Nota</la><lb/>
+
+<mark>+</mark><lb/>
+<la>Nota</la><comment rid="c_119r_01"/><lb/><lb/>
 
 La <m>cire blanche</m><lb/>
 
@@ -125,7 +125,7 @@ noyau et mouler<lb/>
 
 creux.</ab>
 
-<cont/>
+
 
 </div>
 </root>

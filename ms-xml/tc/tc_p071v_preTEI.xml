@@ -1,16 +1,16 @@
-<root>
-<page>071v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="071v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image</image>
 
-<div>
 
-<id>p071v_1</id>
+
+<div id="p071v_1" categories="varnish">
+
+
 
 <head><m>Vernis</m></head>
 
 <ab>Sur <ms>demy lb</ms> d<m>huile d<pa>aspic</pa></m> mects 4
-<ms><figure>℥</figure></ms> de <m>sandarach</m><lb/>
+<ms>℥</ms> de <m>sandarach</m><lb/>
 
 &amp; de <m>mastich pulverises subtillem<exp>ent</exp></m> Et fais
 premierem<exp>ent</exp> bouillir<lb/>
@@ -47,9 +47,9 @@ sinon il est gras</ab>
 
 </div>
 
-<div>
+<div id="p071v_2" categories="household and daily life;animal husbandry">
 
-<id>p071v_2</id>
+
 
 <head>Graisse de <al>mouton</al></head>
 
@@ -62,9 +62,9 @@ aussy bons que les aultres</ab>
 
 </div>
 
-<div>
+<div id="p071v_3" categories="household and daily life">
 
-<id>p071v_3</id>
+
 
 <head><al>Araigne</al></head>
 
@@ -83,11 +83,11 @@ d<al>iraignee</al></ab>
 
 </div>
 
-<div>
+<div id="p071v_4" categories="casting">
 
-<id>p071v_4</id>
 
-<head>Sable</head>
+
+<head><m>Sable</m></head>
 
 <ab>La <m>moulee</m> est fort bonne pour gecter en <m>cuivre</m> mays il
 ne<lb/>
@@ -100,7 +100,7 @@ grands<lb/>
 
 ciseaulx</ab>
 
-<ab>Les <m>pierres de filieres</m> dequoy adoulcissent <pro>ceulx qui
+<ab>Les <m>pierres de filieres</m><comment rid="c_170v_01"/> dequoy adoulcissent <pro>ceulx qui
 aguisent</pro><lb/>
 
 moule fort net estant raclee pour le <m>plomb</m> Elle est

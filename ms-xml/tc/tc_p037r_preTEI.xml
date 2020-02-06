@@ -1,19 +1,19 @@
-<root>
-<page>037r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="037r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image</image>
 
-<div>
 
-<id>p037r_1</id>
+
+<div id="p037r_1" categories="casting">
+
+
 
 <head><pro>Fondeur</pro></head>
 
-<ab>Le <m>metal</m> se blanchist tant plus il est refondu pourceque<lb/>
+    <ab>Le <m>metal</m><comment rid="c_016v_05"/> se blanchist tant plus il est refondu pourceque<lb/>
 
 l<m>estaing</m> ne sen va poinct ains se mesle dadvantaige Et le<lb/>
 
-tenant long temps au foeu la <m>crasse</m> se mange qui est ce<lb/>
+tenant <tmp>long temps</tmp> au foeu la <m>crasse</m> se mange qui est ce<lb/>
 
 qui le faict aigre Si tu veulx chasser l<m>estaing</m> davecq le<lb/>
 
@@ -32,20 +32,20 @@ le <tl>marteau</tl></ab>
 
 </div>
 
-<div>
+<div id="p037r_2" categories="medicine">
 
-<id>p037r_2</id>
 
-<head>Medecine pour l<bp>estomach</bp><lb/>
 
-<add>qui leschaufe et desopile le <bp>foye</bp></add></head>
+<head><md>Medecine pour l<bp>estomach</bp><lb/>
+
+<add>qui leschaufe et desopile le <bp>foye</bp></add></md></head>
 
 <ab><del>Ayes</del><lb/>
 
 Ayes de l<m><pa>absinthe</pa> en pouldre</m> dissoubs la en <m>cirop
 de<lb/>
 
-<pa>capilli veneris</pa> ou de confitures</m> &amp; en fais oppiatte
+<pa><la>capilli veneris</la></pa></m><comment rid="c_037r_01"/> ou de <m>confitures</m> &amp; en fais oppiatte
 duquel<lb/>
 
 tu prendras <ms><tmp>une foys la sepmaine</tmp></ms> dans une <m>ostie
@@ -54,23 +54,23 @@ trempee<lb/>
 de vin</m> puys tu pourras boire un <ms><bp>doigt</bp></ms> de <m>vin
 trempe<lb/>
 
-suffisamment</m> Cela dissipe la pituite &amp; les vents qui<lb/>
+suffisamment</m> Cela <md>dissipe la pituite &amp; les vents qui<lb/>
 
-en proviennent Tu peulx prendre six <m><ms>grains</ms> de
+en proviennent</md> Tu peulx prendre six <m><ms>grains</ms> de
 <pa>poyvre</pa></m> &amp; rapper<lb/>
 
 leur escorce de sorte quilz soient unis &amp; les avaller sans mascher
 cela<lb/>
 
-profficte a l<bp>estomac</bp> sans eschaufer le <bp>foye</bp></ab>
+<md>profficte a l<bp>estomac</bp> sans eschaufer le <bp>foye</bp></md></ab>
 
 </div>
 
-<div>
+<div id="p037r_3" categories="stones">
 
-<id>p037r_3</id>
 
-<head>Foeilles pour <del>le <ill/></del> les <m>pierreries</m></head>
+
+<head><m>Foeilles pour <del>le <ill/></del> les pierreries</m></head>
 
 <ab>Estant faictes il ne les fault pas tenir dans aulcune <tl>caisse de
 <m>fer</m><lb/>
@@ -80,11 +80,11 @@ de</ab>
 
 </div>
 
-<div>
+<div id="p037r_4" categories="household and daily life">
 
-<id>p037r_4</id>
 
-<head>Pour garder que les chandelles ne<lb/>
+
+<head>Pour garder que les <tl>chandelles</tl> ne<lb/>
 
 degoutent et les fayre blanches</head>
 
@@ -94,7 +94,7 @@ fresche</m> bien<lb/>
 battue avecq du <m>son</m> qui ne soict pas du tout repurge de la
 <m>farine</m><lb/>
 
-de sorte que l<m>eau</m> soit blanche Et trempe tes chandelles la<lb/>
+de sorte que l<m>eau</m> soit blanche Et trempe tes <tl>chandelles</tl> la<lb/>
 
 dedans puys les laisse seicher Et fais ainsy deulx ou trois<lb/>
 

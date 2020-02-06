@@ -1,27 +1,27 @@
-<root>
-<page>160r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="160r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=</image>
 
-<div>
-<id>p160r_1</id>
+
+
+<div id="p160r_1" categories="casting">
+
 <head><tl>Presse</tl> pour les grands <tl>moules</tl></head>
 
-<figure>
+<figure id="fig_p160r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZDNJT25PWjlUbGM">
 
-<id>fig_p160r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZDNJT25PWjlUbGM</link>
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p160r_2" margin="right-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA">
 
-<id>fig_p160r_2</id>
 
-<margin>right-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA</link>
+
+
+
 
 </figure>
 
@@ -35,7 +35,7 @@ jouer &amp; courir le long des <tl>piliers</tl> &amp; que celle de bas
 soict<lb/>
 
 arrestee Au bout des <tl>piliers</tl> sarreste une croix de
-<pn>S<exp>ainc</exp>t Andre</pn><lb/>
+<pn>S<exp>ainc</exp>t Andre</pn><comment rid="c_160r_02"/><lb/>
 
 de <m>fer</m> au milieu de laquelle est une <tl>vis</tl> qui sarre les
 <tl>lamines</tl><lb/>
@@ -54,17 +54,17 @@ Les <tl>grandes presses de <m>bois</m> faictes a vis</tl> oultre ce
 quelles<lb/>
 
 sont lourdes a mectre aupres de la <tl>forge</tl> pour gecter On ne
-peult<lb/>
+peul<ups>t</ups><lb/>
 
 pas cognoistre quand elle sarrent trop &amp; bien souvent elles<lb/>
 
 rompent le <tl>moule</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <tl>vis</tl> est rivee<lb/>
 
-a cest <tl>estrier</tl> qui<lb/>
+a cest <tl>estrier</tl><comment rid="c_160r_01"/> qui<lb/>
 
 est <tl>cloue</tl> sur la<lb/>
 
@@ -78,22 +78,22 @@ la haulsse &amp; la<lb/>
 
 </div>
 
-<div>
-<id>p160r_2</id>
-<head>Sable pour fleurs</head>
+<div id="p160r_2" categories="casting">
+
+<head><m>Sable pour fleurs</m></head>
 
 <ab>Sil est gecte espes il agrave trop les fleurs &amp; les reserre
-&amp; reduit<lb/>
+&amp; redui<ups>t</ups><lb/>
 
 co<exp>mm</exp>e amassees ensemble Advise doncq de le destremper cler
 &amp; fort<lb/>
 
 soufler plustost que la fleur ne soict couverte gecte au coste du<lb/>
 
-<tl>moule</tl> Et destrempa<exp>n</exp>t le sable il ne fault
-seulem<corr><exp>ent</exp></corr> tourner la<lb/>
+<tl>moule</tl> Et destrempa<exp>n</exp>t le <m>sable</m> il ne fault
+seulem tourner la<lb/>
 
-<tl>pallette</tl> Mays battre le sable dans l<m>eau</m> co<exp>mm</exp>e
+<tl>pallette</tl> Mays battre le <m>sable</m> dans l<m>eau</m> co<exp>mm</exp>e
 si tu battois<lb/>
 
 de la <m>glaire doeuf</m></ab>

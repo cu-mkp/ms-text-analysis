@@ -1,13 +1,13 @@
-<root>
-<page>085r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image</image>
 
-<div>
 
-<cont/>
 
-<id>p084v_4</id>
+<div continues="yes" id="p084v_4" categories="casting">
+
+
+
+
 
 <ab>reposer sur un <tl>table bien nette &amp; unie</tl> &amp;
 co<exp>mm</exp>e elle est desiccative<lb/>
@@ -15,7 +15,7 @@ co<exp>mm</exp>e elle est desiccative<lb/>
 jay cogneu quelle sessuyoit <del>lor</del> Ce que jay laisse un peu
 faire<lb/>
 
-pour la reduire en pouldre &amp; en mouler avecq le sable Estant<lb/>
+pour la reduire en pouldre &amp; en mouler avecq le <m>sable</m> Estant<lb/>
 
 bien esmenuisee avecq les <tl><bp>doigts</bp></tl> &amp; le tranchant
 dun <tl>costeau</tl> Jay <m>huile</m><lb/>
@@ -30,7 +30,7 @@ Je lay encore legerem<exp>ent</exp> ointe d<m>huile de <pa>noix</pa>
 clair</m> &amp; doulcem<exp>ent</exp> ay<lb/>
 
 passe un <tl><m>linge</m></tl> par dessus affin quelle ne demeurast pas
-trop oincte<lb/>
+trop oinct<ups>e</ups><lb/>
 
 Et ay considere que par ce moyen elle viendroit bien en despouille<lb/>
 
@@ -41,23 +41,22 @@ sattaqueroit point a l<m>huile</m> Cela a tresbien reuscy Et en ay<lb/>
 
 moule tresnet une medaille de grand relief sans faire aulcune<lb/>
 
-prinse a quoy beaucoup de bons sables co<exp>mm</exp>e le <m>feultre</m>
-l<m>os brusle</m><lb/>
+prinse a quoy beaucoup de <m>bons sables</m> co<exp>mm</exp>e le <m>feultre</m>
+l<m>os brusl<ups>e</ups></m><lb/>
 
 &amp; la <m>mache de fer</m> avoyent bien failly du premier coup Je
 lay<lb/>
 
 recuit &amp; mon <tl>moule</tl> est venu dur co<exp>mm</exp>e
-<tl>mabre</tl> Et ay cogneu par<lb/>
+<m>mabre</m> Et ay cogneu par<lb/>
 
-la que les sables pour mouler grand relief doibvent estre fort<lb/>
+la que les <m>sables</m> pour mouler grand relief doibvent estre fort<lb/>
 
 humectes de quelque <m>eau</m> qui leur donne corps &amp; compaction
 Co<exp>mm</exp>e la<lb/>
 
 <m>glaire</m> <m>eau gommee</m> <del>ea</del> <m>vin</m> bouilly avecq
-<m>racine d<pa>orme</pa></m> &amp; Et <m>huiler</m><lb/>
-
+<m>racine d<pa>orme</pa></m> &amp; Et <m>huil<ups>er</ups></m><lb/>
 legerem<exp>ent</exp> la medaille Il soubstient tant de gects que
 tu<lb/>
 
@@ -68,7 +67,7 @@ l<m>estaim aigre</m> <del>v</del> mesmes veulent estre gectes fort
 chaulx</ab>
 
 <ab>Despuys jay aperceu que ce sable bien quil soict excelent &amp;
-endure beaucoup<lb/>
+endure beaucou<ups>p</ups><lb/>
 
 de gects &amp; moule bien net Toutesfois il est gras et faict
 soufler<lb/>
@@ -80,15 +79,17 @@ mesler avecq un <m>sable maigre</m> co<exp>mm</exp>e la <m>ponce</m>
 <m>lescaille</m> &amp; semblables<lb/>
 
 pour leur donner corps &amp; affin quil despouillent mieulx Car les
-<m>sables<lb/>
+<m>sabl<ups>es</ups><lb/>
 
 maigres</m> ne despouillent gueres bien Et toutesfois ilz recoyvent
-bien<lb/>
+bie<ups>n</ups><lb/>
 
-le <m>metal</m><comment>c_085r_01</comment></ab>
+le <m>metal</m>
+<hr/>
+</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Essaye de<lb/>
 
 mesler la<lb/>
@@ -97,18 +98,18 @@ mesler la<lb/>
 
 avecq les aultres<lb/>
 
-sables</ab>
+<m>sables</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
 
-<figure>X</figure>
+
+<mark>X</mark>
 
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 <m>Huile</m> &amp; oingts<lb/>
 
 d<m>huile d<pa>aspic</pa></m> qui <lb/>
@@ -119,8 +120,8 @@ car l<m>huile</m> faict<lb/>
 
 soufler</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il fault fort<lb/>
 
 mouiller avecq la <lb/>
@@ -143,8 +144,8 @@ faict mieulx mouler<lb/>
 
 et mieulx despouiller</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
+
 Il seroit bon de<lb/>
 
 remplir les <tl>chassis</tl><lb/>
@@ -153,23 +154,23 @@ tout dun Car le<lb/>
 
 meslenge qui se faict<lb/>
 
-de plusieurs sables<lb/>
+de plusieurs <m>sables</m><lb/>
 
 avecq <m>celuy de <env>mine</env></m><lb/>
 
 dont tu remplis le<lb/>
 
-<m>chassis</m> le corrompt</ab>
+<tl>chassis</tl> le corrompt</ab>
 
 </div>
 
-<div>
-<id>p085r_1</id>
+<div id="p085r_1" categories="varnish;casting">
+
 <head><m>Vernis vert</m> pour les medailles de <m>cuivre</m></head>
 
 <ab>Les ayant gectees bien nettes couvre les de <m>sel de verre</m><lb/>
 
-duquel nous usons pour sable &amp; lhumecte &amp; en trois ou 4
+duquel nous usons pour <m>sable</m> &amp; lhumecte &amp; en trois ou 4
 <ms><tmp>jours</tmp></ms><lb/>
 
 il sera vert <m>huile</m> les apres &amp; les tiens soubs le
@@ -177,12 +178,12 @@ il sera vert <m>huile</m> les apres &amp; les tiens soubs le
 
 </div>
 
-<div>
-<id>p085r_2</id>
+<div id="p085r_2" categories="household and daily life;decorative">
+
 <head><m>Colle</m></head>
 
 <ab>Les <pl>flamens</pl> recollent leurs <tl>pots de <m>terre</m></tl>
-avecq de lor coleur<lb/>
+avecq de lor coleu<ups>r</ups><lb/>
 
 cest a dire <m>minium</m> <m>massicot</m> &amp; <m>vernis</m></ab>
 

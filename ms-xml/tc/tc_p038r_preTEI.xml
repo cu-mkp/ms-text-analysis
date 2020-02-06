@@ -1,25 +1,25 @@
-<root>
-<page>038r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="038r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image</image>
 
-<div>
 
-<id>p038r_1</id>
+
+<div id="p038r_1" categories="stones">
+
+
 
 <head><m>Saphir</m></head>
 
-<ab>Il se trouve des <m>saphirs</m> quon appelle de treille pource quils
+<ab>Il se trouve des <m>saphirs</m> quon appelle <df>de treille</df> pource quils
 sont<lb/>
 
 perces et quon dict que certain <pro>roy</pro> en avoict faict certain
 ornem<exp>ent</exp> en forme<lb/>
 
 de treille co<exp>mme</exp> seroict peult estre lescran de
-<pn>charlemaigne</pn> ainsy nomme au<lb/>
+    <pn>charlemaigne</pn><comment rid="c_038r_02"/> ainsy nomme au<lb/>
 
 tresor de <pl>Saint denis</pl> ou les <m>pierreries</m> sont mises en
-œuvre sans foeille affin<lb/>
+oeuvre sans foeille affin<lb/>
 
 den avoyr la jouissance du jour dune part &amp; daultre &amp; pour
 monstrer<lb/>
@@ -37,13 +37,13 @@ de <m>taffre</m> ou d<m>esmail azure fort cler</m> parfondu sur le
 
 mort co<exp>mm</exp>e sur le <m>beril</m></add></ab></div>
 
-<div>
+<div id="p038r_2" categories="dyeing">
 
-<id>p038r_2</id>
+
 
 <head><m><pa>Safran</pa></m></head>
 
-<ab>Il se contrefaict &amp; saugmente avecq des <m>foeilles de
+    <ab>Il se contrefaict<comment rid="c_003r_02"/> &amp; saugmente avecq des <m>foeilles de
 <pa>soucy</pa> a demy seiches<lb/>
 
 &amp; retorses co<exp>mm</exp>e un fil</m> &amp; mises a seicher <env>au
@@ -53,9 +53,9 @@ plus chault soleil</env> &amp; se mesle<lb/>
 
 </div>
 
-<div>
+<div id="p038r_3" categories="stones">
 
-<id>p038r_3</id>
+
 
 <head><m>Saphir</m></head>
 
@@ -71,7 +71,7 @@ cest pour <del>souf</del><lb/>
 <m>saphir</m> ilz choisisent de beau bleu &amp; de tel endroict quil ny
 aye point de <del>pieces</del> <add>grains</add><lb/>
 
-sil est possible Et layant couppe en quarre avecq l<m>esmery</m> il le
+sil est possible Et layant couppe en quarre avecq l<tl><m>esmery</m></tl> il le
 taillent<lb/>
 
 a biseaulx &amp; le polissent Et en ceste sorte ilz contrefont de
@@ -89,9 +89,9 @@ le prenent au cul du <m>verre</m></ab>
 
 </div>
 
-<div>
+<div id="p038r_4" categories="stones">
 
-<id>p038r_4</id>
+
 
 <head><m>Ambre</m></head>
 
@@ -109,10 +109,10 @@ pourquoy ceulx qui le taillent avecq la <tl>lime</tl> ou sur la
 sil est possible ceste crouste Ains seulement le polissent le
 frottant<lb/>
 
-avecq un <tl>baston de <m><pl>saul</pl></m></tl> ou aultre <m>bois
-dous</m> saulce dans de l<m>eau</m> &amp;<lb/>
+avecq un <tl>baston de <m><pa>saul</pa></m></tl> ou aultre <tl><m>bois
+dous</m></tl> saulce dans de l<m>eau</m> &amp;<lb/>
 
-saulpouldre de <m>tripoly de <pl>bretaigne</pl></m> Et il prend beau
+saulpouldre de <tl><m>tripoly de <pl>bretaigne</pl></m></tl> Et il prend beau
 polyment Sil est<lb/>
 
 trop jaulne paille &amp; que tu luy veuilles augmenter la couleur pendes
@@ -130,7 +130,7 @@ Ou bien fais le <m>fumer</m><lb/>
 en <env>lieu clos</env> a la <m>fumee du safre</m> ou du
 <m>manganese</m> &amp; aultres <m>drogues</m><lb/>
 
-que tu scais Ou dans <m>urine</m> &amp; <m>vinaigre distille</m> mesle
+que tu scais Ou dans <m><bp>urine</bp></m> &amp; <m>vinaigre distille</m> mesle
 de couleurs ou a la<lb/>
 
 <m>vapeur deau fort</m> bouillant dans du <m>cuivre</m> ou <m>eau
@@ -139,10 +139,10 @@ fort</m> bouillant avecq<lb/>
 de l<m>argent</m> &amp; <m>sel armoniac</m> &amp; Aulcuns taillent
 l<m>ambre</m> a faces sur<lb/>
 
-une <tl>roue de <m>bois dous</m></tl> avecq de la <m>potee</m> au lieu
-d<m>esmery</m> &amp; le <m>jayet</m> aussy<lb/>
+une <tl>roue de <m>bois dous</m></tl> avecq de la <tl><m>potee</m></tl> au lieu
+d<tl><m>esmery</m></tl> &amp; le <m>jayet</m> aussy<lb/>
 
-Le <m>sel appelle de <pl>langlois</pl> de armonic</m> est <m>sel
+Le <m>sel appelle de l<pl>anglois</pl> <df>de armonic</df></m> est <m>sel
 mineral</m> qui semble <m>pierre de<lb/>
 
 mabre</m> et est mineral fort dur a grands pieces co<exp>mm</exp>e celuy
@@ -150,9 +150,9 @@ de <pl>cardonne</pl> &amp;<lb/>
 
 <pl>monserrat</pl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Jay experimente<lb/>
 

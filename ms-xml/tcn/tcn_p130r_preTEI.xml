@@ -1,11 +1,11 @@
-<root>
-<page>130r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="130r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=</image>
 
-<div>
 
-<id>p130r_1</id>
+
+<div id="p130r_1" categories="preserving;decorative">
+
+
 
 <head>Animaulx sechés au <tl>four</tl></head>
 
@@ -24,13 +24,13 @@ table</tl>, leur donnant le plant &amp; desmarche convenable.
 Estant<lb/>
 
 ainsy attaché par les pieds <add>avec de <tl>petits aneaulx de <m>fil de
-fer</m></tl> ainsy</add><comment>c_130r_02</comment>, il les faut pendre
+fer</m></tl> ainsy</add><comment rid="c_130r_02"/>, il les faut pendre
 <env>au soleil</env><lb/>
 
 l’eschine en bas. En ceste sorte ils prenent <del>&amp;d</del> leur ply
 &amp;<lb/>
 
-se seichent &amp; le ventre s’estroissist &amp; la queue demeure<lb/>
+se seichent, &amp; le ventre s’estroissist &amp; la queue demeure<lb/>
 
 hauste <add>ou avec le reply que tu luy auras donné</add>. Estant par ce
 moyen un peu secs, on leur contourne<lb/>
@@ -54,15 +54,15 @@ cornes, des aisles &amp; semblables fantasies. Ainsy des <al>rats</al>
 
 touts animaulx.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>
 
-<id>fig_p130r</id>
+    <comment rid="c_130r_03"/><figure size="x-small" id="fig_p130r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cHVsNnNVQ1l5RnM">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cHVsNnNVQ1l5RnM</link>
+
+
+
 
 </figure> qui embrassant<lb/>
 
@@ -76,9 +76,9 @@ d’<m>ardille</m>.</ab>
 
 </div>
 
-<div>
+<div id="p130r_2" categories="tricks and sleight of hand">
 
-<id>p130r_2</id>
+
 
 <head>Pour rougir les <al>escrevisses</al> vives,<lb/>
 
@@ -88,13 +88,13 @@ qui sembleront bouillies</head>
 d’<m>eau<lb/>
 
 de vye</m> &amp; non gueres, &amp; elles se pourront servir
-co<exp>mm</exp>e cuittes &amp; cheminer.</ab>
+co<exp>mm</exp>e cuittes &amp; chemi<exp>n</exp>eront.</ab>
 
 </div>
 
-<div>
+<div id="p130r_3" categories="casting">
 
-<id>p130r_3</id>
+
 
 <head>Mouler une <al>yraigne</al> seule</head>
 
@@ -108,9 +108,9 @@ jusques<lb/>
 
 à la moictié des jambes puys fais le second gect.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <corr><del>Affin</del></corr><lb/>
 
@@ -118,11 +118,11 @@ Les pieds pelus des grosses <al>yraignes</al>, co<exp>mm</exp>e<lb/>
 
 tout poil d’animal, ne se moule pas bien s’il n’est<lb/>
 
-couché l’ayant oint<lb/>
+couché, l’ayant oint<lb/>
 
 avecq de l’<m>huile de<lb/>
 
-<pa>froment</pa></m> qui l’afermist,<lb/>
+<pa>froment</pa></m> qui l’afermist<lb/>
 
 &amp; est bien tost sec.<lb/>
 
@@ -130,7 +130,7 @@ Les choses pelues<lb/>
 
 se meslent avecq le<lb/>
 
-sable &amp; ne se<lb/>
+<m>sable</m> &amp; ne se<lb/>
 
 bruslent pas<lb/>
 
@@ -138,9 +138,9 @@ bien.</ab>
 
 </div>
 
-<div>
+<div id="p130r_4" categories="casting">
 
-<id>p130r_4</id>
+
 
 <head>Mouler une feuille de <pa>vigne</pa> seule</head>
 
@@ -153,7 +153,7 @@ premier<lb/>
 <tl>moule</tl>. Ayant faict prise, descouvre le <del>dos</del> revers
 &amp; fais<lb/>
 
-le second gect, lequel estant prix tu peulx retirer la foeille.<lb/>
+le second gect, lequel estant prix, tu peulx retirer la foeille.<lb/>
 
 Et ne te faudra recuire ton <tl>moule</tl> qu’une fois, pource qu’il n’y
 aura<lb/>

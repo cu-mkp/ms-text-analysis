@@ -1,11 +1,11 @@
-<root>
-<page>097v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="097v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item</image>
 
-<div>
 
-<id>p097v_1</id>
+
+<div id="p097v_1" categories="varnish">
+
+
 
 <head><m>Vernis de mastic</m> sec en <ms><tmp>demye<lb/>
 
@@ -13,9 +13,9 @@ heure</tmp></ms></head>
 
 <ab>
 
-Aulcuns prenent 2 <ms><figure>℥</figure></ms> de <m>mastic</m>,
-<ms>demye <figure>℥</figure></ms> de <m>tourmentine</m> &amp; <ms>demye
-<figure>℥</figure></ms><lb/>
+Aulcuns prenent 2 <ms>℥</ms> de <m>mastic</m>,
+<ms>demye ℥</ms> de <m>tourmentine</m> &amp; <ms>demye
+℥</ms><lb/>
 
 de <m>huile de tourmentine</m> &amp; de l’<m>eau de vye</m>, un peu a
 discretion, pource q<exp>ue</exp><lb/>
@@ -55,7 +55,7 @@ adjoustes<lb/>
 y du <m>mastic</m>, et ainsy il sera faict. Et tiens le bien
 couvert<lb/>
 
-affin qu’aulcune ordure n’y entre. Quand tu en vouldras faire,<lb/>
+affin qu’aulcune <m>ordure</m> n’y entre. Quand tu en vouldras faire,<lb/>
 
 soys curieulx de trier &amp; choisir le <m>mastic</m> qui soict blanc
 &amp; purifié<lb/>
@@ -92,17 +92,17 @@ pour petits ouvrages. Advise bien en vernissant de ne halener pas<lb/>
 dessus, car cela feroit blanchir &amp; prendre corps au
 <m>vernis</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 Il deseiche presque en travaillant.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+
 
 On cognoist que ce<lb/>
 
@@ -126,7 +126,7 @@ ce qu’il soit bien.<lb/>
 
 Ce <m>vernis</m> est fort<lb/>
 
-blanc &amp; beau, &amp; n’enteste<lb/>
+blanc &amp; beau, &amp; n’<md><bp>enteste</bp></md><lb/>
 
 point co<exp>mm</exp>e celuy<lb/>
 
@@ -134,9 +134,9 @@ d’<m><pa>aspic</pa></m>.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Car aulcuns, au lieu<lb/>
 
@@ -150,9 +150,9 @@ pas si bon.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ce <m>vernis</m> se pose<lb/>
 
@@ -166,9 +166,9 @@ estendre bien vivement.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <pl>Italiens</pl> ne<lb/>
 
@@ -190,9 +190,9 @@ une peau &amp; croste<lb/>
 
 seiche.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 On couche le <m>vernis</m><lb/>
 
@@ -206,13 +206,13 @@ car estant espés, il jaulnist.
 
 </div>
 
-<div>
+<div id="p097v_2" categories="painting;medicine">
 
-<id>p097v_2</id>
+
 
 <head>Travailler d’aprest</head>
 
-<ab>C’est une chose estrange que les <pro>ouvriers</pro> de cest art
+<ab>C’est une chose estrange que les <pro>ouvriers</pro> de cest art<comment rid="c_097v_01"/> 
 ne<lb/>
 
 peuvent bien travailler s’ils n’ont bonne <bp>halene</bp>, car s’ils

@@ -1,13 +1,13 @@
-<root>
-<page>051v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="051v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f108.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f108.image</image>
 
-<div>
 
-<cont/>
 
-<id>p051r_2</id>
+<div continues="yes" id="p051r_2" categories="printing">
+
+
+
+
 
 <ab>qui est different de celuy des <pro>imprimeurs</pro> Il fault faire
 <tmp>long<lb/>
@@ -94,7 +94,7 @@ deulx<lb/>
 <tl>planche</tl> puys<lb/>
 
 daultre <tl><m>papier</m></tl> &amp; enfin ung aultre
-<tl><m>foeultre</m></tl>Puys passe entre<lb/>
+<tl><m>foeultre</m></tl> Puys passe entre<lb/>
 
 les <tl>rolleaulx</tl> Et tu peulx imprimer une douzaine de pieces<lb/>
 
@@ -107,7 +107,7 @@ de<lb/>
 l<m>ancre</m> se sechera dans les traicts de la <tl>planche</tl> Ainsy
 il te<lb/>
 
-la fauldra faire bouillir en <m>lessive</m> ou <m>urine</m>
+la fauldra faire bouillir en <m>lessive</m> ou <m><bp>urine</bp></m>
 co<exp>mm</exp>e est ja dict<lb/>
 
 pour la nettoyer Les <tl>rouleaux</tl> ne doibvent pas estre trop

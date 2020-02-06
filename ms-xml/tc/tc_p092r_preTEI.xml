@@ -1,13 +1,13 @@
-<root>
-<page>092r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="092r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image</image>
 
-<div>
-<id>p092r_1</id>
-<head><del>Sable</del> Mixture aysee a fondre</head>
 
-<ab>Une <del><ms><figure>℥</figure></ms> de</del> <ms>partye</ms>
+
+<div id="p092r_1" categories="casting">
+
+<head><del><m>Sable</m></del> Mixture aysee a fondre</head>
+
+<ab>Une <del><ms>℥</ms> de</del> <ms>partye</ms>
 d<m>estaim doux</m> une <ms>partye</ms> de <m>plomb fin</m> une<lb/>
 
 <ms>partye</ms> d<m>estaim de glace</m> &amp; une <ms>partie</ms>
@@ -19,8 +19,8 @@ fondre<lb/>
 dans un <tl>plat d<m>estaim fin</m></tl></ab>
 
 </div>
-<div>
-<id>p092r_2</id>
+<div id="p092r_2" categories="casting">
+
 <head>Mouler cave dun coste et de relief<lb/>
 
 de laultre</head>
@@ -65,10 +65,10 @@ retirer l<m>estain</m></ab>
 
 <ab>L<m>estaim</m> veult estre gecte bien chault pour venir net</ab>
 
-<ab><rub>L<m>estain<comment>c_092r_01</comment> doulx</m> qui</rub> est
+<ab><emph><underline>L</underline><m><underline>estain</underline> doulx</m> qui</emph> est
 le meilleur pour le gect est celuy qui estant<lb/>
 
-gecte en <tl>grille</tl> est <del>bruny &amp;</del> luisant &amp; poly
+gecte en grille<comment rid="c_028v_05"/> est <del>bruny &amp;</del> luisant &amp; poly
 co<exp>mm</exp>e un mirouer &amp; qui semble<lb/>
 
 avoyr este bruny Et nha poinct de trous co<exp>mm</exp>e celuy qui est
@@ -78,21 +78,21 @@ nest point luisant co<exp>mm</exp>e bruny</ab>
 
 </div>
 
-<div>
-<id>p092r_3</id>
+<div id="p092r_3" categories="metal process">
+
 <head><m>Potin</m></head>
 
 <ab>Le <m>potin</m> estant gecte chault court &amp; coule
 co<exp>mm</exp>e <m>estaim</m> Mays la<lb/>
 
-medaille en est blanchastre et jecte incontinent le <m>verd</m> Ce que
+medaille en est blanchastre et jecte incontinent le <m>verd</m><comment rid="c_092r_03"/> Ce que
 ne faict<lb/>
 
 la bonne matiere</ab>
 
 </div>
-<div>
-<id>p092r_4</id>
+<div id="p092r_4" categories="casting">
+
 <head>Mouler statues</head>
 
 <ab>La <ms>moictie</ms> de <m>terre bourre dont usent les

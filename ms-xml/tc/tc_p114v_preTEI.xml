@@ -1,34 +1,25 @@
-<root>
-<page>114v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="114v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image</image>
 
-<div>
 
-<cont/>
 
-<id>p114r_1</id>
+<div continues="yes" id="p114r_1" categories="casting" continued="yes">
 
-<figure>
 
-<id>fig_p114v_1</id>
 
-<margin>left-top</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc</link>
-
+<figure size="small" id="fig_p114v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
 </figure>
 
 <ab>Cela ainsy præpare pose ton <del>de</del> premier demy
 <tl>molle</tl> sur la<lb/>
 
-tourtelle de <del><m>terre</m></del> <m>ardille</m> &amp; y mects le
+<po>tourtelle</po> de <del><m>terre</m></del> <m>ardille</m> &amp; y mects le
 cercle de mesme aultour<lb/>
 
 &amp; fais la marque de lespesseur semblable a la premiere<lb/>
 
 puys avecq un aultre <tl>pinceau</tl> asses
-grosset<comment>c_114v_01</comment> mouille bien<lb/>
+grosset<comment rid="c_114v_01"/> mouille bien<lb/>
 
 par tout la moictie <del>&amp; le ventre</del> descouverte de ton
 animal<lb/>
@@ -39,9 +30,9 @@ possible qui nen soict mouille<lb/>
 car cest le secret qui faict venir net Et apres le plus<lb/>
 
 promptement quil te sera possible devant que l<m>eau de
-viye</m><comment>c_114v_02</comment><lb/>
+viye</m><lb/>
 
-<del>ne</del> sesvapore destrempe ton sable et le gecte a secousses<lb/>
+<del>ne</del> sesvapore destrempe ton <m>sable</m> et le gecte a secousses<lb/>
 
 et en souflant &amp; mouva<exp>n</exp>t le <tl>moule</tl>
 co<exp>mm</exp>e tu as faict au<lb/>
@@ -55,7 +46,7 @@ que le suivant affin quil mouille bien par tout &amp; resuive les<lb/>
 plus subtilles parties Adoncq laisse un <ms><tmp>quart
 dheure</tmp></ms><lb/>
 
-fayre prise puys oste le cercle &amp; tourtelle d<m>ardille</m> Et<lb/>
+fayre prise puys oste le cercle &amp; <po>tourtelle</po> d<m>ardille</m> Et<lb/>
 
 avec un <tl>costeau</tl> adapte tes deulx <tl>moles</tl> uniment
 ensemble<lb/>
@@ -107,21 +98,15 @@ essorer<lb/>
 car il se garderont humides bien un <ms><tmp>moys</tmp></ms> fais les
 souspirails a une moictie
 
-<figure>
-
-<id>fig_p114v_3</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg</link>
-
-</figure>
+    <figure size="x-small" id="fig_p114v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg">
+</figure><comment rid="c_114v_01"/>
 
 </ab>
 
-<ab>
 
-<margin>left-top</margin>
+<ab margin="left-middle">
 
-<figure>+</figure>
+<mark>+</mark><lb/>
 
 Note que quand tu as<lb/>
 
@@ -143,9 +128,8 @@ louvrir co<exp>mm</exp>e pour les<lb/>
 
 <al>chancres</al></ab>
 
-<ab>
 
-<margin>left-top</margin>
+<ab margin="left-middle">
 
 Si apres que les deulx<lb/>
 
@@ -167,9 +151,8 @@ imbeue se retire a la superficie<lb/>
 &amp; adroit les joinctures &amp; les<lb/>
 faict separer</ab>
 
-<ab>
 
-<margin>left-middle</margin>
+<ab margin="left-middle">
 
 Toutesfois advise<lb/>
 
@@ -223,25 +206,19 @@ joincts le &amp; par le<lb/>
 
 revers fortifie les joinctures avecq des <tl>crampons</tl>
 
-<figure>
-
-<id>fig_p114v_4</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM</link>
-
+    <figure size="x-small" id="fig_p114v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM">
 </figure>
 
 </ab>
 
-<ab>
 
-<margin>bottom</margin>
+<ab margin="bottom">
 
 Apres tu peulx reparer les faultes<lb/>
 
 avecq de petits <tl>ciseaulx</tl>
 
-<cont/>
+
 
 </ab>
 

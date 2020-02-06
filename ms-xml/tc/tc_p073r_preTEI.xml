@@ -1,16 +1,16 @@
-<root>
-<page>073r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image</image>
 
-<div>
 
-<id>p073r_1</id>
 
-<head>@<comment>c_073r_01</comment> Pour faire <m>vernys pers</m></head>
+<div id="p073r_1" categories="wood and its coloring">
+
+
+
+<head><comment rid="c_073r_01"/> Pour faire <m>vernys pers</m></head>
 
 <ab>Prenes du <m>pers de fleurs <add>de fleuree ou de
-<pl>Flandres</pl></add></m> &amp; de la <m>chault vifve</m> Et mettes de
+<pl>Flandres</pl></add></m><comment rid="c_073r_02"/> &amp; de la <m>chault vifve</m> Et mettes de
 l<m>eau</m><lb/>
 
 dessus environ quatre <ms><bp>doigts</bp></ms> et le laisses tremper ung
@@ -23,11 +23,11 @@ poser sans le <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p073r_2" categories="wood and its coloring">
 
-<id>p073r_2</id>
 
-<head>Pour Couleur dorange</head>
+
+<head>Pour couleur dorange</head>
 
 <ab>Prenes de l<m>eau</m> ou la <m>chault</m> aura trempe Et Mectes du
 <m>terroy<lb/>
@@ -37,9 +37,9 @@ v<exp>ost</exp>re <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p073r_3" categories="wood and its coloring">
 
-<id>p073r_3</id>
+
 
 <head>Pour desgresser <m>os</m> ou <m>corne</m></head>
 
@@ -49,22 +49,22 @@ ayt<lb/>
 tousjours de l<m>eau</m> Et prenes une <tl>casse</tl> bien necte Et
 quand Ilz seront<lb/>
 
-laves les feres bouilhir dans de la <m>Cendre de <pl>serment</pl></m> et
+laves les feres bouilhir dans de la <m>Cendre de <pa>serment</pa></m> et
 les<lb/>
 
 mectres dedans un <tl>pot</tl> le plus chault q<exp>ue</exp> pourres et
 mectres dedans<lb/>
 
-le <tl>pot de l<m>eaue des <pro>orfevres</pro></m></tl> du <m>vert de
+le <tl>pot</tl> de l<m>eaue des <pro>orfevres</pro></m> du <m>vert de
 gris</m> Et laisser Lespace de<lb/>
 
 quelque temps et verres une Fort belle coulleur de verd</ab>
 
 </div>
 
-<div>
+<div id="p073r_4" categories="wood and its coloring">
 
-<id>p073r_4</id>
+
 
 <head>Pour faire <m>boys</m> gris</head>
 
@@ -77,22 +77,22 @@ le <m>son</m><lb/>
 Et le bouttes ensemble prenes <m>limailhe de Fer</m> &amp; du
 <m>souffre</m> &amp; du<lb/>
 
-<m>verd de Gris</m> Et de la <add>@<comment>c_073r_03</comment>
-<m>moullee</m></add> <gap/> Et faictes tout boulhir<lb/>
+<m>verd de Gris</m> Et de la <add>
+<m>moullee</m></add><comment rid="c_073r_03"/> <gap/> Et faictes tout boulhir<lb/>
 
 ensemble Et bouttes <m>boys d<pa>erable</pa></m> q<exp>ui</exp> aura
 trempe dedans l<m>eaue<lb/>
 
 dalung</m> et l<m>eaue despuis</m> &amp; le mectres bouillir ensemble
-<add>@Le tout se<lb/>
+<add>Le tout se<lb/>
 
-Fera mieulx dedans ung <m>Grais</m> Cruze</add></ab>
+Fera mieulx dedans ung <tl><m>Grais</m></tl> Cruze</add></ab>
 
 </div>
 
-<div>
+<div id="p073r_5" categories="metal process" continued="yes">
 
-<id>p073r_5</id>
+
 
 <head>Pour faire <m>bronze</m> a couleur dor</head>
 
@@ -101,7 +101,7 @@ ung<lb/>
 
 <tl>mortier de <m>fer</m></tl> Estant bien broye prenes une
 <ms>once</ms> de <m>soufre</m> Et le</ab>
-<cont/>
+
 
 </div>
 </root>

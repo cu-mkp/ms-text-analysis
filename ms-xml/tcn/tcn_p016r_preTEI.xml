@@ -1,22 +1,22 @@
-<root>
-<page>016r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="016r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image</image>
 
-<div>
-<id>p016r_1</id>
+
+
+<div id="p016r_1" categories="metal process">
+
 <head>Fonte de <m>fer doux</m></head>
 
 <ab>Le <pro>commun</pro> estime que le <m>fer</m>, une fois fondu, ne se
 peult refondre, pource que<lb/>
 
-ilz ne le chaufent qu'à <tl>petites forges</tl> où il ne faict que
+ilz ne le chaufent qu’à <tl>petites forges</tl> où il ne faict que
 prendre ignition.<lb/>
 
 Les <pro>alchemistes</pro> se promectent de le faire fondre avecq du
 <m>realgar</m> ou du<lb/>
 
-<m>plomb</m> ou de l’<m>orpiment meslé</m>. Mays sans tout cela, aulcuns
+<m>plomb</m> ou de l’<m>orpiment</m> meslé. Mays sans tout cela, aulcuns
 ont trouvé<lb/>
 
 la maniere de <del>le</del> faire fondre non seulement le <m>fer
@@ -31,17 +31,17 @@ sorte, qui ha un<lb/>
 <ms>pan &amp; demy</ms> de large &amp; <del>un <ms>pan &amp; demy</ms>
 de</del> deulx <ms>pans</ms> de profond. Et la<lb/>
 
-tuelle, qui est le canon <del>par</del> marqué A, par où les tuyaulx des
-souflets s'emboictent,<lb/>
+<tl>tuelle</tl>, qui est le canon <del>par</del> marqué A, par où les <tl>tuyaulx des
+souflets</tl> s’emboictent,<lb/>
 
-doibt estre posée au milieu de la profondeur du <tl>fourneau</tl>, de
+doibt<comment rid="c_016r_01"/> estre posée au milieu de la profondeur du <tl>fourneau</tl>, de
 sorte<lb/>
 
-qu'il y aye un <ms>pan</ms> de gueule de <tl>four</tl> sur la tuelle
-&amp; un <ms> pan</ms> dessouls.</ab>
+qu’il y aye un <ms>pan</ms> de gueule de <tl>four</tl> sur la <tl>tuelle</tl>
+&amp; un <ms>pan</ms> dessouls.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Chasque <ms>pan</ms><lb/>
 
 de gueule de <tl>four<lb/>
@@ -56,32 +56,22 @@ rond</tl> en tient deulx<lb/>
 
 <ms>quintals</ms>.</ab>
 
-<div>
+</div>
+    
+    <div id="p016r_1" part="y">
+        
+<ab margin="left-middle" render="wide"><figure id="fig_p016r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
+</figure></ab>
 
-<figure>
+<ab margin="right-middle">
 
-<id>fig_p016r_1</id>
-
-<margin>left-middle</margin>
-
-<render>wide</render>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk</link>
-
-<!--José Beltrán Coello: Drawn before the writing of at least the second
-half of the first paragraph-->
-
-</figure>
-
-<ab>
-<margin>right-middle</margin>
 Les <pro>minerons</pro>, pour fayre<lb/>
 
 courre le <m>fer</m>, mectent à la<lb/>
 
 bouche de leur fonte deulx ou<lb/>
 
-trois <ms><bp>poignées</bp></ms> d'<m><pa>hiebles</pa></m>,
+trois <ms><bp>poignées</bp></ms> d’<m><pa>hiebles</pa></m>,
 co<exp>mm</exp>e ilz<lb/>
 
 veulent faire courre la fonte.<lb/>
@@ -91,10 +81,10 @@ Et cela rend le <m>fer</m> merveilleusem<exp>ent</exp><lb/>
 ductible &amp; courant.</ab>
 
 </div>
+    
+<div id="p016r_1" continued="yes" part="y">
 
-<div>
-
-<ab>Il fault aussy que la tuelle entre jusques au milieu de la gueule du
+<ab>Il fault aussy que la <tl>tuelle</tl> entre jusques au milieu de la gueule du
 <tl>fourneau</tl>,<lb/>
 
 qui est un poinct principal du secret, pource que le vent vient à fraper
@@ -113,12 +103,12 @@ vent battoit<lb/>
 &amp;<lb/>
 
 empescheroit de courre &amp; de se fondre. Il fault aussy que les
-souflets<lb/>
+<tl>souflets</tl><lb/>
 
-soict conduicts par le sault &amp; cours de l'<m>eau</m>
+soict conduicts par le sault &amp; cours de l’<m>eau</m>
 co<exp>mm</exp>e aulx <tl>forges</tl>, pource que en<lb/>
 
-ceste sorte les souflets vont par mesure &amp; compas &amp; d'une grande
+ceste sorte les <tl>souflets</tl> vont par mesure &amp; compas &amp; d’une grande
 vistesse,<lb/>
 
 ce que ne pourroit <del>f</del> pas faire la force des
@@ -148,8 +138,8 @@ que tu pourras trouver<lb/>
 bas amoncellant en hault <del>comme</del> en poincte jusques au hault de
 la muraille</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns font<lb/>
 
 un <tl>moule</tl> du<lb/>
@@ -164,7 +154,7 @@ un loppin de <m>fer<lb/>
 
 doulx</m> couppé de<lb/>
 
-mesure. &amp; comme<lb/>
+mesure &amp; comme<lb/>
 
 ce loppin est bien<lb/>
 
@@ -172,7 +162,7 @@ rouge, ilz le<lb/>
 
 frappent dans le<lb/>
 
-<tl>moule</tl> &amp; l'arrondissent<lb/>
+<tl>moule</tl> &amp; l’arrondissent<lb/>
 
 avecq une <tl>grosse<lb/>
 
@@ -190,9 +180,7 @@ sont plus subgectes<lb/>
 
 à rompre.</ab>
 
-</div>
 
-<cont/>
 
 </div>
 </root>

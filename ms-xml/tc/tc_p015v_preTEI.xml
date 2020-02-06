@@ -1,11 +1,11 @@
-<root>
-<page>015v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="015v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item</image>
 
-<div>
 
-<id>p015v_1</id>
+
+<div id="p015v_1" categories="wood and its coloring;decorative;tool">
+
+
 
 <head>Tablettes</head>
 
@@ -20,9 +20,9 @@ dargent</tl> Et apres on lefface avecq de l<tl><m>os de
 
 </div>
 
-<div>
+<div id="p015v_2" categories="practical optics">
 
-<id>p015v_2</id>
+
 
 <head>L<exp>ett</exp>re plus lisable</head>
 
@@ -36,9 +36,9 @@ l<exp>ett</exp>re</ab>
 
 </div>
 
-<div>
+<div id="p015v_3" categories="decorative;metal process">
 
-<id>p015v_3</id>
+
 
 <head>Stamper</head>
 
@@ -47,23 +47,25 @@ veuilles<lb/>
 
 fayre fort legere fais en un cave de <m>plomb</m> puys estands<lb/>
 
-sur iceluy du <m>clinquant</m> ou des <m>lames de plomb</m> ou
-d<m>argent<lb/>
+sur iceluy du <m>clinquant</m> ou des <m>lames de plomb ou
+dargent<lb/>
 
-<del>recuit</del><comment>c_015v_04</comment> recuit</m> &amp; pose ta
+recuit recuit</m> &amp; pose ta
+
 medaille de <m>bronze</m> dessus &amp; frappe avecq<lb/>
 
 un <tl>mail de <m>bois</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p015v_4" categories="tool;decorative">
 
-<id>p015v_4</id>
+
 
 <head>Ramolir la <m>corne</m></head>
 
-<ab>Ceulx qui <del>acou</del> mectent en œuvre les agnus dei &amp; font
+<ab>Ceulx qui <del>acou</del> mectent en oeuvre les agnus dei<comment rid="c_015v_04"/> &amp; font
+
 des cercles<lb/>
 
 de <m>corne</m> pour certaines petites boictes Ramolissent
@@ -76,32 +78,32 @@ sur un <tl>triboulet en rond ou faict en ovale</tl></ab>
 
 </div>
 
-<div>
+<div id="p015v_5" categories="medicine">
 
-<id>p015v_5</id>
+
 
 <head><bp>Oreilles</bp></head>
 
-<ab>Quand quelque defluxion y vient il se fault bien garder dy rien<lb/>
+    <ab>Quand quelque <md>defluxion</md><comment rid="c_015v_01"/> y vient il se fault bien garder dy rien<lb/>
 
-mectre dedans Et selon le proverbe a<comment>c_015v_05</comment>
+mectre dedans Et selon le proverbe<comment rid="c_015v_02"/> <md>a
 l<bp>oeil</bp> &amp; a l<bp>oreille</bp> il ny fault<lb/>
 
-toucher que du <bp>coulde</bp> Touteffois a l<bp>oreille</bp> affectee
+toucher que du <bp>coulde</bp></md> Touteffois a l<bp>oreille</bp> affectee
 est bon de mectre<lb/>
 
 du <m>cothon musque</m> cest a dire tenu parmy du <m>musc</m> car il
-conforte<lb/>
+<md>conforte<lb/>
 
-bien fort</ab>
+bien fort</md></ab>
 
 </div>
 
-<div>
+<div id="p015v_6" categories="medicine">
 
-<id>p015v_6</id>
 
-<head>Mal des <bp>dents</bp></head>
+
+<head><md>Mal des <bp>dents</bp></md></head>
 
 <ab>Aulcuns mectent une <m>gousse d<pa>ail</pa></m> dans
 l<bp>oreille</bp> qui est<lb/>
@@ -113,7 +115,7 @@ il sen trouvent bien Aultres mectent dans la <bp>narine</bp><lb/>
 
 qui est du coste de la <bp>dent</bp> qui deult de la peau verte<lb/>
 
-raclee d<del>e</del>u serment de <df><pa>visaube</pa></df> scavoir celle
+raclee d<del>e</del>u serment de <pa><po>visaube</po></pa><comment rid="c_015v_03"/> scavoir celle
 qui est soubs<lb/>
 
 la grise qui semble sarment</ab>

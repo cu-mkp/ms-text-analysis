@@ -1,19 +1,19 @@
-<root>
-<page>165v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="165v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image</image>
 
-<div>
-<id>p165v_1</id>
+
+
+<div id="p165v_1" categories="casting">
+
 <head>Plant danimaulx</head>
 
 <ab>Non seulem<exp>ent</exp> avec les <tl>poinctes de <m>fer</m></tl>
 Mays avecq de la<lb/>
 
 <m>cire fondue</m> les animaulx sasseurent sur la <tl>plaste de
-<m>terre</m></tl><lb/>
+<m>terre</m></tl><lb/></ab>
 
-@<comment>c_165v_02</comment><add>Laves les premierem<exp>ent</exp> en
+<ab margin="right-middle"><add>Laves les premierem<exp>ent</exp> en
 <m>eau claire</m> estant morts dans la mixtion<lb/>
 
 de <m>vinaigre</m> &amp; <m><bp>urine</bp></m><lb/>
@@ -38,7 +38,7 @@ car<lb/>
 
 jamays<lb/>
 
-le sable<lb/>
+le <m>sable</m><lb/>
 
 ny prendroit<lb/>
 
@@ -46,10 +46,10 @@ bien et<lb/>
 
 viendroit<lb/>
 
-grumeleux</add></ab>
+grumeleux</add><comment rid="c_165v_02"/><hr/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu leur veulx fayre tenir<lb/>
 
 la bouche ouverte<lb/>
@@ -66,39 +66,39 @@ lieu</ab>
 
 </div>
 
-<div>
-<id>p165v_2</id>
-<head>Gardes <al>animaulx</al></head>
+<div id="p165v_2" categories="casting">
+
+<head>Gardes animaulx</head>
 
 <ab>Si les ayant moules une foys tu les veulx garder<lb/>
 
 pour les mouler dadvantage remects les dans ceste<lb/>
 
-mixtion d<m>urine</m> <m>vinaigre</m> &amp; <m>eau de vye</m> ou tu
+mixtion d<m><bp>urine</bp></m> <m>vinaigre</m> &amp; <m>eau de vye</m> ou tu
 as<lb/>
 
 faict mourir les aultres Et il sy gardera fort<lb/>
 
-long temps sans se gaster @<comment>c_165v_03</comment> Si tu as quelque
+<tmp>long temps</tmp> sans se gaster <comment rid="c_165v_03"/> Si tu as quelque
 <md>entameure en<lb/></md>
 
 <md>la main gardes bien que ceste mixtion ny touche</md></ab>
 
 </div>
 
-<div>
-<id>p165v_3</id>
+<div id="p165v_3" categories="casting">
+
 <head><tl>Moules</tl></head>
 
-<ab>Estant moules ne les garde pas long temps Ains les<lb/>
+<ab>Estant moules ne les garde pas <tmp>long temps</tmp> Ains les<lb/>
 
 employe <del>u</del> le plustot que tu pourras
 pourcequesta<exp>n</exp>t<lb/>
 
-long temps gardes ilz sont subgects a se corrompre</ab>
+<tmp>long temps</tmp> gardes ilz sont subgects a se corrompre</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand ilz sont<lb/>
 
 recuits la chose<lb/>
@@ -107,28 +107,28 @@ y vient mieulx</ab>
 
 </div>
 
-<div>
-<id>p165v_4</id>
-<head><m>Luth</m></head>
+<div id="p165v_4" categories="casting">
 
-<ab>A la recuite tu peulx bien employer le <m>luth commun</m> Mays<lb/>
+<head><m><tl>Luth</tl></m></head>
 
-quand tu vouldras gecter despouilles en le <tl>moule</tl> &amp;
+<ab>A la recuite tu peulx bien employer le <m><tl>luth commun</tl></m> Mays<lb/>
+
+quand tu vouldras gecter despouilles en le <tl>moule</tl><comment rid="c_165v_04"/> &amp;
 pro<exp>m</exp>ptem<exp>ent</exp><lb/>
 
-avecq une <tl>broisse</tl> couche le <m>luth de plastre qui ha<lb/>
+avecq une <tl>broisse</tl> couche le <m><tl>luth</tl> de plastre qui ha<lb/>
 
 servy aulx <tl>moules</tl></m> car il sera sec en se posant &amp;<lb/>
 
-gecte Il fault principallem<exp>ent</exp> mectre ce <m>luth</m> sur
+gecte Il fault principallem<exp>ent</exp> mectre ce <m><tl>luth</tl></m> sur
 les<lb/>
 
 joinctures</ab>
 
 </div>
 
-<div>
-<id>p165v_5</id>
+<div id="p165v_5" categories="metal process;casting">
+
 <head><m>Argent</m></head>
 
 <ab><ms>Quand il sautille</ms> estant fondu cest signe quil est<lb/>
@@ -142,8 +142,8 @@ attire &amp; amasse le <m>plomb</m></ab>
 
 </div>
 
-<div>
-<id>p165v_6</id>
+<div id="p165v_6" categories="casting">
+
 <head>Aisle de <al>mousche</al></head>
 
 <ab>Affin quelles viennent mieulx mects despuys le gect<lb/>
@@ -154,20 +154,13 @@ aussy que soubs le ventre il y aye asses de <m>cire</m><lb/>
 
 car cest ce qui faict le gect</ab>
 
-<figure>
-
-<id>fig_p165v_1</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UmhqY1RkWFRhYzg</link>
-
+    <figure size="small" id="fig_p165v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmhqY1RkWFRhYzg">
 </figure>
 
 </div>
 
-<div>
-<id>p165v_7</id>
+<div id="p165v_7" categories="casting">
+
 <head>Raporter quelque aisle<lb/>
 
 de <al>mousche</al> ou semblable</head>

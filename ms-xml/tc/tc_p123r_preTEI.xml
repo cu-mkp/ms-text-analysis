@@ -1,50 +1,50 @@
-<root>
-<page>123r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="123r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f251.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f251.item.r=</image>
 
-<div>
-<id>p123r_1</id>
+
+
+<div id="p123r_1" categories="metal process" continued="yes">
+
 <head>Moyen <it>di far correr
-l<m>otnegra</m></it><comment>c_123r_01</comment> </head>
+l<m>otnegra</m></it><comment rid="c_123r_01"/> </head>
 
 <ab>P<exp>rens</exp> <m>arsenic blanc</m> deulx <ms>unces</ms> 2
-<ms><figure>℥</figure></ms><lb/>
+<ms>℥</ms><lb/>
 
 <m>Orpiment</m> ou bien <m>arsenic jaulne</m> deulx <ms>unces</ms> 2
-<ms><figure>℥</figure></ms><lb/>
+<ms>℥</ms><lb/>
 
 <m><la>Aes ustum</la></m> deulx <ms>unces</ms> 2
-<ms><figure>℥</figure></ms><lb/>
+<ms>℥</ms><lb/>
 
 <m>Limaille de cuivre <add>fin</add></m> mediocrem<exp>ent</exp>
-subtille 2 <ms><figure>℥</figure></ms><lb/>
+subtille 2 <ms>℥</ms><lb/>
 
-<m>Antimoyne</m> 2 <ms><figure>℥</figure></ms><lb/>
+<m>Antimoyne</m> 2 <ms>℥</ms><lb/>
 
-<m>Sal gemme</m> 2 <ms><figure>℥</figure></ms><lb/>
+<m>Sal gemme</m> 2 <ms>℥</ms><lb/>
 
-<m>Tartre crud</m> 2 <ms><figure>℥</figure></ms><lb/>
+<m>Tartre crud</m> 2 <ms>℥</ms><lb/>
 
-<m>Suin de verre</m> 2 <ms><figure>℥</figure></ms><lb/>
+<m>Suin de verre</m> 2 <ms>℥</ms><lb/>
 
 <m>Salpestre</m> la <ms>moictie</ms> scavoir 1
-<ms><figure>℥</figure></ms><lb/>
+<ms>℥</ms><lb/>
 
 <m>Sel gros commun <add>fondu</add></m> la <ms>moictie</ms> 1
-<ms><figure>℥</figure></ms><lb/>
+<ms>℥</ms><lb/>
 
-<m>Sublime</m> la <ms>moictie</ms> 1 <ms><figure>℥</figure></ms><lb/>
+<m>Sublime</m> la <ms>moictie</ms> 1 <ms>℥</ms><lb/>
 
-<m>Borras</m> la <ms>moictie</ms> 1 <ms><figure>℥</figure></ms><lb/>
+<m>Borras</m> la <ms>moictie</ms> 1 <ms>℥</ms><lb/>
 
 <m>Sel armoniac</m> <ms>aultant que de <m>borras</m></ms> scavoir 1
-<ms><figure>℥</figure></ms></ab>
+<ms>℥</ms></ab>
 
 <ab> P<exp>rens</exp> de ces materiaulx des meilleurs que tu pourras
 trouver Poises<lb/>
 
-les co<exp>mm</exp>e cy dessus est dict et les piles separement Vous
+les co<exp>mm</exp>e cy dessus est dict et les <tl>piles</tl> separement Vous
 tenant<lb/>
 
 le <bp>visaige</bp> bande sur le <bp>nes</bp> &amp; la <bp>bouche</bp>
@@ -53,57 +53,56 @@ despuys les <bp>yeulx</bp> en<lb/>
 bas pour eviter lexalation de l<m>arsenic</m> <m>sublime</m> et
 <m>orpiment</m><lb/>
 
-Mesles les bien tous ensemble Puys les mectes dans un bon<lb/>
+Mesles les bien tous ensemble Puys les mectes dans un bo<ups>n</ups><lb/>
 
-<tl>crusol</tl> qui soict si grand que les matieres y puissent
-avoir<lb/>
+<tl><oc>crusol</oc></tl> qui soict si grand que les matieres y puissent
+avoi<ups>r</ups><lb/>
 
 de vuyde la <ms>quarte ou cinquiesme partye</ms> Couvres le
-<tl>crusol</tl><lb/>
+<tl><oc>cruso<ups>l</ups></oc></tl><lb/>
 
 dun bon <tl>tuyle</tl> adapte en rond justement sur son ouverture
-Et<lb/>
+E<ups>t</ups><lb/>
 
 layant lie de hault en bas et par les costes de <tl><m>fil de
 fer</m></tl><lb/>
 
-asses fort Lutes le avecq de la <m>terre fiens ou terre bourre<lb/>
+asses fort <m><tl>Lutes</tl></m> le avecq de la <m>terre fiens ou terre bourre<lb/>
 
-de laquelle les <pro>fondeurs dartiglerie</pro> se servent</m> Et en
+de laquelle les <pro>fondeurs d<wp>artiglerie</wp></pro> se servent</m> Et en
 cela<lb/>
 
-soyes curieux &amp; diligent &amp; noublies pas di mesler du <m>verre
-pile</m><lb/>
+soyes curieux &amp; diligent &amp; noublies pas di mesler du <m>verr<ups>e</ups><lb/>
 
-parmy le <m>luth</m> pour fortifier v<exp>ost</exp>re <tl>crusol</tl> De
-maniere<lb/>
+<tl>pile</tl></m> parmy le <m><tl>luth</tl></m> pour fortifier v<exp>ost</exp>re <tl><oc>crusol</oc></tl> De
+manier<ups>e</ups><lb/>
 
 quil ne prene point de vent car la matiere ne vauldroit<lb/>
 
 gueres A cause que les <del>4</del> <add>cinq</add> derniers ingredients
-sexhaleroient </ab>
+sexhaler<ups>oient</ups></ab>
 
-<ab>
-<margin>right-top</margin>
+<ab margin="right-middle">
+
 Note quil te fault<lb/>
 
-bien luter ton <tl>creuset</tl><lb/>
+bien <m><tl>luter</tl></m> ton <tl>creuset</tl><lb/>
 
 affin que les matieres<lb/>
 
 ne prenent vent car<lb/>
 
-elles sexalleroient </ab>
+elles sexalle<ups>nt</ups> </ab>
 
-<ab>
-<margin>right-middle</margin>
-Lute bien ton <tl>crusol</tl><lb/>
+<ab margin="right-middle">
 
-affin quil ne se rompe<lb/>
+<m><tl>Lute</tl></m> bien ton <tl><oc>crusol</oc></tl> <lb/>
+
+affin quil ne se romp<ups>e</ups><lb/>
 
 Car sil se rompt les<lb/>
 
-materiaulx sevaporent<lb/>
+materiaulx sevaporen<ups>t</ups><lb/>
 
 &amp; <md>la fumee en est<lb/>
 
@@ -115,8 +114,8 @@ dangereuse</md> si en xii<lb/>
 
 point bien </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Les <pro>orfevres</pro><lb/>
 
 qui ont cognoi<lb/>
@@ -173,13 +172,13 @@ affin quil nen soit<lb/>
 
 point abuse</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-middle">
+
 <lb/>Le grain est co<exp>mm</exp>e<lb/>
 
 de l<m>acier rompu</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

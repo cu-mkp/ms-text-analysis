@@ -1,13 +1,13 @@
-<root>
-<page>134r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="134r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image</image>
 
-<div>
 
-<cont/>
 
-<id>p133v_3</id>
+<div continues="yes" id="p133v_3" categories="casting">
+
+
+
+
 
 <ab>
 
@@ -31,7 +31,7 @@ des tanvres petit<del>s</del>es <tl>plastes de <m>cire</m></tl> au bout
 des pattes du <al>lesard</al><lb/>
 
 Mays si cest dune <al>petite angroisse</al> couvre
-legerem<corr><exp>ent</exp></corr> de <m>cire</m> tout le<lb/>
+legerem de <m>cire</m> tout le<lb/>
 dessoubs du pied <del>et</del> et <del>cela</del> la <m>cire</m> sostant
 apres le second gect<lb/>
 
@@ -42,7 +42,7 @@ il demeure une cavite qui remplist ces petits doigts de
 
 la <m>cire</m> les partyes de lanimal qui passent lune sur laultre<lb/>
 
-avecq que le sable destrempe entrant entre deulx ne le fasse<lb/>
+avecq que le <m>sable destrempe</m> entrant entre deulx ne le fasse<lb/>
 
 enlever <del>Et si</del> Car si cela advenoit le <del><tl>moule</tl> se
 gasteroit</del> plant<lb/>
@@ -62,9 +62,9 @@ inconvenient advenoit tu le pourras reparer en ceste sorte</ab>
 
 </div>
 
-<div>
+<div id="p134r_1" categories="casting">
 
-<id>p134r_1</id>
+
 
 <head>Pour racoustrer un <tl>moule</tl> perce</head>
 
@@ -76,31 +76,31 @@ et se divertist du plant que tu luy as donne ou pour nestre<lb/>
 
 pas bien mort ou pour navoir pas este bien attache avecq les<lb/>
 
-<tl>poinctes de <m>fer</m></tl> ou avecq <m>cire</m> fondue et quil naye
-pas lespesseur<lb/>
+<tl>poinctes de <m>fer</m></tl> ou avecq <m>cire fondue</m> et quil naye
+pas lespess<ups>eur</ups><lb/>
 
 quil convient par dehors au droit de lenleveure ou soict perce<lb/>
 
-Plustost quoster lanimal de dedans descouvre sil te semble<lb/>
+Plustost quoster lanimal de dedans descouvre sil te semb<ups>le</ups><lb/>
 
 la partie foible ou bien lendroit qui est perce Et fais tout<lb/>
 
 aultour de petits trous tout aultour puys fais tremper le<lb/>
 
 dos du <tl>moule</tl> Et gecte promptem<exp>ent</exp> dessus du
-<add>mesme</add> sable destrempe<lb/>
+<add>mesme</add> <m>sable destrempe</m><lb/>
 
 qui entrera dans ces pertuis &amp; moulera &amp; sattaquera a
-laultre<lb/>
-Mays il fauldra bien <m>lutter</m> apres cet endroit</ab>
+lault<ups>re</ups><lb/>
+Mays il fauldra bien <m><tl>lutter</tl></m> apres cet endroit</ab>
 
 </div>
 
-<div>
+<div id="p134r_2" categories="casting">
 
-<id>p134r_2</id>
 
-<head>Sable de <m><la>crocum</la></m></head>
+
+<head><m>Sable de <m><la>crocum</la></m></m></head>
 
 <ab>
 
@@ -117,9 +117,9 @@ pour<lb/>
 
 l<m>or</m> &amp; <m>argent</m> gueres ne se pratique</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Essaye pour <lb/>
 

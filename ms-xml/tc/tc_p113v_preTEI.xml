@@ -1,13 +1,10 @@
-<root>
-<page>113v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="113v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image</image>
 
-<div>
 
-<cont/>
 
-<id>p113r_1</id>
+<div continues="yes" id="p113r_1" categories="casting">
+
 
 <ab>de sorte quen recuisant les deulx gects se disjoindront <del>Et<lb/>
 
@@ -15,11 +12,11 @@ pour pl</del> Doncq pour cet effect ayes plusieurs <tl>escuelles<lb/>
 
 de diverse grandeur qui ayent un bec</tl> pour mieulx gecter<lb/>
 
-Dans icelles mects de l<m>eau commune de <env>fontaine</env></m> &amp;
+Dans icelles mects de l<m>eau commune de fontaine</m> &amp;
 y<lb/>
 
-mesles <ms>Aultant quil pourroit tenir dans un <m>œuf</m></ms>
-<add><figure>#</figure></add> d<m>eau<lb/>
+mesles <ms>Aultant quil pourroit tenir dans un <m>oeuf</m></ms>
+<add><mark>#</mark></add> d<m>eau<lb/>
 
 de sel Armoniac</m> composee co<exp>mm</exp>e dict est Si tu veulx
 gecter<lb/>
@@ -29,7 +26,7 @@ en <m>plomb</m> ou <m>estaim</m> pourcequil en fauldroit dadvantage<lb/>
 pour l<m>or</m> &amp; <m>argent</m> L<m>eau</m> estant dans ton
 <tl>escuelle</tl> <del>Mesles</del> Mets<lb/>
 
-<del>y</del> ton sable dedans &amp; non pas l<m>eau</m> dans le sable
+<del>y</del> ton <m>sable</m> dedans &amp; non pas l<m>eau</m> dans le <m>sable</m>
 &amp; adjouste<lb/>
 
 le <del>a dista dista</del> avecq telle discretion qu<del>il</del>en le
@@ -51,7 +48,7 @@ ton<lb/>
 
 couvert soufle bien fort par tout affin de dissiper les<lb/>
 
-petites bulles ou bouillons que faict le sable destrempe<lb/>
+petites bulles ou bouillons que faict le <m>sable</m> destrempe<lb/>
 
 &amp; continue sans delay dy mectre tout le reste qui est au<lb/>
 
@@ -61,23 +58,18 @@ tout soict remply jusques a la marque despesseur que<lb/>
 
 tu as faicte
 
-<figure>
-
-<id>fig_p113v_4</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8</link>
-
+    <figure size="x-small" id="fig_p113v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8">
 </figure> Et noublie de branler le <tl>moule</tl> <del>affin</del>
 en<lb/>
 
-gectant affin que le sable destrempe coure &amp; entre bien par<lb/>
+gectant affin que le <m>sable destrempe</m> coure &amp; entre bien par<lb/>
 
 tout Donne aussy un peu de pante au <tl>moule</tl> du coste de<lb/>
 
 la teste qui est plus haulte que le corps Et ainsy ton<lb/>
 
 <tl>moule</tl> aura pareille espesseur &amp; tu espargneras du
-sable<lb/>
+<m>sable</m><lb/>
 
 Tout cela estant curieusement <del>fai</del> acheve laisse faire<lb/>
 
@@ -88,38 +80,19 @@ le contour d<m>ardille</m> qui te servira pour aultre fois Et<lb/>
 
 laisse encores un peu secher &amp; separe ton <tl>moule</tl> de la<lb/>
 
-tourtelle de <m>terre</m> qui aussy <del>de</del>te sera propre pour
+<m><po>tourtelle</po> de terre</m> qui aussy <del>de</del>te sera propre pour
 mouler<lb/>
 
 derechef et retranche le superflu avecq un grand <tl>cousteau</tl> luy
-II<comment>c_113v_01</comment><lb/>
+<mark>||</mark><comment rid="c_113v_01"/><lb/>
 
 donnant forme longue de <mu>mandorre</mu> <del>Rasche</del><lb/>
+</ab>
 
-Rascle &amp; coupe aussy le derriere <add>du <tl>moule</tl></add> qui
-est tousjours le plus<lb/>
 
-foible Et laproprie proprem<exp>ent</exp> ainsy Et noublie de<lb/>
+<ab margin="left-middle">
 
-fayre autour des coches affin que le second gect si encre<lb/>
-
-&amp; lye mieulx
-
-<figure>
-
-<id>fig_p113v_5</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ</link>
-
-</figure>
-
-sans varier</ab>
-
-<ab>
-
-<margin>left-top</margin>
-
-<del>Si tu peulx emplis</del><lb/>
+<ups>Si tu peulx emplis</ups><lb/>
 
 ton demy <tl>moule</tl><lb/>
 
@@ -128,14 +101,13 @@ tout a ung coup &amp;<lb/>
 a <del>la pre</del> une destrempe<lb/>
 
 cest le meilleur</ab>
+    
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-top</margin>
+<mark>#</mark><lb/>
 
-<figure>#</figure><lb/>
-
-ou deulx <ms><m>œufs</m></ms><lb/>
+ou deulx <ms><m>oeufs</m></ms><lb/>
 
 pourcequil ny a<lb/>
 
@@ -153,9 +125,8 @@ armoniac</m> a la premiere<lb/>
 
 esculee</ab>
 
-<ab>
 
-<margin>left-top</margin>
+<ab margin="left-middle">
 
 Fais le cler comme<lb/>
 
@@ -175,7 +146,7 @@ fort cler pourceque<lb/>
 
 tousjours le<lb/>
 
-sable saplombe<lb/>
+<m>sable</m> saplombe<lb/>
 
 au fonds &amp; l<m>eau</m><lb/>
 
@@ -185,9 +156,9 @@ au dessus lequel<lb/>
 
 aussy bien on rascle<lb/>
 
-co<exp>mm</exp>e trop foible &amp; mol<lb/>
+<ill/><exp>mm</exp>e trop foible &amp; mol<lb/>
 
-Et il ne sera<comment>c_113v_02</comment> pas<lb/>
+Et il ne sera<comment rid="c_113v_02"/> pas<lb/>
 
 pour cela de faire<lb/>
 
@@ -195,20 +166,14 @@ bien tost prise car<lb/>
 
 toutes choses calcinees<lb/>
 
-se deseichent promptem<corr><exp>ent</exp></corr><lb/>
+se deseichent promptem<lb/>
 
 de l<m>eau</m> meslee</ab>
 
-<ab>
 
-<margin>left-bottom</margin>
+<ab margin="left-middle" render="tall">
 
-<figure>
-
-<id>fig_p113v_3</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU</link>
-
+    <figure size="x-small" id="fig_p113v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU">
 </figure><lb/>
 
 Si tu nemplis du<lb/>
@@ -217,7 +182,7 @@ premier coup ton<lb/>
 
 <tl>moule</tl> <del>destrempe</del> du<lb/>
 
-sable destrempe<lb/>
+<m>sable destrempe</m><lb/>
 
 Advise bien de<lb/>
 
@@ -235,18 +200,41 @@ ta <tl>cuillere</tl> ou<lb/>
 
 tu le destrempes</ab>
 
-<ab>
+</div>
 
-<margin>left-bottom</margin>
 
+<div id="p113v_1" categories="casting">
+        
+<head><del>Second gect</del></head>
+</div>
+    
+
+
+<div id="p113r_1" part="y">
+<ab>Rascle &amp; coupe aussy le derriere <add>du <tl>moule</tl></add> qui
+est tousjours le plus<lb/>
+            
+foible Et laproprie proprem<exp>ent</exp> ainsy Et noublie de<lb/>
+            
+fayre autour des coches affin que le second gect si encre<lb/>
+            
+&amp; lye mieulx
+            
+    <figure size="small" id="fig_p113v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ">
+</figure>
+            
+sans varier</ab>
+  
+  
+<ab margin="left-bottom" render="wide">
+        
 L<m>eau de sel armoniac</m> nest pas<lb/>
-
+        
 necessaire aulx petits <tl>moules</tl> qui ne requierent pas grand ne
 long foeu pour estre recuits<lb/>
-
+        
 touteffois quand tu y en mettras il ne sera que mieulx<lb/>
-
-<ill/></ab>
-
-</div>
+        
+<ill/></ab></div>
+        
 </root>

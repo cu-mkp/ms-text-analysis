@@ -1,11 +1,11 @@
-<root>
-<page>039r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="039r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f83.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f83.image</image>
 
-<div>
 
-<id>p039r_1</id>
+
+<div id="p039r_1" categories="casting;metal process">
+
+
 
 <head><pro>Orfevre</pro></head>
 
@@ -37,13 +37,13 @@ avecq le <m>salpestre</m> il se vitrifie au fonds du <tl>creuset</tl> un
 rouge</m> Je ne scay si le <m>cuivre</m> mesle parmy l<m>argent</m> en
 est cause<lb/>
 
-<rub>Essaye pour l<m>esmail</m></rub></ab>
+<emph>Essaye pour l<m>esmail</m></emph></ab>
 
 </div>
 
-<div>
+<div id="p039r_2" categories="cultivation;dyeing">
 
-<id>p039r_2</id>
+
 
 <head><m><pa>Pastel</pa></m></head>
 
@@ -67,7 +67,7 @@ pour semer quelques<lb/>
 <pa>herbes potaigeres</pa> On le seme com<exp>munem</exp>ent <tmp>a la
 <pn>saint Anthoine</pn> de<lb/>
 
-Janvier</tmp> on en faict huict racoltes Les premieres sont
+Janvier</tmp><comment rid="c_039r_01"/> on en faict huict racoltes Les premieres sont
 meilleures<lb/>
 
 Le meilleur <pa>pastel</pa> de <pl>lauragues</pl> est celuy de

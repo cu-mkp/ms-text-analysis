@@ -1,13 +1,13 @@
-<root>
-<page>134v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="134v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image</image>
 
-<div>
 
-<id>p134v_1</id>
 
-<head>To make <m><figure><m>☀</m></figure></m> run</head>
+<div id="p134v_1" categories="metal process;casting">
+
+
+
+<head>For making <m><mark>☀</mark></m> run</head>
 
 <ab>
 
@@ -19,76 +19,68 @@ the other</ms>. But the <del><fr>s</fr></del> <m>borax</m> &amp;
 <m>verdigris</m>. Grind them finely into powder on
 <tl><m>marble</m></tl>, then grind them again with some <m>good strong
 vinegar</m> until it is fine, like a <m><fr>couleur</fr></m> and
-<m>verdet</m> ground in <m>oil</m>. Next, leave it to dry on its own if
+<m>verdet</m> ground in <m>oil</m>. Next, leave it to dry on its own, if
 you have time, or in the fire <del><fr>lent</fr></del> of the
 <tl>forge</tl>, &amp; make sure it is well dry.</ab>
 
-<man>
+<ab margin="left-middle">
+Grind</ab>
 
-<margin>left-middle</margin>
+<ab margin="left-middle">
+<emph><del><al>spider</al></del></emph></ab>
 
-Grind</man>
+<ab margin="left-middle">
 
-<man>
 
-<margin>left-middle</margin>
 
-<del><al>spider</al></del>
-
-</man>
-
-<ab>
-
-<margin>left-middle</margin>
-
-One of the principal things for the cast is to cast very
-<del><fr>gec</fr></del> hot, <del><fr>s</fr></del> especially great
+On<add>e</add> of the principal things for the cast is to cast very
+<del><fr>gec</fr></del> hot, <del><fr>s</fr></del> especially the great
 <m>metals</m>.</ab>
 
 </div>
 
-<div>
+<div id="p134v_2" categories="casting">
 
-<id>p134v_2</id>
+
 
 <head>
 
-For <m>gold</m> casts for large works</head>
+For casting of <m>gold</m> in large works</head>
 
 <ab>
 
-One needs not only to <tl>clamp</tl> the <tl>molds </tl>well, but to
-fortify them with good <tl><m>iron wire</m></tl> or <tl>little
+One needs not only to <tl>clamp</tl> the <tl>molds</tl> well but to
+fortify them with good bindings of <tl><m>iron wire</m></tl> or <tl>little
 bands</tl> made for this.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Before casting in <m>gold</m>, clean your <tl>forge</tl> well of
 <m>lead</m> &amp; <m>tin</m>.</ab>
 
 </div>
 
-<div>
+<div id="p134v_3" categories="casting">
 
-<id>p134v_3</id>
 
-<head>Secret for <m>soldering</m> <m>gold</m> and <m>silver</m> for
+
+<head>Secret for <m>soldering</m> <m>gold</m> and <m>silver</m> in
 small works</head>
 
 <ab>
 
 If some piece of small foot does not come out well in <m>gold</m> or
-<m>silver</m>, by fault of not having made, underneath, a gate of
-<m>wax</m>, beat some <m>soldering gold</m> very thinly, then cut it in
+<m>silver</m>, by fault of not having made a gate of
+<m>wax</m> underneath, beat some <m>soldering gold</m> very thinly, then cut it in
 as many small spangles as you need. Take some of this <m><bp>phlegm
 </bp></m> or <m><bp>white thick <del>which</del> saliva that is found on
 the <bp>teeth</bp></bp></m>, &amp; with the point of a <tl>burin</tl>,
-apply it to the place you want to <m>solder</m> &amp; place there a
-<m>little spangle of gold</m> &amp; next, with a little <m>fat
-earth</m>, wet with <m><bp>saliva</bp></m>, make a small layer, on the
-opposite side, to hold <m>solder</m> better. Next, pulverize on top a
+apply it to the place you want to <m>solder</m>, &amp; place there a
+<m>little spangle of gold</m>; &amp; next, with a little <m>fat
+earth</m> wetted with <m><bp>saliva</bp></m>, make a small layer on the
+opposite side to hold the <m>solder</m> better. Next, pulverize on top a
 little <m>borax</m> &amp; put in the fire. <m>Boiled water of
 <pa>quince</pa> seed</m> &amp; others also.</ab>
 

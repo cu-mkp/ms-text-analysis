@@ -1,13 +1,13 @@
-<root>
-<page>170r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="170r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image</image>
 
-<div>
 
-<cont/>
 
-<id>p169v_2</id>
+<div continues="yes" id="p169v_2" categories="casting">
+
+
+
+
 
 <ab>de <m>parfum</m> &amp; semblable Mays advise quil fault que<lb/>
 
@@ -23,13 +23,13 @@ fondue &amp; un peu de <m>rousine</m></ab>
 
 </div>
 
-<div>
+<div id="p170r_1" categories="casting">
 
-<id>p170r_1</id>
+
 
 <head>Medailles courantes</head>
 
-<ab>On faict les <tl>poincons de relief</tl> d<m>acier non trempe</m>
+<ab>On faict les <tl>poincons de relief</tl> d<m>acier non trempe</m><comment rid="c_170r_03"/> 
 puys<lb/>
 
 on le trampe &amp; avecq cy on frappe sur des <tl>matrices</tl> non
@@ -41,14 +41,14 @@ acerre</m></tl> recuit &amp; adoulcy quon trampe apres</ab>
 
 </div>
 
-<div>
+<div id="p170r_2" categories="casting">
 
-<id>p170r_2</id>
+
 
 <head>Gect</head>
 
 <ab>Ne gectes pas a coup car en ce faisant le <m>metal</m> se regorge
-<corr><del>&amp;</del></corr> <del>en</del><lb/>
+&amp; <del>en</del><lb/>
 
 &amp; le <m>metal</m> se refroidist plustost qualler bas Mays gecte
 peu<lb/>
@@ -57,9 +57,9 @@ a peu &amp; a laise</ab>
 
 </div>
 
-<div>
+<div id="p170r_3" categories="casting">
 
-<id>p170r_3</id>
+
 
 <head><tl>Crampons</tl></head>
 
@@ -69,9 +69,9 @@ a peu &amp; a laise</ab>
 quil ne sesbranle point</ab>
 </div>
 
-<div>
+<div id="p170r_4" categories="casting">
 
-<id>p170r_4</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -86,9 +86,9 @@ descouvert</ab>
 
 </div>
 
-<div>
+<div id="p170r_5" categories="casting">
 
-<id>p170r_5</id>
+
 
 <head>Ouvrages espes d<m>estain</m></head>
 
@@ -103,9 +103,9 @@ rouge</m></ab>
 
 </div>
 
-<div>
+<div id="p170r_6" categories="casting">
 
-<id>p170r_6</id>
+
 
 <head>Nettoyer <tl>moules</tl> clos</head>
 
@@ -123,24 +123,24 @@ Soufle en dedans &amp; suppe<lb/>
 
 attirant a toy Engrossis plustost que mouler la queue avecq de la
 <m>cire</m> puys couppe la<lb/>
-<figure>
+    <figure size="x-small" id="fig_p170r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE">
 
-<id>fig_p170r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE</link>
 
-</figure></ab>
 
-<ab><margin>left-top</margin>
-<figure>
 
-<id>fig_p170r_1</id>
+</figure><comment rid="c_170r_02"/></ab>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU</link>
+<ab margin="left-top">
+    <figure size="x-small" id="fig_p170r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU">
+
+
+
+
 
 </figure>
 
-<comment>c_170r_01</comment> &amp; raporte &amp; <m>soulde</m> une queue
+<comment rid="c_170r_01"/> &amp; raporte &amp; <m>soulde</m> une queue
 de <m>fil de letton</m> par <m>souldure</m> Les grumeleures dune fleur
 cest peu<lb/>
 

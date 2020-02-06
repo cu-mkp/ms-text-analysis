@@ -42,19 +42,13 @@ foeu ne recoit pas si bien le gect
 
 Gect dargent
 
-@
-
-
 Largent veult bien le gect longuet A lor
 nimporte
- @
-
 Largent en soubdant endure leau quon gecte dessus
 Mays lor saulteroit
 
 
-& veult que a ceste cause on jecte de la
-soubdureson sur la soubdure
+&  a ceste cause on jecte de son sur la soubdure
 
 
 
@@ -70,8 +64,7 @@ Renforcer les fleurs et
 
 choses delicates
 
-Pour fleurs &choses
-delicates & herbages on nuse
+Pour fleurs &  & herbages on nuse
 
 
 poinct dhuile de froment Ains de beurre fondu
@@ -86,7 +79,7 @@ fleur de roses & de la pensee & aultres fleurs
 qui en
 
 
-ont besoing Mais on renforce les f petits pieds de
+ont besoing Mais on renforce les  petits pieds de
 mouche
 
 
@@ -95,6 +88,8 @@ les
 
 
 fortifier & faire soubstenir
+
+
 
 
 

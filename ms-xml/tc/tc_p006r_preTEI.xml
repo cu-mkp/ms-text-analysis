@@ -1,11 +1,11 @@
-<root>
-<page>006r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="006r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f17.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f17.image</image>
 
-<div>
 
-<id>p006r_1</id>
+
+<div id="p006r_1" categories="painting">
+
+
 
 <head>Pour poser et assoir d<m>or bruny</m> et donner<lb/>
 
@@ -37,11 +37,11 @@ sur<lb/>
 
 le <m>bois</m> Et la derniere estant seiche frotte la avecq de la<lb/>
 
-<m><pa>prele</pa></m> qui est une herbe aultrement appellee <m><pa>queue
-de cheval</pa></m> pour<lb/>
+<tl><m><pa>prele</pa></m></tl> qui est une herbe aultrement appellee <tl><m><pa>queue
+de cheval</pa></m></tl> pour<lb/>
 
 la rendre bien polye Apres ayes du <m>fin <la>boli
-<pl>armeni</pl></la></m> &amp; de la <m>sanguine</m><lb/>
+<pl>armeni</pl></la></m><comment rid="c_006r_01"/> &amp; de la <m>sanguine</m><lb/>
 
 aultant dun que daultre aussy gros de <m>suif de <al>mouton</al></m>
 comme<lb/>

@@ -1,11 +1,11 @@
-<root>
-<page>112r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="112r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image</image>
 
-<div>
-<id>p112r_1</id>
-<head>Pour destremper le sable</head>
+
+
+<div id="p112r_1" categories="casting">
+
+<head>Pour destremper le <m>sable</m></head>
 
 <ab>Il te fault avoir une grande <tl>conche</tl> pleine d<m>eau</m>
 pour<lb/>
@@ -16,18 +16,16 @@ pour<lb/>
 plein d<m>eau <add>commune</add></m> Une <tl>escuelle
 <m>plombee</m></tl> pour destremper le<lb/>
 
-sable Une petite <tl>cueillere de <m>boys</m></tl> pour ramasser<lb/>
+<m>sable</m> Une petite <tl>cueillere de <m>boys</m></tl> pour ramasser<lb/>
 
-le sable destrempe dans l<tl>escuelle</tl> <del>La grande
-<tl>conche</tl> est<lb/>
-
+le <m>sable destrempe</m> dans l<tl>escuelle</tl> <del>La grande <tl>conche</tl> est<lb/>
 pour tr</del></ab>
 
-<ab>
-<margin>left-top</margin>
-pour mancher tes gros<lb/>
+<ab margin="left-middle">
 
-<tl>pinceaulx a <m>huile</m></tl> si tu nas<lb/>
+pour mancher tes <tl>gros<lb/>
+
+pinceaulx a <m>huile</m></tl> si tu nas<lb/>
 
 dasses gros <tl>tuiaulx de <m>plume</m></tl><lb/>
 
@@ -35,37 +33,30 @@ prens en deulx &amp; les fends &amp; joints ensemble
 
 </ab>
 
-<figure>
-
-<id>fig_p112r_1</id>
-
-<margin>left-top</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U</link>
-
+    <figure size="x-small" id="fig_p112r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U">
 </figure>
 
 </div>
 
-<div>
-<id>p112r_2</id>
-<head>Decoction des sables</head>
+<div id="p112r_2" categories="casting">
 
-<ab>Desja dicte</ab>
+<head>Decoction des <m>sables</m></head>
+
+<ab>Desja dicte<comment rid="c_112r_01"/></ab>
 
 </div>
 
-<div>
-<id>p112r_3</id>
+<div id="p112r_3" categories="casting">
+
 <head>Pour mouler en noyau<lb/>
 
-Mixtion du sable</head>
+Mixtion du <m>sable</m></head>
 
-<ab>Ayant recuict ton sable scavoir le <m>plastre</m> l<m>alum de
+<ab>Ayant recuict ton <m>sable</m> scavoir le <m>plastre</m> l<m>alum de
 plume</m> &amp;<lb/>
 
 la <m>brique</m> &amp; les ayant bien subtillement passs <add>par le
-<tl>tamis</tl> <figure>#</figure></add><comment>c_112r_01</comment>
+<tl>tamis</tl> <mark>#</mark></add><comment rid="c_112r_02"/>
 Mesles les en<lb/>
 
 ceste sorte Prens quattre <ms>parties</ms> de <m>plastre</m> deulx de
@@ -77,13 +68,13 @@ ceste sorte Prens quattre <ms>parties</ms> de <m>plastre</m> deulx de
 <del>quil</del> de telle sorte quon ne puisse discerner lung davecq
 lautre<lb/>
 
-ton sable prest il te faut faire mourir lanimal que tu veulx<lb/>
+ton <m>sable</m> prest il te faut faire mourir lanimal que tu veulx<lb/>
 
 mouler <del>de</del>en ceste maniere</ab>
 
-<ab>
-<margin>left-middle</margin>
-<figure>#</figure><lb/>
+<ab margin="left-middle">
+
+<mark>#</mark><comment rid="c_112r_03"/><lb/>
 
 excepte l<m>alum de<lb/>
 
@@ -95,8 +86,8 @@ broyer dans le<lb/>
 
 </div>
 
-<div>
-<id>p112r_4</id>
+<div id="p112r_4" categories="casting" continued="yes">
+
 <head>Fayre mourir lanimal a mouler</head>
 
 <ab>Il fault que tu ayes este curieulx de ne le blesser poinct en
@@ -117,7 +108,7 @@ mortes<lb/>
 pour manger Car si tu les gardes sans quils se paissent<lb/>
 
 ilz se flaitrissent &amp; amaigrissent &amp; ont de longues peaulx
-ridees<lb/>
+ride<del>au<ups>lx</ups></del>es<lb/>
 
 Ainsy pour le mieulx tu le mouleras le plus tost <del>apres</del> quil
 te sera<lb/>
@@ -131,7 +122,7 @@ vaisseau<lb/>
 nect</tl> affin quil ne se charge daulcune poulsiere Et mects
 dedans<lb/>
 
-telle quantite de <m>bon vinaigre</m> &amp; d<m>urine</m> quil en puisse
+telle quantite de <m>bon vinaigre</m> &amp; d<m><bp>urine</bp></m> quil en puisse
 estre couvert<lb/>
 
 Et remue le &amp; le tourmente la dedans jusques a ce quil soict<lb/>
@@ -139,8 +130,8 @@ Et remue le &amp; le tourmente la dedans jusques a ce quil soict<lb/>
 mort ce qui sera en <ms><tmp>une ou demye heure</tmp></ms> Mays si tu
 est presse</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-middle">
+
 Pour scavoir<lb/>
 
 sil est bien mort<lb/>
@@ -165,13 +156,13 @@ il se retireroit<lb/>
 
 moule</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-middle">
+
 Les <al>serpents d<env>eau</env></al><lb/>
 
 ne mordent gueres</ab>
 
-<cont/>
+
 
 </div>
 </root>

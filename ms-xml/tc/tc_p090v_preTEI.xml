@@ -1,13 +1,13 @@
-<root>
-<page>090v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="090v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f186.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f186.image</image>
 
-<div>
 
-<cont/>
 
-<id>p090r_3</id>
+<div continues="yes" id="p090r_3" categories="casting">
+
+
+
+
 
 <ab>bon &amp; propre a mouler Car sil est gros passe le par un
 <tl>tamis</tl><lb/>
@@ -40,8 +40,8 @@ foeultre brusle</m> <lb/>
 ou <m>cendres de papier</m> &amp; choses semblables lavees</ab>
 
 </div>
-<div>
-<id>p090v_1</id>
+<div id="p090v_1" categories="casting">
+
 <head><m>Terre fondue des <pro>potiers</pro></m></head>
 
 <ab>Broye le dans un <del><tl>mortier</tl></del> <add><tl>moulin de
@@ -49,15 +49,15 @@ ou <m>cendres de papier</m> &amp; choses semblables lavees</ab>
 
 rends impalpable desseiche le &amp; apres lhumecte avecq<lb/>
 
-<m>eau sel</m> qui donne force a<del>u</del> touts sables pour
+<m>eau sel</m> qui donne force a<del>u</del> touts <m>sables</m> pour
 soubstenir<lb/>
 
 plusieurs gects</ab>
 
 </div>
 
-<div>
-<id>p090v_2</id>
+<div id="p090v_2" categories="cultivation">
+
 <head><pa>Orangers</pa></head>
 
 <ab>En <pl>Italie</pl> ceulx qui sont aulx pays plus froids

@@ -1,10 +1,10 @@
-<root>
-<page>016r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="016r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image</image>
 
-<div>
-<id>p016r_1</id>
+
+
+<div id="p016r_1" categories="metal process">
+
 <head>Fonte de <m>fer doux</m></head>
 
 <ab>Le <pro>commun</pro> estime que le <m>fer</m> une fois fondu ne se
@@ -16,7 +16,7 @@ prendre ignition<lb/>
 Les <pro>alchemistes</pro> se promectent de le faire fondre avecq du
 <m>realgar</m> ou du<lb/>
 
-<m>plomb</m> ou de l<m>orpiment mesle</m> Mays sans tout cela Aulcuns
+<m>plomb</m> ou de l<m>orpiment</m> mesle Mays sans tout cela Aulcuns
 ont trouve<lb/>
 
 la maniere de <del>le</del> faire fondre non seulement le <m>fer
@@ -31,17 +31,18 @@ qui ha un<lb/>
 <ms>pan &amp; demy</ms> de large &amp; <del>un <ms>pan &amp; demy</ms>
 de</del> deulx <ms>pans</ms> de profond Et la<lb/>
 
-tuelle qui est le canon <del>par</del> marque A par ou les tuyaulx des
-souflets semboictent<lb/>
+<tl>tuelle</tl> qui est le canon <del>par</del> marque A par ou les <tl>tuyaulx des
+souflets</tl> semboictent<lb/>
 
-doibt estre posee au milieu de la profondeur du <tl>fourneau</tl> de
+doibt<comment rid="c_016r_01"/> estre posee au milieu de la profondeur du <tl>fourneau</tl> de
 sorte<lb/>
 
-quil y aye <ms>un pan</ms> de gueule de <tl>four</tl> sur la tuelle
+quil y aye <ms>un pan</ms> de gueule de <tl>four</tl> sur la <tl>tuelle</tl>
 &amp; un <ms>pan</ms> dessouls</ab>
+    
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Chasque <ms>pan</ms><lb/>
 
 de gueule de <tl>four<lb/>
@@ -56,25 +57,15 @@ rond</tl> en tient deulx<lb/>
 
 <ms>quintals</ms></ab>
 
-<div>
+</div>
+    
+<div id="p016r_1" part="y">
+    
+<ab margin="left-middle" render="wide"><figure id="fig_p016r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
+</figure></ab>
 
-<figure>
+<ab margin="right-middle">
 
-<id>fig_p016r_1</id>
-
-<margin>left-middle</margin>
-
-<render>wide</render>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk</link>
-
-<!--José Beltrán Coello: Drawn before the writing of at least the second
-half of the first paragraph-->
-
-</figure>
-
-<ab>
-<margin>right-middle</margin>
 Les <pro>minerons</pro> pour fayre<lb/>
 
 courre le <m>fer</m> mectent a la<lb/>
@@ -92,9 +83,9 @@ ductible &amp; courant</ab>
 
 </div>
 
-<div>
+<div id="p016r_1" continued="yes" part="y">
 
-<ab>Il fault aussy que la tuelle entre jusques au milieu de la gueule du
+<ab>Il fault aussy que la <tl>tuelle</tl> entre jusques au milieu de la gueule du
 <tl>fourneau</tl><lb/>
 
 qui est un poinct principal du secret pourceque le vent vient a fraper
@@ -113,12 +104,12 @@ a plomb la matiere fondue ou preste a se fondre il la refroidiroict
 &amp;<lb/>
 
 empescheroit de courre &amp; de se fondre Il fault aussy que les
-souflets<lb/>
+<tl>souflets</tl><lb/>
 
 soict conduicts par le sault &amp; cours de l<m>eau</m> co<exp>mm</exp>e
 aulx <tl>forges</tl> pourceque en<lb/>
 
-ceste sorte les souflets vont par mesure &amp; compas &amp; dune grande
+ceste sorte les <tl>souflets</tl> vont par mesure &amp; compas &amp; dune grande
 vistesse<lb/>
 
 Ce que ne pourroit <del>f</del> pas faire la force des
@@ -148,8 +139,8 @@ tu pourras trouver<lb/>
 bas amoncellant en hault <del>comme</del> en poincte jusques au hault de
 la muraille</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns font<lb/>
 
 un <tl>moule</tl> du<lb/>
@@ -190,9 +181,7 @@ sont plus subgectes<lb/>
 
 a rompre</ab>
 
-</div>
-
-<cont/>
 
 </div>
+
 </root>

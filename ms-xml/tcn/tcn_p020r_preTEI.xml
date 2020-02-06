@@ -1,13 +1,13 @@
-<root>
-<page>020r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image</image>
 
-<div>
 
-<id>p020r_1</id>
 
-<head>@Pour faire les <m><oc>millas</oc></m></head>
+<div id="p020r_1" categories="household and daily life">
+
+
+
+<head><comment rid="c_020r_01"/>Pour faire les <m><oc>millas</oc></m></head>
 
 <ab>
 
@@ -17,7 +17,7 @@ tirer la <m>croutte</m>, et puis le<lb/>
 netoyerés bien. Aprés il fault le remouldre bien delié et le passer
 par<lb/>
 
-ung <tl>cedas</tl> bien delié. Ce faict, il fault detremper la
+ung <oc><tl>cedas</tl></oc> bien delié. Ce faict, il fault detremper la
 <m>farine</m> avec du<lb/>
 
 <m>beurre frais fondu</m> et du <m>laict</m>, et qu’il y ait <ms>aultant
@@ -69,7 +69,7 @@ il fault qu’il soit plus grand, et qu’il ne soit pas ouvert<lb/>
 par dessus. Puis, ayant faict cela, vous mettrés ung peu de
 <m>foin</m><lb/>
 
-sur led<exp>ict</exp> <tl>couvercle</tl> et force <tl>rachaulx</tl>, et
+sur led<exp>ict</exp> <tl>couvercle</tl> et force rachaulx, et
 y ferés bon feu<lb/>
 
 tout autour de charbon. Cela faict, vous en descouvrirés<lb/>
@@ -80,11 +80,11 @@ faudra qu’il soit dur.</ab>
 
 </div>
 
-<div>
+<div id="p020r_2" categories="glass process">
 
-<id>p020r_2</id>
 
-<head>@<pro>Vitrier</pro></head>
+
+<head><pro>Vitrier</pro></head>
 
 <ab>
 
@@ -107,14 +107,14 @@ s’efface avecq du <m>vernis</m> &amp; du <m>sel</m> &amp; aultres
 <m>drogues</m> que les<lb/>
 
 <pro>vitriers</pro> y mettent. Le <m>verre de <pl>Lorraine</pl></m> se
-vent à <ms>lien</ms> &amp;<lb/>
+    vent à <ms>lien</ms><comment rid="c_020r_04"/> &amp;<lb/>
 
 à chasque <ms><df>lien</df></ms> il y a trois <ms>tables</ms>. Le
 <ms>lien</ms> coste co<exp>mmun</exp>ement x
-<cn>s<exp>ous</exp></cn>.<lb/>
+<cn>s<exp>ols</exp></cn>.<lb/>
 
 Le <m>verre de plat</m> se <del>vent en</del> faict en
-<pl>France</pl>_(,) il est plus blanc &amp; plus clair,<lb/>
+<pl>France</pl>, il est plus blanc &amp; plus clair,<lb/>
 
 mays il n’est pas aussy de telle durée que le <pl>Lorrain</pl>. Il est
 aussy co<exp>mmun</exp>ement<lb/>
@@ -122,14 +122,14 @@ aussy co<exp>mmun</exp>ement<lb/>
 envellé &amp; pour ceste occasion il est meilleur à faire petites
 losanges que<lb/>
 
-grandes pieces quarrées en forme de chassis, pource que elles ne se
+grandes pieces quarrées en forme de <tl>chassis</tl>, pource que elles ne se
 peuvent bonnem<exp>ent</exp><lb/>
 
 bien assoir uniment.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>verre de plat</m><lb/>
 

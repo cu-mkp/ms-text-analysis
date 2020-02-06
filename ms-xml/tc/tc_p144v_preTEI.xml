@@ -1,13 +1,13 @@
-<root>
-<page>144v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="144v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f294.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f294.image</image>
 
-<div>
 
-<cont/>
 
-<id>p144r_1</id>
+<div continues="yes" id="p144r_1" categories="casting" continued="yes">
+
+
+
+
 
 <ab>estant ainsy disposee &amp; bien nettoyee avecq les
 <tl>broisses</tl><lb/>
@@ -30,10 +30,10 @@ que<lb/>
 sans te brusler tu y puisses tenir le <tl><bp>doigt</bp></tl> sans te
 brusler</sn><lb/>
 
-ton sable un peu <del>p</del> espes Et plustost <del>f</del> que le
+ton <m>sable</m> un peu <del>p</del> espes Et plustost <del>f</del> que le
 gecter frotte la<lb/>
 
-coquille d<m>eau de vye</m> Et apres gecte ton sable &amp; luy
+coquille d<m>eau de vye</m> Et apres gecte ton <m>sable</m> &amp; luy
 laisse<lb/>
 
 faire prise Et note que toute chose qui ha coquille ou qui<lb/>
@@ -43,8 +43,8 @@ est dure et ne preste poinct co<exp>mm</exp>e les <al>serpents</al>
 
 estre <m>huilee</m> pour despouiller Les choses qui prestent nen<lb/>
 
-ont point de besoing L<m>eau chaulde</m> faict que le sable
-destrempe<lb/>
+ont point de besoing L<m>eau chaulde</m> faict que le <m>sable
+destrempe</m><lb/>
 
 <del>en <m>eau</m></del> sassoit mieulx sur l<m>huile</m> qui
 aultrem<exp>ent</exp> refuseroit<lb/>
@@ -60,7 +60,7 @@ pour luy retourner quand il sera besoing Apres nettoye ton<lb/>
 <tl>demy moule</tl> &amp; lunys &amp; aplanis co<exp>mm</exp>e les
 aultres Mays pourceq<exp>ue</exp><lb/>
 
-il se trouvera qua cause d<del>u</del>e lentredeux d<m>ardille</m> le
+il se trouvera qua cause d<del>u</del>e l<tl>entredeux d<m>ardille</m></tl> le
 <tl>demy<lb/>
 
 moule</tl> comprendra plus que la moictie de la <al>tortue</al> Couppe
@@ -85,9 +85,9 @@ ce qui<lb/>
 est de vuide jusques au bord de la coquille haulte avecq de<lb/>
 
 l<m>ardille</m> Apres pose le <tl>cercle</tl> aultour Et mects un
-entredeulx<lb/>
+<tl>entredeulx<lb/>
 
-d<m>ardille</m> sur le premier <tl>moule</tl> un peu par dessus les
+d<m>ardille</m></tl> sur le premier <tl>moule</tl> un peu par dessus les
 coches<lb/>
 
 Et ayant <m>huile</m> le <del>d</del>premier <tl>demy molle</tl> &amp;
@@ -96,7 +96,7 @@ ses coches et la<lb/>
 coquille de la <al>tortue</al> &amp; layant aussy arrosee d<m>eau de
 vye</m><lb/>
 
-chaufe ton <m>eau</m> destrempe ton sable avecq un peu d<m>eau de
+chaufe ton <m>eau</m> destrempe ton <m>sable</m> avecq un peu d<m>eau de
 sel<lb/>
 
 armoniac</m> &amp; ladicte <m>eau chaulde</m> &amp; gecte Ayant faict
@@ -120,29 +120,21 @@ qui se moulent a deulx moicties
 
 </ab>
 
-<figure>
+    <figure size="small" id="fig_p144v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZGhySWFITlRSaG8">
 
-<margin>left-middle</margin>
 
-<id>fig_p144v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZGhySWFITlRSaG8</link>
+</figure>
+    
+
+    <figure size="small" id="fig_p144v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SlhGM2FYLUUteXc">
+
 
 </figure>
 
-<figure>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<id>fig_p144v_2</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SlhGM2FYLUUteXc</link>
-
-</figure>
-
-<ab>
-
-<margin>left-middle</margin>
 
 Tu pourrois bien<lb/>
 
@@ -166,15 +158,15 @@ se peult gueres bien<lb/>
 
 boit l<m>huile</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark><lb/>
 
 Sil y a du <m><la>crocum</la></m><lb/>
 
-dans le sable les<lb/>
+dans le <m>sable</m> les<lb/>
 
 joinctures des<lb/>
 
@@ -184,14 +176,13 @@ cognoissent presque<lb/>
 
 point</ab>
 
-<ab>
+<ab margin="bottom">
 
-<man><margin>bottom</margin>@<comment>c_144v_01</comment>Tourne au
-second foeillet</man>
-
+<emph>Tourne au
+second foeillet</emph><comment rid="c_144v_02"/> 
 </ab>
 
-<cont/><comment>c_144v_02</comment>
+
 
 </div>
 </root>

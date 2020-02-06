@@ -1,15 +1,15 @@
-<root>
-<page>073v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image</image>
 
-<div>
 
-<cont/>
 
-<id>p073r_5</id>
+<div continues="yes" id="p073r_5" categories="metal process">
 
-<ab>broyés à part. Quand il sera bien broyé, prenés le <m>sel
+
+
+
+
+<ab><comment rid="c_073v_02"/>broyés à part. Quand il sera bien broyé, prenés le <m>sel
 armoniac</m> &amp;<lb/>
 
 le broyés encores ensemble. Puys prenés une <ms>once</ms> d’<m>estaing
@@ -25,9 +25,9 @@ remués fort jusques à ce q<exp>u’i</exp>l soit en pouldre.</ab>
 
 </div>
 
-<div>
+<div id="p073v_1" categories="metal process">
 
-<id>p073v_1</id>
+
 
 <head>Pour le coucher</head>
 
@@ -44,9 +44,9 @@ prenés la <m>bronze</m> et l’aplicqués dessus.</ab>
 
 </div>
 
-<div>
+<div id="p073v_2" categories="varnish">
 
-<id>p073v_2</id>
+
 
 <head><m>Verny</m></head>
 
@@ -63,25 +63,25 @@ dedans une <tl>fiole</tl>, &amp; le coucher sur le <m>boys</m>.</ab>
 
 </div>
 
-<div>
+<div id="p073v_3" categories="varnish">
 
-<id>p073v_3</id>
+
 
 <head>Aultre recepte pour faire <m>verny</m></head>
 
 <ab>Prenés une <ms>once</ms> de <m>tormentine de <del>verinse</del>
-<add>@<pl>Venise</pl></add></m> &amp; ung <ms>quart de<lb/></ms>
+<add><pl>Venise</pl></add></m> &amp; ung <ms>quart de<lb/>
 
-<ms>once</ms> d’<m>huille de <del>perolle</del> <add>petrolle</add></m>
+once</ms> d’<m>huille de <del>perolle</del> <add>petrolle</add></m>
 &amp; une <ms>once</ms> de <m>sandrax</m> &amp; une d’<m>huille<lb/>
 
 d’<pa>aspic</pa></m>.</ab>
 
 </div>
 
-<div>
+<div id="p073v_4" categories="metal process">
 
-<id>p073v_4</id>
+
 
 <head>Couleur de cuyvre bruny</head>
 

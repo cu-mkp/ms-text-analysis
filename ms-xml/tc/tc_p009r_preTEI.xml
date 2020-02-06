@@ -1,11 +1,11 @@
-<root>
-<page>009r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="009r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item</image>
 
-<div>
 
-<id>p009r_1</id>
+
+<div id="p009r_1" categories="cultivation">
+
+
 
 <head><pro>Laboureur</pro></head>
 
@@ -16,7 +16,7 @@ le plus souvent le battent <tmp>de nuict <env>a la frescheur &amp;
 aux<lb/>
 
 rays de la lune</env></tmp> Ce qui ne se pourroict faire daultre
-<pa>bled</pa><lb/>
+<m>bled</m><lb/>
 
 qui est plus humide Car il <del>le</del> fault laisser passer les<lb/>
 
@@ -35,10 +35,10 @@ La terre ou le <pa>millet</pa> aura este seme diminue bien de sa<lb/>
 fertilite <del>&amp; c</del> ce qui se coignoist <del>bien</del> <tmp>a
 la prochaine semence</tmp><lb/>
 
-quon faict apres Mays sur tout le <pa>bled</pa> appelle
-<pa>pomole</pa><lb/>
+quon faict apres Mays sur tout le <m>bled</m> appelle
+    <pa><oc>pomole</oc></pa><comment rid="c_009r_01"/><lb/>
 
-en <pl>gascoigne</pl> ou <pa>baillard</pa> en <pl>france</pl> faict
+en <pl>gascoigne</pl> ou <pa>baillard</pa> en <pl>france</pl><comment rid="c_009r_02"/> faict
 selon le dire<lb/>
 
 commun trembler la terre sept <tmp>ans</tmp> apres Les
@@ -50,9 +50,9 @@ pourrir les racines &amp; tyges</ab>
 
 </div>
 
-<div>
+<div id="p009r_2" categories="painting">
 
-<id>p009r_2</id>
+
 
 <head><pro>Painctre</pro></head>
 
@@ -63,9 +63,9 @@ meilleur</ab>
 
 </div>
 
-<div>
+<div id="p009r_3" categories="merchants">
 
-<id>p009r_3</id>
+
 
 <head><pro>Marchant</pro></head>
 

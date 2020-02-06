@@ -1,10 +1,10 @@
-<root>
-<page>042r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="042r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image</image>
 
-<div>
-<id>p042r_1</id>
+
+
+<div id="p042r_1" categories="casting">
+
 <head><pro>Fondeur</pro></head>
 
 <ab>Le <tl>moule de <m>terre</m></tl> se recuit jusques a estre quelque
@@ -20,8 +20,8 @@ recuit<lb/>
 
 </div>
 
-<div>
-<id>p042r_2</id>
+<div id="p042r_2" categories="wax process">
+
 <head><m>Cire</m> a cachet et empraincte</head>
 
 <ab>Pour les grands seaulx de <m>cire</m> Il fault avoir de<lb/>
@@ -50,7 +50,7 @@ la relever du <tl>moule</tl> Ainsy tu empraindras mieulx<lb/>
 
 que si tu la gectois fondue Tu peulx tailler les figures<lb/>
 
-&amp; les dorer <m>argenter</m> &amp; paindre de <m>couleurs a
+&amp; les <m>dorer</m> <m>argenter</m> &amp; paindre de <m>couleurs a
 vernis</m> &amp; les<lb/>
 
 raporter sur un fonds de <m>verre</m> painct de <m>couleurs a<lb/>
@@ -59,14 +59,14 @@ tourmentine &amp; mastic</m> Et si tu veulx apliquer ces planches<lb/>
 
 par incrustation fais le avecq <m>gomme armoniac</m> destrempee<lb/>
 
-avecq <m>vinagre</m> Et tu auras bonne <tl>colle</tl>
+avecq <m>vinagre</m> Et tu auras bonne <m>colle</m>
 
 </ab>
 
 </div>
 
-<div>
-<id>p042r_3</id>
+<div id="p042r_3" categories="casting">
+
 <head>Pour gecter de <m>plastre</m></head>
 
 <ab>Fays fondre de la <m>cire</m> &amp; avecq une grosse

@@ -1,15 +1,15 @@
-<root>
-<page>077v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="077v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image</image>
 
-<div>
 
-<cont/>
 
-<id>p077r_4</id>
+<div continues="yes" id="p077r_4" categories="varnish">
 
-<ab>mais qu’il ne soit pas trop menu, puis prandre une <del><ill/></del>
+
+
+
+
+<ab><comment rid="c_077v_04"/>mais qu’il ne soit pas trop menu, puis prandre une <del><ill/></del>
 <tl>fiolle<lb/>
 
 de <m>verre</m></tl> moienement grande et y mectre de ses deux<lb/>
@@ -17,7 +17,7 @@ de <m>verre</m></tl> moienement grande et y mectre de ses deux<lb/>
 la moictié, assavoir deux <ms>onces</ms> &amp; demye. Apprés mectz
 led<exp>ict</exp><lb/>
 
-<m>vetjoin aussi grossement pillé</m> et le mectz à proffict aveq<lb/>
+<m>vetjoin aussi grossement <tl>pillé</tl></m> et le mectz à proffict aveq<lb/>
 
 lad<exp>icte</exp> <m>eau</m> et le laisse reposer l’espace d’ung
 <ms><tmp>jour</tmp></ms> &amp; demy, &amp;<lb/>
@@ -41,9 +41,9 @@ noble.</ab>
 
 </div>
 
-<div>
+<div id="p077v_1" categories="varnish">
 
-<id>p077v_1</id>
+
 
 <head>Aultre <m>vernys</m> aprouvé</head>
 
@@ -53,7 +53,7 @@ noble.</ab>
 petrolle</m> et deux <ms>onces</ms> de <m>masticq</m>, le plus blanc
 q<exp>ue</exp><lb/>
 
-pourras trouver, et de l’<m>alung de glace</m>, &amp; le broye, et
+pourras trouver, et de l’<m>alung de glace</m>,<comment rid="c_075v_03"/> &amp; le broye, et
 prendz<lb/>
 
 ung peu de <m>copperoze blanche</m>, et mectz toutes ses
@@ -67,9 +67,9 @@ peu sur les <m>cendres</m> chauldes, et tu verras du beau
 
 </div>
 
-<div>
+<div id="p077v_2" categories="varnish">
 
-<id>p077v_2</id>
+
 
 <head>Aultre <m>verny</m></head>
 
@@ -89,17 +89,17 @@ couches sur la besogne q<exp>ue</exp> tu vouldras vernir.</ab>
 
 </div>
 
-<div>
+<div id="p077v_3" categories="varnish" continued="yes">
 
-<id>p077v_3</id>
+
 
 <head>Aultre <m>verny</m></head>
 
 <ab>Prens une <ms>once</ms> d’<m>huille d’<pa>aspic</pa></m> &amp; du
-<m>sang <del>de ra<del>i</del><add>y</add>e</del> <add>da Rac</add></m>
+<m>sang <del>de ra<del>i</del><add>y</add>e</del> <add>da Rac</add></m><comment rid="c_077v_03"/>
 &amp; fais</ab>
 
-<cont/>
+
 
 </div>
 </root>

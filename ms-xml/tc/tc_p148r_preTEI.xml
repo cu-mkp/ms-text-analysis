@@ -1,13 +1,13 @@
-<root>
-<page>148r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image</image>
 
-<div>
 
-<cont/>
 
-<id>p147v_4</id>
+<div continues="yes" id="p147v_4" categories="casting">
+
+
+
+
 
 <ab>pas venu si cler que je desirois je lay encore recuit<lb/>
 
@@ -15,13 +15,13 @@ laisse froidir remis au blanchiment &amp; <tl>grattebroisse</tl> Il
 est<lb/>
 
 venu fort net Ainsy feras tu du <m>cuivre</m> et <m>argent</m> Et si tu
-veulx donner @<comment>c_148r_01</comment></ab>
+veulx donner <comment rid="c_148r_01"/></ab>
 
 </div>
 
-<div>
+<div id="p148r_1" categories="casting;metal process">
 
-<id>p148r_1</id>
+
 
 <head>Belle couleur au <m>letton</m></head>
 
@@ -35,9 +35,9 @@ et il viendra tres beau</ab>
 
 </div>
 
-<div>
+<div id="p148r_2" categories="metal process">
 
-<id>p148r_2</id>
+
 
 <head><m>Blanchime<exp>n</exp>t</m></head>
 
@@ -60,24 +60,24 @@ doibve entrer au <m>blanchiment</m> car cela le corromp Ne le<lb/>
 laisse pas verser hors son premier bouillon Car en cela<lb/>
 
 est toute sa force Le <m>blanchiment</m> se faict dune
-<ms>partye</ms><lb/>
+<ms>party<ups>e</ups></ms><lb/>
 
 de <m>tartre pulverise</m> &amp; la <ms>moictie</ms> de <m>sel
 commun</m></ab>
 
 </div>
 
-<div>
+<div id="p148r_3" categories="casting">
 
-<id>p148r_3</id>
+
 
 <head>Mouler pied de <al>butor</al> ou<lb/>
 
-d<al>aigle</al> ou daultres <al>oyseaulx</al> pour<lb/>
+d<al>aigle</al> ou daultres oyseaulx <comment rid="c_148r_02"/>pour<lb/>
 
-@ pied de salieres ou vases</head>
+pied de salieres ou vases</head>
 
-<ab>On moule communement le pied &amp; la jambe jusques au jarret<lb/>
+<ab>On moule communement le pied &amp; la jambe jusques au jarre<ups>t</ups><lb/>
 
 Et pour cet effect on le moule a cinq pieces la jambe de<lb/>
 
@@ -85,15 +85,15 @@ deulx pieces le dessus du pied en deulx et le dessoubs dune<lb/>
 
 piece</ab>
 
-<ab><margin>left-middle</margin>de trois pieces</ab>
+<ab margin="left-middle">de trois pieces</ab>
 
 </div>
 
-<div>
+<div id="p148r_4" categories="casting">
 
-<id>p148r_4</id>
 
-<head><m><la>Crocum ferri</la></m></head> @<comment>c_148r_03</comment>
+
+<head><comment rid="c_148r_03"/><m><la>Crocum ferri</la></m></head>
 
 <ab>Pour le faire bien tost rougis la <m>limaille</m> dans une
 <tl>caisse de <m>fer</m></tl><lb/>
@@ -105,7 +105,7 @@ laisse evaporer<lb/>
 esta<exp>n</exp>t froid<lb/>
 
 pulverise le sur le <tl><m>mabre</m></tl> &amp; le retourne au foeu
-<del>rou</del> arrouse de <m>vinaigre</m><lb/>
+<del>rou</del> arrouse de <m>vinaig<ups>re</ups></m><lb/>
 
 Et puys enflamme Ainsy il sera bien tost colore &amp; subtilie</ab>
 

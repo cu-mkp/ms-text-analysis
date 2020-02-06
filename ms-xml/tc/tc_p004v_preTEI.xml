@@ -1,23 +1,23 @@
-<root>
-<page>004v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="004v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image</image>
 
-<div>
-<id>p004v_1</id>
+
+
+<div id="p004v_1" categories="varnish;arms and armor">
+
 <head><m>Vernis noir</m> pour garde<lb/>
 
-despee bandes de bahus &amp;<x>c</x></head>
+despee bandes de bahus &amp;</head>
 
 <ab>Prens <m>huile de <pa>lin</pa></m> ou pour meilleur marche de
 l<m>huile<lb/>
 
 de <pa>noix</pa></m> Et la fais desgraisser avecq des
 <m><pa>aulx</pa></m> &amp; <del><m><pa>oigno<exp>n</exp>s</pa></m></del>
-<add><figure>+</figure><m><pa>queues de pourrceaulx</pa></m><lb/>
+<add><mark>+</mark><m><pa>queues de pourrceaulx</pa></m><lb/>
 
 aulcuns adjoustent des <m>crostes de
-pain</m></add><comment>c_004v_03</comment><lb/>
+pain</m></add><lb/>
 
 que tu feras bouillir dedans <ms><tmp>un bon quart
 dheure</tmp></ms><lb/>
@@ -25,7 +25,7 @@ dheure</tmp></ms><lb/>
 Apres mects dans une <ms>lb</ms> d<m>huile</m> ainsy bouilly <ms>la
 grosseur<lb/>
 
-dune <pa>noix</pa></ms> de <m>poix noire</m> &amp; une <ms>joinctee</ms>
+dune <pa>noix</pa></ms> de <m>poix noire</m> &amp; une <ms><bp>joinctee</bp></ms>
 de <m><pa>bled de froment</pa></m><lb/>
 
 sans oster les <m><pa>aulx</pa></m> &amp; <m><pa>oignons</pa></m> Et
@@ -42,12 +42,12 @@ pour vernir mects ton <m>fer</m> sur le foeu legier de
 &amp; aplique avecques une <tl>plume</tl> ou <tl>broisse</tl> ton
 <m>vernis</m> Et<lb/>
 
-quand tu verras quil ne fumera plus cest faict et ton<lb/>
+quand tu verras quil ne <m>fumera</m> plus cest faict et ton<lb/>
 
 <m>vernis</m> est sec</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour excellent <m>vernis<lb/>
 
 noir</m> mects deulx ou <lb/>
@@ -56,14 +56,14 @@ trois <ms>patenostres</ms> de<lb/>
 
 <m>geyct</m> parmy le reste</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns estiment l<m>huile<lb/>
 
 de <pa>noix</pa></m> meilleur</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Sil y a quantite de<lb/>
 
 <m>vernis</m> il fault bien<lb/>
@@ -90,8 +90,8 @@ le doncq dans une <lb/>
 
 descouvert</env></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
+
 En cinq ou six <ms>lb</ms> d<m>huile</m><lb/>
 
 on mect une <ms>lb</ms> de <m>Galipot</m><lb/>
@@ -106,9 +106,9 @@ noir Mays il se<lb/>
 
 noircist au foeu</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
+
 
 Voy cy apres<lb/>
 
@@ -116,17 +116,17 @@ vers la 3 partye<lb/>
 
 de ce livre apres les<lb/>
 
-sables au chapitre<lb/>
+<m>sables</m> au chapitre<lb/>
 
-du <pro>fourbisseur</pro></ab>
+du <pro>fourbisseur</pro><comment rid="c_004v_01"/></ab>
 
 </div>
 
-<div>
-<id>p004v_2</id>
+<div id="p004v_2" categories="varnish">
+
 <head><m>Vernis noir</m> sans foeu sans<lb/>
 
-demonter les harnois ou deffaire<lb/>
+demonter les harnois<comment rid="c_004v_02"/> ou deffaire<lb/>
 
 les bandes des bahus</head>
 
@@ -136,15 +136,15 @@ a noircir</m><lb/>
 ou du <m>noir de lampe</m> &amp; sans foeu il se destrempe de
 soimesme<lb/>
 
-<m>Vernis</m> avecq une <tl>broisse</tl> &amp; il sera bien tost sec
+Vernis avecq une <tl>broisse</tl> &amp; il sera bien tost sec
 Le<lb/>
 
 <m>vernis de tourmentine</m> seroict bien bon Mays il ne seche pas si
 tost</ab>
 
 </div>
-<div>
-<id>p004v_3</id>
+<div id="p004v_3" categories="varnish" continued="yes">
+
 <head><m>Vernis des <pro>graveurs sur le<lb/>
 
 fer</pro></m></head>
@@ -155,16 +155,16 @@ fer</pro></m></head>
 noire</m> tu y mectras un peu de <m>poix resine</m> &amp; le fault
 cuire<lb/>
 
-a la facon du <m>vernir<comment>c_004v_04</comment> noir</m> a foeu Et
+a la facon du <m>vernir noir</m> a foeu Et
 pour lapliquer<lb/>
 
 chaufe ton <m>fer</m> &amp; ne luy donne quune couche de
 <m>vernis</m><lb/>
 
-&amp; quand il ne fumera plus il est sec grave apres avecq<lb/>
+&amp; quand il ne <m>fumera</m> plus il est sec grave apres avecq<lb/>
 
 la <tl>poincte d<m>acier</m></tl> ce que tu vouldras Apres
-<add>ayes</add><comment>c_004v_05</comment> du <m>sel</m> &amp;<lb/>
+<add>ayes</add> du <m>sel</m> &amp;<lb/>
 
 du <m>verdegris</m> &amp; le destrempe aultant dun que daultre<lb/>
 
@@ -175,7 +175,7 @@ quen user &amp; tout se destrempera Apres estens de ceste<lb/>
 
 liqueur ou saulce sur la chose gravee avecq une <tl>esponge</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

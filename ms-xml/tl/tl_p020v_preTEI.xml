@@ -1,31 +1,31 @@
-<root>
-<page>020v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image</image>
 
-<div>
 
-<id>p020v_1</id>
 
-<head>To whiten the <bp>face</bp></head>
+<div id="p020v_1" categories="medicine">
+
+
+
+<head><md>For whitening the <bp>face</bp></md></head>
 
 <ab>Pestle <m><pa>puffball</pa></m> in <m>cistern water</m>, &amp; no
 other, &amp; wash with this <m>whitened water</m>. This is considered
-quite exquisit. And I believe that making it from <m><pa>wheat</pa>
+quite singular. And I believe that making it from <m>wheat
 starch</m> &amp; to use it would be even better.</ab>
 
 </div>
 
-<div>
+<div id="p020v_2" categories="medicine">
 
-<id>p020v_2</id>
 
-<head>Against winds, colic, &amp;c.</head>
+
+<head><md>Against <bp>winds</bp>, colic, &amp;c</md></head>
 
 <ab><m>Sap squeezed or water <del><ill/></del> distilled from
-<pa>orange</pa> peel</m> is excellent against the windy colic.
-<m>Candied peel</m>, too, is excellent for the winds of the
-<bp>stomach</bp>. And to make a trial of it, having poured <m>foaming
+<pa>orange</pa> peel</m> is excellent <md>against the windy colic</md>.
+<m>Candied peel</m>, too, is excellent <md>for the <bp>winds of the
+<bp>belly</bp></bp></md>. And to make a trial of it, having poured <m>foaming
 wine</m> in a <tl><m>glass</m></tl>, squeeze <m><pa>orange</pa>
 juice</m> on the <m>wine foam</m>, which proceeds only from vapor &amp;
 wind, and you will see that the foam will immediately disappear. Also,
@@ -36,26 +36,26 @@ the brighter.
 
 </div>
 
-<div>
+<div id="p020v_3" categories="cultivation">
 
-<id>p020v_3</id>
+
 
 <head><pa>Skirret</pa> root</head>
 
-<ab>They want to be planted <env>in a very humid place where with such
-<oc>puys rodier</oc> or fountain one can water it often</env>, for by
-this method they are tender. Otherwise they make a hard heart inside,
+<ab>They want to be planted <env>in a very humid place where with such a
+<oc>rodier</oc> well or fountain one can water it often</env>, for by
+this means they are tender. Otherwise a hard heart forms inside,
 which takes from it all its goodness.
 
 </ab>
 
 </div>
 
-<div>
+<div id="p020v_4" categories="medicine">
 
-<id>p020v_4</id>
 
-<head>Against burn</head>
+
+<head><md>Against burn</md></head>
 
 <ab>Pestle an <m><pa>onion</pa></m> with <m>verjuice</m> &amp; leave it
 to soak like this, then apply it.
@@ -66,33 +66,33 @@ Or else, apply <m>black soap</m> on the burn. Experimented.
 
 </div>
 
-<div>
+<div id="p020v_5" categories="household and daily life">
 
-<id>p020v_5</id>
+
 
 <head>Common saying</head>
 
 <ab>Bell tower of <pl>Rodez</pl>, <env>church</env> of <pl>Albi</pl>,
-bells of <pl>Mende</pl>. However, one holds the <corr>bell</corr> of
-<pl>Toulouse</pl> named Cardaillac as one of the most beautiful in
+bells of <pl>Mende</pl>. However, one holds the bell of
+    <pl>Toulouse</pl> named Cardaillac<comment rid="c_020v_02"/> as one of the most beautiful in
 <pl>France</pl>, all the more since it weighs two hundred and fifty
-<ms><fr>quintals</fr></ms>.
+<ms>quintals</ms>.
 
 </ab>
 
 </div>
 
-<div>
+<div id="p020v_6" categories="medicine">
 
-<id>p020v_6</id>
 
-<head>A form of regimen</head>
+
+<head><md>A form of regimen</md></head>
 
 <ab><tmp>Every morning</tmp>, take two or three <m>eggs</m> laid one or
 two <tmp>days</tmp> ago. Heat them <del>until</del> &amp; do not cook
-them. Take the <m>yolks</m> well dusted with <m>sugar</m>. And next
+them. Take the <m>centers</m> well dusted with <m>sugar</m>. And next
 drink one <ms><bp>finger</bp></ms> of <m>wine</m>. And apart from being
-nourishing, it makes a good <bp>stomach</bp>.
+<md>nourishing</md>, it <md>makes a good <bp>stomach</bp></md>.
 
 </ab>
 

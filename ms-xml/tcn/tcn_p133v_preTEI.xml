@@ -1,11 +1,11 @@
-<root>
-<page>133v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="133v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image</image>
 
-<div>
 
-<id>p133v_1</id>
+
+<div id="p133v_1" categories="casting">
+
+
 
 <head>
 
@@ -25,15 +25,15 @@ qui<lb/>
 
 volontiers soufle. Le plus cler gecte plus subtil &amp; plus<lb/>
 
-net, pourveu qu’on soufle assés fort en gectant sur le sable<lb/>
+net, pourveu qu’on soufle assés fort en gectant sur le <m>sable<lb/>
 
-destrempé &amp; gecté affin de dissiper ces petits bouillons.</ab>
+destrempé</m> &amp; gecté affin de dissiper ces petits bouillons.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-Quand le sable<lb/>
+
+Quand le <m>sable</m><lb/>
 
 est espés gecté,<lb/>
 
@@ -41,9 +41,9 @@ volontiers il soufle.</ab>
 
 </div>
 
-<div>
+<div id="p133v_2" categories="casting">
 
-<id>p133v_2</id>
+
 
 <head>Chose qui n’est en despouille</head>
 
@@ -66,11 +66,11 @@ seche &amp; se retire, plustost que faire crouste sur le
 
 ou <m>moisissure</m>.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<figure>+</figure>
+
+<mark>+</mark><lb/>
 
 Quand tu moules de<lb/>
 
@@ -123,9 +123,9 @@ avecq de la <m>cire</m>.</ab>
 
 </div>
 
-<div>
+<div id="p133v_3" categories="casting" continued="yes">
 
-<id>p133v_3</id>
+
 
 <head>Divers animaulx enlassés</head>
 
@@ -136,7 +136,7 @@ Tu peux bien enlasser un <al>serpent</al> <del>enlassé</del> avecq un
 
 qui se mordront l’ung l’aultre, ou un <al>serpent</al> qui mange<lb/>
 
-une <al>grenoille</al> ou une <al>angrois<del>s</del>e</al> &amp; choses
+une <al>grenoille</al> ou une <al><po>angrois</po><del>s</del>e</al> &amp; choses
 semblables. Mays<lb/>
 
 pour ce que ses enlassements ne se peulvent bonnement fayre<lb/>
@@ -176,9 +176,9 @@ les parties de l’animal qui passent l’une sur l’autre ou celles<lb/>
 que tu vois qui n’apuyent pas bien sur la <tl>plaste de
 <del><m>cire</m></del> <m>terre</m></tl>,<lb/>
 
-affin que le sable destrempé ne l’enleve pas. Et c’est pour</ab>
+affin que le <m>sable destrempé</m> ne l’enleve pas. Et c’est pour</ab>
 
-<cont/>
+
 
 </div>
 </root>

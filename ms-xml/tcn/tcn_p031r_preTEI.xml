@@ -1,13 +1,13 @@
-<root>
-<page>031r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="031r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f67.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f67.item</image>
 
-<div>
 
-<cont/>
 
-<id>p030r_2</id>
+<div continues="yes" id="p030r_2" categories="casting">
+
+
+
+
 
 <ab>Leurs <tl>marteaulx</tl> doibvent estre bien unis &amp; polis, et si
 par<lb/>
@@ -15,10 +15,10 @@ par<lb/>
 cas fortuit la rouille <del>les</del> ou aultre usage les ha
 endomagés,<lb/>
 
-ilz les polissent premierem<exp>ent</exp> avecq <m>pouldre d'esmery</m>
+ilz les polissent premierem<exp>ent</exp> avecq <tl><m>pouldre d’esmery</m></tl>
 puys<lb/>
 
-les achevent de brunir &amp; adoulcir avecq de la <m>potée</m>.<lb/>
+les achevent de brunir &amp; adoulcir avecq de la <tl><m>potée</m></tl>.<lb/>
 
 Aultrem<exp>ent</exp> ilz ne battroient pas net. Il fault aussy que<lb/>
 
@@ -26,33 +26,33 @@ le plan des <tl>enclumes</tl> soict de mesme.</ab>
 
 </div>
 
-<div>
+<div id="p031r_1" categories="cultivation">
 
-<id>p031r_1</id>
+
 
 <head>Nouvelle <pa>vigne</pa></head>
 
-<ab>Estant bien prise, si tu veulx qu'elle gecte force<lb/>
+<ab>Estant bien prise, si tu veulx qu’elle gecte force<lb/>
 
-branches, l'ayant labourée, mects a chasque pied<lb/>
+branches, l’ayant labourée, mects a chasque pied<lb/>
 
-deulx <ms>poignées</ms> de <m>fiente de <al>pigeon</al></m>.</ab>
+deulx <ms><bp>poignées</bp></ms> de <m>fiente de <al>pigeon</al></m>.</ab>
 
 </div>
 
-<div>
+<div id="p031r_2" categories="metal process">
 
-<id>p031r_2</id>
 
-<head>Eaulx coulourees</head>
 
-<ab>L'<m>urine distillée</m>, le <m>vinaigre distillé</m> et l'<m>eau
+<head><m>Eaulx coulourees</m></head>
+
+<ab>L’<m><bp>urine distillée</bp></m>, le <m>vinaigre distillé</m> et l’<m>eau
 de<lb/>
 
-vye</m> prenent taincture caerulée &amp; verte de l'<m><la>aes
+vye</m> prenent taincture cærulée &amp; verte de l’<m><la>aes
 ustum</la><lb/>
 
-pulverisé et subtilem<exp>ent</exp> broyé</m>. Et ceste taincture
+pulverisé et subtilem<exp>ent</exp> broyé</m>. Et ceste <m>taincture</m>
 est<lb/>
 
 <m>cuivre rouge</m> en sa resideue, si tu distilles les susdictes<lb/>
@@ -61,33 +61,33 @@ choses par <tl>filtre</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p031r_3" categories="varnish">
 
-<id>p031r_3</id>
 
-<head><m>Vernis</m> durant à l'<m>eau</m></head>
+
+<head><m>Vernis</m> durant à l’<m>eau</m></head>
 
 <ab>Le <m>vernis de <pl>Flandres</pl></m>, faict de <m>tourmentine</m>
-&amp; <m>huile</m> d'icelle<lb/>
+&amp; <m>huile d’icelle<lb/>
 
-ou de <m>mastic</m>, se peult oster et ne soubstient poinct <env>à la
+ou de mastic</m>, se peult oster et ne soubstient poinct <env>à la
 pluye</env>.<lb/>
 
-Mays celuy qui est faict d'<m>huile de noix blanche</m>,
+Mays celuy qui est faict d’<m>huile de noix blanche</m>,<comment rid="c_031r_01"/>
 co<exp>mm</exp>e tu la<lb/>
 
-fais, tient <env>à la pluye</env> <corr>e</corr><add>t</add> est fort
+fais, tient <env>à la pluye</env> <corr>e</corr>t est fort
 cler &amp; beau &amp; bien tost sec.<lb/>
 
-C'est pourquoy on use d'iceluy aulx banieres &amp; enseignes<lb/>
+C’est pourquoy on use d’iceluy aulx banieres &amp; enseignes<lb/>
 
-painctes qu'on porte <m>à la pluye</m>.</ab>
+painctes qu’on porte <env>à la pluye</env>.</ab>
 
 </div>
 
-<div>
+<div id="p031r_4" categories="painting;household and daily life">
 
-<id>p031r_4</id>
+
 
 <head>Fruict de <m>sucre</m></head>
 

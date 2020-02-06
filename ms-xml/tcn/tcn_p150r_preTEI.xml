@@ -1,11 +1,11 @@
-<root>
-<page>150r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="150r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image</image>
 
-<div>
 
-<id>p150r_1</id>
+
+<div id="p150r_1" categories="casting">
+
+
 
 <head><m>Cire fort dure</m></head>
 
@@ -14,11 +14,11 @@ gecte pas<lb/>
 
 gueres chaulde.</ab></div>
 
-<div>
+<div id="p150r_2" categories="casting">
 
-<id>p150r_2</id>
 
-<head>Ligues diverses d’<m>estain</m> et <m>plomb</m></head>
+
+<head><comment rid="c_150r_01"/>Ligues diverses d’<m>estain</m> et <m>plomb</m></head>
 
 <ab>Pour choses creuses co<exp>mm</exp>e <al>tortues</al>,
 <ms>moictié</ms> <m>plomb fin</m> et <ms>moitié</ms><lb/>
@@ -28,19 +28,19 @@ gueres chaulde.</ab></div>
 <ab>Pour fleurs, presque tout <m>estaim</m>, sçavoir une <ms>lb</ms>
 d’<m>estain fin</m><lb/>
 
-et deux <ms><figure>℥</figure></ms> de <m>plomb fin</m>.</ab>
+et deux <ms>℥</ms> de <m>plomb fin</m>.</ab>
 
 <ab>Pour <al>lesards</al> qui sont espés d’un <ms><bp>doigt</bp></ms> ou
 deux, presque<lb/>
 
 tout <m>plomb</m>, sçavoir une <ms>lb</ms> de <m>plomb fin</m> et 4
-<ms><figure>℥</figure></ms> <del>es</del> d’<m>estaim<lb/>
+<ms>℥</ms> <del>es</del> d’<m>estaim<lb/>
 
 fin</m>.</ab></div>
 
-<div>
+<div id="p150r_3" categories="casting">
 
-<id>p150r_3</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -86,7 +86,7 @@ pour<lb/>
 
 donner liaison, elle ne seroit point necessaire.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Les <tl>moules</tl> recuits ne peuvent soubstenir<lb/>
 
@@ -101,7 +101,7 @@ en soubstiennent<lb/>
 
 beaucoup.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 L’<m>escaille<lb/>
 

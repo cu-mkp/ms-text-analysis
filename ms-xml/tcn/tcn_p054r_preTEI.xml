@@ -1,12 +1,12 @@
-<root>
-<page>054r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="054r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image</image>
 
-<div>
 
-<cont/>
-<id>p053v_1</id>
+
+<div continues="yes" id="p053v_1" categories="cultivation;animal husbandry">
+
+
+
 
 <ab>sur quelques <tl>tables haultes</tl>, &amp; à cella cognoist on
 quand elles veulent<lb/>
@@ -72,8 +72,8 @@ gecter, car<lb/>
 
 il ne seroit pas bon de le donner à une aultre. Ils ont achevé de<lb/>
 
-filer &amp; faire leurs oeufs en trois sepmaines &amp; <tmp>vers la
-<pn>S<exp>ain</exp>t Jehan</pn></tmp>.<lb/>
+filer &amp; faire leurs oeufs en trois <ms><tmp>sepmaines</tmp></ms> &amp; <tmp>vers la
+<pn>S<exp>ain</exp>t Jehan</pn></tmp>.<comment rid="c_052v_01"/><lb/>
 
 Et lors, on garde leurs oeufs &amp; grene <ms><tmp>jusques à la
 Sepmaine<lb/>
@@ -83,13 +83,13 @@ filent parmy la foeille &amp; y font<lb/>
 
 leur coquon sans monter hault.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>soye</m> des<lb/>
 
-coquons où il y a</ab><comment>c_054r_01</comment>
+coquons où il y a<comment rid="c_054r_01"/></ab>
 
 </div>
 </root>

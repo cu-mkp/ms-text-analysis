@@ -1,11 +1,11 @@
-<root>
-<page>033v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="033v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image</image>
 
-<div>
 
-<id>p033v_1</id>
+
+<div id="p033v_1" categories="tricks and sleight of hand">
+
+
 
 <head>Pour fayre sembler <del>que</del> a quelquu<exp>n</exp><lb/>
 
@@ -41,9 +41,9 @@ de la <sn>froideur</sn> de la <m><bp>salive</bp></m> Il secouera les
 
 </div>
 
-<div>
+<div id="p033v_2" categories="tricks and sleight of hand">
 
-<id>p033v_2</id>
+
 
 <head>Pour fayre sortir du <bp>front</bp> de<lb/>
 
@@ -51,13 +51,13 @@ quelquun du <m><bp>sang</bp></m> ou du <m>vin</m> ou dune<lb/>
 
 <env>muraille</env></head>
 
-<figure>
+    <figure size="small" id="fig_p033v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg">
 
-<id>fig_p033v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg</link>
+
+
+
 
 </figure>
 
@@ -112,37 +112,36 @@ percer le <bp>front</bp> a un qui tient un <tl><m>verre</m></tl> en la
 <bp>main</bp> Et penda<exp>n</exp>t<lb/>
 
 que tu perces tu couvres ton faict avecq l<tl><oc>ambu</oc></tl> que tu
-tiens pres du <figure>#</figure></ab>
+tiens pres du <mark>#</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>#</figure>
 
-<bp>front</bp> puys ostant le<lb/>
+<mark>#</mark>
 
-<bp>poulce</bp> de dessus le<lb/>
+<bp><ups>fr</ups>ont</bp> puys ostant le<lb/>
 
-pertuis du bord den<lb/>
+<bp><ups>p</ups>oulce</bp> de dessus le<lb/>
 
-hault l<m>air</m> estant libre<lb/>
+<ups>p</ups>ertuis du bord den<lb/>
 
-fera que le <m>vin</m> sortira<lb/>
+<ups>h</ups>ault l<m>air</m> estant libre<lb/>
 
-de la doubleure par le<lb/>
+<ups>f</ups>era que le <m>vin</m> sortira<lb/>
 
-pertuis marque B &amp; tumbera<lb/>
+<ups>d</ups>e la doubleure par le<lb/>
 
-par le bout marque C<lb/>
+<ups>p</ups>ertuis marque B &amp; tumbera<lb/>
 
-dans le <tl><m>verre</m></tl> Mays<lb/>
+<ups>p</ups>ar le bout marque C<lb/>
 
-il fault bien faire<lb/>
+<ups>d</ups>ans le <tl><m>verre</m></tl> Mays<lb/>
 
-baisser la <bp>teste</bp> au<lb/>
+<ups>il</ups> fault bien faire<lb/>
 
-<pro>pelerin</pro> pour bien faire</ab>
+<ups>b</ups>aisser la <bp>teste</bp> au<lb/>
+<pro><ups>p</ups>elerin</pro> pour bien faire</ab>
 
 </div>
 </root>

@@ -1,19 +1,19 @@
-<root>
-<page>048r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="048r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image</image>
 
-<div>
-<id>p048r_1</id>
+
+
+<div id="p048r_1" categories="metal process">
+
 <head><pro>Fondeur</pro></head>
 
 <ab>La chaulde<lb/></ab>
 
-<figure>
+<figure id="fig_p048r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ">
 
-<id>fig_p048r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ</link>
+
+
 
 </figure>
 
@@ -21,13 +21,13 @@
 
 </div>
 
-<div>
-<id>p048r_2</id>
-<head>Guerir les <al>chiens</al> de la<lb/>
+<div id="p048r_2" categories="medicine">
 
-galle</head>
+<head><md>Guerir les <al>chiens</al> de la<lb/>
 
-<ab>Donne leur une <m>pilulle de præcipite</m> scavoir iii ou 4 ou
+galle</md></head>
+
+    <ab>Donne leur une <m>pilulle de præcipite</m><comment rid="c_048r_01"/> scavoir iii ou 4 ou
 jusques<lb/>
 
 a cinq <ms>grains</ms> mesle parmy leur <m>viande</m> Et leur en
@@ -39,8 +39,8 @@ ou huict<lb/>
 <ms><tmp>jours</tmp></ms> apres</ab>
 </div>
 
-<div>
-<id>p048r_3</id>
+<div id="p048r_3" categories="household and daily life">
+
 <head><m>Excellente <pa>moustarde</pa></m></head>
 
 <ab>Fais seicher du <m>pain</m> au <tl>four</tl> puys le <m>larde de
@@ -48,15 +48,15 @@ ou huict<lb/>
 
 &amp; ainsy mects le tremper dans de <m>bon vin</m> Puys passe tout<lb/>
 
-par l<tl><m>estamine</m></tl> estant bien pile &amp; lincorpore avecq ta
+par l<tl><m>estamine</m></tl> estant bien <tl>pile</tl> &amp; lincorpore avecq ta
 <m>graine<lb/>
 
 de <pa>moustarde</pa></m></ab>
 
 </div>
 
-<div>
-<id>p048r_4</id>
+<div id="p048r_4" categories="preserving">
+
 <head>Garder <al>oiseaulx</al> et<lb/>
 
 animaulx</head>

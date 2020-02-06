@@ -1,11 +1,11 @@
-<root>
-<page>137v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image</image>
 
-<div>
-<id>p137v_1</id>
-<head>Destremper sable pour <tl>moule</tl> de<lb/>
+
+
+<div id="p137v_1" categories="casting" continued="yes">
+
+<head>Destremper <m>sable</m> pour <tl>moule</tl> de<lb/>
 
 medailles plattes</head>
 
@@ -20,7 +20,7 @@ refuser<lb/>
 
 sur la chose <m>huilée</m>, on faict bien chaufer l’<m>eau</m> pour<lb/>
 
-destremper le sable, car avecq l’<m>eau froide</m> il refuseroit.<lb/>
+destremper le <m>sable</m>, car avecq l’<m>eau froide</m> il refuseroit.<lb/>
 
 Les medailles s’<m>huilent</m> pource que elles ne prestent<lb/>
 
@@ -34,9 +34,9 @@ n’y<lb/>
 puysses tenir le <tl><bp>doigt</bp></tl>, sinon avec sentiment bien
 chault</sn></ms>.<lb/>
 
-Destrempe le sable plus espés pour medailles plattes &amp;<lb/>
+Destrempe le <m>sable</m> plus espés pour medailles plattes &amp;<lb/>
 
-solides que pour <al>lesards</al> &amp; choses subtiles. Ton sable<lb/>
+solides que pour <al>lesards</al> &amp; choses subtiles. Ton <m>sable</m><lb/>
 
 ayant faict prise, nettoye &amp; rascle ton <tl>moule</tl> d’un
 costé<lb/>
@@ -91,8 +91,8 @@ du costé<lb/>
 
 du gect &amp; l’autre du costé de la teste, qui est à l’oposite.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Garde bien de<lb/>
 
 n’<m>huiler</m> gueres<lb/>
@@ -101,7 +101,7 @@ la medaille car<lb/>
 
 si l’<m>huile</m> redonde,<lb/>
 
-il divertist le sable<lb/>
+il divertist le <m>sable</m><lb/>
 
 de s’unir &amp; amasser,<lb/>
 
@@ -123,8 +123,8 @@ du pinceau <m>huilé</m></tl>,<lb/>
 
 l’<m>huile</m> partout. </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Surtout fais<lb/>
 
 que le gect soict<lb/>
@@ -135,9 +135,9 @@ que tu pourras<lb/>
 
 <del>p</del>vers la medaille,<lb/>
 
-&amp; l’embrasse bien.<lb/>
+&amp; l’embrasse bien,<lb/>
 
-Que l’entrée du<lb/>
+que l’entrée du<lb/>
 
 gect soict ample,<lb/>
 
@@ -153,7 +153,7 @@ aussy d’encocher<lb/>
 
 l’entrée du gect.</ab>
 
-<cont/>
+
 
 </div>
 </root>

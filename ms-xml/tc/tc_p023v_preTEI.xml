@@ -1,23 +1,16 @@
-<root>
-<page>023v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="023v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image</image>
 
-<div>
 
-<cont/>
 
-<id>p023r_1</id>
+<div continues="yes" id="p023r_1" categories="arms and armor">
 
-<figure>
 
-<id>fig_p023v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg</link>
 
-</figure>
+<ab margin="left-middle" render="tall"><figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
+</figure></ab>
 
 <ab><m>pouldre</m> Estant pleine la saulssisse trempe la <del>bien
 dans</del><lb/>
@@ -46,7 +39,7 @@ toute la saulcice avecq de la <m>tourmentine bien bonne</m><lb/>
 
 Et au bout dicelle que tu vouldras joindre a la lumiere<lb/>
 
-du mortier pour donner foeu tu pourras couldre <del>une</del><lb/>
+du <wp>mortier</wp><comment rid="c_008r_04"/> pour donner foeu tu pourras couldre <del>une</del><lb/>
 
 ou attacher bien serre une <m>liste de toile large</m> dun<lb/>
 
@@ -55,16 +48,16 @@ ou attacher bien serre une <m>liste de toile large</m> dun<lb/>
 
 &amp; ceste liste doibt estre fendue par le milieu affin de<lb/>
 
-lentourner &amp; lier aultour du mortier Et fault latacher<lb/>
+lentourner &amp; lier aultour du <wp>mortier</wp> Et fault latacher<lb/>
 
 en sorte que <del>la lumiere soict pres d<del>u m</del>e la</del> le
 bout de<lb/>
 
 la saulcice qui soict ouvert soict joinct a la lumiere du<lb/>
 
-mortier Puys il fault mectre force <m>pouldre</m> accachee<lb/>
+<wp>mortier</wp> Puys il fault mectre force <m>pouldre</m> accachee<lb/>
 
-sur la lumiere du mortier Et apres que celuy qui est<lb/>
+sur la lumiere du <wp>mortier</wp> Et apres que celuy qui est<lb/>
 
 hors du fosse tire la <tl>lignette</tl> &amp; <tl>cordelle</tl> qui est
 joincte<lb/>
@@ -84,11 +77,9 @@ mis en seurette &amp; les aultres aussy</ab>
 
 </div>
 
-<div>
-
-<id>p023v_1</id>
-
-<ab>Les mortiers quon veult poser aulx portes ou grilles de<lb/>
+<div id="p023v_1" categories="arms and armor">
+<head><sup>Mortiers</sup></head>
+<ab>Les <wp>mortiers</wp> quon veult poser aulx portes ou grilles de<lb/>
 
 <m>fer</m> sont suffisants silz poisent 40 ou 50 <ms>lb</ms> Au
 reste<lb/>

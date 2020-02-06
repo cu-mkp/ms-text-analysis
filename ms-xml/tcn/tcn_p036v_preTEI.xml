@@ -1,22 +1,22 @@
-<root>
-<page>036v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="036v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image</image>
 
-<div>
 
-<id>p036v_1</id>
+
+<div id="p036v_1" categories="casting">
+
+
 
 <head><pro>Fondeur</pro></head>
 
 <ab>Les pots de cuisine se font bons, pour ne donner poinct<lb/>
 
-<sn>mauvays goust à la viande</sn>, avecq du mesme <m>metal duquel<lb/>
+<sn>mauvays goust à la viande</sn>, avecq du mesme <m>metal<comment rid="c_016v_05"/> duquel<lb/>
 
 les cloches se font</m>. Il est vray que, pour les rendre plus<lb/>
 
 vendables, les <pro>fond<del>ables</del><add>eurs</add></pro> y meslent
-plus de <m>letton</m>, pource qu'ilz<lb/>
+plus de <m>letton</m>, pource qu’ilz<lb/>
 
 sont plus jaulnes. Mays le <m>letton</m>, de soymesme &amp; à son
 seul<lb/>
@@ -24,7 +24,7 @@ seul<lb/>
 attouchem<exp>ent</exp>, est <sn>puant</sn> &amp; de <sn>mauvaise
 odeur</sn>.</ab>
 
-<ab>Le <m>letton</m> ne perd point ou bien peu sa <m>calamine</m> au
+<ab>Le <m>letton</m> ne perd point, ou bien peu, sa <m>calamine</m> au
 <tl>four à vent</tl><lb/>
 
 quand il se fond au <tl>creuset</tl>, ne gueres au <tl>four à
@@ -37,15 +37,15 @@ feu de chasse.</ab>
 
 </div>
 
-<div>
+<div id="p036v_2" categories="casting">
 
-<id>p036v_2</id>
+
 
 <head><tl>Four à vent</tl></head>
 
-<ab>Il fault qu'il soict plus estroit à la gueule qu'au fonds.<lb/>
+<ab>Il fault qu’il soict plus estroit à la gueule qu’au fonds.<lb/>
 
-Et c'est assés que le <tl>creuset</tl> puisse entrer dedans &amp; qu'il
+Et c’est assés que le <tl>creuset</tl> puisse entrer dedans &amp; qu’il
 y<lb/>
 
 aye espasse pour le retirer &amp; prendre avecq les
@@ -53,13 +53,13 @@ aye espasse pour le retirer &amp; prendre avecq les
 
 </div>
 
-<div>
+<div id="p036v_3" categories="glass process">
 
-<id>p036v_3</id>
+
 
 <head><m>Verre de <pro>vitriers</pro></m></head>
 
-<ab>On dict qu'en <pl>Lorraine</pl> &amp; en <pl>Flandres</pl> le
+<ab>On dict qu’en <pl>Lorraine</pl> &amp; en <pl>Flandres</pl> le
 <m>verre de bien</m><lb/>
 
 se faict de <m>cendre de <pa>feugiere</pa></m> &amp; de <m>caillous</m>,
@@ -77,12 +77,12 @@ sur une <tl><m>pierre</m></tl> ou <tl>platene</tl> large qui est dans le
 
 un peu moings chault que de la fonte, elle se laisse<lb/>
 
-dilater. Et encores oultre ce, ilz l'aplanissent avecq une<lb/>
+dilater. Et encores oultre ce, ilz l’aplanissent avecq une<lb/>
 
 longue &amp; <tl>grosse verge de <m>fer</m> ronde</tl>, puys la
 retirent<lb/>
 
-au <tl>four</tl> à recuire. Il s'en faict de mesme en
+au <tl>four</tl> à recuire. Il s’en faict de mesme en
 <pl>Angleterre</pl><lb/>
 
 de plus beau. Auprés de <pl>Rouan</pl> en <pl>France</pl>, le <m>verre
@@ -101,26 +101,26 @@ cestuy de<lb/>
 
 laquelle un aultre coupe le bout puys le soufleur en<lb/>
 
-tournant l'aplatise &amp; en touchant sur un <tl>plan</tl> qui est à
+tournant l’aplatise &amp; en touchant sur un plan qui est à
 terre,<lb/>
 
-<del>A</del> puys la met à recuire. Ainsy le milieu par où elle se<lb/>
+<del>A</del> puys la met à recuire.<comment rid="c_036v_01"/> Ainsy le milieu par où elle se<lb/>
 
 commance demeure tousjours.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Le <m>verre</m> se peult<lb/>
 
 refendre avecq la<lb/>
 
-lumiere d'une <tl>chandelle</tl><lb/>
+lumiere d’une <tl>chandelle</tl><lb/>
 
 en mouillant, mays<lb/>
 
 non pas si justement<lb/>
 
-qu'avecq le <tl><m>fer</m> chault</tl>.</ab>
+qu’avecq le <tl><m>fer</m> chault</tl>.</ab>
 
 </div>
 </root>

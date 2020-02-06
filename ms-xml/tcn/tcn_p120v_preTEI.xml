@@ -1,13 +1,10 @@
-<root>
-<page>120v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="120v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image</image>
 
-<div>
 
-<cont/>
 
-<id>p120r_3</id>
+<div continues="yes" id="p120r_3" categories="casting;animal husbandry">
+
 
 <ab>mange de luy mesme. Et pour l<corr>’</corr>y convier mieulx, tu
 peulx bien<lb/>
@@ -19,8 +16,8 @@ car il en est fort friand.</ab>
 
 </div>
 
-<div>
-<id>p120v_1</id>
+<div id="p120v_1" categories="casting;medicine">
+
 <head><m><la>Crocum ferri</la></m></head>
 
 <ab>Il est excellent <md>sinapisé</md> sur les playes pour arrester
@@ -28,8 +25,8 @@ le<lb/>
 
 <bp>sang</bp>. Le meilleur est de <m>limaille d’aiguilles</m>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-middle">
+
 Le <m><la>crocum ferri</la></m><lb/>
 
 endurcist les<lb/>
@@ -44,8 +41,9 @@ il en y a, les rend plus mols &amp; doulx.</ab>
 
 </div>
 
-<div>
-<id>p120v_2</id>
+
+<div id="p120v_2" categories="preserving">
+
 <head>Anatomie</head>
 
 <ab>Il fault escorcher l’animal &amp; le faire bouillir, ou bien<lb/>
@@ -54,11 +52,12 @@ l’escorcher &amp; le mectre dans <m>bonne chaulx vive</m>.</ab>
 
 </div>
 
-<div>
-<id>p120v_3</id>
+
+<div id="p120v_3" categories="casting">
+
 <head>Fayre courre l’<m>argent</m></head>
 
-<ab><del>Si c’est pour grand ouvrage, l’<m>arsenic</m> &amp; le
+<ab><comment rid="c_120v_08"/>Si c’est pour grand ouvrage, l’<m>arsenic</m> &amp; le
 <m>tartre pulverisés</m><lb/>
 
 &amp; gectés sur l’<m>argent fondu</m> le font courre, <del>Si cest
@@ -67,7 +66,7 @@ pou</del> et<lb/>
 suffist. Mays pour ouvrage subtil, il y fault de l’<m><la>aes<lb/>
 
 ustum</la></m>, de la <m>limaille <corr>de</corr> <del>letton</del>
-<add>cuivre menue</add>, d<del>u</del>e l’antimoyne, du sublimé,
+<add>cuivre menue</add>, d<del>u</del>e<comment rid="c_120v_01"/> l’antimoyne, du sublimé,
 subtilem<exp>ent</exp><lb/>
 
 pulverisés</m>. <del>Cela</del> De cela se faict une masse qui n’aigrist
@@ -78,77 +77,87 @@ Si le <del>s</del> <m>plastre</m> est bon, il n’y fault point de
 
 l’<m>argent</m>, mays on mect plus d’<m>alum de plume</m>.<lb/>
 
-<add>@ Il y fault aussy du <m>sel commun fondu</m> &amp; du
+<add><comment rid="c_120v_02"/>Il y fault aussy du <m>sel commun fondu</m> &amp; du
 <m>salpestre</m>, avecq les<lb/>
 
 drogues susdictes: <m>arsenic</m>, <m>tartre</m>, <m><la>aes
 ustum</la></m>, <m>limaille de cuivre</m>,<lb/>
 
-<m>antimoyne</m> &amp;</add></del>.</ab>
+<m>antimoyne</m> &amp;<corr>c</corr>.</add></ab>
 
-<rub><comment>c_120v_04</comment>Voy</rub> le second foeillet suivant.
+<ab><emph>Voy</emph> le second foeillet suivant.<comment rid="c_120v_04"/>
+</ab>
 
-<ab>
 
-<man><margin>left-middle</margin>
+<ab margin="left-middle">
 
-<del><la>S<corr>c</corr>iscitatio<lb/>
+<comment rid="c_120v_08"/><emph>
 
-dubia</la></del></man>
+<la>S<corr>c</corr>iscitatio<lb/>
+
+dubia</la></emph><comment rid="c_120v_07"/>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+
+<ab margin="left-middle">
+
 Un peu d’<m>axunge</m><lb/>
 
 et de l’<m>arsenic</m>
 
 </ab>
 
-<ab>
-
-<margin>left-middle</margin>
-
-<figure>+</figure>
-
-</ab>
-
+</div>
+    
+    
+<div>    
 </div>
 
-<div>
 
-<id>p120v_6</id>
+<div id="p120v_6" categories="preserving" continued="yes">
 
 <head>Garder fleurs seiches en mesme<lb/>
 
-<figure/> estat <tmp>toute l’année</tmp></head>
+    <figure size="x-small" id="fig_p120v_3" link="https://drive.google.com/file/d/1Sbuw9J8eX42Yhyp56CQoO7gShZRMVkn9"></figure> estat <tmp>toute l’année</tmp></head>
+
 
 <ab>
+C’est un rare secret &amp; qui donne du plaisir pour orner<lb/>
+    
+les tables, <env>chambres</env> &amp; <env>cabinets</env> <tmp>hors de
+saison quand l’hiver<lb/>
+        
+desnie des fleurs</tmp>. Advise doncq de les <del>ce</del> cueillir
+lorsqu’elles<lb/>
+    
+sont en leur parfaicte vigueur &amp; qu’elles croissent. Car si tu
+les<lb/>
+    
+prenois <ms>quand leur <tmp>saison</tmp> passe</ms> ou qu’elles
+commancent à fanir,<lb/>
+    
+elles ne se garderoient point. Les ayant doncq ainsy choisies,<lb/>
+    
+ayes du <m>sable le plus maigre &amp; aride que tu pourras
+trouver</m>,<lb/>
+    
+qui soict fort subtil co<exp>mm</exp>e celuy duquel les
+<pro>orfevres</pro> <del>usent</del> <add>se servent</add> pour<lb/>
+    
+user l’<m>esmail</m> ou co<exp>mm</exp>e celuy d’estampes. Mays il ne
+fault pas sur<lb/>
+    
+tout qu’il fasse <m>poulsiere</m>, ne qu’il demeure sur la <bp>main</bp>
+ou y<lb/>
+    
+laisse marque quand tu l<corr>’</corr>y as pulverisé &amp; puys versé.
+Car c’est</ab>
 
-<margin>left-middle</margin>
 
-Les fleurs se gardent aussy en leur mesme beaulté dans le <m>vinaigre
-distillé</m> <del>v</del>dans un <tl>vase<lb/>
+<ab margin="right-top">
 
-bien sellé</tl> qui ne prene aulcun vent, qui soit bien sellé de
-<m>cire</m> &amp; <m>mastic</m>. Les <pa>œillets</pa> &amp;
-<pa>roses</pa>,<lb/>
-
-la <m>resideure du vinaigre commu<exp>n</exp></m> les faict
-pourrir.<lb/>
-
-Si le <m>sable</m> faict <m>poulssiere</m> &amp; tient<lb/>
-
-sur les fleurs, &amp; qu’aisem<exp>ent</exp> avecq un<lb/>
-
-<tl>pinceau</tl> il ne s’oste, il n’est pas bon.<lb/>
-
-Le plus maigre est le meilleur.</ab>
-
-<ab>
-<margin>right-middle</margin>
-Le <m>sable de <env>riviere</env></m> lavé<lb/>
+Le <m>sable de riviere</m> lavé<lb/>
 
 par le <env>coura<exp>n</exp>t des eaulx</env> est<lb/>
 
@@ -158,46 +167,36 @@ pour<lb/>
 
 secouer<lb/>
 
-la pou-<lb/>
+la pou<lb/>
 
-dre.</ab>
+dre.<hr/></ab>
 
-<ab>
 
-C’est un rare secret &amp; qui donne du plaisir pour orner<lb/>
+<ab margin="left-top" render="wide">
+<mark>+</mark><lb/>
+        
+Les fleurs se gardent aussy en leur mesme beaulté dans le <m>vinaigre
+distillé</m> <del>v</del>dans<comment rid="c_120v_03"/> un <tl>vase<lb/>
+                
+bien sellé</tl> qui ne prene aulcun vent, qui soit bien sellé de
+<m>cire</m> &amp; <m>mastic</m>. Les <pa>oeillets</pa> &amp;
+<pa>roses</pa>,<lb/>
+        
+la <m>resideure du vinaigre commu<exp>n</exp></m> les faict
+pourrir.<lb/>
+        
+Si le <m>sable</m> faict <m>poulssiere</m> &amp; tient<lb/>
+        
+sur les fleurs, &amp; qu’aisem<exp>ent</exp> avecq un<lb/>
+        
+<tl>pinceau</tl> il ne s’oste, il n’est pas bon.<lb/>
+        
+Le plus maigre est le meilleur.</ab>
 
-les tables, <env>chambres</env> &amp; <env>cabinets</env> <tmp>hors de
-saison quand l’hiver<lb/>
 
-desnie des fleurs</tmp>. Advise doncq de les <del>ce</del> cueillir
-lorsqu’elles<lb/>
+<ab margin="left-middle">
 
-sont en leur parfaicte vigueur &amp; qu’elles croissent. Car si tu
-les<lb/>
-
-prenois <ms>quand leur <tmp>saison</tmp> passe</ms> ou qu’elles
-commancent à fanir,<lb/>
-
-elles ne se garderoient point. Les ayant doncq ainsy choisies,<lb/>
-
-ayes du <m>sable</m> le plus maigre &amp; aride que tu pourras
-trouver,<lb/>
-
-qui soict fort subtil co<exp>mm</exp>e celuy duquel les
-<pro>orfevres</pro> <del>usent</del> <add>se servent</add> pour<lb/>
-
-user l’<m>esmail</m> ou co<exp>mm</exp>e celuy d’estampes. Mays il ne
-fault pas sur<lb/>
-
-tout qu’il fasse <m>poulsiere</m>, ne qu’il demeure sur la <bp>main</bp>
-ou y<lb/>
-
-laisse marque quand tu l<corr>’</corr>y as pulverisé &amp; puys versé.
-Car c’est</ab>
-
-<ab>
-<margin>left-bottom</margin>
-<figure>+</figure><lb/>
+<mark>+</mark><lb/>
 
 Fais que ta<lb/>
 
@@ -221,8 +220,9 @@ couvre &amp; garde<lb/>
 
 en <env>lieu sec</env>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+
+<ab margin="left-middle" render="tall">
+
 <del>Que</del> Il ne fault pas mectre<lb/>
 
 lesdictes fleurs en <tl>grands vases</tl>,<lb/>
@@ -231,15 +231,16 @@ car quand on tire un il fault<lb/>
 
 tirer tout.</ab>
 
-<ab>
-<margin>bottom</margin>
+
+<ab margin="bottom">
+
 Advise bien de ne coeuillir pas tes fleurs<lb/>
 
 <del>q</del> en <env>temps de pluye et humide</env>, mays lors<lb/>
 
 que le <env>soleil</env> aura passé dessus.</ab>
 
-<cont/>
+
 
 </div>
 </root>

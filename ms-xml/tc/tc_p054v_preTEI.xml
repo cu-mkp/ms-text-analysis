@@ -1,17 +1,17 @@
-<root>
-<page>054v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="054v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f114.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f114.image</image>
 
-<div>
 
-<id>p054v_1</id>
 
-<figure>
+<div id="p054v_1" categories="preserving">
 
-<id>fig_p054v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ</link>
+<head><sup>Confitures sèches</sup></head>
+<figure id="fig_p054v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ">
+
+
+
+
 
 </figure>
 
@@ -37,13 +37,13 @@ avecq un <tl>linceulx</tl> en double</ab>
 
 </div>
 
-<div>
+<div id="p054v_2" categories="animal husbandry">
 
-<id>p054v_2</id>
+
 
 <head>Pour fayre suivre un <al>cheval</al></head>
 
-<ab><figure>+</figure>Il luy fault donner du <m>pain sucre</m> &amp; il
+<ab><mark>+</mark>Il luy fault donner du <m>pain sucre</m> &amp; il
 cognoistra celuy<lb/>
 
 qui luy fera ce bien</ab>
@@ -58,9 +58,9 @@ continue</ab>
 
 </div>
 
-<div>
+<div id="p054v_3" categories="household and daily life">
 
-<id>p054v_3</id>
+
 
 <head><al>Chiens</al></head>
 
@@ -76,9 +76,9 @@ les dents &amp; ne te pourront nuire</ab>
 
 </div>
 
-<div>
+<div id="p054v_4" categories="tricks and sleight of hand;animal husbandry">
 
-<id>p054v_4</id>
+
 
 <head>Pour desguiser un <al>cheval</al></head>
 
@@ -90,9 +90,9 @@ ailleurs</ab>
 
 </div>
 
-<div>
+<div id="p054v_5" categories="household and daily life">
 
-<id>p054v_5</id>
+
 
 <head>Bottes de <m>foin</m></head>
 

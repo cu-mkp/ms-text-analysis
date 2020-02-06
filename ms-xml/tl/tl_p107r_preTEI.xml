@@ -1,92 +1,85 @@
-<root>
-<page>107r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="107r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image</image>
 
-<div>
 
-<cont/>
 
-<id>p106v_1</id>
+<div continues="yes" id="p106v_2" categories="casting">
 
-<ab>
 
-<margin>left-top</margin>
 
-<figure>
 
-<id>fig_p107r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5RFFFT3hSbnlGaVU</link>
+<ab margin="left-bottom">
 
-</figure>
 
-as heavy as before, and like a moderately thick paste &amp; that it is
-not so easy to handle, as when it is liquid. It is a sign that it is
-cooked enough, which you will know when it also throws big bubbles or
-exhalations in the middle &amp; around, as long as a
+
+<mark>ʘʘ</mark><comment rid="c_106v_02"/><lb/>
+
+as heavy as before, and like a moderately thick paste, &amp; that it is
+not so easy to handle as when it is liquid. It is a sign that it is
+cooked enough, which you will know when it also throws off big bubbles or
+exhalations, in the middle &amp; around, as long as a
 <ms><bp>finger</bp></ms>. Seeing it in this state, remove it from the
-fire for it is heated enough, because if you were to reheat more, it
-would be too much &amp; would not set as well. For, when it becomes red
-&amp; overheats, it loses its strength &amp; spoils the sand. Leave it
-to cool before mixing it within the other sands. And when it is cold,
-mix and mold, for as soon as you will use it after its cooking, the
+fire, for it is heated enough, because if you were to reheat more, it
+would be too much &amp; would not set as well. For when it becomes red
+&amp; overheats, it loses its strength &amp; spoils the <m>sand</m>. Leave it
+to cool before mixing it with the other <m>sands</m>. And when it is cold,
+mix and mold, for the sooner after its cooking you use it, the
 sooner it will set.</ab>
 
 </div>
 
-<div>
-<id>p107r_1</id>
+<div id="p107r_1" categories="casting" continued="yes">
+
 <head>Catching <al>lizards</al> and <al>snakes</al></head>
 
-<ab>Take a <tl>stick</tl> and attach a <tl>string</tl> at the end, which
+<ab>Take a <tl>stick</tl> and attach a <tl>string</tl> at the end which
 has a <del>knot</del> <del><add>eyelet</add></del> slip
-<add>eyelet</add> at the end. And, being two to three, to distract the
-<al>lizard</al> while whistling, approach the eyelet towards his neck,
-and when his head is inside, pull. <add>The <al>lizard</al> is more
+<add>eyelet</add> at the end. And there being two or three to distract the
+<al>lizard</al> by whistling, approach the eyelet toward its neck,
+and when its head is inside, pull. <add>The <al>lizard</al> is more
 tedious to catch by <tl><bp>hand</bp></tl> than the <al>snake</al> &amp;
 bites without letting go &amp; grips like <tl>pincers</tl>.</add></ab>
 
 <ab><al>Snakes</al> can be caught by <tl><bp>hand</bp></tl>, provided
 that it is covered by a thick <tl><m>woollen</m> cloth</tl>, for the
-teeth of the <al>snake</al> stay in the <tl>cloth</tl>, &amp; cannot
+teeth of the <al>snake</al> stay in the <tl>cloth</tl> &amp; cannot
 pierce like they would with a <m>linen</m>. The dangerous ones are
-recognisable by their blue eyes &amp; <del><fr>asses</fr></del> deep
-azur <add><fr>azures</fr></add>. They hardly ever bite <env>in
+recognized by their blue &amp; <del><fr>asses</fr></del> <fr>aseurés</fr><comment rid="c_107r_03"/>
+<add>azure</add> eyes. They hardly ever bite <env>in
 water</env>, which <pro><al>crayfish</al> catchers</pro>
 experience.</ab>
 
-<ab>The sand mixture is of two <ms>parts</ms> of <m>plaster pulverized
+<ab>The <m>sand</m> mixture is of two <ms>parts</ms> of <m>plaster, pulverized
 &amp; reheated</m> as said, &amp; of one <ms>part</ms> of <m>tile</m>,
 reddened <del><fr>et p</fr></del> <del><fr>pre</fr></del> <add>in a good
-fire</add>, after the first cooking &amp; then finely pulverized, and of
-<m><fr>alum de plume</fr></m>, <ms>half</ms> of <m>brick</m>, namely two
+fire</add> after the first cooking &amp; then finely pulverized, and of
+<m>feather alum</m>, <ms>half</ms> as much as of the <m>brick</m>, namely two
 full <ms><tl>crucibles</tl></ms> of <m>plaster</m>, one of <m>brick</m>
-&amp; a half of <m><fr>alum de plume</fr></m>. There can never be too
-much <m><fr>alum de plume</fr></m>,<del><fr>s</fr></del> for this is
-what gives bond to the sand, and because it does not burn, it makes sand
+&amp; a half of <m>feather alum</m>. There can never be too
+much <m>feather alum</m>, for <del><fr>s</fr></del> this is
+what gives bond to the <m>sand</m>, and because it does not burn, it makes <m>sand</m>
 withstand the fire without cracking &amp; bursting. Otherwise, without
-it, the sand would not withstand it. This sand, thus composed, is proper
+it, the <m>sand</m> would not withstand it. This <m>sand</m>, thus composed, is proper
 for all <m>metals</m>, but if you want to use it for <m>gold</m>, one
-needs more <m><fr>alum de plume</fr></m> <del>&amp;</del> than the above
-mentioned composition, and mix in some <m><la>crocum ferri</la></m>, and
-for it is this one that attracts <m>gold</m>.</ab>
+needs more <m>feather alum</m> <del>&amp;</del> than the aforesaid 
+composition, and mix in some <m><la>crocum ferri</la></m>. For it is this one that attracts <m>gold</m>.</ab>
 
-<ab>It is necessary that all sand with which you want to cast well,
+<ab>It is necessary that all <m>sand</m> with which you want to cast well,
 withstands the fire well, that is to say that it withstands
 <del><fr>abon</fr></del> <del><fr>c</fr></del> a great firing without
 getting spoiled.</ab>
 
-<ab><m><fr>Alum de plume</fr></m> is awkward to pestle, and it does not
-pass through the <tl>sieve</tl>. Thusly one needs to grind it finely on
-<tl><m>marble</m></tl>. And <m>the one, white, <del><fr>que v</fr></del>
-in powder, that <pro>apothecaries</pro> sell</m>, is good.<add> It is
-grinds better <del><fr>su</fr></del> in the <tl>mortar</tl> by pestling
-&amp;dragging the <tl><fr>pinon</fr></tl>, thus you will render it very
+<ab><m>Feather alum</m> is awkward to <tl>pestle</tl>, and it does not
+pass through the <tl>sieve</tl>. Thus, one needs to grind it finely on
+<tl><m>marble</m></tl>. And <m>the white one <del><fr>que v</fr></del>
+in powder that <pro>apothecaries</pro> sell</m> is good.<add> It is
+ground better <del><fr>su</fr></del> in the <tl>mortar</tl> by <tl>pestling</tl>
+&amp; dragging the <tl>pestle</tl>,<comment rid="c_107r_06"/> thus you will render it very
 fine.</add></ab>
 
 <ab><m><la>Crocum ferri</la></m> must be set ablaze in a
-<tl><pro>glassworker</pro>’s furnace</tl> for four
+<tl><pro>glassmaker’s</pro> <fr>fournaise</fr></tl> for four
 <ms><tmp>days</tmp></ms>.</ab>
 
 </div>

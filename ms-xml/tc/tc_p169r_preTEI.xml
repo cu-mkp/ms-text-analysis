@@ -1,11 +1,11 @@
-<root>
-<page>169r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="169r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item</image>
 
-<div>
-<id>p169r_1</id>
 
+
+<div id="p169r_1" categories="lists">
+
+<head><sup>Liste de procédés</sup></head>
 <ab><underline>Mouler <al>tortues</al></underline></ab>
 
 <ab><underline>Animaulx a poil</underline></ab>
@@ -20,7 +20,7 @@
 
 <ab>Mouler un vase en <tl>chassis</tl></ab>
 
-<ab>Mouler du <pa><la>capilli veneris</la></pa><lb/>
+<ab>Mouler du <pa><la>capilli veneris</la></pa><comment rid="c_037r_01"/><lb/>
 
 &amp; herbes qui ont besoing de<lb/>
 
@@ -36,7 +36,7 @@
 
 <ab><underline>Mouler <al>chancre</al> - mis</underline></ab>
 
-<ab><figure>+</figure> <underline><al>Escrevisse</al> mis et
+<ab><mark>+</mark> <underline><al>Escrevisse</al> mis et
 veu</underline></ab>
 
 <ab><al>Sauterelles</al></ab>
@@ -59,7 +59,7 @@ veu</underline></ab>
 
 <ab><m>Carton</m></ab>
 
-<ab><underline><figure>+</figure><del>P</del> <m>Cire</m>
+<ab><underline><mark>+</mark><del>P</del> <m>Cire</m>
 mis</underline></ab>
 
 <ab>Esbaucher</ab>
@@ -71,7 +71,7 @@ mis</underline></ab>
 <ab><underline>Mouler et faire caves danimaulx de
 <m>metal</m></underline></ab>
 
-<ab><figure>+</figure> <underline><m>huile de <pa>froment</pa></m> mis
+<ab><mark>+</mark> <underline><m>huile de <pa>froment</pa></m> mis
 et veu</underline></ab>
 
 <ab><underline><al>Cef volant</al></underline></ab>
@@ -82,11 +82,11 @@ et veu</underline></ab>
 
 <ab><underline><m>Cire fort dure</m></underline></ab>
 
-<ab><underline>Mouler une bague de ce qui est grave</underline></ab>
+<ab><underline>Mouler une <del>p</del>bague et ce qui est grave</underline></ab>
 
 <ab>Mouler pieces de carquans</ab>
 
-<ab>Choses qui ne sont point de despouille</ab>
+<ab>Choses qui ne sont point de despoui<ups>lle</ups></ab>
 
 <ab>Fontaines</ab>
 

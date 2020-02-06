@@ -1,13 +1,13 @@
-<root>
-<page>131v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="131v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p131r_5</id>
+<div continues="yes" id="p131r_5" categories="casting">
+
+
+
+
 
 <ab>en forme ronde pour la gecter en <m>or</m> et <m>argent</m>, ne
 mects<lb/>
@@ -15,7 +15,7 @@ mects<lb/>
 rien en ta <m>cire</m> que tu præpareras pour cet effect <del>sino</del>
 de<lb/>
 
-toutes ses drogues, sinon y gecter du <m>soufre fondu</m>
+toutes ses drogues, sinon y gecter du <m>soufre fondu</m>,
 co<exp>mm</exp>e<lb/>
 
 elle est fondue, &amp; de la <m>fumée de <tl>chandelle</tl></m>. Le
@@ -35,8 +35,8 @@ est composée de <m>ceruse</m> ou semblables, il faut que<lb/>
 
 tu mectes ton <tl>moule</tl> dans l’<m>eau bouillante</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour figures<lb/>
 
 de <m>cire</m> platte,<lb/>
@@ -54,8 +54,8 @@ demeure pas dans<lb/>
 l<del>a</del>e <tl>moule</tl>.</ab>
 
 </div>
-<div>
-<id>p131v_1</id>
+<div id="p131v_1" categories="casting" continued="yes">
+
 <head>Quand le gect d’<m>estaim</m> ou<lb/>
 
 de <m>plomb</m> soufle</head>
@@ -66,13 +66,13 @@ avec de la <m>cire</m> fort dure, que tu peux aprés <m>argenter</m><lb/>
 
 ou <m>dorer</m>. Pour obvier à cela, si tu gectes tanvre,<lb/>
 
-la ligue d’une <ms><figure>℥</figure></ms> <del>d’est</del> de
+la ligue d’une <ms>℥</ms> <del>d’est</del> de
 <m>plomb</m> sur une <ms>lb</ms> d’<m>estaim</m><lb/>
 
 est bonne. Mays si tu gectes de <m>plomb</m> <add>pour chose
 espesse</add>, il fault<lb/>
 
-bien sur une <ms>lb</ms> d’iceluy deux <ms><figure>℥</figure></ms>
+bien sur une <ms>lb</ms> d’iceluy deux <ms>℥</ms>
 d’<m>estaim</m>, car le <m>plomb</m>,<lb/>
 
 estant gras &amp; poisant, porte plus. De ceste ligue j’ay<lb/>
@@ -80,7 +80,7 @@ estant gras &amp; poisant, porte plus. De ceste ligue j’ay<lb/>
 gecté ung <al>grand lezard</al> co<exp>mm</exp>e le naturel. En
 chose<lb/>
 
-espesse, <del>si</del> qui garde long temps sa chaleur, s’il y<lb/>
+espesse, <del>si</del> qui garde <tmp>long temps</tmp> sa chaleur, s’il y<lb/>
 
 a gueres d’<m>estaim</m>, il faict soufler. Ton <tl>moule</tl> ne<lb/>
 
@@ -99,22 +99,22 @@ l’<m>estaim</m> dessus.<lb/>
 Et co<exp>mm</exp>e tu vouldras gecter, mets un lopin de
 <m>rousine</m><lb/>
 
-&amp; puys un peu d’<m>estaim de glace</m>. @Si tu mects parmy
+&amp; puys un peu d’<m>estaim de glace</m>. Si tu mects parmy
 l’<m>estaim</m><lb/>
 
 trop de <m>plomb</m>, il ne court pas bien tanvre. Et pour <add>le</add>
 sçavoir,<lb/>
 
-si<del>l</del> l’<m>estaim</m> crie fort, c’est signe qu’il n’y ha pas
+si<del>l</del> l’<m>estaim</m> <sn>crie fort</sn>, c’est signe qu’il n’y ha pas
 trop de <m>plomb</m>.<lb/>
 
-S’il crie lentem<corr><exp>ent</exp></corr>, c’est à dire qu’il y en ha
+S’il <sn>crie lentem<corr><exp>ent</exp></corr></sn>, c’est à dire qu’il y en ha
 trop.<lb/>
 
 Advise bien</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Tu y peulx <m>soulder</m><lb/>
 
@@ -128,8 +128,8 @@ reparer avecq le<lb/>
 
 &amp; semblable.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 L’<m>estaim</m> est un<lb/>
 
@@ -143,8 +143,8 @@ et est fantasque<lb/>
 
 l’<m>or</m> et l’<m>argent.</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m>plomb</m> veult<lb/>
 
 estre non seulem<corr><exp>ent</exp></corr> rouge,<lb/>
@@ -160,11 +160,11 @@ de sa parfaicte<lb/>
 chaleur, &amp; le <tl>moule</tl><lb/>
 
 <del>ch</del>est <sn>tellem<corr><exp>ent</exp></corr> chault
-que<lb/></sn>
+que<lb/>
 
 tu puisses soufrir<lb/>
 
-<sn>le <tl><bp>doigt</bp></tl> dedans.</sn><lb/>
+le <tl><bp>doigt</bp></tl> dedans.</sn><lb/>
 
 Ne l’ouvre pas qu’il<lb/>
 
@@ -176,7 +176,7 @@ tant pour luy que l’<m>or</m><lb/>
 
 &amp; <m>argent</m> quand il sort par les souspirails.</ab>
 
-<cont/>
+
 
 </div>
 </root>

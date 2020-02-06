@@ -1,11 +1,11 @@
-<root>
-<page>143r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="143r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image</image>
 
-<div>
 
-<id>p143r_1</id>
+
+<div id="p143r_1" categories="casting">
+
+
 
 <head>Mouler <al>tortues</al></head>
 
@@ -14,7 +14,7 @@ pourcequelle ha<lb/>
 
 plus belles escailles &amp; les jambes droictes Et <al>celle de<lb/>
 
-<env>garrigue</env></al> les ha tortues Elles sont de grande vye<lb/>
+<pl><env>garrigue</env></pl></al> les ha tortues Elles sont de grande vye<lb/>
 
 partant pour les faire mourir Ouvre leur la gueule<lb/>
 
@@ -24,7 +24,7 @@ intestins<lb/>
 &amp; puys luy fais avaller du <m>vinaigre</m> mesle d<m>eau de
 vye</m><lb/>
 
-ou <m>urine</m> co<exp>mm</exp>e pour les <al>serpents</al> Il les fault
+ou <m><bp>urine</bp></m> co<exp>mm</exp>e pour les <al>serpents</al> Il les fault
 mouler<lb/>
 
 a plusieurs pieces &amp; le dos mesmes quelques fois pourceque<lb/>
@@ -41,7 +41,7 @@ viennent<lb/>
 mieulx creuses pourceque leur grande espesseur corromproit<lb/>
 
 le <tl>moulle</tl> <add><al>Celles d<env>eau</env></al> sont plus
-vigoureuses <al>Celles de <env>garrigue</env></al> sont<lb/>
+    vigoureuses <al>Celles de <pl><env>garrigue</env></pl>&gt;</al> sont<lb/>
 
 plus maigres plus lentes &amp; plus endormies Si tu grattes <al>celles
 d<env>eau</env></al><lb/>
@@ -49,19 +49,19 @@ d<env>eau</env></al><lb/>
 sur leur coquille quelque endormies quelles soient elles sesbougent
 <al>celles<lb/>
 
-de <env>garrigue</env></al> non</add></ab>
+de <pl><env>garrigue</env></pl></al> non</add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Elles meurent asses tost dans<lb/>
 
 le <m>vinaigre</m> mesle dun peu d<m>eau<lb/>
 
-de vie</m> ou d<m>urine</m> co<exp>mm</exp>e touts aultres<lb/>
+de vie</m> ou d<m><bp>urine</bp></m> co<exp>mm</exp>e touts aultres<lb/>
 
 animaulx.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Elles se tiennent<lb/>
 
@@ -89,11 +89,11 @@ lhumeur de la<lb/>
 
 terre</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
 
-@<comment>c_143r_01</comment> Il ne les fault<lb/>
+
+ Il ne les fault<lb/>
 
 pas mouler si tost<lb/>
 
@@ -117,23 +117,23 @@ vouldras</ab>
 
 </div>
 
-<div>
+<div id="p143r_2" categories="casting">
 
-<id>p143r_2</id>
+
 
 <head><pro>Mouleurs</pro> de <pl>foix</pl></head>
 
-<ab>Ceulx qui moulent de travers font leur sable de
+<ab>Ceulx qui moulent de travers<comment rid="c_090r_02"/> font leur <m>sable de
 <m><la>crocum</la></m><lb/>
 
-&amp; d<m>ardoise calcinee</m> Mays l<m>ardoise</m> retient toujours de
+&amp; d<m>ardoise calcinee</m></m> Mays l<m>ardoise</m> retient toujours de
 son<lb/>
 
 asperite &amp; soufle pourcequelle est grasse En noyau elle nest<lb/>
 
-pas bonne En sable elle se peult accommoder Ilz <tl>tamisent</tl><lb/>
+pas bonne En <m>sable</m> elle se peult accommoder Ilz <tl>tamisent</tl><lb/>
 
-leurs sables Les broyent sur le <tl><m>porphire</m></tl> Et les
+leurs <m>sables</m> Les broyent sur le <tl><m>porphire</m></tl> Et les
 destrempent<lb/>
 
 en <m>eau</m> &amp; en retirent le plus subtil qui est au dessus
@@ -143,9 +143,9 @@ le recuisent</ab>
 
 </div>
 
-<div>
+<div id="p143r_3" categories="casting" continued="yes">
 
-<id>p143r_3</id>
+
 
 <head><al>Crapault</al></head>
 
@@ -171,15 +171,12 @@ se pourra Fais aussy des conduicts de gect depuys le bout
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure><comment>c_143r_02</comment>
 
-<id>fig_p143r_1</id>
+<figure id="fig_p143r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c</link>
 
 </figure>
 
@@ -195,7 +192,7 @@ mesmem<exp>ent</exp> aulx<lb/>
 
 choses espesses</ab>
 
-<cont/>
+
 
 </div>
 </root>

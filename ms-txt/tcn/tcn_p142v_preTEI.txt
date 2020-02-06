@@ -86,6 +86,7 @@ imprime.
 
 +
 
+
 Recuits tes moules
 
 
@@ -119,14 +120,14 @@ du molle qu’au dehors, car en ceste sorte ilz ont plus
 de force. Garde bien de les recuire à coup & à foeu trop
 
 
-ardent, car cella les faict fondre rompre.
+ardent, car cella les faict  rompre.
 
 
 
 Ne les tiens pas en lieu humide
 
 
-ne enclos s’ils ne sont bien seces,
+ne enclos s’ils ne sont bien secs,
 
 
 car ilz se moisissent. Les
@@ -136,7 +137,7 @@ animaulx sechés aussy.
 
 
 
-@ Il ne fault poinct
+ Il ne fault poinct
 
 
 deulx fois recuire les
@@ -177,7 +178,7 @@ trusseaulx
 
 
 et moules, qui est maigre & sabloneuse. Destrempe
-lea
+la
 
 
 mediocrement comme mortier fort espés. Mesles y environ

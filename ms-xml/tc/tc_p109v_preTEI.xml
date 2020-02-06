@@ -1,20 +1,20 @@
-<root>
-<page>109v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="109v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f224.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f224.image</image>
 
-<div>
 
-<cont/>
 
-<id>p109r_5</id>
+<div continues="yes" id="p109r_5" categories="casting">
+
+
+
+
 
 <ab>quand ilz veulent mordre ou manger quelque chose ilz ne le<lb/>
 
 mordent pas de droicte attaque ains par sinueulx
 retournem<exp>ent</exp><lb/>
 
-&amp; de travers co<exp>mm</exp>e faict <pn>sathan</pn> &amp; ses
+&amp; de travers co<exp>mm</exp>e faict <pn>sathan</pn><comment rid="c_109v_02"/> &amp; ses
 <pro>suposts</pro> Il ha la teste<lb/>
 
 petite mays le corps fort grand Lentree du peche semble<lb/>
@@ -47,8 +47,8 @@ toute vive</ab>
 
 </div>
 
-<div>
-<id>p109v_1</id>
+<div id="p109v_1" categories="casting;medicine">
+
 <head><al>Crapault</al></head>
 
 <ab>Si par cas fortuit tu voulois mouler ce vilain animal<lb/>
@@ -59,7 +59,7 @@ toute vive</ab>
 la <bp>main</bp> co<exp>mm</exp>e si tu avoys manie des <pa>orties</pa>
 Mays le<lb/>
 
-plus souverain <md>remede</md> pour cela est de metre la main<lb/>
+plus souverain <md>remede</md> pour cela est de metre la <bp>main</bp><lb/>
 
 <env>dans de la <m>terre</m> fresche</env> &amp; len couvrir
 co<exp>mm</exp>e si tu<lb/>
@@ -68,8 +68,8 @@ la voulois ensepvelir La <al>grenoille</al> nest pas si belle<lb/>
 
 moulee a cause quelle ha la peau vive &amp; laultre lha grumeleuse</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Tu le peulx<lb/>
 
 mouler creulx et<lb/>
@@ -96,23 +96,24 @@ tanvre puys le mects<lb/>
 
 en <m>bon vinaigre</m></ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
 
-Quand il est grand il le fault mouler creux &amp; si tu<lb/>
+
+<hr/><lb/>
+<comment rid="c_109v_01"/>Quand il est grand il le fault mouler creux &amp; si tu<lb/>
 
 luy veulx fayre la gueule ouverte mects du <m>cotton</m>
 deda<exp>n</exp>s<lb/>
 
 &amp; puys sur le <m>cotton</m> de la<lb/>
 
-<m>cire fondue</m><comment>c_109v_01</comment></ab>
+<m>cire fondue</m></ab>
 
 </div>
 
-<div>
-<id>p109v_2</id>
+<div id="p109v_2" categories="casting">
+
 <head>Fayre mourir <al>serpents</al> pour mouler</head>
 
 <ab>Aulcuns leur mectent une <ms>goutte</ms> d<m>eau fort</m> dans la
@@ -127,15 +128,15 @@ vive Et comme tu la piques avec l<tl>espingle</tl> pour lacommoder<lb/>
 au <tl>molle</tl> elle se remue &amp; gaste &amp; deffaict tout donc
 pour<lb/>
 
-les faire mourir toutallem<corr><exp>ent</exp></corr> Mects les dans une
+les faire mourir toutallem Mects les dans une
 <tl>bouteille</tl><lb/>
 
 dans de <m>bon vinaigre</m> &amp; un peu d<m>eau de vye</m> Et fays<lb/>
 
 ainsi des <al>lezards</al> &amp; aultres bestes semblables</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-middle">
+
 Si tu les veulx<lb/>
 
 garder tu les peulx<lb/>
@@ -154,7 +155,7 @@ couverte de <tl><m>fil darchal</m></tl><lb/>
 
 Car aultrem<exp>ent</exp> ilz<lb/>
 
-gri<corr>m</corr>peroient &amp; monteroient<lb/>
+griperoient &amp; monteroient<lb/>
 
 fort hault</ab>
 

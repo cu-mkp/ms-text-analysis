@@ -1,13 +1,13 @@
-<root>
-<page>139v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="139v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image</image>
 
-<div>
 
-<cont/>
 
-<id>p139r_1</id>
+<div continues="yes" id="p139r_1" categories="casting">
+
+
+
+
 
 <ab>ou de <m>terre</m> ou de <m>lames de cuivre</m> ou de <m>fer</m> ou
 de <m>bois</m><lb/>
@@ -20,8 +20,8 @@ l<tl>estrie ou vis de <m>fer</m></tl></ab>
 
 </div>
 
-<div>
-<id>p139v_1</id>
+<div id="p139v_1" categories="casting;wax process" continued="yes">
+
 <head>Gect en <m>cire</m> pour representer<lb/>
 
 lanimal quon na point</head>
@@ -35,7 +35,7 @@ tant de <m>crasse</m> Aultant que tu en auras besoing pour<lb/>
 
 mouler lanimal que tu proposes &amp; non plus Et la<lb/>
 
-<ms>moictie</ms> aultant de <m>charbon pile &amp;
+<ms>moictie</ms> aultant de <m>charbon <tl>pile</tl> &amp;
 subtillem<exp>ent</exp> passe par<lb/>
 
 un <tl><m>linge</m></tl> ou <tl>manche</tl></m> le <m>charbon</m> donne
@@ -45,7 +45,7 @@ qui aultrement seroit transparente &amp; ne se verroit<lb/>
 
 pas si bien le traict Mects doncq ta <m>cire</m> a fondre<lb/>
 
-a foeu de <m>charbons</m> Et co<exp>mm</exp>e elle sera bien fondue
+a foeu de charbons Et co<exp>mm</exp>e elle sera bien fondue
 &amp; bien liquide<lb/>
 
 Ayes pour une <ms>pleine <tl>escuelle a oreille</tl></ms> de <m>cire
@@ -72,16 +72,16 @@ remue tousjours lun &amp; laultre affin quilz se meslent bien<lb/>
 
 Apres mesles y en remuant tousjours &amp; a plusieurs foys<lb/>
 
-le <m>charbon susdict pulverise</m> <corr><del>a plusieurs
-foys</del></corr> Et co<exp>mm</exp>e il<lb/>
+le <m>charbon susdict pulverise</m> a plusieurs
+foys Et co<exp>mm</exp>e il<lb/>
 
-sera bien incorpore Advise si ta <m>cire</m> a passe sa grande<lb/>
+sera bien incorpore Advise si <sn>ta <m>cire</m> a passe sa grande<lb/>
 
-chaleur ce que tu cognoistras <ms>quand elle ne fume plus</ms>
-<ms>quand<lb/></ms>
+chaleur ce que tu cognoistras <ms>quand elle ne <m>fume</m> plus</ms></sn>
+<ms>quand<lb/>
 
-<ms>elle faict de grands traicts <del><add>se</add> re</del>tirants aulx
-borts &amp; non meus</ms><comment>c_139v_01</comment><lb/>
+elle faict de grands traicts <del><add>se</add></del> <del>re</del>tirants aulx
+borts &amp; non meus</ms><lb/>
 
 &amp; pres <del>de</del> lun de laultre Car si tu gectois trop chault tu
 ne<lb/>
@@ -99,8 +99,8 @@ fonds Et en ceste sorte gecte dans ton <tl>moule</tl> petit a petit<lb/>
 &amp; non a coup pourceque la <m>cire</m> par son onctuosite ne
 coule</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Ceste <m>cire noire<lb/>
 
 soufree</m> est pour<lb/>
@@ -147,7 +147,7 @@ laisser aulcune<lb/>
 
 cas fortuit le<lb/>
 
-<m>charbon pile</m> y<lb/>
+<m>charbon <tl>pile</tl></m> y<lb/>
 
 demeure en <m>cendre</m><lb/>
 
@@ -159,9 +159,9 @@ dedans il demeure<lb/>
 
 net</ab>
 
-<ab>
-<margin>left-middle</margin>
-@Pour fayre<lb/>
+<ab margin="left-middle">
+
+Pour fayre<lb/>
 
 <al>serpents</al> de <m>cire</m><lb/>
 
@@ -173,7 +173,7 @@ sur un <tl>cierge</tl> il<lb/>
 
 les fault gecter de <m>cire a esbaucher</m> de toutes couleurs</ab>
 
-<cont/>
+
 
 </div>
 </root>

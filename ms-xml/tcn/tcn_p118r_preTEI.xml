@@ -1,10 +1,10 @@
-<root>
-<page>118r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="118r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image</image>
 
-<div>
-<id>p118r_1</id>
+
+
+<div id="p118r_1" categories="casting">
+
 <head><al>Escargots</al></head>
 
 <ab>Ceulx qui se trouvent dans la <env>mer</env> &amp;
@@ -21,8 +21,8 @@ perle</m>.</ab>
 
 </div>
 
-<div>
-<id>p118r_2</id>
+<div id="p118r_2" categories="casting">
+
 <head>Pour oster les baves ou barbes<lb/>
 
 des choses moulées à noyau</head>
@@ -36,7 +36,7 @@ sont bien<lb/>
 serrés entre deulx <tl>tables</tl> ou dans ung <tl>vaisseau plein de
 <m>cendre</m> ou<lb/>
 
-sable</tl>, &amp; par ainsy ne feront poinct de baves. Mays s’ils en
+<m>sable</m></tl>, &amp; par ainsy ne feront poinct de baves. Mays s’ils en
 font, tu les<lb/>
 
 peulx oster avecq un <tl>burin</tl> qu’on appelle
@@ -47,19 +47,19 @@ ciseau</tl>.</ab>
 
 </div>
 
-<div>
-<id>p118r_3</id>
+<div id="p118r_3" categories="decorative">
+
 <head>Pour <env>grottes</env></head>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Les <m>vieulx seps de <pa>vigne</pa></m></ab>
 
-<ab>Les <m>pierres faictes d’eau</m> appellées <m><df>stuf</df></m>, le
+<ab>Les <m>pierres faictes d’eau</m> appellées <m><df><de>stuf</de></df></m>,<comment rid="c_118r_01"/> le
 <m>charbon</m>, la <m>composition<lb/>
 
-d’estaim &amp; de letton fin</m>, le <m>papier pillé</m> &amp; meslé de
-<m>verre pillé</m>, le <m>liege</m>,<lb/>
+d’estaim &amp; de letton fin</m>, le <m>papier <tl>pillé</tl></m> &amp; meslé de
+<m>verre <tl>pillé</tl></m>, le <m>liege</m>,<lb/>
 
 le <m>parchemin chaufé</m>, le <m>corail blanc</m> sont propres pour
 faire <env>grottes</env>.<lb/>
@@ -72,7 +72,7 @@ Mays les lopins de <m>bois fantasques</m> qui se trouvent parmy les<lb/>
 meilleurs que tout pource qu’ilz sont legers. On y mesle de petits<lb/>
 
 lopins d’<m>estaim de glace</m>, qui ha une lueur esclatante. On y
-pile<lb/>
+<tl>pile</tl><lb/>
 
 menu diverse sorte de <m>marchasites</m>, qu’on lave pour les
 purifier<lb/>
@@ -83,7 +83,7 @@ beau.<lb/>
 S’il n’y ha point de fontaine en la <env>grotte</env>, on <m>colle</m>
 tout <del>al</del> cela<lb/>
 
-de <m>colle forte</m>, <del>qui</del> et est bien tost faict. <add>@Ayes
+de <m>colle forte</m>, <del>qui</del> et est bien tost faict. <add>Ayes
 montres de toutes sortes<lb/>
 
 de <m>mines</m>. Les <m>marchasites sulfurées</m>, qui n’ont point de
@@ -91,8 +91,8 @@ grain mays<lb/>
 
 sont unies comme l’<m>estain de glace</m>, sont tres belles.</add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>rosette</m><lb/>
 
 se trouve quelque<lb/>
@@ -117,22 +117,22 @@ sur <env>grottes</env>.</ab>
 
 </div>
 
-<div>
-<id>p118r_4</id>
+<div id="p118r_4" categories="casting">
+
 <head><m>Estaim de glace</m></head>
 
 <ab>Il blanchist &amp; rend ferme l’<m>estaim fin</m>, si <del>en
 on</del> on en mect<lb/>
 
 <del>parmy</del> une <ms>once</ms> parmy, c’est asçavoir i
-<ms><figure>℥</figure></ms> d’<m>estaim de glace</m><lb/>
+<ms>℥</ms> d’<m>estaim de glace</m><lb/>
 
 dans une <ms>lb</ms> d’<m>estaim fin</m>.</ab>
 
 </div>
 
-<div>
-<id>p118r_5</id>
+<div id="p118r_5" categories="casting">
+
 <head><m>Sel armoniac</m></head>
 
 <ab>

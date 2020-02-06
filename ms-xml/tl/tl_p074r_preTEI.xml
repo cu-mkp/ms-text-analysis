@@ -1,30 +1,30 @@
-<root>
-<page>074r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image</image>
 
-<div>
 
-<id>p074r_1</id>
 
-<head>For <m>bronzing</m> white</head>
+<div id="p074r_1" categories="metal process;wood and its coloring">
+
+
+
+<head><comment rid="c_073v_02"/>For <m>bronzing</m> white</head>
 
 <ab>Take <m>looking-glass tin</m> &amp; put it to soak in <m>gum
-water</m> &amp; pound it in a <tl>mortar</tl>. And next, you will put it
+water</m> &amp; <tl>pestle</tl> it in a <tl>mortar</tl>. And next, you will put it
 on <tl><m>marble</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p074r_2" categories="painting;metal process">
 
-<id>p074r_2</id>
+
 
 <head>For making <m>vermilion</m></head>
 
-<ab>Take two <ms>pounds</ms> of <m>sulphur</m>, &amp; melt it, &amp; put
+<ab>Take two <ms>pounds</ms> of <m>sulfur</m>, &amp; melt it, &amp; put
 it into two <ms>pounds</ms> of <del><fr>merecuse</fr></del>
 <add><m>mercury</m></add>. And if this substance ignites, cover it quite
-neatly, so the air does not pass into the <tl>pot</tl>, then put the
+gently, so the air does not pass into the <tl>pot</tl>, then put the
 whole for some time after into a <tl><m>leaded</m> pot</tl>, onto the
 fire <ms><tmp>for the space of twenty-four hours</tmp></ms>. You will
 have <m>good vermilion</m>.
@@ -33,9 +33,9 @@ have <m>good vermilion</m>.
 
 </div>
 
-<div>
+<div id="p074r_3" categories="varnish" continued="yes">
 
-<id>p074r_3</id>
+
 
 <head>For making <m>varnish</m></head>
 
@@ -43,12 +43,12 @@ have <m>good vermilion</m>.
 will put it in a <tl><m>earthen</m> pot</tl>, mixed with a <m>crust of
 bread</m> and three <m><pa>onions</pa></m>, and put it on top of a
 <m>charcoal</m> fire, and you will cook it on a little fire, so that it
-boil for the space of five <ms><tmp>hours</tmp></ms>. You will take
-<ms>half an ounce</ms> of <m><fr>colle farine</fr></m>, &amp; you will
-make it boil just as before and stir with a <tl>spoon</tl>. And then
-after, you will put in two <ms>ounces</ms> of <m>well-pounded
+boils for the space of five <ms><tmp>hours</tmp></ms>. You will take
+<ms>half an ounce</ms> of <m>flour glue</m>, &amp; you will
+make it boil just as before and stir with a <tl>spoon</tl>. And then,
+after, you will put in two <ms>ounces</ms> of <m>well-<tl>pestled</tl>
 sandarac</m> &amp; will do as above. And then after, you will take
-<m><m>mastic</m> &amp; <m>arrab<del><fr>e</fr></del><add>i</add>c</m>,
+<m><m>mastic</m> &amp; <m>arrab<del><fr>e</fr></del>ic</m>,<comment rid="c_074r_03"/>
 two <ms>ounces</ms> each, which will both be well ground</m>, and you
 will put everything together, &amp; will make it boil while stirring
 continuously, for the space of five <ms><tmp>hours</tmp></ms>. And then
@@ -58,7 +58,7 @@ two <ms>ounces</ms> of
 <del><fr>l’arable</fr></del><add><m>arabic</m></add> to it, if you see
 that they are not cooked enough, have it cook more on a low</ab>
 
-<cont/>
+
 
 </div>
 </root>
