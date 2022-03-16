@@ -1,5 +1,6 @@
 # ms-text-analysis
-This repository is frozen, and this area of work has been superceded by [manuscript-object](https://github.com/cu-mkp/manuscript-object) and [Sandbox](https://github.com/cu-mkp/sandbox).
+
+## *This repository is frozen, and this area of work has been superceded by [manuscript-object](https://github.com/cu-mkp/manuscript-object) and [Sandbox](https://github.com/cu-mkp/sandbox).*
 
 Files and tools for performing textual analysis of BnF Ms Fr 640
 
